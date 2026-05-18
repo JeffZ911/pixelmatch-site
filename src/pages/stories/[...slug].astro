@@ -1,0 +1,71 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const all = await getCollection("stories");
+  return all.map((entry) => {
+    const purl = entry.data.published_url || "";
+    const m = purl.match(/^\/stories\/(.+?)\/?$/);
+    const param = m ? m[1].replace(/\/$/, "") : entry.slug;
+    return { params: { slug: param }, props: { entry } };
+  });
+}
+
+interface Props { entry: CollectionEntry<"stories"> }
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+const crumbs = [
+  { href: "/blog/", label: "Blog" },
+  { href: "/blog/stories/", label: "Case Studies" },
+  { label: entry.data.title },
+];
+
+// use_case-specific: structured results table (rendered above the body).
+const metrics = entry.data.key_metrics;
+const composite = entry.data.is_composite;
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  publishedAt={entry.data.published_at}
+  qaScore={entry.data.qa_score}
+  wordCount={entry.data.word_count}
+  articleType={entry.data.article_type}
+  platform={entry.data.platform}
+  heroImage={entry.data.hero_image}
+  sources={entry.data.sources}
+  slug={entry.slug}
+  crumbs={crumbs}
+>
+  {composite && (
+    <p class="not-prose mb-4 rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-xs text-amber-800">
+      <strong>Note:</strong> This case study reflects a composite seller
+      profile, not a single named seller. Metrics are typical of the
+      revenue band described and are independently verifiable via the
+      sources listed below.
+    </p>
+  )}
+  {metrics && metrics.length > 0 && (
+    <table class="not-prose mb-6 w-full text-sm">
+      <thead>
+        <tr class="border-b border-body-line">
+          <th class="py-2 text-left text-body-muted">Metric</th>
+          <th class="py-2 text-left text-body-muted">Before</th>
+          <th class="py-2 text-left text-body-muted">After</th>
+        </tr>
+      </thead>
+      <tbody>
+        {metrics.map((m) => (
+          <tr class="border-b border-body-line">
+            <td class="py-2 font-medium text-ink">{m.metric}</td>
+            <td class="py-2 text-body-muted">{m.before}</td>
+            <td class="py-2 font-semibold text-primary-600">{m.after}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  )}
+  <Content />
+</ArticleLayout>

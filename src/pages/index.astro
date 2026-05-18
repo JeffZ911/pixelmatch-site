@@ -1,0 +1,208 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+// Pull the 9 most recent entries across all 4 collections.
+const [learn, compare, stories, policy] = await Promise.all([
+  getCollection("learn"),
+  getCollection("compare"),
+  getCollection("stories"),
+  getCollection("policy"),
+]);
+
+interface AnyEntry {
+  slug: string;
+  collection: string;
+  data: {
+    title: string;
+    platform?: string;
+    article_type: string;
+    published_at?: string;
+    published_url?: string;
+    word_count?: number;
+    hero_image?: string;
+  };
+}
+
+const all: AnyEntry[] = [
+  ...learn.map((e) => ({ ...e, collection: "learn" })),
+  ...compare.map((e) => ({ ...e, collection: "compare" })),
+  ...stories.map((e) => ({ ...e, collection: "stories" })),
+  ...policy.map((e) => ({ ...e, collection: "policy" })),
+];
+
+all.sort((a, b) => {
+  const da = a.data.published_at ? +new Date(a.data.published_at) : 0;
+  const db = b.data.published_at ? +new Date(b.data.published_at) : 0;
+  return db - da;
+});
+
+const recent = all.slice(0, 9);
+
+const PLATFORM_LABEL: Record<string, string> = {
+  amazon_fba: "Amazon", shopify: "Shopify", etsy: "Etsy",
+  tiktok_shop: "TikTok Shop", multi: "Multi-platform",
+};
+const PLATFORM_CLASS: Record<string, string> = {
+  amazon_fba:  "bg-platform-amazon/10  text-platform-amazon",
+  shopify:     "bg-platform-shopify/10 text-platform-shopify",
+  etsy:        "bg-platform-etsy/10    text-platform-etsy",
+  tiktok_shop: "bg-platform-tiktok/10  text-platform-tiktok",
+  multi:       "bg-primary-50           text-primary-700",
+};
+
+const SAAS = "https://pixelmatch.art";
+const ctaHero = `${SAAS}/signup?utm_source=blog&utm_medium=hero&utm_campaign=home_hero`;
+---
+
+<BaseLayout
+  title="PixelMatch Blog — AI Product Photography for Ecommerce Sellers"
+  description="Playbooks, tool comparisons, case studies, and policy guides for Amazon, Shopify, Etsy, and TikTok Shop sellers using AI image generation."
+>
+  <!-- ──────── Hero ──────── -->
+  <section class="not-prose -mt-8 mb-12 overflow-hidden rounded-2xl bg-hero-gradient px-6 py-12 sm:px-10 sm:py-16">
+    <div class="grid items-center gap-8 lg:grid-cols-2">
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-widest text-primary-300">
+          PixelMatch Blog
+        </p>
+        <h1 class="mt-3 text-4xl font-bold leading-tight text-white sm:text-5xl">
+          AI product photography playbooks for ecommerce sellers
+        </h1>
+        <p class="mt-4 max-w-xl text-lg text-primary-100/90">
+          Step-by-step guides, honest tool comparisons, and seller case
+          studies — built for Amazon, Shopify, Etsy, and TikTok Shop.
+        </p>
+        <div class="mt-6 flex flex-wrap gap-3">
+          <a
+            href={ctaHero}
+            class="inline-block rounded-md bg-primary-500 px-5 py-2.5 text-sm font-medium text-white no-underline shadow-glow-primary hover:bg-primary-400"
+          >
+            Try PixelMatch free →
+          </a>
+          <a
+            href="/blog/learn/"
+            class="inline-block rounded-md border border-white/20 px-5 py-2.5 text-sm font-medium text-white no-underline hover:bg-white/10"
+          >
+            Browse guides
+          </a>
+        </div>
+        <ul class="mt-8 grid grid-cols-1 gap-2 text-sm text-primary-100/85 sm:grid-cols-2 list-none p-0">
+          <li class="flex items-center gap-2">
+            <span class="text-primary-300">✓</span>
+            Reference-based AI matching your real products
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-primary-300">✓</span>
+            Batch generate for every listing variant
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-primary-300">✓</span>
+            Nano Banana 2 & Pro AI models available
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-primary-300">✓</span>
+            Built by sellers, for sellers
+          </li>
+        </ul>
+      </div>
+      <!-- Right column intentionally minimal — we don't want the blog
+           index to compete visually with the SaaS landing's sign-up
+           panel; the CTA links there instead. -->
+      <div class="hidden lg:flex flex-col gap-4">
+        {recent.slice(0, 3).map((e) => {
+          const href = e.data.published_url || `/blog/${e.collection}/${e.slug}/`;
+          const platform = e.data.platform || "multi";
+          return (
+            <a
+              href={href}
+              class="rounded-xl border border-white/10 bg-ink-soft/40 p-5 no-underline backdrop-blur hover:border-primary-400/60"
+            >
+              <div class="flex items-center gap-2 text-[11px]">
+                <span class={`rounded px-1.5 py-0.5 font-medium ${PLATFORM_CLASS[platform]}`}>
+                  {PLATFORM_LABEL[platform] || platform}
+                </span>
+                <span class="text-primary-200/70">Latest</span>
+              </div>
+              <h3 class="mt-2 text-base font-semibold text-white">
+                {e.data.title}
+              </h3>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ──────── Category nav ──────── -->
+  <section class="mb-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+    <a href="/blog/learn/" class="block rounded-xl border border-body-line bg-white p-5 no-underline hover:border-primary-300 hover:shadow-card">
+      <h3 class="text-sm font-semibold text-ink">How-To Guides</h3>
+      <p class="mt-1 text-xs text-body-muted">{learn.length} articles · step-by-step workflows</p>
+    </a>
+    <a href="/blog/compare/" class="block rounded-xl border border-body-line bg-white p-5 no-underline hover:border-primary-300 hover:shadow-card">
+      <h3 class="text-sm font-semibold text-ink">Tool Comparisons</h3>
+      <p class="mt-1 text-xs text-body-muted">{compare.length} articles · pixelmatch vs photoroom, canva, etc.</p>
+    </a>
+    <a href="/blog/stories/" class="block rounded-xl border border-body-line bg-white p-5 no-underline hover:border-primary-300 hover:shadow-card">
+      <h3 class="text-sm font-semibold text-ink">Seller Case Studies</h3>
+      <p class="mt-1 text-xs text-body-muted">{stories.length} articles · real numbers, real workflows</p>
+    </a>
+    <a href="/blog/policy/" class="block rounded-xl border border-body-line bg-white p-5 no-underline hover:border-primary-300 hover:shadow-card">
+      <h3 class="text-sm font-semibold text-ink">Platform Policies</h3>
+      <p class="mt-1 text-xs text-body-muted">{policy.length} articles · image specs + rejection fixes</p>
+    </a>
+  </section>
+
+  <!-- ──────── Recent articles ──────── -->
+  <section class="mb-16">
+    <div class="mb-6 flex items-end justify-between">
+      <h2 class="text-2xl font-bold text-ink">Latest articles</h2>
+      <a href="/blog/learn/" class="text-sm text-primary-600 no-underline hover:underline">
+        All guides →
+      </a>
+    </div>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {recent.map((e) => {
+        const href = e.data.published_url || `/blog/${e.collection}/${e.slug}/`;
+        const platform = e.data.platform || "multi";
+        return (
+          <a
+            href={href}
+            class="group block rounded-xl border border-body-line bg-white p-5 no-underline shadow-card transition hover:border-primary-300 hover:shadow-glow-primary"
+          >
+            {e.data.hero_image && (
+              <img
+                src={e.data.hero_image}
+                alt=""
+                class="mb-4 aspect-video w-full rounded-md object-cover"
+                loading="lazy"
+              />
+            )}
+            <div class="flex flex-wrap items-center gap-1 text-xs">
+              <span class={`rounded px-2 py-0.5 font-medium ${PLATFORM_CLASS[platform]}`}>
+                {PLATFORM_LABEL[platform] || platform}
+              </span>
+              <span class="text-body-faint capitalize">
+                · {e.collection}
+              </span>
+            </div>
+            <h2 class="mt-3 text-lg font-semibold leading-snug text-ink group-hover:text-primary-600">
+              {e.data.title}
+            </h2>
+            {e.data.published_at && (
+              <p class="mt-2 text-xs text-body-faint">
+                {new Date(e.data.published_at).toISOString().slice(0, 10)}
+              </p>
+            )}
+          </a>
+        );
+      })}
+    </div>
+    {recent.length === 0 && (
+      <p class="rounded-md border border-dashed border-body-line bg-white px-6 py-12 text-center text-body-muted">
+        Articles are being generated by our autonomous pipeline. Check back in a few hours.
+      </p>
+    )}
+  </section>
+</BaseLayout>

@@ -1,0 +1,106 @@
+---
+// Shared listing component for the 4 ecommerce collections. Renders a
+// title + intro + responsive card grid sorted by published_at DESC.
+
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "./Breadcrumb.astro";
+
+interface Entry {
+  slug: string;
+  data: {
+    title: string;
+    published_at?: string;
+    published_url?: string;
+    platform?: string;
+    article_type: string;
+    word_count?: number;
+    hero_image?: string;
+  };
+}
+interface Props {
+  collectionLabel: string;
+  collectionSlug: string;     // "learn" | "compare" | "stories" | "policy"
+  intro: string;
+  entries: Entry[];
+}
+const { collectionLabel, collectionSlug, intro, entries } = Astro.props;
+
+const sorted = [...entries].sort((a, b) => {
+  const da = a.data.published_at ? +new Date(a.data.published_at) : 0;
+  const db = b.data.published_at ? +new Date(b.data.published_at) : 0;
+  return db - da;
+});
+
+const PLATFORM_LABEL: Record<string, string> = {
+  amazon_fba: "Amazon", shopify: "Shopify", etsy: "Etsy",
+  tiktok_shop: "TikTok Shop", multi: "Multi-platform",
+};
+const PLATFORM_CLASS: Record<string, string> = {
+  amazon_fba:  "bg-platform-amazon/10  text-platform-amazon",
+  shopify:     "bg-platform-shopify/10 text-platform-shopify",
+  etsy:        "bg-platform-etsy/10    text-platform-etsy",
+  tiktok_shop: "bg-platform-tiktok/10  text-platform-tiktok",
+  multi:       "bg-primary-50           text-primary-700",
+};
+---
+
+<BaseLayout
+  title={`${collectionLabel} — PixelMatch Blog`}
+  description={intro}
+>
+  <Breadcrumb crumbs={[
+    { href: "/blog/", label: "Blog" },
+    { label: collectionLabel },
+  ]} />
+
+  <header class="mb-10">
+    <h1 class="text-4xl font-bold text-ink">{collectionLabel}</h1>
+    <p class="mt-3 max-w-2xl text-lg text-body-muted">{intro}</p>
+  </header>
+
+  <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+    {sorted.map((e) => {
+      const href = e.data.published_url || `/blog/${collectionSlug}/${e.slug}/`;
+      const platform = e.data.platform || "multi";
+      return (
+        <a
+          href={href}
+          class="group block rounded-xl border border-body-line bg-white p-5 no-underline shadow-card transition hover:border-primary-300 hover:shadow-glow-primary"
+        >
+          {e.data.hero_image && (
+            <img
+              src={e.data.hero_image}
+              alt=""
+              class="mb-4 aspect-video w-full rounded-md object-cover"
+              loading="lazy"
+            />
+          )}
+          <div class="flex flex-wrap items-center gap-1 text-xs">
+            <span class={`rounded px-2 py-0.5 font-medium ${PLATFORM_CLASS[platform]}`}>
+              {PLATFORM_LABEL[platform] || platform}
+            </span>
+            {e.data.word_count && (
+              <span class="text-body-faint">
+                {Math.round(e.data.word_count / 200)} min read
+              </span>
+            )}
+          </div>
+          <h2 class="mt-3 text-lg font-semibold leading-snug text-ink group-hover:text-primary-600">
+            {e.data.title}
+          </h2>
+          {e.data.published_at && (
+            <p class="mt-2 text-xs text-body-faint">
+              {new Date(e.data.published_at).toISOString().slice(0, 10)}
+            </p>
+          )}
+        </a>
+      );
+    })}
+  </div>
+
+  {sorted.length === 0 && (
+    <p class="rounded-md border border-dashed border-body-line bg-white px-6 py-12 text-center text-body-muted">
+      Articles in this section are on the way — check back soon.
+    </p>
+  )}
+</BaseLayout>

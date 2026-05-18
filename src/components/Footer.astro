@@ -1,0 +1,90 @@
+---
+const blogBase = (import.meta.env.BASE_URL || "/blog").replace(/\/$/, "");
+const SAAS = "https://pixelmatch.art";
+
+const cols = [
+  {
+    title: "Learn",
+    links: [
+      { href: `${blogBase}/`, label: "Blog Home" },
+      { href: `${blogBase}/learn/`, label: "How-To Guides" },
+      { href: `${blogBase}/compare/`, label: "Tool Comparisons" },
+      { href: `${blogBase}/stories/`, label: "Seller Stories" },
+      { href: `${blogBase}/policy/`, label: "Platform Policies" },
+    ],
+  },
+  {
+    title: "Product",
+    links: [
+      { href: `${SAAS}/`, label: "PixelMatch Home", external: true },
+      { href: `${SAAS}/features`, label: "Features", external: true },
+      { href: `${SAAS}/#pricing`, label: "Pricing", external: true },
+      { href: `${SAAS}/how-it-works`, label: "How It Works", external: true },
+    ],
+  },
+  {
+    title: "Company",
+    links: [
+      { href: `${SAAS}/about`, label: "About", external: true },
+      { href: `${SAAS}/contact`, label: "Contact", external: true },
+      { href: `${SAAS}/refund`, label: "Refund Policy", external: true },
+    ],
+  },
+  {
+    title: "Get Started",
+    links: [
+      { href: `${SAAS}/signup?utm_source=blog&utm_medium=footer&utm_campaign=footer_signup`, label: "Sign Up Free", external: true },
+      { href: `${SAAS}/#pricing`, label: "View Plans", external: true },
+      { href: `${SAAS}/login`, label: "Log In", external: true },
+    ],
+  },
+];
+---
+
+<footer class="mt-24 border-t border-body-line bg-white">
+  <div class="container-page py-12">
+    <div class="grid gap-10 md:grid-cols-5">
+      <div class="md:col-span-1">
+        <a href={`${blogBase}/`} class="flex items-center gap-2 no-underline text-ink">
+          <span class="inline-flex h-8 w-8 items-center justify-center rounded-md bg-primary-500 text-white text-sm font-bold">
+            P
+          </span>
+          <span class="font-display text-lg font-semibold">PixelMatch</span>
+        </a>
+        <p class="mt-3 text-sm text-body-muted leading-relaxed">
+          AI product image generation for e-commerce sellers. Reference-matched
+          photos for Amazon, TikTok Shop, Etsy, Shopify, Temu, eBay, and beyond.
+        </p>
+      </div>
+
+      {cols.map((col) => (
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-wider text-ink mt-0">
+            {col.title}
+          </h3>
+          <ul class="mt-3 space-y-2 list-none p-0">
+            {col.links.map((l) => (
+              <li>
+                <a
+                  href={l.href}
+                  class="text-sm text-body-muted hover:text-primary-600 no-underline"
+                  rel={l.external ? "noopener" : undefined}
+                >
+                  {l.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-10 flex flex-col items-start justify-between gap-3 border-t border-body-line pt-6 text-xs text-body-faint md:flex-row">
+      <p>© {new Date().getFullYear()} PixelMatch. All rights reserved.</p>
+      <p>
+        Articles in this blog are AI-assisted and reviewed for factual
+        accuracy. Cross-reference platform policies with official docs.
+      </p>
+    </div>
+  </div>
+</footer>

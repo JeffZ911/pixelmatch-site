@@ -1,0 +1,39 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const all = await getCollection("policy");
+  return all.map((entry) => {
+    const purl = entry.data.published_url || "";
+    const m = purl.match(/^\/policy\/(.+?)\/?$/);
+    const param = m ? m[1].replace(/\/$/, "") : entry.slug;
+    return { params: { slug: param }, props: { entry } };
+  });
+}
+
+interface Props { entry: CollectionEntry<"policy"> }
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+const crumbs = [
+  { href: "/blog/", label: "Blog" },
+  { href: "/blog/policy/", label: "Platform Policies" },
+  { label: entry.data.title },
+];
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  publishedAt={entry.data.published_at}
+  qaScore={entry.data.qa_score}
+  wordCount={entry.data.word_count}
+  articleType={entry.data.article_type}
+  platform={entry.data.platform}
+  heroImage={entry.data.hero_image}
+  sources={entry.data.sources}
+  slug={entry.slug}
+  crumbs={crumbs}
+>
+  <Content />
+</ArticleLayout>

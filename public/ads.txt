@@ -1,0 +1,4 @@
+# AdSense publisher entry. Same publisher account as ntecodex while we
+# wait for a separate AdSense account approval for pixelmatch.art —
+# Google supports one publisher serving multiple sites.
+google.com, pub-5523706123080113, DIRECT, f08c47fec0942fa0

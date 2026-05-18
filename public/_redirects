@@ -1,0 +1,21 @@
+# Rewrites for blog.pixelmatch.art (Phase 1-2 deploy target).
+#
+# astro.config.mjs sets `base: '/blog'`, so:
+#   - Internal hrefs and asset URLs emit with `/blog/` prefix
+#   - canonical = https://pixelmatch.art/blog/...
+# But CF Pages serves dist/* directly at the subdomain root. The
+# rewrites below make `/blog/*` requests resolve to `dist/*`, so the
+# Astro-emitted prefixed URLs work on the bare subdomain. Both
+# `blog.pixelmatch.art/blog/learn/foo` and `blog.pixelmatch.art/learn/foo`
+# resolve to the same content.
+#
+# Phase 3 (CF Worker on pixelmatch.art):
+#   pixelmatch.art/blog/* → blog.pixelmatch.art/blog/*  (same path, no rewrite needed)
+# Then we can drop the subdomain entirely from public-facing URLs;
+# canonical was always pixelmatch.art/blog/... so Google sees no change.
+
+/blog/_astro/*  /_astro/:splat  200
+/blog/_pagefind/*  /_pagefind/:splat  200
+/blog/sitemap.xml  /sitemap.xml  200
+/blog/img/*  /img/:splat  200
+/blog/*  /:splat  200
