@@ -18,14 +18,20 @@ const nav = [
   { href: `${SAAS}/#pricing`,     label: "Pricing", internal: false },
 ];
 
+// CTA points at /login (which has both Sign In + Create Account tabs)
+// rather than /signup — matches the SaaS landing's "Get Started" pattern
+// and lets existing users hit log-in directly.
 const ctaHref =
-  `${SAAS}/signup?utm_source=blog&utm_medium=header&utm_campaign=nav_cta`;
+  `${SAAS}/login?utm_source=blog&utm_medium=header&utm_campaign=nav_cta`;
 ---
 
 <header class="sticky top-0 z-30 border-b border-body-line bg-white/95 backdrop-blur">
   <div class="container-page flex h-14 items-center justify-between">
+    <!-- Logo links to the SaaS root (pixelmatch.art), not the blog
+         home. Convention from the live SaaS landing: the brand mark is
+         the home button for the whole product, not just this section. -->
     <a
-      href={`${blogBase}/`}
+      href={`${SAAS}/`}
       class="flex items-center gap-2 no-underline text-ink"
     >
       <span class="inline-flex h-8 w-8 items-center justify-center rounded-md bg-primary-500 text-white text-sm font-bold shadow-glow-primary">
