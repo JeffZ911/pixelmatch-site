@@ -20,11 +20,13 @@ const {
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site || "https://pixelmatch.art").toString();
-// AdSense publisher id is public (also lives in /ads.txt). Set via
-// PUBLIC_ADSENSE_PUB_ID env in Cloudflare Pages once approved; until
-// then we ship "pending" and the loader stays disabled.
+// AdSense publisher id is public (also lives in /ads.txt). Same
+// publisher account as ntecodex — one account can serve multiple
+// sites; blog.pixelmatch.art still has to be added + reviewed in the
+// AdSense console before ad units actually serve. The loader and
+// ads.txt being present is what AdSense's crawler checks on review.
 const adsensePub =
-  import.meta.env.PUBLIC_ADSENSE_PUB_ID || "pending";
+  import.meta.env.PUBLIC_ADSENSE_PUB_ID || "pub-5523706123080113";
 const adsClient = adsensePub
   ? (adsensePub.startsWith("ca-") ? adsensePub : `ca-${adsensePub}`)
   : "";
