@@ -52,7 +52,10 @@ const PLATFORM_CLASS: Record<string, string> = {
 };
 
 const SAAS = "https://pixelmatch.art";
-const ctaHero = `${SAAS}/signup?utm_source=blog&utm_medium=hero&utm_campaign=home_hero`;
+// All blog CTAs route to /login (which exposes Sign In + Create Account
+// tabs) — matches the SaaS landing's "Get Started" pattern and lets
+// existing users hit log-in directly.
+const ctaHero = `${SAAS}/login?utm_source=blog&utm_medium=hero&utm_campaign=home_hero`;
 ---
 
 <BaseLayout
