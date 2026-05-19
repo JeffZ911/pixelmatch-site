@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-# The Pages deployment lives under /blog/ on pixelmatch.art. Astro builds
-# the entire site under the /blog base path, so the sitemap is at
-# /blog/sitemap.xml — point Google there directly.
-Sitemap: https://pixelmatch.art/blog/sitemap.xml
+# Phase 1-2: sitemap is served on the subdomain where Pages actually
+# deploys. Phase 3 will swap this to pixelmatch.art/blog/sitemap.xml
+# once the CF Worker path rewrite is in place.
+Sitemap: https://blog.pixelmatch.art/sitemap.xml
