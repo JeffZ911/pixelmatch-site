@@ -1,7 +1,7 @@
 ---
 title: "Best AI Product Photo Tool for Etsy 2026: Seller's Guide"
 slug: best-ai-product-photo-tool-etsy-2026
-game: unknown
+platform: etsy
 article_type: tool_guide
 qa_score: 5.9
 word_count: 1566
