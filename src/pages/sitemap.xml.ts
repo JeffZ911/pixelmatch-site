@@ -1,9 +1,18 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 
-// Canonical URLs are on pixelmatch.art/blog (see astro.config.mjs `site` +
-// `base`). Sitemap consumers prefer absolute strings — so we prefix manually.
-const SITE = "https://pixelmatch.art";
+// Sitemap host. Google requires the URLs INSIDE a sitemap match the host
+// the sitemap is served from — unless every host involved is a verified
+// GSC property. For now we serve sitemap on blog.pixelmatch.art and only
+// blog.pixelmatch.art is verified, so emit URLs against the subdomain.
+//
+// Phase 3 (CF Worker rewrites pixelmatch.art/blog/* → blog.pixelmatch.art):
+// once pixelmatch.art apex is also a verified GSC property, change SITE
+// back to "https://pixelmatch.art" to put the canonical (root-domain)
+// form in front of Google. Pages still emit pixelmatch.art/blog/...
+// canonical tags inside <head>, so this only affects discovery, not
+// canonicalization.
+const SITE = "https://blog.pixelmatch.art";
 const BASE = "/blog";
 
 const STATIC_PATHS = [
