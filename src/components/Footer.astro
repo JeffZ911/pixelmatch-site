@@ -33,7 +33,9 @@ const cols = [
   {
     title: "Get Started",
     links: [
-      { href: `${SAAS}/signup?utm_source=blog&utm_medium=footer&utm_campaign=footer_signup`, label: "Sign Up Free", external: true },
+      // All "join" CTAs route to /login which exposes both Sign In and
+      // Create Account tabs — matches the SaaS landing convention.
+      { href: `${SAAS}/login?utm_source=blog&utm_medium=footer&utm_campaign=footer_signup`, label: "Sign Up Free", external: true },
       { href: `${SAAS}/#pricing`, label: "View Plans", external: true },
       { href: `${SAAS}/login`, label: "Log In", external: true },
     ],

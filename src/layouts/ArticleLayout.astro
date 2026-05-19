@@ -1,9 +1,20 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
-import SourceList from "../components/SourceList.astro";
-import CommentSection from "../components/CommentSection.astro";
 import RelatedGuides from "../components/RelatedGuides.astro";
+
+// SourceList + CommentSection were ntecodex-only:
+// - SourceList rendered the frontmatter `sources` list, but the
+//   article body already has a writer-emitted ## Sources section
+//   with clean URLs — rendering both produced duplicate-looking
+//   "Sources" + "Sources (17)" sections of vertexaisearch grounding
+//   redirect URLs.
+// - CommentSection calls /api/comments which is a CF Pages Function
+//   that lives on the ntecodex deploy; pixelmatch-site has no
+//   functions/ directory yet, so the widget showed "Comments could
+//   not load right now." on every article.
+// Both deliberately omitted from this layout. Bring CommentSection
+// back when the Pages Functions backend lands on pixelmatch.
 
 interface Crumb { href?: string; label: string }
 interface Props {
@@ -103,8 +114,6 @@ const jsonLd = {
     <div class="min-w-0">
       <slot />
       {slug && <RelatedGuides currentSlug={slug} articleType={articleType} />}
-      <SourceList sources={sources} />
-      {slug && <CommentSection articleSlug={slug} />}
     </div>
   </article>
 </BaseLayout>
