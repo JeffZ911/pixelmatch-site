@@ -60,7 +60,13 @@ const PLATFORM_CLASS: Record<string, string> = {
 
   <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
     {sorted.map((e) => {
-      const href = e.data.published_url || `/blog/${collectionSlug}/${e.slug}/`;
+      // published_url is stored without a trailing slash, but the site uses
+      // trailingSlash:"always". A no-slash link 308-redirects, and under the
+      // apex proxy that redirect drops the /blog prefix → lands on the SaaS
+      // app. Force a trailing slash so internal links hit the canonical URL
+      // directly (200, no redirect).
+      const rawHref = e.data.published_url || `/blog/${collectionSlug}/${e.slug}/`;
+      const href = rawHref.endsWith("/") ? rawHref : rawHref + "/";
       const platform = e.data.platform || "multi";
       return (
         <a

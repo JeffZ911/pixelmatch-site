@@ -114,7 +114,8 @@ const ctaHero = `${SAAS}/login?utm_source=blog&utm_medium=hero&utm_campaign=home
            panel; the CTA links there instead. -->
       <div class="hidden lg:flex flex-col gap-4">
         {recent.slice(0, 3).map((e) => {
-          const href = e.data.published_url || `/blog/${e.collection}/${e.slug}/`;
+          const rawHref = e.data.published_url || `/blog/${e.collection}/${e.slug}/`;
+          const href = rawHref.endsWith("/") ? rawHref : rawHref + "/";
           const platform = e.data.platform || "multi";
           return (
             <a
@@ -167,7 +168,8 @@ const ctaHero = `${SAAS}/login?utm_source=blog&utm_medium=hero&utm_campaign=home
     </div>
     <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {recent.map((e) => {
-        const href = e.data.published_url || `/blog/${e.collection}/${e.slug}/`;
+        const rawHref = e.data.published_url || `/blog/${e.collection}/${e.slug}/`;
+        const href = rawHref.endsWith("/") ? rawHref : rawHref + "/";
         const platform = e.data.platform || "multi";
         return (
           <a
