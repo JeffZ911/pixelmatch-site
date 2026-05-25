@@ -1,6 +1,1 @@
-{
-  "version": 1,
-  "description": "Disable SPA fallback. No Pages Functions on the blog (no /api/*) — everything is static or 404.html.",
-  "include": [],
-  "exclude": ["/*"]
-}
+{"version":1,"include":["/*"],"exclude":[]}
