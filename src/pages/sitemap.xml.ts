@@ -1,18 +1,13 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 
-// Sitemap host. Google requires the URLs INSIDE a sitemap match the host
-// the sitemap is served from — unless every host involved is a verified
-// GSC property. For now we serve sitemap on blog.pixelmatch.art and only
-// blog.pixelmatch.art is verified, so emit URLs against the subdomain.
-//
-// Phase 3 (CF Worker rewrites pixelmatch.art/blog/* → blog.pixelmatch.art):
-// once pixelmatch.art apex is also a verified GSC property, change SITE
-// back to "https://pixelmatch.art" to put the canonical (root-domain)
-// form in front of Google. Pages still emit pixelmatch.art/blog/...
-// canonical tags inside <head>, so this only affects discovery, not
-// canonicalization.
-const SITE = "https://blog.pixelmatch.art";
+// Sitemap host — PHASE 3 CUTOVER DONE (2026-05-25): pixelmatch.art now
+// serves /blog/* (reverse-proxy in the apex Express app → CF Pages origin),
+// so the subdirectory is the real, canonical home. sc-domain:pixelmatch.art
+// is a domain GSC property (covers the apex), so we emit root-domain URLs to
+// match the canonical tags. Sitemap is reachable at
+// pixelmatch.art/blog/sitemap.xml (proxied) — submit THAT to GSC.
+const SITE = "https://pixelmatch.art";
 const BASE = "/blog";
 
 const STATIC_PATHS = [
