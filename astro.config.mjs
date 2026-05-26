@@ -24,6 +24,21 @@ function rehypeExternalLinks() {
   return (tree) => walk(tree);
 }
 
+// Dependency-free remark plugin: strip the first H1 from every markdown body.
+// ArticleLayout already renders an <h1> from frontmatter `title`, so a leading
+// `# Title` in the body produced a duplicate H1 — bad for SEO (multiple H1s
+// dilute the page topic) and UX (the title appears twice). Removes only the
+// FIRST h1; any later h1 (unlikely) is preserved.
+function remarkStripFirstH1() {
+  return (tree) => {
+    if (!tree || !Array.isArray(tree.children)) return;
+    const idx = tree.children.findIndex(
+      (n) => n && n.type === "heading" && n.depth === 1
+    );
+    if (idx >= 0) tree.children.splice(idx, 1);
+  };
+}
+
 // PixelMatch blog (Phase 1B 2026-05-14).
 //
 // `site` is the *canonical* domain — set to pixelmatch.art so every
@@ -40,6 +55,7 @@ export default defineConfig({
   integrations: [tailwind({ applyBaseStyles: false }), mdx()],
   output: "static",
   markdown: {
+    remarkPlugins: [remarkStripFirstH1],
     rehypePlugins: [rehypeExternalLinks],
   },
   build: {
