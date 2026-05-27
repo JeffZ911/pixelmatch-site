@@ -1,0 +1,121 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Editorial Policy — PixelMatch Blog"
+  description="How PixelMatch sources, drafts, fact-checks and publishes its ecommerce playbooks, tool comparisons and platform-policy guides. AI methodology, quality gates and corrections process."
+>
+  <h1 class="text-3xl font-bold text-ink">Editorial Policy</h1>
+  <p class="text-sm text-body-faint">Last updated: 2026-05-27</p>
+
+  <div class="prose-pm max-w-prose">
+    <p class="lead">
+      This page explains exactly how an article gets onto the PixelMatch
+      Blog — what we use for sources, how we draft and check claims, what
+      gets published versus rejected, and how we handle mistakes.
+    </p>
+
+    <h2>Sourcing</h2>
+    <p>
+      Every factual claim in a PixelMatch article must trace to one of three
+      source types:
+    </p>
+    <ul>
+      <li><strong>Official platform documentation</strong> — Amazon Seller
+        Central help, Shopify Help Center, Etsy Seller Handbook, TikTok Shop
+        Academy, Meta/Google Ads policies. These are the canonical truth for
+        image specs, listing rules, and policy.</li>
+      <li><strong>First-party tool documentation</strong> — official docs from
+        the AI image tools we compare (PhotoRoom, Canva, Stability,
+        Booth.ai, etc.) for feature claims and pricing.</li>
+      <li><strong>Verifiable third-party reporting</strong> — major ecommerce
+        publications (Modern Retail, RetailDive, eCommerce Times), Reddit's
+        established seller subs (r/FulfillmentByAmazon, r/EtsySellers,
+        r/shopify), and Trustpilot/G2 review aggregates.</li>
+    </ul>
+
+    <h2>How content is produced</h2>
+    <p>
+      PixelMatch articles are <strong>AI-assisted and human-reviewed</strong>.
+      We use this clearly to keep readers and Google informed:
+    </p>
+    <ol>
+      <li>Our keyword selector picks topics from a pool of seller-search
+        queries and prioritizes ones with verifiable data.</li>
+      <li>An outline agent (Gemini 3.1) drafts the structure using Google
+        Search grounding — every section must cite at least one source URL.</li>
+      <li>A writer agent expands each section to prose, with strict noun-
+        binding (named tools/platforms must come from the cited source, not
+        be invented).</li>
+      <li>A QA agent scores the draft on six dimensions, including hard
+        factual-accuracy gating (any unverifiable proper noun = automatic
+        reject).</li>
+      <li>Only articles scoring ≥ 6.0/10 publish; articles scoring 6.0-7.5
+        publish with an "Editorial note" tier label; articles scoring &lt; 6.0
+        are kept off the public site (<code>noindex</code> + excluded from
+        sitemap).</li>
+    </ol>
+    <p>
+      We don't hide that AI is in the loop. Google's documented guidance is
+      that AI-assisted content is fine if it's useful, original, and
+      transparently produced. We aim for all three. The reverse — pretending
+      AI isn't involved — is the trust-loss risk we explicitly avoid.
+    </p>
+
+    <h2>Tier labels you'll see on articles</h2>
+    <ul>
+      <li><strong>(no label)</strong> — qa_score ≥ 7.5. Confident publication.</li>
+      <li><strong>Editorial note</strong> — qa_score 6.0-7.5. Published, but
+        we flag the score-band so you can calibrate trust.</li>
+      <li><strong>noindex</strong> — qa_score &lt; 6.0. Page exists for
+        completeness but is not promoted to Google.</li>
+    </ul>
+
+    <h2>Independence + conflicts of interest</h2>
+    <p>
+      PixelMatch (the SaaS product) is the operator of this blog. We <em>do</em>
+      mention PixelMatch in articles about AI product photography because
+      that's our product category and our team has direct experience. We
+      mark this transparently in two ways:
+    </p>
+    <ul>
+      <li>Every tool-comparison article that includes PixelMatch among the
+        compared tools states this disclosure inline.</li>
+      <li>When we recommend physical seller equipment (cameras, lights,
+        backdrops, etc.) we link via Amazon Associates and tag the link as
+        <code>rel="sponsored noopener nofollow"</code>. Recommendations are
+        independent — see our <a href="/blog/affiliate-disclosure/">Affiliate
+        Disclosure</a>.</li>
+    </ul>
+
+    <h2>Corrections</h2>
+    <p>
+      We make mistakes. When you find one, email
+      <strong>admin@sunaofe.com</strong> (the operator inbox — yes, PixelMatch
+      is run by the same operator as Sunaofe, our ergonomic-furniture brand)
+      with the article URL and what's wrong. We respond within 3 business
+      days. Material corrections (factual error, broken affiliate link,
+      outdated spec) get a "Corrected on YYYY-MM-DD" line at the top of the
+      affected article.
+    </p>
+
+    <h2>What we don't do</h2>
+    <ul>
+      <li>We don't sell access to listing positions in our tool comparisons.</li>
+      <li>We don't accept "sponsored review" payments. If we like a tool,
+        we say so; if we don't, we say that too.</li>
+      <li>We don't republish vendor press releases as if they were our own
+        reporting.</li>
+      <li>We don't use clickbait headlines. The title must accurately
+        describe what's in the article.</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>
+      Corrections, complaints, partnership inquiries:
+      <strong>admin@sunaofe.com</strong>. Anything that needs an immediate
+      response: include the word <em>"correction"</em> in the subject line.
+    </p>
+  </div>
+</BaseLayout>

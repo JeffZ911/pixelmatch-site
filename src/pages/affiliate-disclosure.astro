@@ -1,0 +1,107 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Affiliate Disclosure — PixelMatch Blog"
+  description="How PixelMatch uses affiliate links — primarily Amazon Associates for recommended seller equipment. Editorial independence policy and how to identify affiliate links."
+>
+  <h1 class="text-3xl font-bold text-ink">Affiliate Disclosure</h1>
+  <p class="text-sm text-body-faint">Last updated: 2026-05-27</p>
+
+  <div class="prose-pm max-w-prose">
+    <p class="lead">
+      Some links on the PixelMatch Blog earn us a commission when you click
+      through and buy. This page tells you which programs we participate in,
+      how to spot an affiliate link, and how we keep recommendations honest.
+    </p>
+
+    <h2>What we participate in</h2>
+    <ul>
+      <li>
+        <strong>Amazon Associates</strong> (Amazon Associate Program ID:
+        <code>jeffzen911-20</code>) — when we recommend physical seller
+        equipment like cameras, ring lights, backdrops, label printers, or
+        ergonomic photo-studio gear, we link to the product on Amazon. If you
+        buy after clicking, Amazon pays us a small percentage. The price you
+        pay is the same as if you'd gone to Amazon directly.
+      </li>
+      <li>
+        <strong>PixelMatch SaaS</strong> — the AI product-photography tool
+        this blog supports. Articles that compare PixelMatch to other tools
+        disclose this relationship inline. PixelMatch links in the blog are
+        not affiliate links; they're first-party links to our own product.
+      </li>
+    </ul>
+    <p>
+      We do not currently participate in any other affiliate program. If
+      that changes (a new ecommerce tool's affiliate program, for example),
+      this page is updated and the change is logged in the "Last updated"
+      date at the top.
+    </p>
+
+    <h2>How to spot an affiliate link</h2>
+    <p>
+      Every affiliate link in a PixelMatch article carries three signals:
+    </p>
+    <ol>
+      <li>The link tag attribute <code>rel="sponsored noopener nofollow"</code> —
+        this is the FTC + Google standard for disclosing paid placements
+        at the HTML level.</li>
+      <li>The destination URL contains our Amazon Associate ID
+        (<code>tag=jeffzen911-20</code>) — you can see this in your browser
+        status bar before clicking.</li>
+      <li>Articles that contain affiliate links display a yellow
+        "Affiliate disclosure" banner at the top of the page (this same
+        text, summarized).</li>
+    </ol>
+
+    <h2>Editorial independence</h2>
+    <p>
+      Our commission rate (typically 1-4% of the purchase price) is the
+      same across all recommended products in a category. That means we
+      have <em>no financial incentive</em> to recommend Product A over
+      Product B — we earn the same percentage either way. The product we
+      put at #1 is genuinely the product we'd recommend to a friend.
+    </p>
+    <p>
+      What we won't do, no matter how high a commission a vendor offers:
+    </p>
+    <ul>
+      <li>Recommend a product we wouldn't use ourselves.</li>
+      <li>Hide a product's weaknesses from the "cons" section.</li>
+      <li>Re-order rankings in exchange for a higher commission.</li>
+      <li>Publish a "review" that's actually a press release.</li>
+    </ul>
+    <p>
+      When a vendor approaches us with a paid-placement offer, we decline
+      and add the offer to our public spreadsheet of declined deals (link
+      available on request at admin@sunaofe.com).
+    </p>
+
+    <h2>What if I don't want to use an affiliate link?</h2>
+    <p>
+      Totally fine. Go to amazon.com directly and search for the product
+      name. The price is identical, you skip the cookie, and we don't
+      earn anything from your purchase. We'd still rather you found the
+      product through us — the writing has to be worth something — but
+      we're not going to penalize you for opting out.
+    </p>
+
+    <h2>The FTC required text</h2>
+    <p>
+      Per FTC guidelines:
+      <em>"As an Amazon Associate I earn from qualifying purchases."</em>
+    </p>
+    <p>
+      And per the Amazon Associates Operating Agreement, we are required
+      to disclose our participation. This page is that disclosure.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      Questions, complaints, or notice of a broken affiliate link:
+      <strong>admin@sunaofe.com</strong>.
+    </p>
+  </div>
+</BaseLayout>

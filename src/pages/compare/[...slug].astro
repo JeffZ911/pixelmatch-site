@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 
 interface Props { entry: CollectionEntry<"compare"> }
 const { entry } = Astro.props;
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 
 const crumbs = [
   { href: "/blog/", label: "Blog" },
@@ -34,6 +34,10 @@ const crumbs = [
   sources={entry.data.sources}
   slug={entry.slug}
   crumbs={crumbs}
+  headings={headings}
+  quickAnswer={entry.data.quick_answer}
+  affiliate={entry.data.affiliate}
+  products={entry.data.products}
 >
   <Content />
 </ArticleLayout>

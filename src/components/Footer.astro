@@ -31,6 +31,15 @@ const cols = [
     ],
   },
   {
+    title: "Editorial",
+    links: [
+      { href: `${blogBase}/editorial-policy/`, label: "Editorial Policy" },
+      { href: `${blogBase}/affiliate-disclosure/`, label: "Affiliate Disclosure" },
+      { href: `${SAAS}/privacy`, label: "Privacy Policy", external: true },
+      { href: `${SAAS}/terms`, label: "Terms of Service", external: true },
+    ],
+  },
+  {
     title: "Get Started",
     links: [
       // All "join" CTAs route to /login which exposes both Sign In and
@@ -45,7 +54,7 @@ const cols = [
 
 <footer class="mt-24 border-t border-body-line bg-white">
   <div class="container-page py-12">
-    <div class="grid gap-10 md:grid-cols-5">
+    <div class="grid gap-10 md:grid-cols-6">
       <div class="md:col-span-1">
         <a href={`${blogBase}/`} class="flex items-center gap-2 no-underline text-ink">
           <span class="inline-flex h-8 w-8 items-center justify-center rounded-md bg-primary-500 text-white text-sm font-bold">
@@ -84,8 +93,10 @@ const cols = [
     <div class="mt-10 flex flex-col items-start justify-between gap-3 border-t border-body-line pt-6 text-xs text-body-faint md:flex-row">
       <p>© {new Date().getFullYear()} PixelMatch. All rights reserved.</p>
       <p>
-        Articles in this blog are AI-assisted and reviewed for factual
-        accuracy. Cross-reference platform policies with official docs.
+        Articles are AI-assisted + human-reviewed —
+        <a href={`${blogBase}/editorial-policy/`} class="underline hover:text-primary-600">methodology</a>.
+        As an Amazon Associate we earn from qualifying purchases —
+        <a href={`${blogBase}/affiliate-disclosure/`} class="underline hover:text-primary-600">disclosure</a>.
       </p>
     </div>
   </div>

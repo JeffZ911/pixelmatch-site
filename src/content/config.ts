@@ -23,6 +23,33 @@ const baseFrontmatter = {
   hero_image: z.string().optional(),
   inline_images: z.array(z.string()).optional(),
   inline_image_sections: z.array(z.string()).optional(),
+  // Optional 1-2 sentence answer callout rendered above the body so
+  // readers get the answer without scrolling. Set in frontmatter by the
+  // writer pipeline's outline.py (`quick_answer` field).
+  quick_answer: z.string().optional(),
+  // When the article body / products list contains affiliate links,
+  // ArticleLayout renders the FTC disclosure banner at the top.
+  affiliate: z.boolean().optional(),
+  // Structured product list for "best X for Y" / vs_comparison round-ups
+  // with Amazon affiliate CTAs. ProductRoundup renders them as cards
+  // above the prose body. ASIN nullable — never invent.
+  products: z
+    .array(
+      z.object({
+        name: z.string(),
+        asin: z.string().optional(),
+        image: z.string().optional(),
+        price_usd: z.number().optional(),
+        rating: z.number().optional(),
+        review_count: z.number().optional(),
+        pros: z.array(z.string()).optional(),
+        cons: z.array(z.string()).optional(),
+        best_for: z.string().optional(),
+        affiliate_url: z.string().optional(),
+        verdict: z.string().optional(),
+      })
+    )
+    .optional(),
 };
 
 // One collection per ecommerce article_type. Folder names mirror
