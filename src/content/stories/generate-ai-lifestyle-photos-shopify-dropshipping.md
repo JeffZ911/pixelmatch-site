@@ -66,7 +66,7 @@ The seller was stuck in a "quality vs. speed" trap. They could either post low-q
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=generate-ai-lifestyle-photos-shopify-dropshipping)**
+> **Try PixelMatch free →**
 
 Set your export preset to 2048 x 2048 pixels to trigger Shopify’s automatic zoom functionality and ensure your images remain crisp on high-resolution mobile displays. The goal of this specific workflow was to generate AI lifestyle photos for Shopify dropshipping that looked indistinguishable from a West Elm or IKEA catalog, all within 15 minutes of finding a winning product on a sourcing site.
 
@@ -152,7 +152,7 @@ By following this workflow, you can stop acting like a middleman and start actin
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=generate-ai-lifestyle-photos-shopify-dropshipping)**
+**Start free →**
 
 ## Sources
 

@@ -70,7 +70,7 @@ Third, they tested Photoroom Pro ($12.99/month). While Photoroom offers decent b
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=amazon-brand-registry-a-plus-content-conversion-lift-case-study)**
+> **Try PixelMatch free →**
 
 The seller transitioned to PixelMatch to automate the production of Amazon-compliant assets. By using a specialized AI photography engine, they moved from a "one-off" creative process to a "batch-processing" mindset. 
 
@@ -162,7 +162,7 @@ Third, this workflow focuses on "Standard A+ Content." If you are aiming for "Pr
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=amazon-brand-registry-a-plus-content-conversion-lift-case-study)**
+**Start free →**
 
 ## Sources
 

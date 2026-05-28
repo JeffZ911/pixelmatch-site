@@ -84,7 +84,7 @@ Once your image is square and centered, check the file size. TikTok Shop support
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=tiktok-shop-product-cover-image-resizer-tool-20260524)**
+> **Try PixelMatch free →**
 
 Implement a "Zero-Text" rule for the first slot in your upload queue to prevent immediate listing suppression. Many sellers mistakenly treat the TikTok Shop cover image like a Facebook ad or a promotional banner.
 
@@ -168,13 +168,13 @@ While many general tools exist, using a dedicated ecommerce tool like PixelMatch
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=tiktok-shop-product-cover-image-resizer-tool-20260524)**
+**Start free →**
 
 ## Sources
 
-*   TikTok Shop Academy: [Listing Quality Tier Guidelines](https://seller-us.tiktok.com/university/home)
-*   TikTok Seller Help Center: [Product Image Specifications and Requirements](https://seller-us.tiktok.com/help/article?content_id=10007234)
-*   Photoroom Pricing: [Official Photoroom Subscription Page](https://www.photoroom.com/pricing)
-*   Pebblely Pricing: [Official Pebblely Pricing Page](https://pebblely.com/pricing/)
+*   TikTok Shop Academy: Listing Quality Tier Guidelines
+*   TikTok Seller Help Center: Product Image Specifications and Requirements
+*   Photoroom Pricing: Official Photoroom Subscription Page
+*   Pebblely Pricing: Official Pebblely Pricing Page
 *   Shopify Blog: [Optimizing Images for Social Commerce 2026](https://www.shopify.com/blog/image-optimization)
-*   Reddit r/TikTokShop: [Seller Discussions on Image Rejections and Compliance](https://www.reddit.com/r/TikTokShop/)
+*   Reddit r/TikTokShop: Seller Discussions on Image Rejections and Compliance

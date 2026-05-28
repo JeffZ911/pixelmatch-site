@@ -88,7 +88,7 @@ Finally, the brand struggled to manually optimize their AI outputs for Shopify�
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=shopify-ai-product-backgrounds-case-study)**
+> **Try PixelMatch free →**
 
 To solve the volume and quality issues, the brand moved to PixelMatch. This allowed them to move from a "one-by-one" editing mindset to a "batch-first" production mindset.
 
@@ -178,7 +178,7 @@ AI cannot fix a photo that is out of focus or shot in a dark room with a grainy 
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=shopify-ai-product-backgrounds-case-study)**
+**Start free →**
 
 ## Sources
 

@@ -85,7 +85,7 @@ Amazon’s Seller Central and bulk upload templates (Flat Files) rely on specifi
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=batch-remove-background-amazon-variant-skus)**
+> **Try PixelMatch free →**
 
 Verify your final images using a "Color Picker" tool or the "Info" panel in your photo editor to ensure the background is exactly RGB 255, 255, 255. Even a value of 253 across the board will look "white" to the human eye but will fail the Amazon automated validation check.
 
@@ -166,7 +166,7 @@ Amazon’s "Add Products via Upload" tool allows for thousands of rows in a sing
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=batch-remove-background-amazon-variant-skus)**
+**Start free →**
 
 ## Sources
 *   https://sellercentral.amazon.com/help/hub/reference/G1811

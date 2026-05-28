@@ -96,7 +96,7 @@ Amazon prefers JPEGs for their balance of quality and compression. When exportin
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=batch-resize-amazon-images-1000x1000)**
+> **Try PixelMatch free →**
 
 Use an "85% Safe Zone" overlay during your batch cropping process to ensure that the product fills the necessary portion of the frame without touching the edges.
 
@@ -164,7 +164,7 @@ As of May 22, 2026, Amazon does not officially support the WebP format for produ
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=batch-resize-amazon-images-1000x1000)**
+**Start free →**
 
 ## Sources
 

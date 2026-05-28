@@ -95,7 +95,7 @@ Export your images in WebP format. While Shopify allows up to 20 MB, your goal i
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=best-shopify-app-for-ai-product-photography)**
+> **Try PixelMatch free →**
 
 Even with the best AI tools, simple technical errors can ruin your store's user experience. Avoid these four common pitfalls:
 
@@ -157,7 +157,7 @@ Pebblely excels at creating "vibe-heavy" lifestyle scenes, making it a favorite 
 
 
 ### What is the best Shopify app for AI product photography?
-It depends on your volume. For high-volume multi-platform sellers, **PixelMatch** is better suited for the workflow because of its ability to [batch-generate AI images](https://pixelmatch.ai) that adhere to different marketplace specs simultaneously. For casual sellers who prefer editing on a mobile device, **Photoroom** offers the most polished app experience.
+It depends on your volume. For high-volume multi-platform sellers, **PixelMatch** is better suited for the workflow because of its ability to batch-generate AI images that adhere to different marketplace specs simultaneously. For casual sellers who prefer editing on a mobile device, **Photoroom** offers the most polished app experience.
 
 ### what are the Shopify image size requirements for 2026?
 Shopify supports images up to 5000 x 5000 px and 20 MB. However, for the best performance, you should aim for **2048 x 2048 px** for square product photos and keep file sizes under **300 KB**.
@@ -177,13 +177,13 @@ Most AI apps use Stripe for billing. As of May 2026, standard Stripe processing 
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=best-shopify-app-for-ai-product-photography)**
+**Start free →**
 
 ## Sources
 
 *   Shopify Official Help Center: [Product Image Requirements (2026)](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements)
-*   Squareshot: [The Real Cost of Product Photography in 2026](https://www.squareshot.co/post/product-photography-pricing)
-*   Photoroom: [Official Pricing and Plan Comparison (May 2026)](https://www.photoroom.com/pricing)
-*   Pebblely: [Subscription Tiers and Image Limits](https://pebblely.com/pricing/)
-*   SpeedBoostr: [Shopify Image Optimization Guide 2026](https://www.speedboostr.com/shopify-image-optimization/)
-*   Stripe: [Global Pricing and Fee Structure](https://stripe.com/pricing)
+*   Squareshot: The Real Cost of Product Photography in 2026
+*   Photoroom: Official Pricing and Plan Comparison (May 2026)
+*   Pebblely: Subscription Tiers and Image Limits
+*   SpeedBoostr: Shopify Image Optimization Guide 2026
+*   Stripe: Global Pricing and Fee Structure

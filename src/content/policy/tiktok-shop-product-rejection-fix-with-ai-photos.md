@@ -73,7 +73,7 @@ If your product description mentions a "3-piece set" or "includes a carrying cas
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=tiktok-shop-product-rejection-fix-with-ai-photos)**
+> **Try PixelMatch free →**
 
 Cross-reference your "Product Category" in Seller Center with your image metadata to ensure they match exactly, as the system compares image content against the selected category's specific requirements. TikTok Shop’s rejection reasons often seem vague, but they usually fall into four distinct buckets.
 
@@ -141,9 +141,9 @@ When investing in tools to fix your imagery, you must keep your overhead low. Ti
 
 To stay updated on the latest policy shifts, bookmark these official TikTok Shop resources. As of 2026-05-23, these are the primary authorities on listing compliance:
 
-1.  **TikTok Shop Seller Center:** [https://seller.tiktok.com](https://seller.tiktok.com) - The main dashboard for managing rejections and viewing specific "Reason Codes."
-2.  **TikTok Shop Academy:** [https://seller-us.tiktok.com/university](https://seller-us.tiktok.com/university) - Detailed guides on "Brand Qualification" and "Image Quality Standards."
-3.  **TikTok Shop Intellectual Property Policy:** [https://tos.tiktok.com/legal/v2/ip-policy](https://tos.tiktok.com/legal/v2/ip-policy) - Essential reading for avoiding rejections related to brand logos and unauthorized assets.
+1.  **TikTok Shop Seller Center:** https://seller.tiktok.com - The main dashboard for managing rejections and viewing specific "Reason Codes."
+2.  **TikTok Shop Academy:** https://seller-us.tiktok.com/university - Detailed guides on "Brand Qualification" and "Image Quality Standards."
+3.  **TikTok Shop Intellectual Property Policy:** https://tos.tiktok.com/legal/v2/ip-policy - Essential reading for avoiding rejections related to brand logos and unauthorized assets.
 4.  **TikTok Shop Referral Fee Schedule (2026):** [Information not yet publicly available as of 2026-05-23] - Check your specific Seller Center "Finance" tab for the most current rate applicable to your category.
 
 
@@ -152,7 +152,7 @@ To stay updated on the latest policy shifts, bookmark these official TikTok Shop
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=tiktok-shop-product-rejection-fix-with-ai-photos)**
+**Start free →**
 
 ## Sources
 

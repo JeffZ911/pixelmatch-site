@@ -54,8 +54,8 @@ The costs were staggering. At an average rate of $120 per finished hero image (i
 
 The seller attempted to bridge the gap using popular entry-level AI tools, but hit significant friction points:
 
-*   **Photoroom:** While effective for single-product edits, Photoroom's [Pro tier at $12.99/mo](https://www.photoroom.com/pricing) imposes a 50-image batch session cap. For a seller with 150+ SKUs and multiple angles per SKU, this created a fragmented workflow that required constant manual restarts.
-*   **Canva:** The seller tested Canva's [Pro plan at $120/year](https://www.canva.com/pricing). While Canva is excellent for social media graphics, it lacked the specialized e-commerce batching engines required to output thousands of variations with a guaranteed [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/1881). The background remover often left "halos" around complex beauty items like serum droppers or translucent glass bottles, requiring manual cleanup that defeated the purpose of automation.
+*   **Photoroom:** While effective for single-product edits, Photoroom's Pro tier at $12.99/mo imposes a 50-image batch session cap. For a seller with 150+ SKUs and multiple angles per SKU, this created a fragmented workflow that required constant manual restarts.
+*   **Canva:** The seller tested Canva's Pro plan at $120/year. While Canva is excellent for social media graphics, it lacked the specialized e-commerce batching engines required to output thousands of variations with a guaranteed [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/1881). The background remover often left "halos" around complex beauty items like serum droppers or translucent glass bottles, requiring manual cleanup that defeated the purpose of automation.
 
 **Actionable Step for Today:** Calculate your current "Time to Live" metric. Measure the days between a product arriving at your office and the hero image going live on Amazon. If this number is higher than 7 days, your manual workflow will fail during the Prime Day lead-up.
 
@@ -66,7 +66,7 @@ The seller attempted to bridge the gap using popular entry-level AI tools, but h
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=amazon-prime-day-2026-image-prep-guide)**
+> **Try PixelMatch free →**
 
 To meet the June deadline, the seller moved their entire visual pipeline into PixelMatch. The goal was to transform raw, "unprepped" photos—taken in-house with a high-resolution camera—into polished, Amazon-compliant assets in a single afternoon.
 
@@ -145,13 +145,13 @@ Finally, because the exact Prime Day dates are [Information not yet publicly ava
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=amazon-prime-day-2026-image-prep-guide)**
+**Start free →**
 
 ## Sources
 
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
-*   [Photoroom Pricing and Plan Limits](https://www.photoroom.com/pricing)
-*   [Canva Pro Subscription Details](https://www.canva.com/pricing)
+*   Photoroom Pricing and Plan Limits
+*   Canva Pro Subscription Details
 *   [Amazon Prime Day Historical Data and Seller Guidelines](https://sellercentral.amazon.com/help/hub/reference/G201101640)
-*   [Stripe Fee Schedule for E-commerce Platforms](https://stripe.com/pricing)
-*   [Jungle Scout: Amazon Image Optimization Guide](https://www.junglescout.com/blog/amazon-product-images/)
+*   Stripe Fee Schedule for E-commerce Platforms
+*   Jungle Scout: Amazon Image Optimization Guide

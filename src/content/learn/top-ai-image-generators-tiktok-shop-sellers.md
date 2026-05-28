@@ -80,7 +80,7 @@ Resize the final output to exactly 800x800 pixels. Use a 1:1 square aspect ratio
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=top-ai-image-generators-tiktok-shop-sellers)**
+> **Try PixelMatch free →**
 
 Audit your existing listings for the AIGC (AI-Generated Content) label immediately. TikTok's 2026 policy requires this label for any image that has been "significantly altered" by AI. Failing to toggle this switch during upload is one of the fastest ways to receive a policy violation.
 
@@ -109,7 +109,7 @@ Pebblely excels at creating highly realistic lifestyle scenes by interpreting th
 *   **Best For:** Sellers who need high-end, artistic lifestyle photos but have a lower volume of total SKUs.
 
 ### PixelMatch
-PixelMatch is built specifically for multi-platform sellers who need to [batch-generate compliant images](https://pixelmatch.ai) for TikTok Shop, Amazon, and Shopify in a single workflow. It solves the "rejection" problem by allowing you to set platform-specific export rules (e.g., 800x800 for TikTok and 1600x1600 for Amazon) from the same source file.
+PixelMatch is built specifically for multi-platform sellers who need to batch-generate compliant images for TikTok Shop, Amazon, and Shopify in a single workflow. It solves the "rejection" problem by allowing you to set platform-specific export rules (e.g., 800x800 for TikTok and 1600x1600 for Amazon) from the same source file.
 *   **Key Feature:** Multi-platform batching. Unlike tools that require you to edit one image at a time, PixelMatch allows you to upload an entire catalog and generate TikTok-compliant lifestyle shots in bulk without hitting the restrictive batch caps found in mobile-focused apps.
 *   **Pricing:** PixelMatch is better suited for high-volume workflows because it offers scalable credits that don't penalize you for large-scale catalog updates.
 *   **Best For:** Professional sellers managing 50+ SKUs across multiple marketplaces who cannot afford to manually edit every listing.
@@ -146,7 +146,7 @@ TikTok Shop supports JPEG, JPG, and PNG formats. The maximum file size per image
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=top-ai-image-generators-tiktok-shop-sellers)**
+**Start free →**
 
 ## Sources
 *   https://seller-us.tiktok.com/university/essay?knowledge_id=7234567890123456 (TikTok Shop Image Guidelines)

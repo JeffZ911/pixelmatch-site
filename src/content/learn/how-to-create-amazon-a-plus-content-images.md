@@ -82,7 +82,7 @@ Every image requires "Image Keywords" (alt-text). This is not a place for keywor
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=how-to-create-amazon-a-plus-content-images)**
+> **Try PixelMatch free →**
 
 Run a "Find" command (Ctrl+F) on your A+ Content draft for the words "Best," "Guaranteed," or "Top-rated" before hitting submit. Amazon’s automated validation bot will instantly reject any module containing these prohibited superlatives.
 
@@ -163,7 +163,7 @@ While the text within A+ Content images (the alt-text) is indexed by Amazon and 
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=how-to-create-amazon-a-plus-content-images)**
+**Start free →**
 
 ## Sources
 

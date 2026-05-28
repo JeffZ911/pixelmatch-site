@@ -82,7 +82,7 @@ Lifestyle images (slots 2 through 9) allow for more creativity but must still ad
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=tiktok-shop-image-policy-misleading-visuals)**
+> **Try PixelMatch free →**
 
 The most frequent reason for listing suspension on TikTok Shop is the "False Display of Information." This often occurs when a seller shows a multi-pack or a full case in the main image, but the listing is only for a single unit. This leads to account suspensions for false advertising, as noted by sellers in the r/TikTokshop community [1.1.6].
 
@@ -151,9 +151,9 @@ As of May 2026, TikTok's "Created with AI" label is a toggle in the "Product Edi
 To stay updated on policy shifts, bookmark these official TikTok Shop Seller Center links. TikTok updates these documents frequently—often without a platform-wide announcement.
 
 *   [TikTok Shop Seller Center: Avoid Misleading Content Policy [1.1.1]](https://seller-us.tiktok.com/university/essay?knowledge_id=10010165)
-*   [TikTok Shop Seller Center: Product Detail Pages & Listing Quality Guidelines](https://seller-us.tiktok.com/university/essay?knowledge_id=6820543210457601)
-*   [TikTok Shop Seller Center: AI-Generated Content Policy](https://seller-us.tiktok.com/university/essay?knowledge_id=10012345)
-*   [TikTok Shop Seller Academy: Image Specifications and Best Practices](https://seller-us.tiktok.com/university/home)
+*   TikTok Shop Seller Center: Product Detail Pages & Listing Quality Guidelines
+*   TikTok Shop Seller Center: AI-Generated Content Policy
+*   TikTok Shop Seller Academy: Image Specifications and Best Practices
 
 
 <!-- pm-cta:foot -->
@@ -161,7 +161,7 @@ To stay updated on policy shifts, bookmark these official TikTok Shop Seller Cen
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=tiktok-shop-image-policy-misleading-visuals)**
+**Start free →**
 
 ## Sources
 

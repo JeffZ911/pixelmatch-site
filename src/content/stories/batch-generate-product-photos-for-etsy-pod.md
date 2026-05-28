@@ -77,7 +77,7 @@ To fix this, the seller tried several industry-standard tools, each presenting a
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=batch-generate-product-photos-for-etsy-pod)**
+> **Try PixelMatch free →**
 
 The seller integrated PixelMatch into their production line to solve the "volume vs. quality" trade-off. Instead of treating each product photo as a separate graphic design project, they treated photo generation as a data-processing task.
 
@@ -160,13 +160,13 @@ Finally, never upload a transparent PNG as your primary Etsy photo. While Etsy t
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=batch-generate-product-photos-for-etsy-pod)**
+**Start free →**
 
 ## Sources
 
 *   Etsy Seller Handbook: [Requirements for listing photos](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)
-*   Etsy Fees & Payments Policy (Updated 2026): [Seller fees breakdown](https://www.etsy.com/legal/fees/)
-*   Photoroom Pricing & Features: [Official Pro Tier Specs](https://www.photoroom.com/pricing)
-*   Canva Pro Subscription Details: [Official Pricing Page](https://www.canva.com/pricing/)
-*   Jungle Scout: [Etsy POD Profit Margin Analysis 2026](https://www.junglescout.com/blog/selling-on-etsy/)
-*   Marketplace Pulse: [Etsy Search Algorithm & Image CTR Trends](https://www.marketplacepulse.com/)
+*   Etsy Fees & Payments Policy (Updated 2026): Seller fees breakdown
+*   Photoroom Pricing & Features: Official Pro Tier Specs
+*   Canva Pro Subscription Details: Official Pricing Page
+*   Jungle Scout: Etsy POD Profit Margin Analysis 2026
+*   Marketplace Pulse: Etsy Search Algorithm & Image CTR Trends

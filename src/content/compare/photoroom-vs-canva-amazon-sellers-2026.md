@@ -67,7 +67,7 @@ Amazon’s 2026 requirements strictly mandate that the product must occupy at le
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=photoroom-vs-canva-amazon-sellers-2026)**
+> **Try PixelMatch free →**
 
 Calculate your annual image production cost by dividing your yearly subscription by your total SKU count. If you are launching more than 10 SKUs a year, the "Pro" tiers of these tools are mandatory to avoid the low-resolution watermarked exports that trigger Amazon’s quality suppression bots.
 
@@ -138,7 +138,7 @@ By using Photoroom for technical compliance, Canva for graphic design, and Pixel
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=photoroom-vs-canva-amazon-sellers-2026)**
+**Start free →**
 
 ## Sources
 

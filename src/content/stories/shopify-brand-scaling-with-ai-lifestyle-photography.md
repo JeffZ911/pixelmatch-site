@@ -36,7 +36,7 @@ Imagine a mid-market Shopify beauty brand, "Lumina Skin," generating between $50
 
 Lumina Skin currently manages a catalog of 115 SKUs. To maintain a premium brand image on Shopify, they aim for the [2048 × 2048 px recommended product image size](https://help.shopify.com/en/manual/online-store/images/theme-images), ensuring that the "zoom" feature on product pages reveals crisp texture rather than pixelated blur. Under their previous workflow, every new product launch required a coordinated effort with a local boutique agency.
 
-These traditional agency photoshoots were costing the brand anywhere from [$50 to $150 per lifestyle image](https://www.nightjar.co/blog/real-cost-product-photography). When you factor in the cost of shipping samples to the studio, hiring a stylist for "bathroom counter" or "morning vanity" scenes, and the inevitable two-week turnaround for retouching, the brand was spending over $5,000 per month just on photography for new arrivals. This overhead slowed their time-to-market, often leaving high-potential products sitting in a warehouse while the "coming soon" page waited for finalized assets.
+These traditional agency photoshoots were costing the brand anywhere from $50 to $150 per lifestyle image. When you factor in the cost of shipping samples to the studio, hiring a stylist for "bathroom counter" or "morning vanity" scenes, and the inevitable two-week turnaround for retouching, the brand was spending over $5,000 per month just on photography for new arrivals. This overhead slowed their time-to-market, often leaving high-potential products sitting in a warehouse while the "coming soon" page waited for finalized assets.
 
 **Actionable Step:** Audit your current Shopify "Files" section today. Filter by "Size" and identify any images below 1024px. These are likely hurting your conversion rates on mobile devices where high-density displays (Retina) require the [2048 × 2048 px standard](https://help.shopify.com/en/manual/online-store/images/theme-images) for optimal clarity.
 
@@ -45,12 +45,12 @@ These traditional agency photoshoots were costing the brand anywhere from [$50 t
 ![What Wasn't Working](/img/shopify-brand-scaling-with-ai-lifestyle-photography/inline-2.webp)
 
 
-The financial pressure on Lumina Skin wasn't just coming from photography costs; it was coming from the cumulative weight of ecommerce "tax." Operating on the Shopify Basic plan, the brand was hit with standard [Stripe processing fees of 2.9% + 30¢](https://stripe.com/pricing) for every credit card transaction. Because they used a third-party payment gateway for specific international markets, they were also paying Shopify's [2.0% external processor surcharge](https://www.shopify.com/pricing). 
+The financial pressure on Lumina Skin wasn't just coming from photography costs; it was coming from the cumulative weight of ecommerce "tax." Operating on the Shopify Basic plan, the brand was hit with standard Stripe processing fees of 2.9% + 30¢ for every credit card transaction. Because they used a third-party payment gateway for specific international markets, they were also paying Shopify's 2.0% external processor surcharge. 
 
 With nearly 5% of every sale disappearing into payment rails, the $150-per-photo agency bill became unsustainable. They first attempted to solve this with entry-level AI tools, but hit immediate roadblocks:
 
-*   **Photoroom:** While Photoroom’s [Pro tier at $12.99/mo](https://www.photoroom.com/pricing) is an industry standard for removing backgrounds and creating clean, white-background marketplace shots, Lumina Skin found it lacked the granular "scene control" needed for high-end beauty branding. It was perfect for a quick Depop or eBay listing, but it couldn't replicate the specific "soft morning sunlight through a window" aesthetic the brand required.
-*   **Pebblely:** They tested Pebblely’s [Basic plan at $19/mo](https://pebblely.com/pricing), which offers excellent themed templates. However, as the brand scaled to 100+ SKUs, they struggled with "visual drift." The templates were too generic, making their high-end serums look like every other AI-generated product on Instagram. They couldn't maintain a consistent "Brand Kit" of specific marble textures and custom lighting angles across their entire catalog.
+*   **Photoroom:** While Photoroom’s Pro tier at $12.99/mo is an industry standard for removing backgrounds and creating clean, white-background marketplace shots, Lumina Skin found it lacked the granular "scene control" needed for high-end beauty branding. It was perfect for a quick Depop or eBay listing, but it couldn't replicate the specific "soft morning sunlight through a window" aesthetic the brand required.
+*   **Pebblely:** They tested Pebblely’s Basic plan at $19/mo, which offers excellent themed templates. However, as the brand scaled to 100+ SKUs, they struggled with "visual drift." The templates were too generic, making their high-end serums look like every other AI-generated product on Instagram. They couldn't maintain a consistent "Brand Kit" of specific marble textures and custom lighting angles across their entire catalog.
 
 The brand needed a solution that offered the batch-processing power of a SaaS tool but the creative control of an art director.
 
@@ -78,7 +78,7 @@ These raw files were uploaded to PixelMatch in batches. The AI lifestyle generat
 
 | Feature | Traditional Agency | PixelMatch AI Workflow |
 | :--- | :--- | :--- |
-| **Cost Per Image** | [$50 - $150](https://www.nightjar.co/blog/real-cost-product-photography) | $12 (Composite Average) |
+| **Cost Per Image** | $50 - $150 | $12 (Composite Average) |
 | **Turnaround Time** | 10 - 14 Days | < 48 Hours |
 | **Consistency** | Dependent on Photographer | Locked via "Brand Kit" Settings |
 | **Scalability** | Linear (More photos = More $) | Exponential (Batch processing) |
@@ -94,10 +94,10 @@ These raw files were uploaded to PixelMatch in batches. The AI lifestyle generat
 By moving to an AI-first photography workflow, Lumina Skin saw an immediate impact on both their balance sheet and their store performance metrics.
 
 ### 90% Cost Reduction
-The most dramatic shift was the cost per listing. By utilizing PixelMatch’s batch generation capabilities, the brand reduced its average cost per lifestyle image from the [$50 to $150 range](https://www.nightjar.co/blog/real-cost-product-photography) down to an illustrative $12. This figure accounts for the SaaS subscription and the internal labor time required to take raw smartphone photos and run the generations. For a brand launching 10 new SKUs with 5 lifestyle images each, this represents a monthly saving of approximately $4,400.
+The most dramatic shift was the cost per listing. By utilizing PixelMatch’s batch generation capabilities, the brand reduced its average cost per lifestyle image from the $50 to $150 range down to an illustrative $12. This figure accounts for the SaaS subscription and the internal labor time required to take raw smartphone photos and run the generations. For a brand launching 10 new SKUs with 5 lifestyle images each, this represents a monthly saving of approximately $4,400.
 
 ### Conversion and CTR Lift
-High-quality lifestyle imagery is not just a vanity metric; it is a conversion tool. Industry data suggests that [lifestyle images lift conversions by 15-30%](https://www.nightjar.co/blog/product-photography-roi) because they help the customer visualize the product in their own life. Lumina Skin tracked a lift in Click-Through Rate (CTR) on their "Best Sellers" collection page from 1.2% to 1.6% after replacing flat-lay shots with AI-generated lifestyle scenes. 
+High-quality lifestyle imagery is not just a vanity metric; it is a conversion tool. Industry data suggests that lifestyle images lift conversions by 15-30% because they help the customer visualize the product in their own life. Lumina Skin tracked a lift in Click-Through Rate (CTR) on their "Best Sellers" collection page from 1.2% to 1.6% after replacing flat-lay shots with AI-generated lifestyle scenes. 
 
 ### Faster Time-to-Market
 The "Content Bottleneck" was eliminated. New products that previously sat in the warehouse for 3 weeks while waiting for agency retouches were now live on Shopify within 48 hours of the samples arriving. This allowed the brand to capitalize on trending skincare ingredients (like Ectoin or Copper Peptides) weeks before their slower-moving competitors.
@@ -154,9 +154,9 @@ While the metrics shared in this case study reflect the experience of a composit
 ## Sources
 
 *   [Shopify Help Center: Product Image Best Practices](https://help.shopify.com/en/manual/online-store/images/theme-images)
-*   [Nightjar: The Real Cost of Product Photography](https://www.nightjar.co/blog/real-cost-product-photography)
-*   [Stripe: Official Pricing Schedule](https://stripe.com/pricing)
-*   [Shopify: Pricing and Surcharge Tiers](https://www.shopify.com/pricing)
-*   [Photoroom: Pro Tier Pricing](https://www.photoroom.com/pricing)
-*   [Pebblely: Subscription Plans](https://pebblely.com/pricing)
-*   [Nightjar: Product Photography ROI and Conversion Lift](https://www.nightjar.co/blog/product-photography-roi)
+*   Nightjar: The Real Cost of Product Photography
+*   Stripe: Official Pricing Schedule
+*   Shopify: Pricing and Surcharge Tiers
+*   Photoroom: Pro Tier Pricing
+*   Pebblely: Subscription Plans
+*   Nightjar: Product Photography ROI and Conversion Lift

@@ -80,7 +80,7 @@ Stick to a 1:1 (square) aspect ratio for all primary product photos. This ensure
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=shopify-product-image-seo-best-practices-2026)**
+> **Try PixelMatch free →**
 
 Scan your Google Merchant Center "Diagnostics" tab and your Shopify "Product" alerts for these common image-related "Critical Issues" that block your items from appearing in search results.
 
@@ -143,7 +143,7 @@ By following these Shopify product image SEO best practices 2026, you ensure you
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=shopify-product-image-seo-best-practices-2026)**
+**Start free →**
 
 ## Sources
 

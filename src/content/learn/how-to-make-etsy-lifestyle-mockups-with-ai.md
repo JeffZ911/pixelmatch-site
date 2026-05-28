@@ -101,7 +101,7 @@ Etsy recommends listing photos have a width and height of at least 2000 pixels o
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=how-to-make-etsy-lifestyle-mockups-with-ai)**
+> **Try PixelMatch free →**
 
 Even with the best AI tools, small errors can flag your listing as "low quality" or violate platform policies.
 
@@ -179,7 +179,7 @@ Yes, upscaling is a common use for AI in 2026. If you have older product photos 
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=how-to-make-etsy-lifestyle-mockups-with-ai)**
+**Start free →**
 
 ## Sources
 *   https://www.etsy.com/legal/sellers/ (Etsy Seller Policy - 2026 Update)

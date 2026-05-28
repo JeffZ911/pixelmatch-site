@@ -88,7 +88,7 @@ Compress the final image to under 1 MB before uploading to Shopify's Content > F
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=create-high-resolution-2048x2048-shopify-images)**
+> **Try PixelMatch free →**
 
 Many sellers inadvertently sabotage their site speed or visual appeal by skipping technical checks. Avoid these four common pitfalls to keep your store running lean.
 
@@ -169,7 +169,7 @@ For web use on Shopify, DPI (dots per inch) is irrelevant; only the pixel dimens
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=create-high-resolution-2048x2048-shopify-images)**
+**Start free →**
 
 ## Sources
 

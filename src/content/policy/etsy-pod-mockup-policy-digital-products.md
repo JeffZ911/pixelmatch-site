@@ -79,7 +79,7 @@ The 2026 rules emphasize "representative accuracy." If an AI-generated mockup sh
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=etsy-pod-mockup-policy-digital-products)**
+> **Try PixelMatch free →**
 
 Scan your shop for "placeholder fatigue" — a common reason for listing deactivations in 2026. Etsy’s AI-driven quality control tools now flag shops that use the same generic stock mockups as thousands of other sellers. Using unedited stock imagery from popular sites without any modification makes your shop look like a low-effort reseller, which contradicts the "Creativity Standards."
 
@@ -118,7 +118,7 @@ Eliminate buyer confusion by standardizing your digital product badges.
 
 ### Automating Compliant Mockups with PixelMatch
 
-Optimize your scaling strategy by using PixelMatch to [batch-generate unique, compliant AI mockups](https://pixelmatch.ai) that align with the 2026 Etsy image size limits. Unlike standard mockup generators that provide the same five scenes to every user, PixelMatch allows you to upload your design and generate hundreds of unique, high-resolution (up to 2400px) environments in seconds.
+Optimize your scaling strategy by using PixelMatch to batch-generate unique, compliant AI mockups that align with the 2026 Etsy image size limits. Unlike standard mockup generators that provide the same five scenes to every user, PixelMatch allows you to upload your design and generate hundreds of unique, high-resolution (up to 2400px) environments in seconds.
 
 PixelMatch is better suited for high-volume Etsy workflows than Photoroom or Pebblely because it focuses on batch consistency. You can maintain the same lighting and "vibe" across an entire collection of digital planners or POD hoodies, ensuring your shop storefront looks cohesive. This consistency is a key metric in Etsy’s "Shop Quality Score," which influences your organic search ranking.
 
@@ -132,7 +132,7 @@ To fix resolution issues across your shop:
 ![Official Source Links](/img/etsy-pod-mockup-policy-digital-products/inline-5.webp)
 
 
-*   [Etsy's Creativity Standards (Updated June 2025)](https://www.etsy.com/legal/creativity)
+*   Etsy's Creativity Standards (Updated June 2025)
 *   [Etsy Listing Image Requirements Policy](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)
 *   [Etsy Seller Handbook: Stance on AI Creations](https://www.etsy.com/seller-handbook/article/1251344033069)
 *   [Etsy Disclosing Production Partners](https://help.etsy.com/hc/en-us/articles/360000336547-How-to-List-Production-Partners)
@@ -143,7 +143,7 @@ To fix resolution issues across your shop:
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=etsy-pod-mockup-policy-digital-products)**
+**Start free →**
 
 ## Sources
 

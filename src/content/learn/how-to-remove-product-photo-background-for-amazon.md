@@ -86,7 +86,7 @@ Amazon requires the product to occupy at least 85% of the total frame. After rem
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=how-to-remove-product-photo-background-for-amazon)**
+> **Try PixelMatch free →**
 
 Avoid the "Off-White Trap." Many sellers use "lifestyle" photos taken in natural light and try to brighten the background using exposure sliders. This rarely results in a true RGB 255, 255, 255 white. It usually leaves a "halo" of light gray or yellow around the product, which Amazon’s automated filters will flag.
 
@@ -168,14 +168,14 @@ Navigate to "Manage All Inventory" in Seller Central and look for the "Search Su
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=how-to-remove-product-photo-background-for-amazon)**
+**Start free →**
 
 ## Sources
 
 *   Amazon Seller Central: [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
 *   Shopify Blog: [Product Photography for Amazon Guide](https://www.shopify.com/blog/amazon-product-photography)
-*   Jungle Scout: [Amazon Product Image Requirements 2024-2025](https://www.junglescout.com/blog/amazon-product-image-requirements/)
-*   Photoroom Pricing: [Official Pricing Page](https://www.photoroom.com/pricing)
-*   Canva Help Center: [Canva Pro Subscription Costs](https://www.canva.com/pricing/)
-*   Remove.bg: [Pricing for Credits](https://www.remove.bg/pricing)
-*   Pebblely: [Pricing and Plans](https://pebblely.com/pricing/)
+*   Jungle Scout: Amazon Product Image Requirements 2024-2025
+*   Photoroom Pricing: Official Pricing Page
+*   Canva Help Center: Canva Pro Subscription Costs
+*   Remove.bg: Pricing for Credits
+*   Pebblely: Pricing and Plans

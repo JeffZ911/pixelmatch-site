@@ -98,7 +98,7 @@ Batch-apply the generated scene to all product variations to maintain a cohesive
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=best-ai-product-photo-tool-etsy-2026)**
+> **Try PixelMatch free →**
 
 Avoid the "uncanny valley" of AI product photography. Shoppers in 2026 are savvy; they can spot a fake background if the perspective is off or if the product looks too perfect.
 
@@ -165,7 +165,7 @@ Etsy does not penalize AI-generated backgrounds, but it does penalize low-qualit
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=best-ai-product-photo-tool-etsy-2026)**
+**Start free →**
 
 ## Sources
 

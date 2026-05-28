@@ -77,7 +77,7 @@ Once uploaded, add accurate, accessibility-focused Alt Text in the Shopify admin
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=how-to-edit-shopify-product-photos-for-seo)**
+> **Try PixelMatch free →**
 
 Download a batch converter today to ensure no HEIC files from mobile devices enter your Shopify library, as these will be rejected upon upload.
 
@@ -128,13 +128,13 @@ Yes, AI-generated images are fully supported. Tools like PixelMatch allow you to
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=how-to-edit-shopify-product-photos-for-seo)**
+**Start free →**
 
 ## Sources
 
 *   Shopify Help Center: [Product image size and format requirements](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements)
 *   Google Search Central: [Image SEO Best Practices](https://developers.google.com/search/docs/appearance/google-images)
-*   Stripe Pricing: [Standard Processing Fees as of 2026](https://stripe.com/pricing)
-*   Photoroom: [Pro Subscription Tiers](https://www.photoroom.com/pricing)
-*   Pebblely: [Pricing and Image Limits](https://pebblely.com/pricing/)
-*   Web.dev: [Optimize your Largest Contentful Paint](https://web.dev/articles/lcp)
+*   Stripe Pricing: Standard Processing Fees as of 2026
+*   Photoroom: Pro Subscription Tiers
+*   Pebblely: Pricing and Image Limits
+*   Web.dev: Optimize your Largest Contentful Paint

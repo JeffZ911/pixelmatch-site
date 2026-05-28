@@ -80,7 +80,7 @@ AI batch generation utilizes a "parallel" workflow. Once you have a single high-
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=ai-vs-traditional-photography-for-shopify-stores)**
+> **Try PixelMatch free →**
 
 Calculate your "Cost Per Listing" (CPL) by dividing your total annual photography spend by the number of unique sales channels you use. If your CPL is higher than $150 per SKU, you are overpaying for content that has a shelf life of less than six months.
 
@@ -179,13 +179,13 @@ This hybrid model reduces your visual content budget by up to 80% and slashes yo
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=ai-vs-traditional-photography-for-shopify-stores)**
+**Start free →**
 
 ## Sources
 
 *   Shopify Help Center: [Image size and resolution requirements 2026](https://help.shopify.com/en/manual/online-store/images/product-images)
-*   TikTok Shop Academy: [Product Image Specifications and Guidelines](https://seller.tiktok.com/help/article?knowledge_id=10001015)
+*   TikTok Shop Academy: Product Image Specifications and Guidelines
 *   Amazon Seller Central: [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
-*   Photoroom Pricing: [Official Subscription Tiers](https://www.photoroom.com/pricing)
-*   Pebblely Pricing: [Subscription and Image Credits](https://pebblely.com/pricing/)
-*   Jungle Scout: [Ecommerce Photography Costs for 2026](https://www.junglescout.com/blog/product-photography/)
+*   Photoroom Pricing: Official Subscription Tiers
+*   Pebblely Pricing: Subscription and Image Credits
+*   Jungle Scout: Ecommerce Photography Costs for 2026

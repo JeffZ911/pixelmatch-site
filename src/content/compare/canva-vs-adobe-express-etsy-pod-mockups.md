@@ -80,7 +80,7 @@ However, a major pain point for Etsy sellers is the 1MB file size recommendation
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=canva-vs-adobe-express-etsy-pod-mockups)**
+> **Try PixelMatch free →**
 
 Calculate your "cost per mockup" by dividing your monthly subscription fee by the number of listings you launch each month. If you launch 10 listings with 5 mockups each (50 total), Canva Pro costs you $0.30 per mockup, while Adobe Express costs $0.20.
 
@@ -146,13 +146,13 @@ In 2026, Etsy shoppers are more discerning than ever. They can spot a "Canva Tem
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=canva-vs-adobe-express-etsy-pod-mockups)**
+**Start free →**
 
 ## Sources
 
 *   Etsy Seller Handbook: [https://www.etsy.com/seller-handbook/article/the-ultimate-guide-to-product-photography/147455439771](https://www.etsy.com/seller-handbook/article/the-ultimate-guide-to-product-photography/147455439771)
-*   Canva Pro Pricing & Features: [https://www.canva.com/pricing/](https://www.canva.com/pricing/)
-*   Adobe Express Premium Pricing: [https://www.adobe.com/express/pricing](https://www.adobe.com/express/pricing)
+*   Canva Pro Pricing & Features: https://www.canva.com/pricing/
+*   Adobe Express Premium Pricing: https://www.adobe.com/express/pricing
 *   Etsy Image Requirements 2026 (Internal Seller Central Update): [Information not yet publicly available as of 2026-05-19]
-*   Stripe Standard Transaction Fees: [https://stripe.com/pricing](https://stripe.com/pricing)
+*   Stripe Standard Transaction Fees: https://stripe.com/pricing
 *   Adobe Firefly Generative Credit Info: [https://helpx.adobe.com/firefly/using/generative-credits-faq.html](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)

@@ -83,7 +83,7 @@ Configure your export settings to meet Etsy's 2026 limits. Automate the resizing
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=how-to-automate-etsy-listing-photo-creation)**
+> **Try PixelMatch free →**
 
 Even with automation, small errors in your setup can lead to listing rejections or poor conversion rates.
 
@@ -153,7 +153,7 @@ As of May 23, 2026, Etsy Payments (which processes most transactions via Stripe)
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=how-to-automate-etsy-listing-photo-creation)**
+**Start free →**
 
 ## Sources
 

@@ -75,7 +75,7 @@ Ensure your exports meet these Shopify-specific requirements before bulk-uploadi
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=pebblely-vs-photoroom-shopify-lifestyle-photos)**
+> **Try PixelMatch free →**
 
 Calculate your "cost per SKU" by dividing the monthly subscription by the number of unique lifestyle scenes you actually use. As of May 19, 2026, both platforms have adjusted their tiers to account for increased GPU costs and new generative features.
 
@@ -163,13 +163,13 @@ If you find yourself spending more than 5 hours a week manually clicking "Genera
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=pebblely-vs-photoroom-shopify-lifestyle-photos)**
+**Start free →**
 
 ## Sources
 
 *   Shopify Help Center: [Product image specifications and requirements](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements)
-*   Pebblely Official Pricing: [pebblely.com/pricing](https://pebblely.com/pricing/)
-*   Photoroom Pricing and Plans: [photoroom.com/pricing](https://www.photoroom.com/pricing)
+*   Pebblely Official Pricing: pebblely.com/pricing
+*   Photoroom Pricing and Plans: photoroom.com/pricing
 *   Amazon Seller Central: [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
-*   TikTok Shop Academy: [Product Image Guidelines](https://seller.tiktok.com/university/essay?knowledge_id=10011405)
-*   Stripe Pricing for SaaS: [stripe.com/pricing](https://stripe.com/pricing)
+*   TikTok Shop Academy: Product Image Guidelines
+*   Stripe Pricing for SaaS: stripe.com/pricing

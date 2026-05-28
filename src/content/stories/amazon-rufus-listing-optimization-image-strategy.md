@@ -41,7 +41,7 @@ This case study follows a composite profile of "Haven & Hearth," a mid-market ho
 
 Haven & Hearth managed a diverse catalog where visual context is everything. A shopper isn't just looking for a "desk organizer"; they are looking for a "minimalist bamboo organizer that fits a 13-inch laptop and a notebook." 
 
-With the rollout of Amazon's AI shopping assistant, Rufus, traditional keyword stuffing in the title and bullet points was no longer enough to secure the top spot. Rufus evaluates listings for [Semantic Confidence](https://www.youtube.com/watch?v=syfz0BXmm7A), a metric that determines how accurately the AI can answer specific user questions about a product. This confidence is built through structured data, customer reviews, and multimodal content—specifically images that the AI can "read" via computer vision and Optical Character Recognition (OCR).
+With the rollout of Amazon's AI shopping assistant, Rufus, traditional keyword stuffing in the title and bullet points was no longer enough to secure the top spot. Rufus evaluates listings for Semantic Confidence, a metric that determines how accurately the AI can answer specific user questions about a product. This confidence is built through structured data, customer reviews, and multimodal content—specifically images that the AI can "read" via computer vision and Optical Character Recognition (OCR).
 
 The brand realized their existing imagery was too generic. Rufus couldn't confidently tell a user if their "mid-century modern lamp" would fit on a narrow nightstand because none of the images provided scale, dimensions, or varied environmental context. They needed to overhaul their strategy to provide the visual data points Rufus uses to answer conversational shopper queries.
 
@@ -61,7 +61,7 @@ Traditional lifestyle photography sessions were costing the brand upwards of $35
 The brand used basic background removal tools like Canva or Removebg for their secondary images. While these tools are effective for simple cutouts, they often left products looking flat. The "floating" product effect lacks the environmental shadows and reflections that Rufus’s vision models use to understand texture and material quality. Without realistic depth, the AI cannot verify if a product is "matte," "glossy," or "textured," leading to lower semantic confidence scores.
 
 ### 3. Scaling Limitations of Entry-Level AI
-The team experimented with Photoroom's [Pro tier at $12.99/mo](https://www.photoroom.com/pricing). While the tool was affordable and excellent for social media content, the brand struggled to generate the highly specific, infographic-style lifestyle scenes required for Rufus optimization. They found themselves spending hours on manual prompt engineering to get a "boho-chic living room with natural morning light" that didn't distort the product's proportions.
+The team experimented with Photoroom's Pro tier at $12.99/mo. While the tool was affordable and excellent for social media content, the brand struggled to generate the highly specific, infographic-style lifestyle scenes required for Rufus optimization. They found themselves spending hours on manual prompt engineering to get a "boho-chic living room with natural morning light" that didn't distort the product's proportions.
 
 **Actionable Step:** Audit your last three photography invoices. Calculate your "Visual CAC" (Visual Customer Acquisition Cost) by dividing your total photography spend by the number of new SKUs launched. If this number exceeds 10% of your projected first-month revenue for those SKUs, your current workflow is unsustainable.
 
@@ -72,7 +72,7 @@ The team experimented with Photoroom's [Pro tier at $12.99/mo](https://www.photo
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=amazon-rufus-listing-optimization-image-strategy)**
+> **Try PixelMatch free →**
 
 To solve the bottleneck, the seller switched to PixelMatch. This allowed them to generate compliant main images and context-rich secondary images at a fraction of the previous cost. They focused on a four-part visual stack designed specifically to feed Rufus the data it craves.
 
@@ -161,7 +161,7 @@ Amazon's policy is strict: the main image must be a professional photograph of t
 While the correlation between contextual imagery and Rufus visibility is clear, the exact ranking algorithm weightings are [Information not yet publicly available as of 2026-05-27]. We know that Rufus prioritizes "helpful" content, but the specific ratio of image-to-text importance in the ranking score remains a proprietary secret of Amazon's A10 algorithm.
 
 ### 4. Transactional Costs
-While photo costs drop, remember that your net profit is still subject to platform fees. For a home goods seller, you are typically looking at a [15% Amazon Referral Fee](https://sell.amazon.com/pricing#referral-fees) plus FBA fulfillment costs. If you sell on Shopify as well, factor in the [2.9% + $0.30 Stripe processing fee](https://stripe.com/pricing) (or your specific Shopify Payments rate). Cutting your photo costs from $350 to $45 per SKU can increase your per-unit net margin by several percentage points, which is often the difference between a scaling brand and a stagnant one.
+While photo costs drop, remember that your net profit is still subject to platform fees. For a home goods seller, you are typically looking at a [15% Amazon Referral Fee](https://sell.amazon.com/pricing#referral-fees) plus FBA fulfillment costs. If you sell on Shopify as well, factor in the 2.9% + $0.30 Stripe processing fee (or your specific Shopify Payments rate). Cutting your photo costs from $350 to $45 per SKU can increase your per-unit net margin by several percentage points, which is often the difference between a scaling brand and a stagnant one.
 
 **Actionable Step:** Create a "3-Point AI Check" for every image: 
 1. Are the product proportions accurate relative to the furniture? 
@@ -175,14 +175,14 @@ If an image fails any of these, re-generate or manually edit before publishing.
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=amazon-rufus-listing-optimization-image-strategy)**
+**Start free →**
 
 ## Sources
 
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
-*   [Amazon Rufus Introduction and Overview](https://www.aboutamazon.com/news/retail/amazon-rufus)
-*   [Photoroom Pricing and Tiers](https://www.photoroom.com/pricing)
-*   [Stripe Standard Processing Fees](https://stripe.com/pricing)
+*   <a href="https://www.amazon.com/s?k=Amazon+Rufus+Introduction+and+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Rufus Introduction and Overview</a>
+*   Photoroom Pricing and Tiers
+*   Stripe Standard Processing Fees
 *   [Amazon FBA Referral Fees by Category](https://sell.amazon.com/pricing#referral-fees)
-*   [Semantic Confidence and AI Search Optimization Guide](https://www.youtube.com/watch?v=syfz0BXmm7A)
-*   [Adobe Express Premium Pricing](https://www.adobe.com/express/pricing)
+*   Semantic Confidence and AI Search Optimization Guide
+*   Adobe Express Premium Pricing

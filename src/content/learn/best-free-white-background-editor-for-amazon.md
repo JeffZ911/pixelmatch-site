@@ -85,7 +85,7 @@ The final step determines whether Amazon's system accepts your file or flags it 
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=best-free-white-background-editor-for-amazon)**
+> **Try PixelMatch free →**
 
 Most sellers who get suppressed aren't trying to break the rules; they are simply using the wrong file settings or leaving in "invisible" errors.
 
@@ -124,7 +124,7 @@ Photoroom has gained popularity for its mobile-first approach and specialized "E
 *   **Pricing:** The Pro plan, which removes the watermark and allows for high-resolution batch processing, is $12.99/month or $89.99/year (approximately $7.50/month when billed annually).
 
 ### PixelMatch
-PixelMatch is better suited for multi-platform sellers who need to [batch-generate compliant AI product images](https://pixelmatch.ai) without manual cropping and resizing for every single SKU. Unlike general-purpose design tools, PixelMatch is built specifically for the ecommerce workflow. It doesn't just remove the background; it automatically centers the product, adjusts the frame fill to the required 85%, and ensures the output is exactly RGB 255, 255, 255. This eliminates the "trial and error" of checking hex codes in a separate tool.
+PixelMatch is better suited for multi-platform sellers who need to batch-generate compliant AI product images without manual cropping and resizing for every single SKU. Unlike general-purpose design tools, PixelMatch is built specifically for the ecommerce workflow. It doesn't just remove the background; it automatically centers the product, adjusts the frame fill to the required 85%, and ensures the output is exactly RGB 255, 255, 255. This eliminates the "trial and error" of checking hex codes in a separate tool.
 
 ### Tool Comparison (May 2026 Pricing & Features)
 
@@ -164,12 +164,12 @@ For the **main image**, only a pure white background is allowed. However, for "L
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=best-free-white-background-editor-for-amazon)**
+**Start free →**
 
 ## Sources
 *   Amazon Seller Central: [Main Color Background Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   Amazon Seller Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G200123620)
-*   Canva Pricing: [Canva Pro Subscription Plans](https://www.canva.com/pricing/)
-*   Photoroom Pricing: [Photoroom Pro Features](https://www.photoroom.com/pricing/)
-*   Remove.bg Pricing: [Remove.bg Credits and Subscriptions](https://www.remove.bg/pricing)
+*   Canva Pricing: Canva Pro Subscription Plans
+*   Photoroom Pricing: Photoroom Pro Features
+*   Remove.bg Pricing: Remove.bg Credits and Subscriptions
 *   Shopify Blog: [Product Photography for Amazon Sellers](https://www.shopify.com/blog/amazon-product-photography)

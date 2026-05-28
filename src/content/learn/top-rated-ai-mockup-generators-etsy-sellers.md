@@ -81,7 +81,7 @@ Once your mockups are generated, batch-resize them to 2000 x 2000 pixels. Use a 
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=top-rated-ai-mockup-generators-etsy-sellers)**
+> **Try PixelMatch free →**
 
 Check your PNG files for hidden transparency layers before you hit the "Publish" button on Etsy Shop Manager. Many sellers assume a PNG is the highest quality format, but without a solid background layer, your professional mockup will appear as a black box on the storefront.
 
@@ -155,7 +155,7 @@ Only if you are selling a digital download of AI-generated art and you disclose 
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=top-rated-ai-mockup-generators-etsy-sellers)**
+**Start free →**
 
 ## Sources
 

@@ -88,7 +88,7 @@ Export your images as JPG or PNG files under the 20MB limit. For TikTok Shop, PN
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=best-9-16-image-editor-tiktok-shop)**
+> **Try PixelMatch free →**
 
 Avoid the "Dead Zone" trap. Many sellers treat a 9:16 canvas like a blank poster, but on TikTok, only about 60% of that canvas is "safe" for critical information.
 
@@ -171,7 +171,7 @@ Blurriness usually stems from one of three issues:
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=best-9-16-image-editor-tiktok-shop)**
+**Start free →**
 
 ## Sources
 

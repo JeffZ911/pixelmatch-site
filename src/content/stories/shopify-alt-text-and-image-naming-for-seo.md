@@ -70,7 +70,7 @@ Previous attempts to "hack" the system also failed:
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=shopify-alt-text-and-image-naming-for-seo)**
+> **Try PixelMatch free →**
 
 Set your image export presets to 2048x2048 pixels square to ensure your Shopify store supports high-quality zoom functionality without triggering massive layout shifts or slow load times. The brand moved away from manual uploads and implemented a four-stage automated pipeline using PixelMatch.
 
@@ -162,13 +162,13 @@ It is important to choose the right tool for the job. PixelMatch is specifically
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=shopify-alt-text-and-image-naming-for-seo)**
+**Start free →**
 
 ## Sources
 
 *   Shopify Help Center: [Product Image Specifications](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements)
 *   Google Search Central: [Image SEO Best Practices](https://developers.google.com/search/docs/appearance/google-images)
-*   W3C: [Alt Text Decision Tree (WCAG 2.1)](https://www.w3.org/WAI/tutorials/images/decision-tree/)
-*   Ahrefs: [Image SEO: 12 Actionable Tips](https://ahrefs.com/blog/image-seo/)
-*   Moz: [Alt Text for SEO](https://moz.com/learn/seo/alt-text)
-*   Jungle Scout: [Optimizing Product Images for Ecommerce](https://www.junglescout.com/blog/amazon-product-images/)
+*   W3C: Alt Text Decision Tree (WCAG 2.1)
+*   Ahrefs: Image SEO: 12 Actionable Tips
+*   Moz: Alt Text for SEO
+*   Jungle Scout: Optimizing Product Images for Ecommerce

@@ -83,7 +83,7 @@ Amazon reports that over 50% of its traffic comes from mobile devices, yet many 
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=amazon-brand-registry-a-plus-content-image-specs)**
+> **Try PixelMatch free →**
 
 Run a manual sweep for banned keywords like "Best Seller" or "Guaranteed" in your image text before submitting for approval. Amazon’s automated visual recognition software is now sophisticated enough to scan text embedded within images, not just the metadata.
 
@@ -143,9 +143,9 @@ Verify these policies directly on the Amazon Seller Central portal to ensure you
 | :--- | :--- | :--- |
 | **A+ Content Manager** | Upload and manage your modules | [sellercentral.amazon.com/aplus/manager](https://sellercentral.amazon.com/aplus/manager) |
 | **A+ Content Guidelines** | Official policy on prohibited claims | [sellercentral.amazon.com/help/hub/reference/G202102960](https://sellercentral.amazon.com/help/hub/reference/G202102960) |
-| **Brand Registry Enrollment** | Register your trademark with Amazon | [brandservices.amazon.com](https://brandservices.amazon.com) |
-| **IP Accelerator** | Find Amazon-approved law firms for trademarks | [brandservices.amazon.com/ipaccelerator](https://brandservices.amazon.com/ipaccelerator) |
-| **Climate Pledge Friendly** | Requirements for environmental claims | [amazon.com/b?node=21221608011](https://amazon.com/b?node=21221608011) |
+| **Brand Registry Enrollment** | Register your trademark with Amazon | <a href="https://www.amazon.com/s?k=brandservices.amazon.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">brandservices.amazon.com</a> |
+| **IP Accelerator** | Find Amazon-approved law firms for trademarks | <a href="https://www.amazon.com/s?k=brandservices.amazon.com%2Fipaccelerator&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">brandservices.amazon.com/ipaccelerator</a> |
+| **Climate Pledge Friendly** | Requirements for environmental claims | <a href="https://www.amazon.com/s?k=amazon.com%2Fb%3Fnode%3D21221608011&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">amazon.com/b?node=21221608011</a> |
 
 
 <!-- pm-cta:foot -->
@@ -153,7 +153,7 @@ Verify these policies directly on the Amazon Seller Central portal to ensure you
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=amazon-brand-registry-a-plus-content-image-specs)**
+**Start free →**
 
 ## Sources
 *   Amazon Seller Central: A+ Content Specifications and Images (verified 2026-05-18)

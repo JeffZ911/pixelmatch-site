@@ -35,11 +35,11 @@ Audit your shop's inventory against the following compliance matrix to determine
 
 | Product Category | Primary Photo Requirement | AI Background Removal | Fully AI-Generated Product Image | Disclosure Required? |
 | :--- | :--- | :--- | :--- | :--- |
-| **Physical Handmade** | [Real photo of the actual item](https://www.etsy.com/legal/policy/listing-image-requirements/253962679005) | Permitted | Prohibited | No (for editing) |
+| **Physical Handmade** | Real photo of the actual item | Permitted | Prohibited | No (for editing) |
 | **Personalized Items** | [Finished, customized prototype](https://help.etsy.com/hc/en-us/articles/360000336367-How-to-Offer-Personalized-Listings) | Permitted | Prohibited as primary image | No (for editing) |
 | **Print on Demand (POD)** | Mockup or real photo | Permitted | Permitted (as mockup) | Yes (Production Partner) |
-| **Digital AI Art** | AI-generated file | N/A | Permitted | [Yes (AI Disclosure Tag)](https://www.etsy.com/legal/policy/etsys-creativity-standards/239327031264) |
-| **Vintage Goods** | [Real photo of the specific item](https://www.etsy.com/legal/policy/listing-image-requirements/253962679005) | Permitted | Prohibited | No |
+| **Digital AI Art** | AI-generated file | N/A | Permitted | Yes (AI Disclosure Tag) |
+| **Vintage Goods** | Real photo of the specific item | Permitted | Prohibited | No |
 
 **Actionable Step:** Open your Etsy Seller Dashboard, navigate to your "Active Listings," and flag any item where the first image is a computer-generated rendering of a physical product you have not yet manufactured. Replace these with high-resolution photos of physical prototypes by the end of your current business day.
 
@@ -52,9 +52,9 @@ Verify your image assets against Etsy’s technical and ethical benchmarks to ma
 
 ### Physical Handmade Items vs. Digital Goods
 
-Distinguish between "AI-assisted editing" and "AI-generated products." For physical goods—whether it’s a hand-knitted scarf or a custom-built coffee table—Etsy’s core rule remains unchanged: the buyer must see a [photo of the actual item](https://www.etsy.com/legal/policy/listing-image-requirements/253962679005) they will receive. Using AI to generate a "perfect" version of a product that doesn't exist in the physical world is a violation of the Handmade Policy.
+Distinguish between "AI-assisted editing" and "AI-generated products." For physical goods—whether it’s a hand-knitted scarf or a custom-built coffee table—Etsy’s core rule remains unchanged: the buyer must see a photo of the actual item they will receive. Using AI to generate a "perfect" version of a product that doesn't exist in the physical world is a violation of the Handmade Policy.
 
-However, Etsy’s 2026 standards explicitly allow for "Seller-prompted AI creations" in the digital space. If you are selling digital downloads, such as printable wall art or desktop wallpapers generated via Midjourney or DALL-E, you must categorize these as "Designed by a seller" and apply the [required AI disclosure](https://www.etsy.com/legal/policy/etsys-creativity-standards/239327031264) in the listing details. This transparency prevents buyer confusion and aligns with Etsy’s commitment to "Keep Commerce Human" even when using machine-learning tools.
+However, Etsy’s 2026 standards explicitly allow for "Seller-prompted AI creations" in the digital space. If you are selling digital downloads, such as printable wall art or desktop wallpapers generated via Midjourney or DALL-E, you must categorize these as "Designed by a seller" and apply the required AI disclosure in the listing details. This transparency prevents buyer confusion and aligns with Etsy’s commitment to "Keep Commerce Human" even when using machine-learning tools.
 
 ### Image Size and Resolution Specs
 
@@ -77,13 +77,13 @@ When using a batch-generation tool to process your photos, ensure the output res
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=etsy-handmade-policy-ai-assisted-product-photos)**
+> **Try PixelMatch free →**
 
 Identify the specific patterns that trigger Etsy’s automated listing deactivations. In 2026, Etsy uses sophisticated visual recognition AI to scan listings for "synthetic-looking" images that may indicate a seller is dropshipping or using prohibited generative techniques for physical goods.
 
 ### Using AI to generate the product itself
 
-The most frequent violation is the use of a "phantom product." This occurs when a seller uses a tool to generate a photorealistic image of a product (e.g., a gold ring with a specific gemstone) before the product has been made. Etsy requires the primary image to be an [actual photo of the finished product](https://www.etsy.com/legal/policy/listing-image-requirements/253962679005). If the gemstone in your photo is a digital rendering but the customer receives a physical stone with different inclusions, you are liable for a "Not as Described" claim.
+The most frequent violation is the use of a "phantom product." This occurs when a seller uses a tool to generate a photorealistic image of a product (e.g., a gold ring with a specific gemstone) before the product has been made. Etsy requires the primary image to be an actual photo of the finished product. If the gemstone in your photo is a digital rendering but the customer receives a physical stone with different inclusions, you are liable for a "Not as Described" claim.
 
 ### Blank placeholders for personalized items
 
@@ -91,7 +91,7 @@ Avoid using "Your Text Here" or blank white mockups as your primary listing imag
 
 ### Over-smoothing or deceptive editing
 
-Resist the urge to use AI "beauty filters" on your products. While background removal is encouraged, using AI to digitally remove scratches from a vintage item or to change the texture of a fabric is considered deceptive. If the AI tool alters the physical attributes of the product—such as making a 3D-printed surface look injection-molded—the listing violates the [Creativity Standards](https://www.etsy.com/legal/policy/etsys-creativity-standards/239327031264).
+Resist the urge to use AI "beauty filters" on your products. While background removal is encouraged, using AI to digitally remove scratches from a vintage item or to change the texture of a fabric is considered deceptive. If the AI tool alters the physical attributes of the product—such as making a 3D-printed surface look injection-molded—the listing violates the Creativity Standards.
 
 **Actionable Step:** Compare your physical product in natural light to your primary listing photo. If the photo hides material defects or changes the color profile by more than 10%, re-edit the photo using a neutral color-correction tool rather than a generative "enhance" feature.
 
@@ -124,9 +124,9 @@ When choosing a tool for your Etsy shop, consider the cost and specific feature 
 | Tool | Pricing (as of 2026-05-27) | Best Use Case | Etsy Compliance Risk |
 | :--- | :--- | :--- | :--- |
 | **PixelMatch** | [Information not yet publicly available as of 2026-05-27] | Batch background replacement for multi-platform sellers. | Low (keeps product intact) |
-| **Photoroom** | [Pro tier at $12.99/mo](https://www.photoroom.com/pricing) | Quick mobile background removal. | Low |
-| **Canva Pro** | [$15.00/mo per person](https://www.canva.com/pricing/) | Graphic design and basic mockups. | Medium (easy to over-edit) |
-| **Adobe Express** | [$9.99/mo](https://www.adobe.com/express/pricing) | High-end retouching and AI fills. | Medium (generative fill can be deceptive) |
+| **Photoroom** | Pro tier at $12.99/mo | Quick mobile background removal. | Low |
+| **Canva Pro** | $15.00/mo per person | Graphic design and basic mockups. | Medium (easy to over-edit) |
+| **Adobe Express** | $9.99/mo | High-end retouching and AI fills. | Medium (generative fill can be deceptive) |
 
 PixelMatch is better suited for the Etsy workflow because it focuses on batch-generating backgrounds for your *real* product photos, rather than inviting you to "generate" a product from scratch. This focus on "Real Product + AI Environment" keeps you firmly on the right side of Etsy’s Handmade Policy.
 
@@ -141,11 +141,11 @@ PixelMatch is better suited for the Etsy workflow because it focuses on batch-ge
 
 Stay updated on policy shifts by bookmarking these official Etsy resources. Etsy frequently updates these pages without broad announcements to sellers.
 
--   [Etsy's Creativity Standards (2026)](https://www.etsy.com/legal/policy/etsys-creativity-standards/239327031264): The primary document defining what "handmade" and "AI-generated" mean on the platform.
--   [Etsy Listing Image Requirements](https://www.etsy.com/legal/policy/listing-image-requirements/253962679005): Technical specifications and rules regarding what can be shown in a primary photo.
+-   Etsy's Creativity Standards (2026): The primary document defining what "handmade" and "AI-generated" mean on the platform.
+-   Etsy Listing Image Requirements: Technical specifications and rules regarding what can be shown in a primary photo.
 -   [Requirements and Best Practices for Images in Your Etsy Shop](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop): A guide to image sizes, aspect ratios, and photography tips.
 -   [How to Offer Personalized Listings](https://help.etsy.com/hc/en-us/articles/360000336367-How-to-Offer-Personalized-Listings): Specific rules for sellers who customize items for buyers.
--   [Etsy’s Prohibited Items Policy](https://www.etsy.com/legal/prohibited-items/): To ensure your AI-generated art doesn't violate copyright or community standards.
+-   Etsy’s Prohibited Items Policy: To ensure your AI-generated art doesn't violate copyright or community standards.
 
 
 <!-- pm-cta:foot -->
@@ -153,7 +153,7 @@ Stay updated on policy shifts by bookmarking these official Etsy resources. Etsy
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=etsy-handmade-policy-ai-assisted-product-photos)**
+**Start free →**
 
 ## Sources
 

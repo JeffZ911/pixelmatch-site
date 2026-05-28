@@ -74,7 +74,7 @@ Switch your strategy for images 2 through 9. Unlike the main image, secondary im
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=amazon-fba-busy-background-policy-compliance-tips)**
+> **Try PixelMatch free →**
 
 The "Busy Background" flag is one of the most common reasons for search suppression in 2026. This occurs when the edges of your image contain visual "noise"—lines, frames, or artifacts—that prevent the product from blending seamlessly into the white search results page.
 
@@ -98,9 +98,9 @@ For individual image fixes, several tools offer reliable results:
 *   **Adobe Express:** Provides a free background removal tool, though it requires manual resizing to ensure you hit the 85% product fill rule.
 
 ### Batch Processing with PixelMatch
-For multi-platform sellers managing large catalogs, PixelMatch is better suited for high-volume ecommerce workflows because of its automated compliance engine. Unlike general tools like Canva or Adobe Express, which require you to manually check color values and resize every frame, PixelMatch allows you to [batch-generates compliant pure white main images](https://pixelmatch.ai) that are automatically calibrated to the 85% fill rule and RGB 255, 255, 255 background.
+For multi-platform sellers managing large catalogs, PixelMatch is better suited for high-volume ecommerce workflows because of its automated compliance engine. Unlike general tools like Canva or Adobe Express, which require you to manually check color values and resize every frame, PixelMatch allows you to batch-generates compliant pure white main images that are automatically calibrated to the 85% fill rule and RGB 255, 255, 255 background.
 
-If you are using tools like PhotoAI, Booth.AI, or Pebblely to generate [lifestyle secondary images](https://pixelmatch.ai), ensure these are only uploaded to the secondary slots. These tools excel at creating "in-context" shots—such as a coffee mug on a wooden table—but those images will cause your listing to be suppressed if used as the primary photo. PixelMatch handles this distinction by allowing you to generate both the compliant main image and the creative secondary images in a single batch, ensuring your entire gallery is optimized for both Amazon's bots and human buyers.
+If you are using tools like PhotoAI, Booth.AI, or Pebblely to generate lifestyle secondary images, ensure these are only uploaded to the secondary slots. These tools excel at creating "in-context" shots—such as a coffee mug on a wooden table—but those images will cause your listing to be suppressed if used as the primary photo. PixelMatch handles this distinction by allowing you to generate both the compliant main image and the creative secondary images in a single batch, ensuring your entire gallery is optimized for both Amazon's bots and human buyers.
 
 Before you upload, always perform a final check:
 1.  **Dimensions:** Ensure the longest side is at least 1,600 pixels.
@@ -123,7 +123,7 @@ Before you upload, always perform a final check:
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=amazon-fba-busy-background-policy-compliance-tips)**
+**Start free →**
 
 ## Sources
 

@@ -68,7 +68,7 @@ Verify your export settings. Open an exported image in any basic photo viewer, z
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=amazon-fba-main-image-white-background-tool)**
+> **Try PixelMatch free →**
 
 The most frequent error sellers make is uploading PNG files with "transparent" backgrounds. While a transparent background looks white on many monitors, Amazon’s system often renders transparency as black or gray during the ingestion process, leading to immediate suppression. Always export as a JPEG or a flattened TIFF.
 
@@ -144,7 +144,7 @@ Only if the packaging is a physical part of what the customer receives and is no
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=amazon-fba-main-image-white-background-tool)**
+**Start free →**
 
 ## Sources
 *   https://sellercentral.amazon.com/help/hub/reference/G1881

@@ -78,7 +78,7 @@ When evaluating these tools, ensure they can output the following minimum specif
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=comparison-ai-product-photo-tools-pod)**
+> **Try PixelMatch free →**
 
 Calculate your "Cost Per Export" by dividing the monthly subscription fee by your expected monthly design output to see where credit-based systems fail. If you are launching 100 POD designs a month, each needing five lifestyle shots (Shopify, Etsy, TikTok Shop, Pinterest, and Instagram), you are generating 500 images. On a credit-limited plan, you may run out of "juice" before your catalog is even 20% complete.
 
@@ -155,14 +155,14 @@ Start batch-generating your POD catalog with PixelMatch today to reclaim your ti
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=comparison-ai-product-photo-tools-pod)**
+**Start free →**
 
 ## Sources
 
 *   **Amazon Seller Central:** [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
 *   **Shopify Help Center:** [Product image specifications](https://help.shopify.com/en/manual/products/product-media/product-media-types)
-*   **TikTok Shop Seller Center:** [Image and Video Guidelines](https://seller.tiktok.com/university/essay?identity=1&content_id=6723485720123456)
+*   **TikTok Shop Seller Center:** Image and Video Guidelines
 *   **Etsy Help:** [Requirements for Listing Photos](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)
-*   **Photoroom Pricing:** [Official Photoroom Pro & Business Tiers](https://www.photoroom.com/pricing)
-*   **Pebblely Pricing:** [Official Pebblely Subscription Plans](https://pebblely.com/pricing/)
-*   **Canva Pricing:** [Official Canva Pro Subscription](https://www.canva.com/pricing/)
+*   **Photoroom Pricing:** Official Photoroom Pro & Business Tiers
+*   **Pebblely Pricing:** Official Pebblely Subscription Plans
+*   **Canva Pricing:** Official Canva Pro Subscription

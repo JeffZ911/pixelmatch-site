@@ -80,7 +80,7 @@ While Etsy supports five file types, they are not treated equally by the platfor
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=etsy-listing-photo-guidelines-handmade)**
+> **Try PixelMatch free →**
 
 If you see the dreaded red banner "There was an error uploading your image," it is rarely a server-side Etsy problem. It is almost always a file-side configuration error.
 
@@ -154,7 +154,7 @@ By standardizing your image workflow, you remove the technical friction that sto
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=etsy-listing-photo-guidelines-handmade)**
+**Start free →**
 
 ## Sources
 

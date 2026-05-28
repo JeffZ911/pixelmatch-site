@@ -86,7 +86,7 @@ Step 5: Export in high-quality JPG or PNG format. While TikTok supports both, JP
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=tiktok-shop-vertical-hero-shot-editor-2026)**
+> **Try PixelMatch free →**
 
 Check your "Growth Center" for listing quality scores every 72 hours. TikTok Shop uses an automated vision AI to grade your images; if your hero shot is poorly framed, your "Listing Quality" score will drop, directly increasing your Customer Acquisition Cost (CAC) in the ad auction.
 
@@ -158,7 +158,7 @@ No, TikTok Shop does not reject images simply because they are AI-generated. How
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=tiktok-shop-vertical-hero-shot-editor-2026)**
+**Start free →**
 
 ## Sources
 

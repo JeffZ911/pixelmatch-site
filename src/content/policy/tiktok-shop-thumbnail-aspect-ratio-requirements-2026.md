@@ -89,7 +89,7 @@ For variant images, TikTok allows up to 3 photos per specific SKU variation (e.g
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=tiktok-shop-thumbnail-aspect-ratio-requirements-2026)**
+> **Try PixelMatch free →**
 
 Purge all promotional overlays from your thumbnails to avoid the "Listing Rejected" status that plagues multi-platform sellers. TikTok Shop's 2026 moderation AI is significantly more aggressive than Amazon or Shopify at detecting text within images. If the system identifies marketing slogans, it will block the listing until the image is replaced.
 
@@ -149,10 +149,10 @@ Stay updated by monitoring the official TikTok Shop documentation. Policies rega
 
 | Resource Name | Purpose | Link/Location |
 | :--- | :--- | :--- |
-| **TikTok Shop Seller Center** | Product Detail Page (PDP) Guidelines | [seller.tiktok.com/help](https://seller.tiktok.com) |
+| **TikTok Shop Seller Center** | Product Detail Page (PDP) Guidelines | seller.tiktok.com/help |
 | **TikTok Shop Academy** | Listing Quality Tier Definitions | Search "Listing Quality" in Academy |
-| **TikTok For Business** | Catalog Management & API Specs | [ads.tiktok.com/help](https://ads.tiktok.com) |
-| **TikTok Shop Policy Center** | Prohibited Content & IP Rules | [seller-us.tiktok.com/policy](https://seller-us.tiktok.com) |
+| **TikTok For Business** | Catalog Management & API Specs | ads.tiktok.com/help |
+| **TikTok Shop Policy Center** | Prohibited Content & IP Rules | seller-us.tiktok.com/policy |
 
 
 <!-- pm-cta:foot -->
@@ -160,7 +160,7 @@ Stay updated by monitoring the official TikTok Shop documentation. Policies rega
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=tiktok-shop-thumbnail-aspect-ratio-requirements-2026)**
+**Start free →**
 
 ## Sources
 

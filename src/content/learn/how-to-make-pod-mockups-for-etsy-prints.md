@@ -78,7 +78,7 @@ Etsy’s technical requirements have tightened to improve mobile load speeds acr
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=how-to-make-pod-mockups-for-etsy-prints)**
+> **Try PixelMatch free →**
 
 Navigating Etsy's policies is a moving target. In 2026, the platform's automated image recognition is more aggressive in flagging listings that do not meet "Handmade" or "Production Partner" transparency standards.
 
@@ -165,7 +165,7 @@ While watermarks can prevent "listing theft" by other sellers, they often distra
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=how-to-make-pod-mockups-for-etsy-prints)**
+**Start free →**
 
 ## Sources
 

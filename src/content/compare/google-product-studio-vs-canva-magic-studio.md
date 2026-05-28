@@ -37,7 +37,7 @@ Audit your current distribution channels before committing to a tool: if 80% of 
 | Feature | Google Product Studio | Canva Magic Studio | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Google Shopping Feed Optimization | Social Media & Marketing Design | High-Volume Ecommerce Batching |
-| **Cost** | [Free for GMC Next users](https://blog.google/products/shopping/google-product-studio-generative-ai-product-photos/) | [$15/mo (Pro)](https://www.canva.com/pricing/) | Enterprise/Pro Batch Pricing |
+| **Cost** | Free for GMC Next users | $15/mo (Pro) | Enterprise/Pro Batch Pricing |
 | **Batch Processing** | Limited (Feed-based) | No (Manual per-design) | Yes (100+ images at once) |
 | **AI Editing** | Scene Gen, Remove BG, Upscale | Magic Expand, Edit, Eraser | Catalog-wide Scene Consistency |
 | **Marketplace Specs** | Google-specific | Generic / Manual Templates | Amazon, TikTok, Walmart Compliant |
@@ -50,14 +50,14 @@ Audit your current distribution channels before committing to a tool: if 80% of 
 Enable the "Increase Resolution" toggle in Google Merchant Center Next to automatically upscale low-quality vendor assets to meet the [minimum 100x100 pixel requirement](https://support.google.com/merchants/answer/6324350) for non-apparel items. While both Google and Canva offer generative AI, their feature sets serve different stages of the funnel. Google Product Studio is a utility for search visibility, whereas Canva Magic Studio is a creative engine for brand storytelling.
 
 ### Google Product Studio Features
-Google’s toolset is built directly into [Google Merchant Center Next](https://blog.google/products/shopping/google-product-studio-generative-ai-product-photos/), meaning your edits sync directly with your product feed. 
+Google’s toolset is built directly into Google Merchant Center Next, meaning your edits sync directly with your product feed. 
 *   **Scene Generation:** You type a prompt like "on a marble kitchen counter with sunlight," and Google generates four lifestyle options.
 *   **Background Removal:** Instantly strips busy backgrounds to meet the "clean" look preferred by Google’s algorithm.
 *   **Resolution Upscaling:** Improves the clarity of small images without making them look pixelated.
 
 ### Canva Magic Studio Features
 Canva offers a broader suite of "Magic" tools that allow for more granular creative control.
-*   **Magic Expand:** Uses generative AI to [extend an image beyond its original borders](https://www.canva.com/magic-studio/), useful for turning a vertical phone shot into a horizontal website banner.
+*   **Magic Expand:** Uses generative AI to extend an image beyond its original borders, useful for turning a vertical phone shot into a horizontal website banner.
 *   **Magic Edit:** Allows you to brush over an area and replace it (e.g., changing a blue shirt to a red one).
 *   **Magic Eraser:** Removes unwanted objects (like a stray power cord) from the frame.
 
@@ -71,8 +71,8 @@ While Google and Canva focus on the *art* of the image, PixelMatch focuses on th
 
 Audit your software stack to see if you are paying for Canva Pro solely for background removal; if so, switch to Google Product Studio’s free tool to save $180 per year. Pricing for these tools is straightforward, but the "hidden cost" is the time spent on manual edits.
 
-*   **Google Product Studio:** This tool is [entirely free](https://blog.google/products/shopping/google-product-studio-generative-ai-product-photos/) for any merchant using Google Merchant Center Next. There are no per-image credits or monthly subscriptions. [Information not yet publicly available as of 2026-05-25] regarding any future paid premium tiers for Google Product Studio.
-*   **Canva Magic Studio:** To access the full suite of AI tools, you must have a paid subscription. [Canva Pro costs $15/month or $120/year](https://www.canva.com/pricing/) for one person. For teams, [Canva for Teams starts at $30/month](https://www.canva.com/pricing/) for a minimum of 3 users.
+*   **Google Product Studio:** This tool is entirely free for any merchant using Google Merchant Center Next. There are no per-image credits or monthly subscriptions. [Information not yet publicly available as of 2026-05-25] regarding any future paid premium tiers for Google Product Studio.
+*   **Canva Magic Studio:** To access the full suite of AI tools, you must have a paid subscription. Canva Pro costs $15/month or $120/year for one person. For teams, Canva for Teams starts at $30/month for a minimum of 3 users.
 *   **PixelMatch:** Designed for professional sellers, PixelMatch uses a credit-based or subscription model tailored for batch generation, ensuring you only pay for the high-volume output you actually need for your catalog.
 
 Calculate your monthly per-image cost by dividing your subscription fee by the number of unique product images you actually produce. If you only make 10 images a month on Canva Pro, each image costs you $1.50. High-volume sellers using PixelMatch typically see this cost drop significantly through automation.
@@ -89,11 +89,11 @@ Use Google Product Studio if you are a Shopify or WooCommerce merchant whose pri
 *   **Actionable Step:** Set a recurring calendar reminder to sync your Google Product Studio lifestyle images with your seasonal Google Shopping campaigns (e.g., updating backgrounds to "autumn leaves" on September 1st).
 
 ### When to use Canva Magic Studio
-Use Canva if you are a "solopreneur" who needs to create more than just product listings. If you need to make an Instagram Reel, a Pinterest Pin, and a Facebook Ad using the same product photo, Canva’s [Magic Switch](https://www.canva.com/magic-studio/) feature can resize and reformat your design for all those platforms in one click.
+Use Canva if you are a "solopreneur" who needs to create more than just product listings. If you need to make an Instagram Reel, a Pinterest Pin, and a Facebook Ad using the same product photo, Canva’s Magic Switch feature can resize and reformat your design for all those platforms in one click.
 *   **Actionable Step:** Create a "Brand Kit" in Canva with your specific hex codes and logos to ensure that when you use Magic Edit, the AI-generated elements don't clash with your established brand identity.
 
 ### When to upgrade to PixelMatch
-Upgrade to PixelMatch if you are a multi-platform seller managing a catalog of 50+ SKUs. If you are selling on [TikTok Shop (which recommends a 1:1 ratio)](https://seller.tiktok.com/help/article?knowledge_id=10013000), Amazon, and your own site, manually editing each image in Canva or Google is a bottleneck. PixelMatch automates the "Calibration Shoot" workflow, allowing you to apply a single high-converting AI scene to your entire product line simultaneously.
+Upgrade to PixelMatch if you are a multi-platform seller managing a catalog of 50+ SKUs. If you are selling on TikTok Shop (which recommends a 1:1 ratio), Amazon, and your own site, manually editing each image in Canva or Google is a bottleneck. PixelMatch automates the "Calibration Shoot" workflow, allowing you to apply a single high-converting AI scene to your entire product line simultaneously.
 *   **Actionable Step:** Upload your top 10 best-selling SKUs to PixelMatch and run a "Batch Scene Generation" to create 5 unique lifestyle contexts for each, giving you 50 pieces of content in under five minutes.
 
 ## Where Each Falls Short
@@ -127,9 +127,9 @@ Stop clicking "Remove Background" one image at a time. Audit your catalog today:
 
 ## Sources
 
-*   [Google Blog: Google Product Studio Generative AI](https://blog.google/products/shopping/google-product-studio-generative-ai-product-photos/)
-*   [Canva Pricing and Plans](https://www.canva.com/pricing/)
-*   [Canva Magic Studio Features](https://www.canva.com/magic-studio/)
+*   Google Blog: Google Product Studio Generative AI
+*   Canva Pricing and Plans
+*   Canva Magic Studio Features
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   [Google Merchant Center Help: Image Specifications](https://support.google.com/merchants/answer/6324350)
-*   [TikTok Shop Academy: Product Image Guidelines](https://seller.tiktok.com/help/article?knowledge_id=10013000)
+*   TikTok Shop Academy: Product Image Guidelines

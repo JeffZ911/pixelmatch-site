@@ -71,7 +71,7 @@ If you are using a PNG with a transparent background, Amazon’s system will oft
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
-> **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=fix-amazon-busy-background-image-error)**
+> **Try PixelMatch free →**
 
 Compare your product-to-frame ratio against the 85% requirement using a grid overlay in your editing software. If your product looks like a small island in a sea of white, the automated system will reject it for "insufficient product fill," which often gets miscategorized by sellers as a background error.
 
@@ -135,7 +135,7 @@ Refer to these official resources to stay updated on policy shifts, as Amazon fr
 
 *   **Amazon Seller Central - Product Image Requirements:** [https://sellercentral.amazon.com/help/hub/reference/G1881](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   **Amazon Seller Central - Image Issues and Suppression:** [https://sellercentral.amazon.com/help/hub/reference/200405880](https://sellercentral.amazon.com/help/hub/reference/200405880)
-*   **Amazon Brand Registry - Photography Guidelines:** [https://brandservices.amazon.com/](https://brandservices.amazon.com/)
+*   **Amazon Brand Registry - Photography Guidelines:** <a href="https://www.amazon.com/s?k=https%3A%2F%2Fbrandservices.amazon.com%2F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">https://brandservices.amazon.com/</a>
 
 
 <!-- pm-cta:foot -->
@@ -143,7 +143,7 @@ Refer to these official resources to stay updated on policy shifts, as Amazon fr
 
 PixelMatch generates white-background, lifestyle, and variant mockups from a single source photo — built specifically for multi-platform ecommerce sellers. 50 free images on signup, no credit card.
 
-**[Start free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=footer&utm_campaign=fix-amazon-busy-background-image-error)**
+**Start free →**
 
 ## Sources
 
