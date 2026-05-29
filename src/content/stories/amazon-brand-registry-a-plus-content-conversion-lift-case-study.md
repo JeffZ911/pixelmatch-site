@@ -1,4 +1,4 @@
---
+---
 title: How a Beauty Brand Achieved a 14% Amazon Brand Registry A+ Content Conversion Lift While Cutting Photo Costs 80%
 slug: amazon-brand-registry-a-plus-content-conversion-lift-case-study
 article_type: use_case
@@ -12,21 +12,21 @@ seller_profile: A composite profile based on typical Amazon FBA beauty sellers i
 is_composite: true
 key_metrics: [{"after": "14.5%", "before": "11.2%", "metric": "Conversion Rate"}, {"after": "$0.85 (PixelMatch)", "before": "$45.00 (Agency)", "metric": "Cost Per A+ Module Image"}]
 hero_image: /img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/hero.webp
-inline_images
+inline_images:
   - /img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-1.webp
   - /img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-2.webp
   - /img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-3.webp
   - /img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-4.webp
   - /img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-5.webp
   - /img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "The Seller's Situation"
   - "What Wasn't Working"
   - "The Workflow They Built"
   - "Results (with Numbers)"
   - "Steps to Replicate"
   - "Caveats and Honest Limitations"
---
+---
 
 Stop burning your margins on agency-shot lifestyle photos that take three weeks to deliver while your competitors use A+ Content to steal your "Above the Fold" attention. If you are managing a beauty catalog on Amazon FBA without high-resolution, lifestyle-integrated A+ modules, you are leaving a double-digit conversion lift on the table.
 
@@ -39,7 +39,7 @@ Audit your current Amazon "Product Description" section immediately; if you see 
 
 The seller had already navigated the hurdles of Amazon Brand Registry, but they were paralyzed by the "Visual Asset Gap." Amazon’s internal data suggests that listings featuring A+ Content can see an average conversion rate increase of up to 20%. For a brand doing $75,000 a month, a 20% lift represents an additional $180,000 in annual top-line revenue. However, the operational reality of filling those modules was daunting.
 
-Their catalog required more than just "bottle on white" shots. To compete in the high-saturation beauty niche, they needed imagery that demonstrated
+Their catalog required more than just "bottle on white" shots. To compete in the high-saturation beauty niche, they needed imagery that demonstrated:
 1.  **Product Texture:** Close-ups of creams, gels, and powders.
 2.  **Application Context:** Products sitting on marble vanities or near fresh botanical ingredients.
 3.  **Brand Authority:** High-resolution banners that conveyed a premium, clinical, or organic "vibe" depending on the product line.
@@ -74,7 +74,7 @@ Third, they tested Photoroom Pro ($12.99/month). While Photoroom offers decent b
 
 The seller transitioned to PixelMatch to automate the production of Amazon-compliant assets. By using a specialized AI photography engine, they moved from a "one-off" creative process to a "batch-processing" mindset. 
 
-Set your PixelMatch export profile to 72 DPI and RGB colorspace before you begin; this ensures your files bypass the common "Invalid File Format" or "Over-sized File" errors in Amazon Seller Central. The brand utilized the following three-stage workflow
+Set your PixelMatch export profile to 72 DPI and RGB colorspace before you begin; this ensures your files bypass the common "Invalid File Format" or "Over-sized File" errors in Amazon Seller Central. The brand utilized the following three-stage workflow:
 
 ### 1. The "Pure White" Foundation
 For the "Standard Three Images & Text" module, Amazon requires clean, distraction-free imagery. The seller used PixelMatch’s batch editor to process all 45 hero bottles into perfect RGB 255, 255, 255 white backgrounds at exactly 300 x 300 px. This ensured that the three-image carousel looked uniform across every SKU in the brand's storefront.

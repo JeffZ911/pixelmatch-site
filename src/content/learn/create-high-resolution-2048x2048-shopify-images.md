@@ -1,4 +1,4 @@
---
+---
 title: How to Create High Resolution 2048x2048 Shopify Images (2026)
 slug: create-high-resolution-2048x2048-shopify-images
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/create-high-resolution-2048x2048-shopify-images
 sources: []
 platform: multi
 hero_image: /img/create-high-resolution-2048x2048-shopify-images/hero.webp
-inline_images
+inline_images:
   - /img/create-high-resolution-2048x2048-shopify-images/inline-1.webp
   - /img/create-high-resolution-2048x2048-shopify-images/inline-2.webp
   - /img/create-high-resolution-2048x2048-shopify-images/inline-3.webp
   - /img/create-high-resolution-2048x2048-shopify-images/inline-4.webp
   - /img/create-high-resolution-2048x2048-shopify-images/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 Stop losing sales to grainy zoom windows that hide your product's quality. When a customer hovers over your product image, they expect to see the texture of the fabric or the precision of a stitch, not a blur of digital artifacts.
 

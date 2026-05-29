@@ -112,7 +112,7 @@ PixelMatch is designed specifically for high-volume ecommerce sellers who need t
 ### Photoroom
 
 Photoroom is a mobile-first background remover and resizer that is popular among small-scale sellers. 
-*   **Pricing:** As of May 24, 2026, the Pro plan is priced at $12.99 per month or $89.99 per year. 
+*   **Pricing:** As of May 24, 2026, the Pro plan is priced at $12.99 per month or $89.99 per year.
 *   **Batch Capabilities:** While it offers batch editing, the mobile interface often caps sessions at 50 images. This can be a limitation for sellers trying to update a 500-SKU catalog in one afternoon.
 *   **Best For:** Individual creators or sellers who manage their entire shop from a smartphone.
 
@@ -176,5 +176,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Seller Help Center: Product Image Specifications and Requirements
 *   Photoroom Pricing: Official Photoroom Subscription Page
 *   Pebblely Pricing: Official Pebblely Pricing Page
-*   Shopify Blog: [Optimizing Images for Social Commerce 2026](https://www.shopify.com/blog/image-optimization)
+*   Shopify Blog: Optimizing Images for Social Commerce 2026
 *   Reddit r/TikTokShop: Seller Discussions on Image Rejections and Compliance

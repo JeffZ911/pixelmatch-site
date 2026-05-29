@@ -1,4 +1,4 @@
---
+---
 title: "How to Make POD Mockups for Etsy Prints: 2026 Seller Guide"
 slug: how-to-make-pod-mockups-for-etsy-prints
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/how-to-make-pod-mockups-for-etsy-prints
 sources: []
 platform: multi
 hero_image: /img/how-to-make-pod-mockups-for-etsy-prints/hero.webp
-inline_images
+inline_images:
   - /img/how-to-make-pod-mockups-for-etsy-prints/inline-1.webp
   - /img/how-to-make-pod-mockups-for-etsy-prints/inline-2.webp
   - /img/how-to-make-pod-mockups-for-etsy-prints/inline-3.webp
   - /img/how-to-make-pod-mockups-for-etsy-prints/inline-4.webp
   - /img/how-to-make-pod-mockups-for-etsy-prints/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-22._
@@ -171,7 +171,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   https://www.etsy.com/legal/sellers/
 *   https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos
-*   https://www.shopify.com/blog/product-photography-tips
 *   https://placeit.net/pricing
 *   https://www.canva.com/pricing/
 *   https://www.photoroom.com/pricing

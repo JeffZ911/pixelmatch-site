@@ -1,4 +1,4 @@
---
+---
 title: How to Batch Resize Amazon Images to 1000x1000 (2026 Guide)
 slug: batch-resize-amazon-images-1000x1000
 article_type: tool_guide
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1673
 published_at: "2026-05-22T06:47:09.501348+00:00"
 published_url: /blog/learn/batch-resize-amazon-images-1000x1000
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIkFNxVQtgMsKFUl01jnpi92tgzodYUuteG0aBLU53p9vhp6HhTq2A6A9F_5rDgrVMlZiH2HMf4Ms_7XLBR7go2u3Wb7O2JdltmmXv7kwomkrCkyG899TsMzqoxQve4mI4coGU93RSRbFyTyi2xaViUFU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLI7JWz1a6gTjC1VMCsN9IzrlI1PNBeEHpIcMN8TjdkdDAH1eFPjVjw8YEDthuRYcKeys7xdjPlou6ly9pah8YoJepW1lY27eW6WjUYhMPf6kQzJ2rIGkmAwVoq6UwLLMGj0xkqsXV3VEdZZatxyCY0M_fcTY7SJ3qN-99y5VI-1A="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgJgb1v-aKqt5bDibw_qw-2vQOTejMsI5JWAsheOq0PrNYw50RpL3qzLUKn2NQ-GhNiCkMHrYRseI7-Oi1Fdln1VCQ-lmNtfLPWaBOweKICTH2VrkXhGoEycURxoc13mFFztmZCLjGhdUWP1J0-3PY-1OnI1vJXI9Kr9VJoULfKPsREnk83-1ZGb2KDXwQ8Ns="
@@ -25,19 +25,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8ilhwiv-cZPn5zpBG4dPm5zCpRmLW8gHXDIWNrjkUdsMU7o-nvAtSrdML_4na9jSqZtHzC4IyTkMbmP1ye3PxYB7MEaJ9JVY3eOLJ0lviTzW9GUJdgTExtO1TGwNt-PXMauRb1X__6Us6o9I48kzs-oOXr__q88tRQI47eO1sxLcn5GzV5Q=="
 platform: multi
 hero_image: /img/batch-resize-amazon-images-1000x1000/hero.webp
-inline_images
+inline_images:
   - /img/batch-resize-amazon-images-1000x1000/inline-1.webp
   - /img/batch-resize-amazon-images-1000x1000/inline-2.webp
   - /img/batch-resize-amazon-images-1000x1000/inline-3.webp
   - /img/batch-resize-amazon-images-1000x1000/inline-4.webp
   - /img/batch-resize-amazon-images-1000x1000/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 Cut hours from your listing workflow by automating the tedious task of resizing thousands of product photos to meet Amazon’s strict 2026 standards. As of May 22, 2026, maintaining a high-performance catalog across multiple marketplaces requires more than just "good" photography—it requires technical precision that satisfies both human buyers and Amazon’s increasingly aggressive AI-driven suppression bots.
 

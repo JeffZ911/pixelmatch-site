@@ -1,4 +1,4 @@
---
+---
 title: Best Amazon FBA Main Image White Background Tool Guide (2026)
 slug: amazon-fba-main-image-white-background-tool
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/amazon-fba-main-image-white-background-tool
 sources: []
 platform: multi
 hero_image: /img/amazon-fba-main-image-white-background-tool/hero.webp
-inline_images
+inline_images:
   - /img/amazon-fba-main-image-white-background-tool/inline-1.webp
   - /img/amazon-fba-main-image-white-background-tool/inline-2.webp
   - /img/amazon-fba-main-image-white-background-tool/inline-3.webp
   - /img/amazon-fba-main-image-white-background-tool/inline-4.webp
   - /img/amazon-fba-main-image-white-background-tool/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-21._

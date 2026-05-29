@@ -1,4 +1,4 @@
---
+---
 title: Google Product Studio vs Canva Magic Studio (2026)
 slug: google-product-studio-vs-canva-magic-studio
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-25T08:54:14.804802+00:00"
 published_url: /blog/compare/google-product-studio-vs-canva-magic-studio
 sources: []
 hero_image: /img/google-product-studio-vs-canva-magic-studio/hero.webp
-inline_images
+inline_images:
   - /img/google-product-studio-vs-canva-magic-studio/inline-1.webp
   - /img/google-product-studio-vs-canva-magic-studio/inline-2.webp
   - /img/google-product-studio-vs-canva-magic-studio/inline-3.webp
   - /img/google-product-studio-vs-canva-magic-studio/inline-4.webp
   - /img/google-product-studio-vs-canva-magic-studio/inline-5.webp
   - /img/google-product-studio-vs-canva-magic-studio/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Feature Table"
   - "Pricing Comparison"
   - "Best For (By Seller Profile)"
   - "Where Each Falls Short"
   - "Recommendation"
---
+---
 
 Stop wasting hours manually retouching product photos or paying high-ticket photographers for lifestyle scenes that AI can generate in seconds. Choosing between Google Product Studio and Canva Magic Studio depends entirely on whether you are optimizing a Google Shopping feed or building a brand identity across social media.
 

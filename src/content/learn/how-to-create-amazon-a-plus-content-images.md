@@ -1,4 +1,4 @@
---
+---
 title: How to Create Amazon A+ Content Images (2026 Specs & Tools)
 slug: how-to-create-amazon-a-plus-content-images
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/how-to-create-amazon-a-plus-content-images
 sources: []
 platform: multi
 hero_image: /img/how-to-create-amazon-a-plus-content-images/hero.webp
-inline_images
+inline_images:
   - /img/how-to-create-amazon-a-plus-content-images/inline-1.webp
   - /img/how-to-create-amazon-a-plus-content-images/inline-2.webp
   - /img/how-to-create-amazon-a-plus-content-images/inline-3.webp
   - /img/how-to-create-amazon-a-plus-content-images/inline-4.webp
   - /img/how-to-create-amazon-a-plus-content-images/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-22._
@@ -87,7 +87,7 @@ Every image requires "Image Keywords" (alt-text). This is not a place for keywor
 Run a "Find" command (Ctrl+F) on your A+ Content draft for the words "Best," "Guaranteed," or "Top-rated" before hitting submit. Amazon’s automated validation bot will instantly reject any module containing these prohibited superlatives.
 
 ### Prohibited Promotional Language
-Amazon prohibits any language that attempts to direct the customer away from the platform or create a sense of false urgency. You cannot include
+Amazon prohibits any language that attempts to direct the customer away from the platform or create a sense of false urgency. You cannot include:
 *   Pricing or promotional details (e.g., "Only $19.99" or "Sale price").
 *   Shipping details (e.g., "Free shipping" or "Fast delivery").
 *   Contact information or QR codes.

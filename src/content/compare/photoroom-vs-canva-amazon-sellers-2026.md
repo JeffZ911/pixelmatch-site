@@ -1,4 +1,4 @@
---
+---
 title: "Photoroom vs Canva for Amazon Sellers 2026: Which Wins?"
 slug: photoroom-vs-canva-amazon-sellers-2026
 article_type: vs_comparison
@@ -9,21 +9,21 @@ published_url: /blog/compare/photoroom-vs-canva-amazon-sellers-2026
 sources: []
 platform: multi
 hero_image: /img/photoroom-vs-canva-amazon-sellers-2026/hero.webp
-inline_images
+inline_images:
   - /img/photoroom-vs-canva-amazon-sellers-2026/inline-1.webp
   - /img/photoroom-vs-canva-amazon-sellers-2026/inline-2.webp
   - /img/photoroom-vs-canva-amazon-sellers-2026/inline-3.webp
   - /img/photoroom-vs-canva-amazon-sellers-2026/inline-4.webp
   - /img/photoroom-vs-canva-amazon-sellers-2026/inline-5.webp
   - /img/photoroom-vs-canva-amazon-sellers-2026/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Feature Table"
   - "Pricing Comparison"
   - "Best For (By Seller Profile)"
   - "Where Each Falls Short"
   - "Recommendation"
---
+---
 
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-19._
@@ -119,7 +119,7 @@ Neither tool is optimized for batch-generating *unique* AI lifestyle scenes acro
 ![Recommendation](/img/photoroom-vs-canva-amazon-sellers-2026/inline-6.webp)
 
 
-Map your workflow to the strengths of each tool to ensure you never have a listing suppressed again. Skip the third-party retoucher and follow this three-step stack
+Map your workflow to the strengths of each tool to ensure you never have a listing suppressed again. Skip the third-party retoucher and follow this three-step stack:
 
 1.  **Use Photoroom to nail your Amazon main images.** 
     Run your raw photos through the Photoroom "Amazon" preset to ensure compliance with the strict 85% frame fill and pure white background rules [1.3.1]. Export as high-resolution JPEGs (at least 2000px on the longest side) to enable the Amazon zoom feature.
@@ -142,7 +142,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   [1.1.8] Photoroom Accuracy and Edge Detection
+*   [1.1.8] Photoroom Accuracy and Edge Detection:
 *   [1.2.5] Canva Pro Pricing 2026: https://www.canva.com/pricing/
 *   [1.3.1] Amazon Seller Central Product Image Requirements: https://sellercentral.amazon.com/help/hub/reference/external/G181
 *   Stripe Standard Pricing: https://stripe.com/pricing

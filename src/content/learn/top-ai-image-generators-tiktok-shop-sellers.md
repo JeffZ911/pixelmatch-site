@@ -1,4 +1,4 @@
---
+---
 title: Top AI Image Generators for TikTok Shop Sellers in 2026
 slug: top-ai-image-generators-tiktok-shop-sellers
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/top-ai-image-generators-tiktok-shop-sellers
 sources: []
 platform: multi
 hero_image: /img/top-ai-image-generators-tiktok-shop-sellers/hero.webp
-inline_images
+inline_images:
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-1.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-2.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-3.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-4.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-19._

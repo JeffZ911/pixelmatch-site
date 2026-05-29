@@ -1,4 +1,4 @@
---
+---
 title: "Shopify Product Image SEO Best Practices 2026: Specs Guide"
 slug: shopify-product-image-seo-best-practices-2026
 article_type: policy_guide
@@ -9,19 +9,19 @@ published_url: /blog/policy/shopify-product-image-seo-best-practices-2026
 sources: []
 platform: multi
 hero_image: /img/shopify-product-image-seo-best-practices-2026/hero.webp
-inline_images
+inline_images:
   - /img/shopify-product-image-seo-best-practices-2026/inline-1.webp
   - /img/shopify-product-image-seo-best-practices-2026/inline-2.webp
   - /img/shopify-product-image-seo-best-practices-2026/inline-3.webp
   - /img/shopify-product-image-seo-best-practices-2026/inline-4.webp
   - /img/shopify-product-image-seo-best-practices-2026/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Quick Reference Table"
   - "Detailed Requirements"
   - "Common Rejection Reasons"
   - "How to Fix Each Issue"
   - "Official Source Links"
---
+---
 
 
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-20._

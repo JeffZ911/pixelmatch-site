@@ -1,4 +1,4 @@
---
+---
 title: Amazon Brand Registry A+ Content Image Specs (2026 Guide)
 slug: amazon-brand-registry-a-plus-content-image-specs
 article_type: policy_guide
@@ -9,19 +9,19 @@ published_url: /blog/policy/amazon-brand-registry-a-plus-content-image-specs
 sources: []
 platform: multi
 hero_image: /img/amazon-brand-registry-a-plus-content-image-specs/hero.webp
-inline_images
+inline_images:
   - /img/amazon-brand-registry-a-plus-content-image-specs/inline-1.webp
   - /img/amazon-brand-registry-a-plus-content-image-specs/inline-2.webp
   - /img/amazon-brand-registry-a-plus-content-image-specs/inline-3.webp
   - /img/amazon-brand-registry-a-plus-content-image-specs/inline-4.webp
   - /img/amazon-brand-registry-a-plus-content-image-specs/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Quick Reference Table"
   - "Detailed Requirements"
   - "Common Rejection Reasons"
   - "How to Fix Each Issue"
   - "Official Source Links"
---
+---
 
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-19._
@@ -88,7 +88,7 @@ Amazon reports that over 50% of its traffic comes from mobile devices, yet many 
 Run a manual sweep for banned keywords like "Best Seller" or "Guaranteed" in your image text before submitting for approval. Amazon’s automated visual recognition software is now sophisticated enough to scan text embedded within images, not just the metadata.
 
 ### Promotional Text Violations
-Amazon strictly prohibits "time-sensitive" or "promotional" language within A+ Content. Including any of the following will result in an immediate rejection
+Amazon strictly prohibits "time-sensitive" or "promotional" language within A+ Content. Including any of the following will result in an immediate rejection:
 *   Pricing details (e.g., "Only $19.99").
 *   Shipping claims (e.g., "Free Shipping" or "Prime Delivery").
 *   Promotional phrases (e.g., "Best Seller," "Top Rated," "2026 Deal").
@@ -113,7 +113,7 @@ The 2026 moderation guidelines are particularly strict regarding health and envi
 Use a batch-processing tool to resize all 300x300 module images simultaneously to save 40 minutes per ASIN. If you are managing a catalog of 50+ products, manual resizing is the fastest way to introduce human error and subsequent rejections.
 
 ### Fixing Resolution and File Size
-If your high-resolution PNG is over the 2 MB limit, do not simply lower the resolution below 72 DPI. Instead
+If your high-resolution PNG is over the 2 MB limit, do not simply lower the resolution below 72 DPI. Instead:
 1.  **Export as JPG:** Change the file format from PNG to JPG.
 2.  **Adjust Quality Slider:** In tools like Adobe Express or Canva, set the quality to 80-90%. This usually drops the file size by 60% with no visible loss in quality.
 3.  **TinyJPG/Optimizilla:** Use these compression tools to strip unnecessary metadata from the file without touching the pixel dimensions.
@@ -126,7 +126,7 @@ PixelMatch is better suited for this workflow because it allows you to batch-gen
 While tools like Photoroom or Pebblely are excellent for single-image background removal, PixelMatch’s ability to generate consistent "sets" of images (one 970x600 header and four 300x300 feature images) ensures your A+ Content has a unified aesthetic across all modules.
 
 ### Correcting Color Space
-If you realize your images were designed in CMYK
+If you realize your images were designed in CMYK:
 1.  Open the file in Adobe Photoshop.
 2.  Navigate to **Image > Mode > RGB Color**.
 3.  Save as a new file.

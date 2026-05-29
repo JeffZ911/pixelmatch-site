@@ -1,4 +1,4 @@
---
+---
 title: How to Remove Product Photo Background for Amazon (2026 Guide)
 slug: how-to-remove-product-photo-background-for-amazon
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/how-to-remove-product-photo-background-for-amazon
 sources: []
 platform: multi
 hero_image: /img/how-to-remove-product-photo-background-for-amazon/hero.webp
-inline_images
+inline_images:
   - /img/how-to-remove-product-photo-background-for-amazon/inline-1.webp
   - /img/how-to-remove-product-photo-background-for-amazon/inline-2.webp
   - /img/how-to-remove-product-photo-background-for-amazon/inline-3.webp
   - /img/how-to-remove-product-photo-background-for-amazon/inline-4.webp
   - /img/how-to-remove-product-photo-background-for-amazon/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-23._
@@ -153,7 +153,7 @@ JPEG (.jpg) is the preferred format because it provides the best balance between
 No. Only the main (hero) image must have a pure white background. Secondary images should be used for lifestyle shots, "in-use" photos, size charts, and infographics. These images are where you can use colored backgrounds, text, and props to explain your product’s value proposition.
 
 ### Why was my Amazon image suppressed?
-The most common reasons for image suppression in 2026 include
+The most common reasons for image suppression in 2026 include:
 1.  **Background Color:** The background was "near-white" but not pure white (RGB 255, 255, 255).
 2.  **Image Size:** The longest side was under 1000 pixels.
 3.  **Frame Fill:** The product occupied less than 85% of the total image area.

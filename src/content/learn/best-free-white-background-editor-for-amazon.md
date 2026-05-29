@@ -1,4 +1,4 @@
---
+---
 title: Best Free White Background Editor for Amazon (2026 Guide)
 slug: best-free-white-background-editor-for-amazon
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/best-free-white-background-editor-for-amazon
 sources: []
 platform: multi
 hero_image: /img/best-free-white-background-editor-for-amazon/hero.webp
-inline_images
+inline_images:
   - /img/best-free-white-background-editor-for-amazon/inline-1.webp
   - /img/best-free-white-background-editor-for-amazon/inline-2.webp
   - /img/best-free-white-background-editor-for-amazon/inline-3.webp
   - /img/best-free-white-background-editor-for-amazon/inline-4.webp
   - /img/best-free-white-background-editor-for-amazon/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 Stop losing sales to "Search Suppressed" tags because your main image has a slightly gray background or a distracting shadow. Every minute your listing stays hidden due to a non-compliant image, your competitors are capturing your organic ranking and your revenue.
 
@@ -110,12 +110,12 @@ Manual editing is sustainable for one or two SKUs, but for multi-platform seller
 
 ### Removebg
 Removebg remains the industry standard for edge detection, particularly for difficult subjects like hair or fuzzy fabrics. 
-*   **The Reality of "Free":** The free tier is extremely limited. You get 50 low-resolution "previews" (0.25 megapixels) per month. For Amazon, 0.25 MP is insufficient, as it results in an image roughly 500x500 pixels—well below the 1000px minimum. 
+*   **The Reality of "Free":** The free tier is extremely limited. You get 50 low-resolution "previews" (0.25 megapixels) per month. For Amazon, 0.25 MP is insufficient, as it results in an image roughly 500x500 pixels—well below the 1000px minimum.
 *   **Pricing:** To get high-resolution (HD) downloads, you must purchase credits. As of May 2026, subscription plans start at $8.10/month for 40 credits ($0.20 per image).
 
 ### Canva
 Canva is a favorite for social media graphics, but its utility as a "free" white background editor for Amazon is a common misconception.
-*   **The Reality of "Free":** The "Background Remover" tool is a **Canva Pro** feature. You cannot use it on the free tier. 
+*   **The Reality of "Free":** The "Background Remover" tool is a **Canva Pro** feature. You cannot use it on the free tier.
 *   **Pricing:** Canva Pro is priced at $12.99/month (or $119.99/year). While it offers a "Free Trial," once that expires, you lose access to the background removal and "Magic Resize" tools, which are essential for Amazon sellers.
 
 ### Photoroom

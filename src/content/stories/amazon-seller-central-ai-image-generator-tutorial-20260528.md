@@ -1,4 +1,4 @@
---
+---
 title: How a Beauty Seller Cut Photo Costs 80% with AI
 slug: amazon-seller-central-ai-image-generator-tutorial-20260528
 article_type: use_case
@@ -12,21 +12,21 @@ seller_profile: Typical mid-market Amazon FBA beauty seller managing a 50-SKU ca
 is_composite: true
 key_metrics: [{"after": "2.1%", "before": "0.4%", "metric": "CTR"}, {"after": "$19/mo", "before": "$420", "metric": "cost_per_listing"}]
 hero_image: /img/amazon-seller-central-ai-image-generator-tutorial-20260528/hero.webp
-inline_images
+inline_images:
   - /img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-1.webp
   - /img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-2.webp
   - /img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-3.webp
   - /img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-4.webp
   - /img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-5.webp
   - /img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "The Seller's Situation"
   - "What Wasn't Working"
   - "The Workflow They Built"
   - "Results (with Numbers)"
   - "Steps to Replicate"
   - "Caveats and Honest Limitations"
---
+---
 
 Stop overpaying for studio sessions that take three weeks to deliver five images. You can generate a full set of Amazon-compliant beauty listing photos in under 48 hours for the price of a single lunch.
 
@@ -54,7 +54,7 @@ The seller needed a way to maintain the premium aesthetic of a luxury beauty bra
 
 Before adopting an AI-driven pipeline, this seller followed the traditional path, which proved unsustainable at scale. Traditional product photography for beauty items—which often involve challenging textures like creams, gels, and glossy packaging—was costing [upwards of $84 per image](https://nightjar.com/) after including shipping, professional retouching, and studio time. At seven images per listing, a single product launch cost approximately $588 in creative fees alone.
 
-The seller attempted to pivot to entry-level AI tools to save costs, but encountered specific technical hurdles
+The seller attempted to pivot to entry-level AI tools to save costs, but encountered specific technical hurdles:
 
 1.  **Batch Limits:** They experimented with Photoroom, but found that the [Pro tier at $12.99/mo](https://www.photoroom.com/pricing) had limitations in high-volume batch processing that slowed down the update of their entire 50-SKU catalog. While great for single edits, it didn't offer the "set and forget" automation needed for a multi-platform seller.
 2.  **Compliance Issues:** They tried Pebblely's [Basic plan at $19/mo](https://pebblely.com/pricing), but the AI struggled to generate a "true" Amazon-compliant white background consistently. Often, the "white" background contained faint gray shadows or artifacts that required manual post-editing in Photoshop to reach the [required RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) level.

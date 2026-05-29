@@ -1,4 +1,4 @@
---
+---
 title: "Flair AI vs Photoroom for Ecommerce Brands: 2026 Guide"
 slug: flair-ai-vs-photoroom-ecommerce-brands
 article_type: vs_comparison
@@ -6,7 +6,7 @@ qa_score: 4.7
 word_count: 1496
 published_at: "2026-05-20T06:49:36.713333+00:00"
 published_url: /blog/compare/flair-ai-vs-photoroom-ecommerce-brands
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCN_0IF7A5LFYC416uUszUVUPX9w3a2hyel6tr2UotsFsy_5jg7ENlT9oRUDgXcpmiwKuTTpKc6PmvMChbqCcX-9rTBzzNPqc_YcvOMZ61Rf8W2mcn_BRW-j-EtxUApktIUWkXO-fnNjn-gzCdi0K6RT8by5Mdu8dhGxzLsJrShbAE5i4R9oayycPj"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuuV49sr33kgwxB0gmjCwzpy7OdySEgO7XjO5vkZsgp0Fv4ZQG6v4ss4Yj3ph3_1eirh1ecVCShAjsHwK2IS6NReWfQI9EICxcquqJn6lTqCAajXpDD7yAjiwnpg6oF6bO09T8paoIhCMivGbZsQgDsTMzQKNjVH_eJgpzXcWZ0gmUcdK4zTJYaeyEkoFlWVE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwQLPxIb5kVWufav3oEGr7lpoVK2Wi90lUjgrHCqt7IdUrmupby-l6L-gVQctydH69vVOqyY4Q0w3gryR9kdnOLbz9DqNROOve82DC1PD-hrYyQdNOC0u0OcHMy3VEEKlAZBxvbByxL4dz_vaJdiuz3uK8zcbXVLjOjf58PPQjGA=="
@@ -17,21 +17,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnPwjlSMmpC120w9OrqsRsoSpR4-mhmFifVKo4kAMMRVc2B7veqqGV3HsGbdTi2eVNo7NRpQWY9Pknt1BUaKoezJ3l4xfJ357F2FTZKzTMZTaIR9smFCSgcTmqrO7PpB63R3gyDCZQJJlF_rIvncMjLmB2nA=="
 platform: multi
 hero_image: /img/flair-ai-vs-photoroom-ecommerce-brands/hero.webp
-inline_images
+inline_images:
   - /img/flair-ai-vs-photoroom-ecommerce-brands/inline-1.webp
   - /img/flair-ai-vs-photoroom-ecommerce-brands/inline-2.webp
   - /img/flair-ai-vs-photoroom-ecommerce-brands/inline-3.webp
   - /img/flair-ai-vs-photoroom-ecommerce-brands/inline-4.webp
   - /img/flair-ai-vs-photoroom-ecommerce-brands/inline-5.webp
   - /img/flair-ai-vs-photoroom-ecommerce-brands/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Feature Table"
   - "Pricing Comparison"
   - "Best For (By Seller Profile)"
   - "Where Each Falls Short"
   - "Recommendation"
---
+---
 
 
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-20._

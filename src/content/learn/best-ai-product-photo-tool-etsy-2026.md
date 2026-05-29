@@ -1,4 +1,4 @@
---
+---
 title: "Best AI Product Photo Tool for Etsy 2026: Seller's Guide"
 slug: best-ai-product-photo-tool-etsy-2026
 platform: etsy
@@ -7,7 +7,7 @@ qa_score: 5.9
 word_count: 1566
 published_at: "2026-05-19T00:54:55.220543+00:00"
 published_url: /blog/learn/best-ai-product-photo-tool-etsy-2026
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHydpJ1v-mCWbTboCX0LULALohjxm5Tb13YQQxvkm-veV29mEJHQbCsUf3yizZO5XMaOY-zRvB_sAocDg27RlkSp3DEDiwHLlIQRTABy-CMIZ1MnRLzUXKpCuEZzbPFGAEX_i3l8sGna92EbgPOitY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzTaUpt2JQIBw1IfWA5sfV461f1uez8vJDvRzbGaf2caWuEvRVccBgAwExfBGfSL0Vg4uZu6yIx1hyMWdBHufb3ZLHTJNTEnHBfEL6SnwfOVLuex7nOg5KEqqIy1WerHFfmq4dHmjYKTnc0FmV24JQbwZjknwEK91bWo="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnedMBUI4Bi-ysh_1J9Dbj0p0-Nj-bS1a3GmemKWJ7aP3i40sR4E9FqgNPU01BHeVSvl11YVBa0mg67NeUUFk9X0P02DnjG3D4pDK6Nrgz5PTOCc4eE2p8g3ro9TB3S1M6KShUnWUcC11e5ShW-hnjt9S83aOv"
@@ -26,19 +26,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF83Ztw9Z_gF4GaBuUmFS3frx5l65Lvzs582v1KL9TscBBMB4WKgbZOh5-2rsB9lepQ7jeZ_1TFrWee8q2DJ53tCYZD1Go3JziZF0wVwMi6iT9AzJCxvuG-SJERQ-td15ZL72k3HGewPg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPpgXPGSYorbfOLkc-xcAb5VWGyt2yQoG_R7IEk2tpupKeqaFV9gbgagDH9Xh_B1_zhjv6-Qi_vto3mDhK0F8gdLe5z4kmVe0fxQMb3NjiepQPtxQ-b6Tp1_jNYUoxLLKeG2jIdTGgpA=="
 hero_image: /img/best-ai-product-photo-tool-etsy-2026/hero.webp
-inline_images
+inline_images:
   - /img/best-ai-product-photo-tool-etsy-2026/inline-1.webp
   - /img/best-ai-product-photo-tool-etsy-2026/inline-2.webp
   - /img/best-ai-product-photo-tool-etsy-2026/inline-3.webp
   - /img/best-ai-product-photo-tool-etsy-2026/inline-4.webp
   - /img/best-ai-product-photo-tool-etsy-2026/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
---
+---
 
 
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-19._

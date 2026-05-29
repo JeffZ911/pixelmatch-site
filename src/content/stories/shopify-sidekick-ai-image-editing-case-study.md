@@ -1,4 +1,4 @@
---
+---
 title: How a Shopify Apparel Seller Cut Photo Costs 80% with AI
 slug: shopify-sidekick-ai-image-editing-case-study
 article_type: use_case
@@ -12,21 +12,21 @@ seller_profile: A composite profile of a typical mid-market Shopify apparel sell
 is_composite: true
 key_metrics: [{"after": "2 minutes", "before": "15 minutes", "metric": "Time per image edit"}, {"after": "$0.85", "before": "$4.50", "metric": "Cost per listing"}]
 hero_image: /img/shopify-sidekick-ai-image-editing-case-study/hero.webp
-inline_images
+inline_images:
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-1.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-2.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-3.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-4.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-5.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "The Seller's Situation"
   - "What Wasn't Working"
   - "The Workflow They Built"
   - "Results (with Numbers)"
   - "Steps to Replicate"
   - "Caveats and Honest Limitations"
---
+---
 
 Scaling an apparel brand shouldn't require a full-time retouching team just to swap seasonal backgrounds or resize photos for mobile. If your product launch is stalled by a backlog of 500 unedited photos, you are losing revenue to competitors who move faster.
 

@@ -1,4 +1,4 @@
---
+---
 title: How a Shopify Beauty Brand Cut Photography Costs 85% with AI Backgrounds
 slug: shopify-ai-product-backgrounds-case-study
 article_type: use_case
@@ -12,21 +12,21 @@ seller_profile: A composite profile based on typical Shopify beauty and cosmetic
 is_composite: true
 key_metrics: [{"after": "4.1%", "before": "2.4%", "metric": "Click-Through Rate (CTR)"}, {"after": "$3.00", "before": "$150.00", "metric": "Cost Per Listing"}]
 hero_image: /img/shopify-ai-product-backgrounds-case-study/hero.webp
-inline_images
+inline_images:
   - /img/shopify-ai-product-backgrounds-case-study/inline-1.webp
   - /img/shopify-ai-product-backgrounds-case-study/inline-2.webp
   - /img/shopify-ai-product-backgrounds-case-study/inline-3.webp
   - /img/shopify-ai-product-backgrounds-case-study/inline-4.webp
   - /img/shopify-ai-product-backgrounds-case-study/inline-5.webp
   - /img/shopify-ai-product-backgrounds-case-study/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "The Seller's Situation"
   - "What Wasn't Working"
   - "The Workflow They Built"
   - "Results (with Numbers)"
   - "Steps to Replicate"
   - "Caveats and Honest Limitations"
---
+---
 
 Scaling a Shopify beauty brand requires a constant stream of high-end lifestyle imagery that typically drains your margins before the first sale is even made. Stop overpaying for studio rentals and professional retouchers by moving your creative production into a high-volume AI workflow.
 
@@ -102,11 +102,11 @@ Set up a permanent "capture station" in your office. Use a modern smartphone on 
 Upload the raw smartphone photos to PixelMatch. Instead of generating one image at a time, the brand utilized the batch generator to apply a single high-end prompt to 50+ images simultaneously.
 
 **The Winning Prompt Strategy:**
-To generate ai product backgrounds for shopify brands that look premium, the brand used a specific prompt formula
+To generate ai product backgrounds for shopify brands that look premium, the brand used a specific prompt formula:
 > "Product placed on a minimalist white marble podium, soft morning sunlight coming from the left, organic eucalyptus shadows in the background, 8k resolution, highly detailed textures, soft bokeh."
 
 ### Phase 3: Automated Technical Optimization
-PixelMatch’s bulk export settings were configured to match Shopify’s "Goldilocks" specs
+PixelMatch’s bulk export settings were configured to match Shopify’s "Goldilocks" specs:
 *   **Dimensions:** Exactly 2048 x 2048 px (1:1 Square).
 *   **Format:** WebP (which offers superior compression compared to JPEG).
 *   **Target Size:** Under 200KB per image.
@@ -184,7 +184,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Shopify Official Image Specs: https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements
 *   Shopify WebP Support Documentation: https://help.shopify.com/en/manual/online-store/os/using-themes/change-the-layout/images
-*   Photoroom Batch Features
+*   Photoroom Batch Features:
 *   Pebblely Pricing and Tiers: https://pebblely.com/pricing/
 *   Jungle Scout Photography Cost Analysis: https://www.junglescout.com/blog/amazon-product-photography/
-*   Shopify Plus Blog on Site Speed
+*   Shopify Plus Blog on Site Speed:
