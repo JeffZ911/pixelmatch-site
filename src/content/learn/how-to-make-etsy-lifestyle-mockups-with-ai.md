@@ -1,4 +1,4 @@
----
+--
 title: How to Make Etsy Lifestyle Mockups with AI (2026 Guide)
 slug: how-to-make-etsy-lifestyle-mockups-with-ai
 article_type: tool_guide
@@ -6,7 +6,7 @@ qa_score: 5.9
 word_count: 1684
 published_at: "2026-05-21T17:38:15.770074+00:00"
 published_url: /blog/learn/how-to-make-etsy-lifestyle-mockups-with-ai
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEB4tLMKEvpsd1YTo6zWdKShzkozeyDO8UhGTy5B4XBLD7VszpWGaRs-F_8NW68_I-dy73VRcbIrhyXRqOYkpgi9fKcycCURH6oJab6-KyRb1NYtM_E40z3n41xRiYV8yvHvMvhuuIUsV7hEQQuBGR7EXTmqB_B8w="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoeH46RPAUJp8w0GsM1jfdYufrtqgztv_CduODxahaPTdoBxGVvxeri9_5xSB28DUzJm0z3zHLEvPmv2Sp0fI5DReGqU9GS-wyluVky5fXBkNE-LcYHN52_V7Q1sQvCV2zH8WoxFxnM-Ep_bAzUD98Tb_agQ4Sm0MS"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2ha2a4KIfogbVw1oIN80MK1gPbI47vfaqIhfsCiO_7ahW3WmlVTuVoissQgsMnz4ES-eCMGVNawGUcXecXPfvR6fYjw2Mo3FzQyIcfKxmuFQwqFDNCIzzIxvQ3JkuEpZx06MY5tCFWuDRMY_PYw=="
@@ -27,19 +27,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1L8a9t528u4QoWgwQM2e8HrI3wNN7Q5S3AVts8Tzy2AgiR-UTl8iJdYpR1KKrbSwOgvdjUIrHhk0_Zy1M2ZIhTTBuXClLmUrHR3ABzI1J8hcSiFMYMnal09QS1pSEGqOwFy8="
 platform: multi
 hero_image: /img/how-to-make-etsy-lifestyle-mockups-with-ai/hero.webp
-inline_images:
+inline_images
   - /img/how-to-make-etsy-lifestyle-mockups-with-ai/inline-1.webp
   - /img/how-to-make-etsy-lifestyle-mockups-with-ai/inline-2.webp
   - /img/how-to-make-etsy-lifestyle-mockups-with-ai/inline-3.webp
   - /img/how-to-make-etsy-lifestyle-mockups-with-ai/inline-4.webp
   - /img/how-to-make-etsy-lifestyle-mockups-with-ai/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
----
+--
 
 
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-21._
@@ -73,7 +73,7 @@ Start with a high-resolution photo of your physical product. Use even, neutral l
 Use a dedicated background removal tool to isolate your product. Avoid "quick-select" tools that leave jagged edges on complex items like textiles or glassware. High-volume sellers should use tools that offer "semantic segmentation," which uses pixel-level masking to preserve fine details like hair or transparent glass.
 
 ### Step 3: Generate the lifestyle scene
-Write a prompt that matches your target audience’s specific aesthetic. Instead of a generic "living room," use descriptive modifiers:
+Write a prompt that matches your target audience’s specific aesthetic. Instead of a generic "living room," use descriptive modifiers
 *   **Boho Aesthetic:** "Boho living room with morning sunlight, rattan furniture, pampas grass in a ceramic vase, soft shadows, 8k resolution."
 *   **Minimalist Aesthetic:** "Scandi-style minimalist desk, light oak wood texture, soft diffused window light, neutral grey tones."
 *   **Farmhouse Aesthetic:** "Rustic kitchen counter, reclaimed wood, vintage linen cloth, warm golden hour lighting."
@@ -164,7 +164,7 @@ Etsy recommends a minimum of 2000px on the shortest side. For the best result on
 As of June 13, 2026, Etsy mandates disclosure for any listing where AI was used to "materially enhance" or create the imagery. This includes AI-generated lifestyle backgrounds. You must check the AI disclosure box in the listing editor and include a brief note in your description (e.g., "Lifestyle backgrounds generated with AI to show product in a home setting").
 
 ### What are the current Etsy fees for 2026?
-Etsy's fee structure remains consistent:
+Etsy's fee structure remains consistent
 *   **Listing Fee:** $0.20 per item (renews every 4 months).
 *   **Transaction Fee:** 6.5% of the total sale price (including shipping).
 *   **Payment Processing (US):** 3% + $0.25 per transaction.
@@ -187,5 +187,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   https://pebblely.com/pricing/ (Pebblely 2026 Pricing)
 *   https://www.photoroom.com/pricing (Photoroom 2026 Pricing)
 *   https://www.adobe.com/express/pricing (Adobe Express 2026 Plans)
-*   https://nifty.ai/blog/etsy-fees-guide-2026 (Etsy Fee Calculations)
-*   https://www.marmalead.com/blog/etsy-fees-explained-2026/ (Seller Fee Analysis)
+*    (Etsy Fee Calculations)
+*    (Seller Fee Analysis)

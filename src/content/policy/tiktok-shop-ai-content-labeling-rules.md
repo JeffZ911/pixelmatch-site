@@ -1,4 +1,4 @@
----
+--
 title: "TikTok Shop AI Content Labeling Rules: 2026 Seller Guide"
 slug: tiktok-shop-ai-content-labeling-rules
 article_type: policy_guide
@@ -9,19 +9,19 @@ published_url: /blog/policy/tiktok-shop-ai-content-labeling-rules
 sources: []
 platform: multi
 hero_image: /img/tiktok-shop-ai-content-labeling-rules/hero.webp
-inline_images:
+inline_images
   - /img/tiktok-shop-ai-content-labeling-rules/inline-1.webp
   - /img/tiktok-shop-ai-content-labeling-rules/inline-2.webp
   - /img/tiktok-shop-ai-content-labeling-rules/inline-3.webp
   - /img/tiktok-shop-ai-content-labeling-rules/inline-4.webp
   - /img/tiktok-shop-ai-content-labeling-rules/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Quick Reference Table"
   - "Detailed Requirements"
   - "Common Rejection Reasons"
   - "How to Fix Each Issue"
   - "Official Source Links"
----
+--
 
 Stop risking your TikTok Shop seller rating by guessing which AI-generated product photos require a disclosure label. One unlabeled "photorealistic" background or a slightly enhanced product shape can trigger a Level 3 restriction, effectively freezing your revenue for weeks.
 
@@ -68,7 +68,7 @@ Furthermore, your landing pages (whether on Shopify, BigCommerce, or TikTok’s 
 
 Maintain a 1:1 ratio between your digital assets and the physical inventory in your warehouse. TikTok’s Image Specifications recommend a resolution of 1200×1200 px for product images, but if those pixels are "hallucinated" by an AI upscaler or generative fill tool, the image may be rejected. 
 
-AI must not alter:
+AI must not alter
 *   **Dimensions:** Changing the aspect ratio of a product to make it look taller or wider.
 *   **Color Accuracy:** Using AI filters that change the hex code of the product color.
 *   **Texture:** Smoothing out fabric textures or removing visible seams that exist on the real item.
@@ -111,7 +111,7 @@ Switch your workflow from "generative" to "preservative" to avoid the most commo
 
 ### Fixing Undisclosed Content Warnings
 
-If you receive a Level 1 warning for undisclosed AIGC, do not delete the video immediately, as this can negatively impact your shop's "Content Health" score. Instead, follow these steps:
+If you receive a Level 1 warning for undisclosed AIGC, do not delete the video immediately, as this can negatively impact your shop's "Content Health" score. Instead, follow these steps
 
 1.  **Edit the Video Metadata:** Go to your TikTok Shop Seller Center, find the "Manage Products" or "Manage Content" tab, and update the video description to include the `#aigenerated` hashtag.
 2.  **Add On-Screen Text:** If the video is still active, use the TikTok editor to overlay a clear "AI-Generated Background" text box that lasts for the duration of the clip.
@@ -121,7 +121,7 @@ If you receive a Level 1 warning for undisclosed AIGC, do not delete the video i
 
 To scale your ecommerce workflows without triggering "Inconsistent Product Promotion" flags, you need a tool that treats your product as an immutable object. While Photoroom’s Pro tier at $12.99/mo and Adobe Express at $9.99/mo offer powerful background removal, they often struggle with complex product edges, leading to the "warping" that TikTok’s bots reject.
 
-PixelMatch is better suited for multi-platform ecommerce sellers because it uses a "Product-Lock" mechanism. When you [batch generate AI product images](/), PixelMatch:
+PixelMatch is better suited for multi-platform ecommerce sellers because it uses a "Product-Lock" mechanism. When you [batch generate AI product images](/), PixelMatch
 *   **Isolates the Product:** It creates a high-fidelity mask that locks the original product pixels.
 *   **Generates Only the Context:** The AI only fills the area *outside* the mask, ensuring that the product's shape, color, and texture remain 100% identical to your original photo.
 *   **Maintains Spec Compliance:** It automatically exports images in the 1200×1200 px format required by TikTok, with file sizes kept under the 5MB limit.
@@ -163,10 +163,8 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   https://seller.tiktok.com/university/essay?knowledge_id=10010171
 *   https://news.tiktok.com/en-us/labeling-ai-generated-content-on-tiktok
 *   https://ads.tiktok.com/help/article/ai-generated-content-labeling
-*   https://seller.tiktok.com/university/essay?knowledge_id=10006322
 *   https://stripe.com/pricing
 *   https://www.photoroom.com/pricing
 *   https://www.adobe.com/express/pricing

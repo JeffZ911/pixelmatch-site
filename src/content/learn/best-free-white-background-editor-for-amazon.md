@@ -1,4 +1,4 @@
----
+--
 title: Best Free White Background Editor for Amazon (2026 Guide)
 slug: best-free-white-background-editor-for-amazon
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/best-free-white-background-editor-for-amazon
 sources: []
 platform: multi
 hero_image: /img/best-free-white-background-editor-for-amazon/hero.webp
-inline_images:
+inline_images
   - /img/best-free-white-background-editor-for-amazon/inline-1.webp
   - /img/best-free-white-background-editor-for-amazon/inline-2.webp
   - /img/best-free-white-background-editor-for-amazon/inline-3.webp
   - /img/best-free-white-background-editor-for-amazon/inline-4.webp
   - /img/best-free-white-background-editor-for-amazon/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
----
+--
 
 Stop losing sales to "Search Suppressed" tags because your main image has a slightly gray background or a distracting shadow. Every minute your listing stays hidden due to a non-compliant image, your competitors are capturing your organic ranking and your revenue.
 
@@ -172,4 +172,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Canva Pricing: Canva Pro Subscription Plans
 *   Photoroom Pricing: Photoroom Pro Features
 *   Remove.bg Pricing: Remove.bg Credits and Subscriptions
-*   Shopify Blog: [Product Photography for Amazon Sellers](https://www.shopify.com/blog/amazon-product-photography)
+*   Shopify Blog: Product Photography for Amazon Sellers

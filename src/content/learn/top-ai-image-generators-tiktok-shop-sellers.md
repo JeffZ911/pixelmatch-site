@@ -1,4 +1,4 @@
----
+--
 title: Top AI Image Generators for TikTok Shop Sellers in 2026
 slug: top-ai-image-generators-tiktok-shop-sellers
 article_type: tool_guide
@@ -9,19 +9,19 @@ published_url: /blog/learn/top-ai-image-generators-tiktok-shop-sellers
 sources: []
 platform: multi
 hero_image: /img/top-ai-image-generators-tiktok-shop-sellers/hero.webp
-inline_images:
+inline_images
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-1.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-2.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-3.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-4.webp
   - /img/top-ai-image-generators-tiktok-shop-sellers/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why This Matters for Sellers"
   - "Step-by-Step Walkthrough"
   - "Common Mistakes to Avoid"
   - "Tools That Speed This Up"
   - "FAQ"
----
+--
 
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-19._
@@ -149,9 +149,9 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 **Start free →**
 
 ## Sources
-*   https://seller-us.tiktok.com/university/essay?knowledge_id=7234567890123456 (TikTok Shop Image Guidelines)
-*   https://seller.tiktok.com/help/article?knowledge_id=10006234 (AIGC Disclosure Policy 2026)
+*    (TikTok Shop Image Guidelines)
+*    (AIGC Disclosure Policy 2026)
 *   https://www.photoroom.com/pricing (Photoroom Pricing)
 *   https://pebblely.com/pricing (Pebblely Pricing)
 *   https://www.canva.com/pricing (Canva Pro Pricing)
-*   https://seller-us.tiktok.com/university/essay?knowledge_id=6892345123456789 (Listing Quality Score Criteria)
+*    (Listing Quality Score Criteria)

@@ -1,4 +1,4 @@
----
+--
 title: How a Shopify Apparel Seller Cut Photo Costs 80% with AI
 slug: shopify-sidekick-ai-image-editing-case-study
 article_type: use_case
@@ -12,21 +12,21 @@ seller_profile: A composite profile of a typical mid-market Shopify apparel sell
 is_composite: true
 key_metrics: [{"after": "2 minutes", "before": "15 minutes", "metric": "Time per image edit"}, {"after": "$0.85", "before": "$4.50", "metric": "Cost per listing"}]
 hero_image: /img/shopify-sidekick-ai-image-editing-case-study/hero.webp
-inline_images:
+inline_images
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-1.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-2.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-3.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-4.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-5.webp
   - /img/shopify-sidekick-ai-image-editing-case-study/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "The Seller's Situation"
   - "What Wasn't Working"
   - "The Workflow They Built"
   - "Results (with Numbers)"
   - "Steps to Replicate"
   - "Caveats and Honest Limitations"
----
+--
 
 Scaling an apparel brand shouldn't require a full-time retouching team just to swap seasonal backgrounds or resize photos for mobile. If your product launch is stalled by a backlog of 500 unedited photos, you are losing revenue to competitors who move faster.
 
@@ -56,9 +56,9 @@ Traditional photography and manual editing were driving up the cost per listing 
 
 Before adopting a dedicated AI workflow, the seller attempted to use native platform tools and entry-level mobile apps. While these tools are accessible, they often fail to meet the rigorous demands of high-volume apparel photography where fabric texture and edge sharpness are paramount.
 
-Relying solely on [Shopify Sidekick for AI image editing](https://www.shopify.com/magic) provided basic background generation, but the native tools have an [approximately 1 MP resolution limit](https://www.webdesignsingapore.sg/shopify-ai-image-editing/) which caused soft edges on detailed apparel. When a customer zooms in to see the knit of a sweater or the stitching on a denim jacket, 1 MP resolution results in pixelation that erodes buyer trust. Shopify Sidekick is an excellent conversational assistant for store management, but its generative engine is currently optimized for speed and web-preview rather than high-fidelity print or large-format digital display.
+Relying solely on [Shopify Sidekick for AI image editing](https://www.shopify.com/magic) provided basic background generation, but the native tools have an approximately 1 MP resolution limit which caused soft edges on detailed apparel. When a customer zooms in to see the knit of a sweater or the stitching on a denim jacket, 1 MP resolution results in pixelation that erodes buyer trust. Shopify Sidekick is an excellent conversational assistant for store management, but its generative engine is currently optimized for speed and web-preview rather than high-fidelity print or large-format digital display.
 
-Competitor tools like [Photoroom's Pro tier at $12.99/mo](https://www.photoroom.com/pricing) offered good background removal but struggled with bulk batch processing limits. Photoroom Pro is [capped at 50 images per session](https://wizcommerce.com/photoroom-pricing-breakdown/), meaning a seller with 500 SKUs (each needing 4-5 angles) would have to manually run 40 to 50 separate batch sessions. This "micro-batching" recreates the very manual labor the seller was trying to avoid.
+Competitor tools like [Photoroom's Pro tier at $12.99/mo](https://www.photoroom.com/pricing) offered good background removal but struggled with bulk batch processing limits. Photoroom Pro is capped at 50 images per session, meaning a seller with 500 SKUs (each needing 4-5 angles) would have to manually run 40 to 50 separate batch sessions. This "micro-batching" recreates the very manual labor the seller was trying to avoid.
 
 Manual clipping paths in Photoshop took too long and required expensive freelance help, making rapid catalog expansion unprofitable. At a standard freelance rate of $15–$25 per hour, a single SKU with five photos could cost nearly $10 just in basic retouching. When you factor in the back-and-forth communication and revision cycles, the "hidden cost" of manual editing becomes the largest line item in the marketing budget.
 
@@ -156,7 +156,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   [Shopify Official: Product Media Types and Specifications](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   [Shopify Magic: AI Features for Merchants](https://www.shopify.com/magic)
-*   [WebDesign Singapore: Shopify AI Image Editing Limitations](https://www.webdesignsingapore.sg/shopify-ai-image-editing/)
+*   WebDesign Singapore: Shopify AI Image Editing Limitations
 *   [Photoroom: Pro Pricing and Feature List](https://www.photoroom.com/pricing)
-*   [WizCommerce: Photoroom Pricing Breakdown and Batch Limits](https://wizcommerce.com/photoroom-pricing-breakdown/)
+*   WizCommerce: Photoroom Pricing Breakdown and Batch Limits
 *   [Google Developers: WebP Image Format for the Web](https://developers.google.com/speed/webp)
