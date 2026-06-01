@@ -59,7 +59,7 @@ Standardize your master exports to 2048x2048px WebP format to ensure your images
 | Feature | Flair AI (2026) | Photoroom (2026) | PixelMatch (2026) |
 | :--- | :--- | :--- | :--- |
 | **Primary Strength** | AI Fashion Models & 3D Staging | Batch Background Removal | Multi-Platform Batching |
-| **Max Batch Size** | [Information not yet publicly available as of 2026-05-20] | 250 images (Max Plan) | 500+ images |
+| **Max Batch Size** | — | 250 images (Max Plan) | 500+ images |
 | **AI Human Models** | Hyper-realistic (Diverse Tones/Poses) | Limited "Virtual Model" tool | High-fidelity clothing preservation |
 | **Platform Specs** | Manual resizing required | Native Amazon/Shopify presets | Auto-folders for Amazon/Shopify/Etsy |
 | **API Access** | Early Access (Pro+ and Scale) | Separate Billing / Independent Tiers | Integrated API |
@@ -88,10 +88,10 @@ Cross-reference your monthly SKU launch volume against Photoroom’s 500-image P
 
 | Plan Tier | Flair AI (2026) | Photoroom (2026) | PixelMatch (2026) |
 | :--- | :--- | :--- | :--- |
-| **Free Tier** | 10 images / mo | 250 exports (Watermarked) | [Information not yet publicly available as of 2026-05-20] |
-| **Pro Tier** | $10 / mo (~5500 images) | $12.99 / mo (500 batch exports) | [Information not yet publicly available as of 2026-05-20] |
-| **Max / Pro+** | $35 / mo (~18000 images) | $34.99 / mo (1500 batch exports) | [Information not yet publicly available as of 2026-05-20] |
-| **Scale / Ultra** | $55 / mo | $82.50 / mo (billed annually) | [Information not yet publicly available as of 2026-05-20] |
+| **Free Tier** | 10 images / mo | 250 exports (Watermarked) | — |
+| **Pro Tier** | $10 / mo (~5500 images) | $12.99 / mo (500 batch exports) | — |
+| **Max / Pro+** | $35 / mo (~18000 images) | $34.99 / mo (1500 batch exports) | — |
+| **Scale / Ultra** | $55 / mo | $82.50 / mo (billed annually) | — |
 
 ### Free Tier Limits
 The Flair AI free tier is essentially a "test drive," limited to 10 images per month. This is insufficient for any active seller but allows you to test the prompt-to-image engine. Photoroom’s free tier is more generous with 250 exports, but the presence of a watermark makes these images unusable for professional Amazon or Shopify listings.

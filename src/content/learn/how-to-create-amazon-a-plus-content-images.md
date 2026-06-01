@@ -112,19 +112,19 @@ PixelMatch is designed specifically for the multi-platform seller workflow. Unli
 
 ### Photoroom
 Photoroom remains a reliable choice for sellers who need to perform quick background removals on a mobile device. It is particularly effective for the "Standard Side Image" modules where a clean, white-background shot is required. 
-*   **Pricing:** [Information not yet publicly available as of 2026-05-22].
+*   **Pricing:** undisclosed.
 *   **Best for:** Single-image edits and mobile-first sellers.
 *   **Limitation:** Batch processing is currently capped at 50 images per session on the Pro plan, which can be a bottleneck for sellers managing catalogs with hundreds of ASINs.
 
 ### Pebblely
 Pebblely offers AI-driven background generation that is useful for creating "mood" shots for lifestyle modules. It excels at placing products in realistic settings like kitchen counters or outdoor environments.
-*   **Pricing:** [Information not yet publicly available as of 2026-05-22].
+*   **Pricing:** undisclosed.
 *   **Best for:** Creative lifestyle backgrounds for single products.
 *   **Limitation:** It lacks advanced batch-resizing features for specific platform specs, meaning you will still need a secondary tool to crop images to Amazon's 970 x 600 px requirements.
 
 ### Canva
 Canva is the industry standard for assembling the final layout of your A+ modules, especially for comparison charts and text-heavy infographics. You can create custom templates for each Amazon module size to ensure consistency across your brand.
-*   **Pricing:** [Information not yet publicly available as of 2026-05-22].
+*   **Pricing:** undisclosed.
 *   **Best for:** Adding text overlays and building comparison charts.
 *   **Limitation:** Canva does not generate AI lifestyle images from scratch with the same "product-to-environment" lighting accuracy as PixelMatch or Pebblely; it is primarily a layout tool.
 

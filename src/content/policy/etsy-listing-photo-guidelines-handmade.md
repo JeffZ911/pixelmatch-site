@@ -60,7 +60,7 @@ The most critical rule for 2026 is the **Originality Requirement**. To qualify a
 
 1.  **No Stock Photos for Primary Images:** You cannot use a manufacturer's stock photo or a generic 3D rendering as your first image. This is a common point of failure for sellers who buy components (like blank t-shirts or jewelry settings) and use the supplier's professional photos.
 2.  **The "Finished Item" Rule:** For custom-made items, your first photo must show a finished example of your work. You are permitted to use computer-generated mockups for secondary images to show color variations or personalization options, but the thumbnail that appears in search must be a physical product.
-3.  **Proving Craftsmanship:** [Information not yet publicly available as of 2026-05-18] regarding the exact percentage of listings flagged by Etsy’s new AI-detection tool for "non-original content," but seller reports in early 2026 suggest that listings with "too-perfect" AI backgrounds on the *primary* image are receiving manual reviews more frequently than in 2025.
+3.  **Proving Craftsmanship:** undisclosed regarding the exact percentage of listings flagged by Etsy’s new AI-detection tool for "non-original content," but seller reports in early 2026 suggest that listings with "too-perfect" AI backgrounds on the *primary* image are receiving manual reviews more frequently than in 2025.
 
 ### Format Restrictions
 
@@ -124,7 +124,7 @@ If your photos are blurry when zoomed, you are likely "upscaling" small images. 
 1.  Go back to your original source file (the photo exactly as it was taken).
 2.  Ensure you are not cropping too tightly. If you crop 80% of a photo away, you lose 80% of the resolution.
 3.  Export at 2000px. 
-4.  [Information not yet publicly available as of 2026-05-18] regarding Etsy's exact internal compression algorithm updates for 2026, but current testing suggests that images exported at 72 DPI (dots per inch) vs 300 DPI show no visible difference on the platform, as Etsy converts all uploads to 72 DPI for web display. Focus on the pixel count, not the DPI.
+4.  undisclosed regarding Etsy's exact internal compression algorithm updates for 2026, but current testing suggests that images exported at 72 DPI (dots per inch) vs 300 DPI show no visible difference on the platform, as Etsy converts all uploads to 72 DPI for web display. Focus on the pixel count, not the DPI.
 
 ### Fixing Handmade Policy Violations
 

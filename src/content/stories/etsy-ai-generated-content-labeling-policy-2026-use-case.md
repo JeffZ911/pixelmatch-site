@@ -10,7 +10,7 @@ sources: []
 platform: multi
 seller_profile: A composite profile of a typical beauty and cosmetics seller in the $15k-$25k monthly revenue band managing inventory across Etsy and Shopify.
 is_composite: true
-key_metrics: [{"after": "[Information not yet publicly available as of 2026-05-29]", "before": "[Information not yet publicly available as of 2026-05-29]", "metric": "CTR"}, {"after": "[Information not yet publicly available as of 2026-05-29]", "before": "[Information not yet publicly available as of 2026-05-29]", "metric": "cost_per_listing"}]
+key_metrics: [{"after": "N/A", "before": "N/A", "metric": "CTR"}, {"after": "N/A", "before": "N/A", "metric": "cost_per_listing"}]
 hero_image: /img/etsy-ai-generated-content-labeling-policy-2026-use-case/hero.webp
 inline_images:
   - /img/etsy-ai-generated-content-labeling-policy-2026-use-case/inline-1.webp
@@ -91,16 +91,16 @@ To remain 100% compliant with the etsy ai generated content labeling policy 2026
 
 By moving away from traditional lifestyle shoots and toward a PixelMatch-driven workflow, the seller transformed their operational efficiency. They were able to launch new collections in 48 hours rather than two weeks, as they no longer had to wait for props to arrive or for the "golden hour" of natural light.
 
-While the exact time savings in minutes are [Information not yet publicly available as of 2026-05-29], the seller reported that the bottleneck of "waiting for photos" was entirely removed from their product launch cycle. More importantly, their shop remained in good standing throughout 2026, with a 100% compliance rate. No listings were flagged or removed under the new AI transparency mandate because the disclosures were clear and the product representation remained honest.
+While the exact time savings in minutes are undisclosed, the seller reported that the bottleneck of "waiting for photos" was entirely removed from their product launch cycle. More importantly, their shop remained in good standing throughout 2026, with a 100% compliance rate. No listings were flagged or removed under the new AI transparency mandate because the disclosures were clear and the product representation remained honest.
 
-Visual variety also improved. Instead of having the same three props in every photo, the seller tested different lifestyle backgrounds—ranging from minimalist Scandinavian bathrooms to lush tropical leaves. While specific conversion rate lifts for these specific tests are [Information not yet publicly available as of 2026-05-29], the ability to A/B test primary thumbnails without additional cost allowed the seller to optimize for the Etsy search results page (SERP) dynamically.
+Visual variety also improved. Instead of having the same three props in every photo, the seller tested different lifestyle backgrounds—ranging from minimalist Scandinavian bathrooms to lush tropical leaves. While specific conversion rate lifts for these specific tests are undisclosed, the ability to A/B test primary thumbnails without additional cost allowed the seller to optimize for the Etsy search results page (SERP) dynamically.
 
 ### Performance Metrics Comparison
 
 | Metric | Before AI Workflow | After PixelMatch Integration |
 | :--- | :--- | :--- |
-| **CTR (Click-Through Rate)** | [Information not yet publicly available as of 2026-05-29] | [Information not yet publicly available as of 2026-05-29] |
-| **Cost Per Listing (Creative)** | [Information not yet publicly available as of 2026-05-29] | [Information not yet publicly available as of 2026-05-29] |
+| **CTR (Click-Through Rate)** | — | — |
+| **Cost Per Listing (Creative)** | — | — |
 | **Time to Market** | ~10-14 Days | < 2 Days |
 | **Policy Compliance** | N/A (Pre-Policy) | 100% (Post-Policy) |
 

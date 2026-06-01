@@ -137,7 +137,7 @@ Canva is the gold standard for adding text overlays, "Price Drop" stickers, and 
 
 | Tool | Monthly Price (USD) | Best Feature for TikTok | Batch Capability |
 | :--- | :--- | :--- | :--- |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-19] | AI 1:1 to 9:16 Batch Expansion | High (Unlimited) |
+| **PixelMatch** | — | AI 1:1 to 9:16 Batch Expansion | High (Unlimited) |
 | **Photoroom** | $9.99 (Pro) / $34.99 (Max) | Mobile Background Removal | Medium |
 | **Pebblely** | $19.00 (Basic) | High-End Lifestyle AI | Low (Credit-based) |
 | **Canva** | $14.99 (Pro) | Text Overlays & Stickers | Low (Manual) |

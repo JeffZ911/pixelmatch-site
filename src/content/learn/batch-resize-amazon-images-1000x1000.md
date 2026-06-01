@@ -121,7 +121,7 @@ Compare the cost-per-image and batch limits of these tools to find the one that 
 
 | Tool | Monthly Price (Approx.) | Batch Limit | Best For |
 | :--- | :--- | :--- | :--- |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-22] | Unlimited / High Volume | Multi-platform AI generation & resizing |
+| **PixelMatch** | — | Unlimited / High Volume | Multi-platform AI generation & resizing |
 | **Canva Pro** | $15.00 | Variable (Magic Resize) | Basic resizing for social and web |
 | **Photoroom Pro** | $12.99 | 50 images per session | Quick background removal for resellers |
 | **Adobe Express** | $9.99 | One-click batch resize | Creative Cloud users needing quick edits |

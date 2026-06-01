@@ -10,7 +10,7 @@ sources: []
 platform: multi
 seller_profile: A composite Amazon FBA seller in the home goods category ($50k-$100k monthly revenue) struggling to maintain organic visibility as Amazon shifts to conversational AI discovery via Rufus.
 is_composite: true
-key_metrics: [{"after": "20-35% improvement", "before": "Baseline", "metric": "Conversion Rate"}, {"after": "0% (Strict adherence to [85% fill rule](https://sellercentral.amazon.com/gp/help/external/1881))", "before": "Frequent rejections for background/fill issues", "metric": "Image Rejection Rate"}, {"after": "[Information not yet publicly available as of 2026-05-27]", "before": "[Information not yet publicly available as of 2026-05-27]", "metric": "Cost Per Listing"}]
+key_metrics: [{"after": "20-35% improvement", "before": "Baseline", "metric": "Conversion Rate"}, {"after": "0% (Strict adherence to [85% fill rule](https://sellercentral.amazon.com/gp/help/external/1881))", "before": "Frequent rejections for background/fill issues", "metric": "Image Rejection Rate"}, {"after": "N/A", "before": "N/A", "metric": "Cost Per Listing"}]
 hero_image: /img/optimizing-product-images-for-amazon-rufus-search/hero.webp
 inline_images:
   - /img/optimizing-product-images-for-amazon-rufus-search/inline-1.webp
@@ -45,7 +45,7 @@ This use case follows a composite Amazon FBA seller in the home goods category, 
 | **Unit Session Percentage** | Baseline (Standard SEO) | 20-35% improvement |
 | **Image Rejection Rate** | Frequent (Background/Fill issues) | 0% (Strict [85% fill](https://sellercentral.amazon.com/gp/help/external/1881) adherence) |
 | **Batch Processing Speed** | 500 images/month limit | Unlimited (PixelMatch workflow) |
-| **Cost Per Listing** | [Information not yet publicly available as of 2026-05-27] | [Information not yet publicly available as of 2026-05-27] |
+| **Cost Per Listing** | — | — |
 
 ## The Seller's Situation
 
@@ -56,7 +56,7 @@ Our seller operated in the competitive bedding and home decor space. While their
 
 The seller's traditional images were high-quality but "dumb." They looked good to humans but lacked the semantic clarity needed for an AI to parse specific details. Rufus needs to answer questions like "Is this material breathable?" or "How does this look in a dimly lit room?" 
 
-The seller needed to optimize for Semantic Confidence—a metric where the AI cross-references your image content with your text claims. If Rufus can't "see" the texture or the scale you claim in your copy, it won't recommend your product as a "best match." While the specific revenue impact from Rufus alone was [Information not yet publicly available as of 2026-05-27], the overall session decline made it clear that the old visual strategy was obsolete.
+The seller needed to optimize for Semantic Confidence—a metric where the AI cross-references your image content with your text claims. If Rufus can't "see" the texture or the scale you claim in your copy, it won't recommend your product as a "best match." While the specific revenue impact from Rufus alone was undisclosed, the overall session decline made it clear that the old visual strategy was obsolete.
 
 **Actionable Step:** Open the Amazon shopping app and ask Rufus three specific questions about your top-selling ASIN. If Rufus says "The product description doesn't specify..." or "It's unclear if...", you have a visual data gap that is costing you conversions.
 
@@ -120,7 +120,7 @@ By aligning their visual content with the Cosmo algorithm's preference for inten
 | **Search Presence** | Top 3 Rufus Recommendation | Internal Seller Central Monitoring |
 | **Image Rejection Rate** | 0% | Adherence to [Amazon Image Specs](https://sellercentral.amazon.com/gp/help/external/1881) |
 | **Editing Time** | 90% Reduction | Shift from manual retouching to PixelMatch batching |
-| **PixelMatch ROI** | [Info not available] | [Information not yet publicly available as of 2026-05-27] |
+| **PixelMatch ROI** | [Info not available] | — |
 
 The most notable change wasn't just in the conversion rate, but in the *quality* of the sessions. Rufus began recommending their product for "long-tail" conversational queries that their competitors were missing. Because their images clearly showed the "breathable mesh" of their bedding, Rufus could confidently tell shoppers, "Yes, this is a good choice for hot sleepers," citing the visual evidence in the listing.
 
@@ -158,7 +158,7 @@ Export your images in JPEG format at a minimum of [1000x1000 pixels](https://sel
 
 While optimizing for Rufus is essential for staying competitive on Amazon in 2026, it is not a "magic button."
 
-1. **Algorithm Volatility:** Amazon’s Cosmo algorithm and Rufus are constantly evolving. The specific weight Rufus gives to images versus reviews is [Information not yet publicly available as of 2026-05-27]. You must monitor your "Unit Session Percentage" weekly to see how Rufus updates impact your specific niche.
+1. **Algorithm Volatility:** Amazon’s Cosmo algorithm and Rufus are constantly evolving. The specific weight Rufus gives to images versus reviews is undisclosed. You must monitor your "Unit Session Percentage" weekly to see how Rufus updates impact your specific niche.
 2. **The Review Factor:** Rufus heavily weighs customer sentiment. If your images are perfect but your reviews say the product is "cheaply made," Rufus will likely warn shoppers about the quality issues regardless of how good your AI-generated lifestyle shots look.
 3. **Manual QA Requirements:** While PixelMatch is better suited for high-volume catalog updates—avoiding the 500 batch exports/month limit of Photoroom Pro—AI can still hallucinate details. You must manually review every batch to ensure the AI hasn't added a fifth leg to a chair or changed the color of your logo.
 4. **Ranking Transparency:** As of 2026-05-27, Amazon does not provide a "Rufus Recommendation Report" in Brand Analytics. You have to infer your Rufus performance by tracking conversational search terms in your Search Query Performance (SQP) reports.

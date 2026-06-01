@@ -144,7 +144,7 @@ To stay updated on the latest policy shifts, bookmark these official TikTok Shop
 1.  **TikTok Shop Seller Center:** https://seller.tiktok.com - The main dashboard for managing rejections and viewing specific "Reason Codes."
 2.  **TikTok Shop Academy:** https://seller-us.tiktok.com/university - Detailed guides on "Brand Qualification" and "Image Quality Standards."
 3.  **TikTok Shop Intellectual Property Policy:** https://tos.tiktok.com/legal/v2/ip-policy - Essential reading for avoiding rejections related to brand logos and unauthorized assets.
-4.  **TikTok Shop Referral Fee Schedule (2026):** [Information not yet publicly available as of 2026-05-23] - Check your specific Seller Center "Finance" tab for the most current rate applicable to your category.
+4.  **TikTok Shop Referral Fee Schedule (2026):** undisclosed - Check your specific Seller Center "Finance" tab for the most current rate applicable to your category.
 
 
 <!-- pm-cta:foot -->

@@ -57,7 +57,7 @@ Standardize your file naming and compression workflow before your next product l
 
 Search engines cannot "see" the contents of an image file without metadata; they rely on the text strings attached to the file. Rename every image file on your local drive using a descriptive, hyphen-separated string before you upload it to Shopify. For example, change `final_edit_v2.png` to `mens-waterproof-hiking-boots-black-leather.png`. This naming convention provides immediate context to Google’s crawlers about the product category, material, and color.
 
-When writing alt text, prioritize accessibility and keyword relevance. Shopify allows up to 512 characters, but for optimal SEO, you should keep your descriptions under 125 characters. This ensures that screen readers used by visually impaired shoppers can convey the information efficiently. While Google's exact ranking weight for alt text in the 2026 algorithm is [Information not yet publicly available as of 2026-05-20], it remains a core pillar of the "Images" tab search results. 
+When writing alt text, prioritize accessibility and keyword relevance. Shopify allows up to 512 characters, but for optimal SEO, you should keep your descriptions under 125 characters. This ensures that screen readers used by visually impaired shoppers can convey the information efficiently. While Google's exact ranking weight for alt text in the 2026 algorithm is undisclosed, it remains a core pillar of the "Images" tab search results. 
 
 **Actionable Step:** Use the formula `[Brand] [Product Name] - [Color/Variant] - [Context/Angle]` for your alt text. Example: "PixelMatch Leather Wallet - Cognac Brown - Front view showing card slots."
 
@@ -88,7 +88,7 @@ Scan your Google Merchant Center "Diagnostics" tab and your Shopify "Product" al
 *   **Zoom Functionality Failure:** If your image is smaller than 800 x 800 px, Shopify’s native "hover-to-zoom" feature will not activate. In 2026, shoppers expect to see fine details; a lack of zoom functionality is often perceived as a lack of transparency, leading to abandoned carts.
 *   **Blurry or Pixelated Assets:** Upscaling a small image (e.g., taking a 400px thumbnail and stretching it to 2048px) results in interpolation artifacts. These images look unprofessional on high-density Retina displays and are often downgraded in Google Images ranking.
 *   **Google Shopping Disapprovals:** Google Merchant Center has strict policies regarding "promotional overlays." If your product images contain watermarks, "Free Shipping" badges, or logos covering the product, your entire feed can be disapproved. Google requires a clean, unobstructed view of the item, preferably on a neutral background for the primary image.
-*   **Missing Alt Text Penalties:** While not a "rejection" that removes your product from the store, missing alt text is a significant SEO penalty. It prevents your products from appearing in "Visual Search" queries, which have grown by [Information not yet publicly available as of 2026-05-20]% in the last year.
+*   **Missing Alt Text Penalties:** While not a "rejection" that removes your product from the store, missing alt text is a significant SEO penalty. It prevents your products from appearing in "Visual Search" queries, which have grown by undisclosed in the last year.
 
 **Actionable Step:** Open your Google Merchant Center account, navigate to **Products > Diagnostics**, and filter by "Image Issues." If you see "Image too small" or "Promotional overlay on image," these SKUs are currently hidden from Google Shopping.
 

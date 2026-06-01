@@ -109,7 +109,7 @@ Removebg is the industry standard for pure edge detection. The Lite plan is $8.1
 
 | Tool | Monthly Cost (Starting) | Batch Limit | Best For |
 | :--- | :--- | :--- | :--- |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-21] | Unlimited/High | Multi-platform FBA/TikTok/eBay |
+| **PixelMatch** | — | Unlimited/High | Multi-platform FBA/TikTok/eBay |
 | **Photoroom** | $9.99 | 50 images | Mobile-first boutique sellers |
 | **Pebblely** | $19.00 | 200 images | AI Lifestyle & Secondary images |
 | **Canva Pro** | $15.00 | Manual Batch | General design & Social media |

@@ -127,7 +127,7 @@ Canva is the gold standard for adding text overlays, "Limited Time Offer" sticke
 
 | Tool | Monthly Cost (USD) | Batch Limit | 9:16 Safe Zone Presets | Best For |
 | :--- | :--- | :--- | :--- | :--- |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-23] | Unlimited (Tier-based) | Yes (Auto-Alignment) | Multi-platform batching |
+| **PixelMatch** | — | Unlimited (Tier-based) | Yes (Auto-Alignment) | Multi-platform batching |
 | **Photoroom** | $9.99 | 50 images / session | Manual | Mobile-first editing |
 | **Pebblely** | $19.00 | 200 images / month | Manual | High-end lifestyle shots |
 | **Canva** | $14.99 | Manual / Bulk Create | Yes (Templates) | Text & Graphic Overlays |

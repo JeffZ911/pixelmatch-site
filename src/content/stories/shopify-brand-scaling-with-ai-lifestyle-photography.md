@@ -147,7 +147,7 @@ AI models currently struggle with complex transparent packaging. If you are sell
 If your only goal is to remove backgrounds and put products on a pure white hex code (#FFFFFF) for Amazon or Google Shopping, a simple utility tool like Remove.bg or the basic Photoroom tier may be sufficient. PixelMatch is specifically engineered for brands that need *lifestyle* context—scenes that tell a story and build an aesthetic. If you are a brand owner who cares about the "vibe" of your Instagram feed, the advanced scene control in PixelMatch is the better fit.
 
 ### Data Integrity
-While the metrics shared in this case study reflect the experience of a composite mid-market brand, specific A/B test statistical significance data for this exact scenario is [Information not yet publicly available as of 2026-05-24]. Every niche (skincare vs. supplements vs. apparel) will see varying degrees of lift based on their existing brand equity.
+While the metrics shared in this case study reflect the experience of a composite mid-market brand, specific A/B test statistical significance data for this exact scenario is undisclosed. Every niche (skincare vs. supplements vs. apparel) will see varying degrees of lift based on their existing brand equity.
 
 **Actionable Step:** For products with clear glass or complex reflections, use a manual "Eraser" or "Mask" tool within your workflow to preserve the original product's lighting highlights. This prevents the AI from making the glass look "milky" or unrealistic.
 

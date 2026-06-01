@@ -118,7 +118,7 @@ PixelMatch is best for multi-platform sellers who need to batch-generate consist
 
 *   **Best For:** Sellers with large catalogs or those cross-listing on multiple platforms.
 *   **Key Feature:** Batch generation with consistent lighting across different product shapes.
-*   **Pricing:** [Information not yet publicly available as of 2026-05-18].
+*   **Pricing:** undisclosed.
 
 ### Photoroom
 Photoroom remains a dominant mobile app with a Pro tier starting at $12.99/mo (or $89.99/year), ideal for quick, single-image edits on the go. Its 2026 update includes improved "Virtual Model" features, allowing clothing sellers to place garments on AI-generated models without a studio. However, the batch mode on the Pro plan is often capped at 50 images per session, which can be a bottleneck for growing brands.

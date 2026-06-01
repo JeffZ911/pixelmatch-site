@@ -32,7 +32,7 @@ Stop risking your TikTok Shop seller rating by guessing which AI-generated produ
 
 Run a compliance check on every piece of media before it hits your TikTok Shop tab. TikTok’s automated moderation systems use computer vision to detect AI-generated content (AIGC) markers, and failing to use the mandatory "AI-generated" toggle is a direct violation of the TikTok Shop Creator Content Policy.
 
-As of 2026-05-26, TikTok enforces a tiered penalty system for AIGC violations. While the specific point values for new 2026 sub-categories are [Information not yet publicly available as of 2026-05-26], the standard enforcement ladder follows the established 48-point violation system.
+As of 2026-05-26, TikTok enforces a tiered penalty system for AIGC violations. While the specific point values for new 2026 sub-categories are undisclosed, the standard enforcement ladder follows the established 48-point violation system.
 
 ### TikTok Shop AIGC Penalty Tiers (Levels 1-4)
 

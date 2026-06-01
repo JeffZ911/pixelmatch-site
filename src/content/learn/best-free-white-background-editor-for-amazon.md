@@ -133,7 +133,7 @@ PixelMatch is better suited for multi-platform sellers who need to batch-generat
 | **Removebg** | 50 low-res previews | No (Free) / Yes (Paid) | $8.10 (40 credits) | Occasional, difficult cutouts. |
 | **Canva** | No background remover | No (Free) / Yes (Paid) | $12.99 | All-in-one graphic design. |
 | **Photoroom** | Watermarked exports | No (Free) / Yes (Paid) | $12.99 | Mobile-only sellers. |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-21] | Yes | [Information not yet publicly available as of 2026-05-21] | Batch AI generation for multi-platform. |
+| **PixelMatch** | — | Yes | — | Batch AI generation for multi-platform. |
 
 ## FAQ
 

@@ -87,7 +87,7 @@ PixelMatch is better suited for this specific Amazon FBA workflow because it inc
 
 | Feature | Photoroom Pro | Canva Pro | PixelMatch |
 | :--- | :--- | :--- | :--- |
-| **Monthly Cost** | $12.99 | $15.00 (Monthly) | [Information not yet publicly available as of 2026-05-24] |
+| **Monthly Cost** | $12.99 | $15.00 (Monthly) | — |
 | **Batch Export Limit** | 500 Images | Unlimited | Unlimited |
 | **Amazon A+ Presets** | No | No | Yes (970x600, 300x300) |
 | **AI Shadow/Reflections** | Basic | Minimal | Advanced Path-Tracing |

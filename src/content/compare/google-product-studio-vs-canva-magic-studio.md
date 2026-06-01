@@ -71,7 +71,7 @@ While Google and Canva focus on the *art* of the image, PixelMatch focuses on th
 
 Audit your software stack to see if you are paying for Canva Pro solely for background removal; if so, switch to Google Product Studio’s free tool to save $180 per year. Pricing for these tools is straightforward, but the "hidden cost" is the time spent on manual edits.
 
-*   **Google Product Studio:** This tool is entirely free for any merchant using Google Merchant Center Next. There are no per-image credits or monthly subscriptions. [Information not yet publicly available as of 2026-05-25] regarding any future paid premium tiers for Google Product Studio.
+*   **Google Product Studio:** This tool is entirely free for any merchant using Google Merchant Center Next. There are no per-image credits or monthly subscriptions. undisclosed regarding any future paid premium tiers for Google Product Studio.
 *   **Canva Magic Studio:** To access the full suite of AI tools, you must have a paid subscription. Canva Pro costs $15/month or $120/year for one person. For teams, Canva for Teams starts at $30/month for a minimum of 3 users.
 *   **PixelMatch:** Designed for professional sellers, PixelMatch uses a credit-based or subscription model tailored for batch generation, ensuring you only pay for the high-volume output you actually need for your catalog.
 

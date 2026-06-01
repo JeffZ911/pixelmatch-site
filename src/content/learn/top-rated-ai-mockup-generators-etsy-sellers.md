@@ -124,7 +124,7 @@ Canva is useful for sellers who want to add text overlays or "Best Seller" badge
 
 | Tool | Pricing (Monthly) | Free Tier | Best For |
 | :--- | :--- | :--- | :--- |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-19] | Yes | Multi-platform batching & Etsy-spec automation. |
+| **PixelMatch** | — | Yes | Multi-platform batching & Etsy-spec automation. |
 | **Photoroom** | $9.99 | Limited | Mobile-first sellers and quick background removal. |
 | **Pebblely** | $19.00 | 40 images/mo | High-end lighting and shadow matching. |
 | **Canva** | $15.00 (Pro) | Yes | Adding text, badges, and branding templates. |

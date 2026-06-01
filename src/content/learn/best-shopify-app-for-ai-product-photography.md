@@ -118,7 +118,7 @@ PixelMatch is designed specifically for multi-platform ecommerce sellers who nee
 
 *   **Best For:** Sellers needing to maintain perfect visual consistency across hundreds of SKUs while simultaneously meeting different specs for Shopify (2048px square) and Amazon (pure white background, 85% product coverage).
 *   **Key Workflow Advantage:** It allows you to set "Brand Guardrails"—fixed lighting and background templates—so that every image generated over a six-month period looks like it came from the same photoshoot.
-*   **Pricing:** [Information not yet publicly available as of 2026-05-19].
+*   **Pricing:** undisclosed.
 
 ### Photoroom
 Photoroom remains a dominant force for mobile-first sellers. Its interface is highly intuitive for quick edits on the go.

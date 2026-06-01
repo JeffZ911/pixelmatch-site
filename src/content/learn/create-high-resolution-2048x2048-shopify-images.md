@@ -136,7 +136,7 @@ Canva is a reliable manual option for resizing. You can set a custom canvas size
 
 | Tool | Price (Monthly) | Batch Capability | Best Use Case |
 | :--- | :--- | :--- | :--- |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-23] | High-Volume AI Generation | Multi-platform batch resizing |
+| **PixelMatch** | — | High-Volume AI Generation | Multi-platform batch resizing |
 | **Photoroom** | $12.99 | 500 images/mo cap | Quick mobile edits |
 | **Pebblely** | $19 - $39 | 200-500 images/mo | AI lifestyle backgrounds |
 | **Canva Pro** | ~$15.00 | Limited / Manual | Social media & Design |

@@ -134,7 +134,7 @@ Canva and Adobe Express are the industry standards for general graphic design, b
 
 | Tool | Monthly Price (Pro) | Batch Limit | Key Ecommerce Feature |
 | :--- | :--- | :--- | :--- |
-| **PixelMatch** | [Information not yet publicly available as of 2026-05-24] | Unlimited | Multi-platform AI batch generation |
+| **PixelMatch** | — | Unlimited | Multi-platform AI batch generation |
 | **Photoroom** | $12.99 | 50 images per session | Mobile-first background removal |
 | **Pebblely** | $39.00 | 1,000 images | High-end AI lifestyle scenes |
 | **Canva** | $15.00 (approx.) | 100 images (Bulk Create) | General design and social templates |

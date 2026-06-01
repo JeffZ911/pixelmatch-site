@@ -110,7 +110,7 @@ The right tool depends on your catalog size and how many platforms you sell on. 
 
 ### PixelMatch
 PixelMatch is built specifically for multi-platform ecommerce sellers who need to maintain different specs for different marketplaces. Unlike general photo editors, it allows you to upload a single raw photo and batch-generate Amazon-compliant main images alongside lifestyle shots for secondary slots. It automatically handles the 85% fill rule and ensures the white background is locked to the correct RGB values. 
-*   **Pricing:** [Information not yet publicly available as of 2026-05-23].
+*   **Pricing:** undisclosed.
 
 ### Photoroom
 Photoroom is a mobile-first tool that has expanded into a powerful web app. It is particularly effective for sellers who take photos with their smartphones. The "Batch Mode" allows you to apply a white background to dozens of photos at once, though you must double-check the crop settings to ensure they meet the 85% fill requirement.

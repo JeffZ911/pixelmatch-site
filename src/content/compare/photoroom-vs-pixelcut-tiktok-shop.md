@@ -70,7 +70,7 @@ Pricing for AI tools in 2026 has shifted toward "credit-based" models for heavy 
 ### Photoroom Pricing Tiers
 Photoroom maintains a premium position in the market. As of 2026-05-20, the pricing structure is:
 *   **Free:** Unlimited basic edits, but includes Photoroom watermark. Low-resolution exports only.
-*   **Pro ($9.99/month or $89.99/year):** Includes batch mode (50 images), high-resolution exports, and access to the full AI background library. Note that standard Pro now limits high-intensity AI generations (like AI Models) to [Information not yet publicly available as of 2026-05-20] credits per month.
+*   **Pro ($9.99/month or $89.99/year):** Includes batch mode (50 images), high-resolution exports, and access to the full AI background library. Note that standard Pro now limits high-intensity AI generations (like AI Models) to undisclosed credits per month.
 *   **Business/Max ($34.99/month):** Designed for teams, offering higher batch limits and prioritized GPU rendering for faster exports.
 
 ### Pixelcut (Pixa) Pricing Tiers

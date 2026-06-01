@@ -105,7 +105,7 @@ Photoroom remains a top choice for sellers who manage their shops primarily via 
 ### Pebblely
 Pebblely excels at creating highly realistic lifestyle scenes by interpreting the lighting and shadows of your original product photo. It is particularly useful for home decor and beauty brands that need "aspirational" imagery.
 *   **Key Feature:** "Theme" based generation, which allows you to maintain a consistent aesthetic across your entire TikTok Shop.
-*   **Pricing:** [Information not yet publicly available as of 2026-05-19] for 2026 specific updates, but historically offers a free tier for 40 images/month, with paid plans starting at $19/month for 200 images.
+*   **Pricing:** undisclosed for 2026 specific updates, but historically offers a free tier for 40 images/month, with paid plans starting at $19/month for 200 images.
 *   **Best For:** Sellers who need high-end, artistic lifestyle photos but have a lower volume of total SKUs.
 
 ### PixelMatch

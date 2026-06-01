@@ -153,6 +153,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Etsy Seller Handbook: [https://www.etsy.com/seller-handbook/article/the-ultimate-guide-to-product-photography/147455439771](https://www.etsy.com/seller-handbook/article/the-ultimate-guide-to-product-photography/147455439771)
 *   Canva Pro Pricing & Features: https://www.canva.com/pricing/
 *   Adobe Express Premium Pricing: https://www.adobe.com/express/pricing
-*   Etsy Image Requirements 2026 (Internal Seller Central Update): [Information not yet publicly available as of 2026-05-19]
+*   Etsy Image Requirements 2026 (Internal Seller Central Update): undisclosed
 *   Stripe Standard Transaction Fees: https://stripe.com/pricing
 *   Adobe Firefly Generative Credit Info: [https://helpx.adobe.com/firefly/using/generative-credits-faq.html](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)

@@ -148,8 +148,8 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   Amazon Seller Central Help: "Product image requirements" (Accessed May 2026).
-*   Adobe Express Pricing Page: [Information not yet publicly available as of 2026-05-21] (Referencing 2024/2025 standard rates of $9.99/mo).
-*   Canva Pro Pricing: [Information not yet publicly available as of 2026-05-21] (Referencing 2025 standard rates of $120/year).
-*   Remove.bg Pricing: [Information not yet publicly available as of 2026-05-21] (Referencing 2025 credit-based pricing).
+*   Adobe Express Pricing Page: undisclosed (Referencing 2024/2025 standard rates of $9.99/mo).
+*   Canva Pro Pricing: undisclosed (Referencing 2025 standard rates of $120/year).
+*   Remove.bg Pricing: undisclosed (Referencing 2025 credit-based pricing).
 *   Jungle Scout: "Amazon Product Image Requirements: The 2025 Guide for Sellers."
 *   Helium 10: "How to Fix Amazon Search Suppression."

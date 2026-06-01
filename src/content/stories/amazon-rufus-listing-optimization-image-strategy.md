@@ -158,7 +158,7 @@ AI image generation isn't flawless. You must manually review every output for "A
 Amazon's policy is strict: the main image must be a professional photograph of the actual product. You cannot use a "fully" AI-generated product. You must start with a real photo of your inventory and use AI only for background removal and enhancement. Attempting to list a 100% synthetic product image can lead to a permanent "Inaccurate Product Image" flag on your account.
 
 ### 3. The "Black Box" of Rufus
-While the correlation between contextual imagery and Rufus visibility is clear, the exact ranking algorithm weightings are [Information not yet publicly available as of 2026-05-27]. We know that Rufus prioritizes "helpful" content, but the specific ratio of image-to-text importance in the ranking score remains a proprietary secret of Amazon's A10 algorithm.
+While the correlation between contextual imagery and Rufus visibility is clear, the exact ranking algorithm weightings are undisclosed. We know that Rufus prioritizes "helpful" content, but the specific ratio of image-to-text importance in the ranking score remains a proprietary secret of Amazon's A10 algorithm.
 
 ### 4. Transactional Costs
 While photo costs drop, remember that your net profit is still subject to platform fees. For a home goods seller, you are typically looking at a [15% Amazon Referral Fee](https://sell.amazon.com/pricing#referral-fees) plus FBA fulfillment costs. If you sell on Shopify as well, factor in the 2.9% + $0.30 Stripe processing fee (or your specific Shopify Payments rate). Cutting your photo costs from $350 to $45 per SKU can increase your per-unit net margin by several percentage points, which is often the difference between a scaling brand and a stagnant one.

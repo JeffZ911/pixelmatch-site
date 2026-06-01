@@ -148,7 +148,7 @@ Achieving the "Good" tier requires more than just high-quality photos. You must 
 *   "Net Weight" and "Volume" specifications.
 *   Clear "Expiration Date" or "Period After Opening" (PAO) info.
 
-[Information not yet publicly available as of 2026-05-29] regarding exactly how much algorithmic weight TikTok Shop gives to images versus these text attributes in the final LQT score. However, seller data consistently shows that images are the primary trigger for the "Poor" flag.
+undisclosed regarding exactly how much algorithmic weight TikTok Shop gives to images versus these text attributes in the final LQT score. However, seller data consistently shows that images are the primary trigger for the "Poor" flag.
 
 ### Payment and Fee Considerations
 When scaling your TikTok Shop, remember that your margins are affected by more than just photo costs. As of 2026-05-29, ensure your pricing accounts for standard payment processing. While TikTok Shop has its own fee structure, external transactions via Stripe typically cost 2.9% + $0.30 per transaction, and PayPal's standard commercial rate is 3.49% + $0.49. High-quality images increase your conversion rate, helping to offset these unavoidable transaction costs.

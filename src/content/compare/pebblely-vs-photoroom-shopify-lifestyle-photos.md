@@ -94,7 +94,7 @@ Photoroom's pricing is more aggressive for high-volume users, especially if you 
 *   **Pro ($12.99/month or $89.99/year):** 500 batch exports per month. This is the sweet spot for most Shopify sellers. It includes high-definition exports and no watermarks.
 *   **Max ($34.99/month or $249.99/year):** 1,500 batch exports per month. Includes advanced "Gen-AI" background generation and larger batch sizes (up to 250 images at once).
 
-**The "Hidden" Cost of Scale:** If you use the Photoroom API to automate your Shopify store's backend, you will be billed separately from your Pro/Max subscription. As of May 19, 2026, API credits typically start at [Information not yet publicly available as of 2026-05-19] per image for high-volume users.
+**The "Hidden" Cost of Scale:** If you use the Photoroom API to automate your Shopify store's backend, you will be billed separately from your Pro/Max subscription. As of May 19, 2026, API credits typically start at undisclosed per image for high-volume users.
 
 ## Best For (By Seller Profile)
 

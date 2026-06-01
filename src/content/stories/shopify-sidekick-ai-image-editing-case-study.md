@@ -136,7 +136,7 @@ While AI image editing has reached a "pro-sumer" level of quality, it is not a m
 
 While Shopify Sidekick is [free to all Shopify merchants](https://www.shopify.com/magic), its image generation capabilities are still entry-level and include invisible watermarks. These watermarks are intended to comply with AI safety standards but may interfere with certain third-party marketplaces that have strict "no-watermark" policies for main images.
 
-Shopify has not yet released official data on the average conversion lift of Sidekick-generated images [Information not yet publicly available as of 2026-05-28], so merchants must A/B test their own results. Do not assume that an AI-generated background will automatically perform better than a clean white one; data from your own customer base is the only metric that matters.
+Shopify has not yet released official data on the average conversion lift of Sidekick-generated images undisclosed, so merchants must A/B test their own results. Do not assume that an AI-generated background will automatically perform better than a clean white one; data from your own customer base is the only metric that matters.
 
 PixelMatch requires a paid subscription for high-volume batch processing. While the per-image cost is significantly lower than a freelancer, it is an additional fixed monthly expense that must be justified by the volume of your catalog.
 
