@@ -39,18 +39,17 @@ function remarkStripFirstH1() {
   };
 }
 
-// PixelMatch blog — the SEO arm. It lives on its OWN subdomain
-// (blog.pixelmatch.art, Cloudflare Pages) and links OUT to the SaaS product
-// at pixelmatch.art (a SEPARATE Replit app — the AI image generator). The
-// apex is the PRODUCT, not the blog.
-//
-// `site` therefore self-canonicalises to the subdomain. This REVERTS the
-// false "Phase 3 cutover" (2026-05-25) that pointed canonical at the apex —
-// the apex is a different app and was serving 404, so every blog page
-// canonicalised to a dead URL. `base` stays /blog so the already-indexed
-// blog.pixelmatch.art/blog/... URLs keep their canonical (no URL migration).
+// PixelMatch blog. Architecture (CONFIRMED working 2026-06-06):
+//   - pixelmatch.art (apex) = the SaaS product, a Replit (Express) app that
+//     ALSO reverse-proxies /blog/* → this Cloudflare Pages origin.
+//   - blog.pixelmatch.art (CF Pages custom domain) 301s → pixelmatch.art/blog/*
+//     to consolidate everything onto ONE canonical home.
+//   - canonical = https://pixelmatch.art/blog/...  (built from Astro.site).
+// This whole chain looked "broken" only because the Replit app was offline
+// (apex 404, the /blog reverse-proxy dead). Bringing Replit back online
+// restored it — canonical points at the apex/blog home, NOT the subdomain.
 export default defineConfig({
-  site: "https://blog.pixelmatch.art",
+  site: "https://pixelmatch.art",
   base: "/blog",
   trailingSlash: "always",
   integrations: [tailwind({ applyBaseStyles: false }), mdx()],
