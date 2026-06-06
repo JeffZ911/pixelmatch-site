@@ -39,17 +39,18 @@ function remarkStripFirstH1() {
   };
 }
 
-// PixelMatch blog (Phase 1B 2026-05-14).
+// PixelMatch blog — the SEO arm. It lives on its OWN subdomain
+// (blog.pixelmatch.art, Cloudflare Pages) and links OUT to the SaaS product
+// at pixelmatch.art (a SEPARATE Replit app — the AI image generator). The
+// apex is the PRODUCT, not the blog.
 //
-// `site` is the *canonical* domain — set to pixelmatch.art so every
-// emitted URL (canonical tag, OG, sitemap) reads as the SaaS root.
-// `base` is the URL prefix the content lives under. Phase 1-2 deploys
-// to `blog.pixelmatch.art` on Cloudflare Pages directly; Phase 3 puts
-// a CF Worker on pixelmatch.art that rewrites /blog/* to this Pages
-// origin. Because Astro already emits absolute pixelmatch.art/blog/...
-// URLs from day 1, the cutover is invisible to Google.
+// `site` therefore self-canonicalises to the subdomain. This REVERTS the
+// false "Phase 3 cutover" (2026-05-25) that pointed canonical at the apex —
+// the apex is a different app and was serving 404, so every blog page
+// canonicalised to a dead URL. `base` stays /blog so the already-indexed
+// blog.pixelmatch.art/blog/... URLs keep their canonical (no URL migration).
 export default defineConfig({
-  site: "https://pixelmatch.art",
+  site: "https://blog.pixelmatch.art",
   base: "/blog",
   trailingSlash: "always",
   integrations: [tailwind({ applyBaseStyles: false }), mdx()],

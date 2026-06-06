@@ -94,14 +94,15 @@ const jsonLd = {
   author: {
     "@type": "Organization",
     name: "PixelMatch Editorial",
-    url: "https://pixelmatch.art/blog/about/",
+    url: "https://blog.pixelmatch.art/blog/about/",
   },
   publisher: {
+    // The publisher is the SaaS product (the apex Replit app), intentionally.
     "@type": "Organization",
     name: "PixelMatch",
     url: "https://pixelmatch.art/",
   },
-  publishingPrinciples: "https://pixelmatch.art/blog/editorial-policy/",
+  publishingPrinciples: "https://blog.pixelmatch.art/blog/editorial-policy/",
   actionableFeedbackPolicy: "https://pixelmatch.art/contact",
   description: description,
   ...(heroImage ? { image: heroImage } : {}),

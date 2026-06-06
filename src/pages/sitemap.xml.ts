@@ -1,13 +1,13 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 
-// Sitemap host — PHASE 3 CUTOVER DONE (2026-05-25): pixelmatch.art now
-// serves /blog/* (reverse-proxy in the apex Express app → CF Pages origin),
-// so the subdirectory is the real, canonical home. sc-domain:pixelmatch.art
-// is a domain GSC property (covers the apex), so we emit root-domain URLs to
-// match the canonical tags. Sitemap is reachable at
-// pixelmatch.art/blog/sitemap.xml (proxied) — submit THAT to GSC.
-const SITE = "https://pixelmatch.art";
+// Sitemap host — REVERTED the false "Phase 3 cutover" (2026-06-06): the apex
+// pixelmatch.art is a SEPARATE Replit app (the SaaS product), it never served
+// /blog/* and was returning 404. The blog lives on its own subdomain, so the
+// sitemap (and canonical tags) emit blog.pixelmatch.art URLs. sc-domain:
+// pixelmatch.art (domain property) still covers the subdomain. Submit
+// blog.pixelmatch.art/blog/sitemap.xml to GSC.
+const SITE = "https://blog.pixelmatch.art";
 const BASE = "/blog";
 
 const STATIC_PATHS = [
