@@ -102,7 +102,7 @@ Rufus doesn't just "see" images; it "reads" them. The brand added text overlays 
 ![Results (with Numbers)](/img/amazon-rufus-listing-optimization-image-strategy/inline-4.webp)
 
 
-After 90 days of implementing the Rufus-optimized image strategy, Haven & Hearth saw a measurable shift in both their bottom line and their search visibility. By moving away from a $350-per-listing photography model to a batch-AI model, they significantly improved their net margins.
+After 90 days of implementing the Rufus-optimized image strategy, Haven & Hearth saw a measurable shift in both their bottom line and their search visibility. By moving away from a $350-per-listing photography model to a batch-[AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide), they significantly improved their net margins.
 
 | Metric | Before (Traditional) | After (PixelMatch AI) | Change |
 | :--- | :--- | :--- | :--- |

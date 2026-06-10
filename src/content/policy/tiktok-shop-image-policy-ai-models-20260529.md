@@ -96,7 +96,7 @@ TikTok is currently rolling out advanced watermarking (based on the C2PA standar
 While "floating" products in space or surreal environments are popular on Instagram, TikTok Shop prefers "shoppability." AI images that make the product's size impossible to determine—such as a small portable speaker appearing the size of a car in an AI-generated landscape—are flagged for "Size Misrepresentation."
 
 ### Actionable Step: Run a "Physical vs. Digital" Audit
-Take your top 10 listings and place the physical product next to your screen showing the AI image. If the color saturation, texture, or scale differs by more than 10%, delete the image and re-generate it using a tool that prioritizes color accuracy.
+Take your top 10 listings and place the physical product next to your screen showing the [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial). If the color saturation, texture, or scale differs by more than 10%, delete the image and re-generate it using a tool that prioritizes color accuracy.
 
 ## How to Fix Each Issue
 

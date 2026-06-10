@@ -118,7 +118,7 @@ The workflow maintained the [free access](https://www.shopify.com/magic) benefit
 
 You can implement this exact workflow regardless of your current technical skill level. The goal is to move from "taking pictures" to "managing an image pipeline."
 
-1.  **Audit your current catalog:** Use Shopify Sidekick to find low-converting product pages. Simply type: "Show me my top 20 products by traffic that have a conversion rate under 1.5%." These are your first candidates for an AI image refresh.
+1.  **Audit your current catalog:** Use [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) to find low-converting product pages. Simply type: "Show me my top 20 products by traffic that have a conversion rate under 1.5%." These are your first candidates for an AI image refresh.
 2.  **Establish a "Control" Shoot:** Take 5-10 raw photos of a single product using your current setup (even if it's just an iPhone in a well-lit room).
 3.  **Set up a PixelMatch workspace:** Define your brand's aspect ratio (Square 1:1) and lighting preferences. Use the "Batch Remove Background" feature first to create a clean slate.
 4.  **Define your AI Staging:** Choose a lifestyle background that fits your brand (e.g., "Minimalist loft with natural sunlight" for modern apparel).
