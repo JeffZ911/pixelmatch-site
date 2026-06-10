@@ -118,7 +118,7 @@ Pebblely is highly regarded for its ability to match lighting and shadows betwee
 Pebblely allows you to "paint" where you want shadows to fall, giving you more granular control than Canva, though it lacks the automated multi-platform batching found in PixelMatch.
 
 ### Canva
-Canva is useful for sellers who want to add text overlays or "Best Seller" badges to their mockups. While Canva has introduced "Magic Media" for AI image generation, its native AI staging is less specialized for complex product shadows than dedicated tools like PixelMatch or Pebblely. Canva is best used as a final assembly tool—generating the "raw" mockup in a dedicated AI tool and then bringing it into Canva for branding and templates.
+Canva is useful for sellers who want to add text overlays or "Best Seller" badges to their mockups. While Canva has introduced "Magic Media" for [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation, its native AI staging is less specialized for complex product shadows than dedicated tools like PixelMatch or Pebblely. Canva is best used as a final assembly tool—generating the "raw" mockup in a dedicated AI tool and then bringing it into Canva for branding and templates.
 
 ### AI Mockup Generator Comparison (2026)
 

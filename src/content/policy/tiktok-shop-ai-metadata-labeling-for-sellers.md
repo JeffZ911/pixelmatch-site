@@ -104,7 +104,7 @@ Even if your product is 100% real, placing it in a fully AI-generated environmen
 | :--- | :--- | :--- |
 | **Product Color** | Original photo used; background changed to a beach. | AI used to "brighten" the product color to a shade it isn't. |
 | **Product Size** | Product scaled correctly against AI furniture. | AI makes the product look 2x larger than its actual dimensions. |
-| **Human Models** | AI model used with "AI-generated" label visible. | AI model used to claim "real user results" without labeling. |
+| **Human Models** | [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) used with "AI-generated" label visible. | AI model used to claim "real user results" without labeling. |
 | **Texture** | Original fabric texture preserved. | AI "smooths" the fabric to hide wrinkles or imperfections. |
 
 ## How to Fix Each Issue

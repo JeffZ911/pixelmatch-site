@@ -127,7 +127,7 @@ Upload your base photo to PixelMatch. Generate 5 distinct lifestyle scenes to fi
 Etsy’s zoom functionality is a major factor in buyer confidence. While the minimum is 2000 px, you should export your images at [3000 x 3000 px](https://help.etsy.com/hc/en-us/articles/115015663347) for the best results. PixelMatch allows for high-resolution exports that ensure your labels remain legible even when a customer zooms in to read the ingredients.
 
 ### Step 4: Apply the AI Disclosure
-Update your listing description to include the required AI disclosure statement. This is the most critical step for complying with the etsy ai generated content labeling policy 2026. Place the disclosure near the bottom of your description or in a "Frequently Asked Questions" section of your shop to ensure it is visible to both bots and humans.
+Update your listing description to include the required AI disclosure statement. This is the most critical step for complying with the [etsy ai](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) generated content labeling policy 2026. Place the disclosure near the bottom of your description or in a "Frequently Asked Questions" section of your shop to ensure it is visible to both bots and humans.
 
 **Actionable Step for Sellers:** Use the "Bulk Edit" tool in Etsy’s Listings Manager to add your AI disclosure statement to all existing listings at once, saving hours of manual entry.
 

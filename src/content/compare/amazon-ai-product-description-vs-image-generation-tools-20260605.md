@@ -60,7 +60,7 @@ The following table breaks down the core differences between the two categories 
 
 AI description tools like the Helium 10 AI Listing Builder are designed to ingest a list of high-volume keywords and weave them into a coherent narrative. However, these tools often struggle with brand voice and can produce repetitive phrasing. 
 
-On the other hand, AI image tools like PixelMatch allow you to upload a single "seed" photo and generate hundreds of compliant variations. This is particularly effective for multi-platform sellers who need to adapt a single product shot into a [1:1 square for Amazon](https://sellercentral.amazon.com/help/hub/reference/G1881) and a 4:5 or 9:16 vertical format for TikTok Shop or Instagram.
+On the other hand, [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) tools like PixelMatch allow you to upload a single "seed" photo and generate hundreds of compliant variations. This is particularly effective for multi-platform sellers who need to adapt a single product shot into a [1:1 square for Amazon](https://sellercentral.amazon.com/help/hub/reference/G1881) and a 4:5 or 9:16 vertical format for TikTok Shop or Instagram.
 
 ## Pricing Comparison
 

@@ -61,7 +61,7 @@ To maintain fast page load speeds on the Etsy mobile app, keep your file sizes u
 
 Under Etsy’s Creativity Standards, sellers must be transparent about how a product was made and how it is presented. If you use AI to create a lifestyle scene or a synthetic model, you must disclose this. As of mid-2026, legal frameworks like New York’s S.8420-A have set a precedent for commercial listings: if a "person" in your photo is not real, the consumer has a right to know.
 
-To comply, add a small, legible text overlay or badge to the corner of your secondary images stating "AI Model Used" or "Digitally Staged." This transparency doesn't hurt conversions; in fact, it builds trust by showing the buyer you are an honest seller. For personalized items, your primary image must show a finished version of the product. You cannot use a blank mockup with "Your Name Here" as the main photo. The buyer needs to see what the final physical result—ink on paper, thread on hats, or engraving on metal—actually looks like.
+To comply, add a small, legible text overlay or badge to the corner of your secondary images stating "[AI Model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) Used" or "Digitally Staged." This transparency doesn't hurt conversions; in fact, it builds trust by showing the buyer you are an honest seller. For personalized items, your primary image must show a finished version of the product. You cannot use a blank mockup with "Your Name Here" as the main photo. The buyer needs to see what the final physical result—ink on paper, thread on hats, or engraving on metal—actually looks like.
 
 ## Common Rejection Reasons
 
