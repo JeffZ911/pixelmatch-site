@@ -39,7 +39,7 @@ Stop wasting thousands of dollars on physical photoshoots that take weeks to coo
 
 Run a "Label Stress Test" by uploading your most text-heavy product to both platforms before committing to a paid subscription. Most sellers find that while Midjourney creates the most "expensive-looking" lighting, the inability to keep a logo legible makes it a non-starter for primary listing images.
 
-*   **Midjourney** is a general-purpose AI image generator that excels at aesthetic quality but fails at preserving exact product details without extensive manual compositing.
+*   **Midjourney** is a general-purpose [AI image generator](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) that excels at aesthetic quality but fails at preserving exact product details without extensive manual compositing.
 *   **Flair AI** is a specialized ecommerce tool with a visual canvas that locks your product's pixels and generates lifestyle scenes around it.
 *   **Neither tool** is optimized for high-volume catalog processing, which is where batch-generation tools like PixelMatch step in to automate the workflow for hundreds of SKUs at once.
 

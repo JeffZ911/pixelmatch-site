@@ -36,7 +36,7 @@ Stop wasting hours manually retouching product photos and agonizing over keyword
 Run a split test on your top-selling SKU today by replacing a generic studio shot with an AI-generated lifestyle image to measure the immediate impact on your Click-Through Rate (CTR). While AI description tools like Helium 10 or Jungle Scout are essential for indexing and search visibility, they do not "stop the scroll." Shoppers buy with their eyes, and high-quality visual assets provide a more significant conversion lift than perfectly tuned bullet points.
 
 *   **AI description tools** focus on the "backend"—optimizing text for search engines and ensuring your product appears in relevant queries.
-*   **AI image generators** like PixelMatch, Photoroom, and Pebblely focus on the "frontend"—creating lifestyle and hero images that drive the initial click.
+*   **[AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generators** like PixelMatch, Photoroom, and Pebblely focus on the "frontend"—creating lifestyle and hero images that drive the initial click.
 *   **Compliance is king:** Amazon strictly requires main images to have a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) and be [at least 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) to enable the zoom function.
 *   **The Verdict:** Invest in image generation first to fix your CTR. A perfectly written description is useless if nobody clicks on the listing. Once your visuals are professional, use text AI to refine your SEO and backend search terms.
 

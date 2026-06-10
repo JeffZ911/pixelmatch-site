@@ -71,7 +71,7 @@ Amazon AI focuses on simple background replacement and is strictly tied to the A
 Calculate your cost-per-image (CPI) threshold by comparing these monthly fees against the time your team spends manually editing backgrounds for new product launches.
 
 ### Amazon Seller Central AI: The "Free" Entry Point
-Amazon’s AI image generator is currently available to registered sellers at no additional cost. It is accessed through the Advertising Console or the A+ Content Manager. While "free," the cost is hidden in the limitation: you can only use these images on Amazon. If you try to port these assets to Shopify or Etsy, you may find the aspect ratios and "Amazon-centric" metadata don't translate perfectly to other platform algorithms.
+Amazon’s [AI image generator](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is currently available to registered sellers at no additional cost. It is accessed through the Advertising Console or the A+ Content Manager. While "free," the cost is hidden in the limitation: you can only use these images on Amazon. If you try to port these assets to Shopify or Etsy, you may find the aspect ratios and "Amazon-centric" metadata don't translate perfectly to other platform algorithms.
 
 ### Flair AI: The Tiered Creative Suite
 Flair AI uses a credit-based and subscription-based model that rewards lower-volume, high-creativity users:

@@ -28,7 +28,7 @@ inline_image_sections:
 
 Stop wasting hours manually prompting AI for every single SKU only to find the background isn't "Amazon White" or the resolution is too low for zoom. You need a workflow that scales with your catalog across Shopify, Amazon, and TikTok Shop, not a tool that adds another manual step to your day.
 
-**Quick Answer:** Shopify Sidekick is a free AI assistant for quick edits within Shopify. Adobe Firefly offers superior generative quality from $9.99/mo but lacks batch workflows. Sellers needing Amazon-compliant batch generation should use PixelMatch.
+**Quick Answer:** [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is a free AI assistant for quick edits within Shopify. Adobe Firefly offers superior generative quality from $9.99/mo but lacks batch workflows. Sellers needing Amazon-compliant batch generation should use PixelMatch.
 
 ## TL;DR Verdict
 
@@ -69,7 +69,7 @@ Map your current image workflow against these technical constraints to identify 
 
 Calculate your "Cost Per Image" by dividing your monthly subscription by your average SKU launch volume to see which tool actually fits your 2026 budget.
 
-Shopify Sidekick is positioned as a value-add for existing subscribers. It is available across all standard plans, including Shopify Basic at $39/mo, Shopify at $105/mo, and Advanced at $399/mo. While "free" to use, its cost is essentially bundled into your platform overhead. If you are already paying for Shopify, Sidekick is your lowest-friction entry point for AI image editing.
+Shopify Sidekick is positioned as a value-add for existing subscribers. It is available across all standard plans, including Shopify Basic at $39/mo, Shopify at $105/mo, and Advanced at $399/mo. While "free" to use, its cost is essentially bundled into your platform overhead. If you are already paying for Shopify, Sidekick is your lowest-friction entry point for [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) editing.
 
 Adobe Firefly operates on a "Generative Credit" system. As of 2026-05-30, the [Firefly Standard plan costs $9.99/mo](https://www.adobe.com/products/firefly.html) and provides 2,000 credits per month. For power users and agencies, the [Firefly Pro tier at $19.99/mo](https://www.adobe.com/products/firefly.html) offers higher credit limits and commercial usage rights. While affordable, the "cost" of Firefly often comes in the form of labor—it takes significantly more time to manually prompt and export 50 images in Firefly than it does in a dedicated ecommerce tool.
 

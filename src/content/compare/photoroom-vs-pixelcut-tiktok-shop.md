@@ -139,7 +139,7 @@ To maximize your TikTok Shop ROI in 2026, align your tool choice with your month
 
 ### Use Photoroom if:
 *   You sell apparel, jewelry, or premium goods that require high-precision masking.
-*   You need "Ghost Mannequin" or "AI Model" features to professionalize your listings.
+*   You need "Ghost Mannequin" or "[AI Model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide)" features to professionalize your listings.
 *   You prefer a tool with a highly polished web-to-mobile sync.
 *   **Action:** Start with the Pro monthly plan to test the "AI Backgrounds" on your top 10 best-sellers and measure the lift in click-through rate (CTR).
 
