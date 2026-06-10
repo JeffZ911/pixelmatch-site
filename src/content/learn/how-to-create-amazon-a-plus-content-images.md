@@ -128,7 +128,7 @@ Canva is the industry standard for assembling the final layout of your A+ module
 *   **Best for:** Adding text overlays and building comparison charts.
 *   **Limitation:** Canva does not generate AI lifestyle images from scratch with the same "product-to-environment" lighting accuracy as PixelMatch or Pebblely; it is primarily a layout tool.
 
-**Comparison of AI Image Tools (May 2026)**
+**Comparison of [AI Image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) Tools (May 2026)**
 
 | Tool | Primary Use Case | Batch Capability | Amazon Spec Presets |
 | :--- | :--- | :--- | :--- |

@@ -104,7 +104,7 @@ The transition to an AI-driven workflow produced immediate, measurable improveme
 
 The most significant win was the CTR jump. By generating multiple lifestyle variations, the seller was able to run [Amazon Manage Your Experiments (MYE)](https://sellercentral.amazon.com/help/hub/reference/G8S7ZCEBCBKS969G) to test which background resonated most with their target audience. They discovered that for their specific vase, the "Scandinavian living room" outperformed the "Rustic farmhouse" background by 40%. In a traditional photography model, testing four different room sets would have cost thousands of dollars; with AI, it was essentially free.
 
-**Actionable Step:** Launch a 4-week MYE test on your best-selling SKU. Replace your current "Main Image 2" (the first lifestyle shot) with a high-contrast AI-generated version. Monitor the "Units per Unique Visitor" metric to see if the new lifestyle context is driving more than just clicks, but actual conversions.
+**Actionable Step:** Launch a 4-week MYE test on your best-selling SKU. Replace your current "Main [Image 2](https://pixelmatch.art/blog/compare/gpt-image-2-vs-nano-banana-comparison)" (the first lifestyle shot) with a high-contrast AI-generated version. Monitor the "Units per Unique Visitor" metric to see if the new lifestyle context is driving more than just clicks, but actual conversions.
 
 ## Steps to Replicate
 

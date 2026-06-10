@@ -26,7 +26,7 @@ inline_image_sections:
 
 Stop losing sales to low-quality photos or getting your listings flagged for policy violations. To get an Etsy shop conversion boost with AI mockups, you must balance high-end synthetic aesthetics with the platform’s strict transparency and "real product" requirements.
 
-To get an Etsy shop conversion boost with AI mockups, use AI-generated lifestyle images for secondary photos, but ensure your primary image is a real photo or an accurate representation of the finished product. You must also disclose AI usage, such as adding an "AI model used" badge to comply with 2026 regulations regarding synthetic media and Etsy's own transparency standards.
+To get an Etsy shop conversion boost with AI mockups, use AI-generated lifestyle images for secondary photos, but ensure your primary image is a real photo or an accurate representation of the finished product. You must also disclose AI usage, such as adding an "[AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) used" badge to comply with 2026 regulations regarding synthetic media and Etsy's own transparency standards.
 
 ## Quick Reference Table
 

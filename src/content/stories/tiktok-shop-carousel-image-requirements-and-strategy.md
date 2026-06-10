@@ -134,7 +134,7 @@ You can replicate this cost-cutting strategy by following this checklist to stan
 2.  **Standardize Your Aspect Ratio:** Use PixelMatch's batch editor to force a 1:1 square ratio. Do not use portrait or landscape images with "letterboxing" (black or white bars), as this reduces the visual impact on mobile.
 3.  **Structure Your Carousel for Conversion:** 
     *   **Image 1:** AI-generated lifestyle shot (The "Hook").
-    *   **Image 2-4:** Clean, multi-angle product shots on a neutral background.
+    *   **[Image 2](https://pixelmatch.art/blog/compare/gpt-image-2-vs-nano-banana-comparison)-4:** Clean, multi-angle product shots on a neutral background.
     *   **Image 5-6:** Texture shots (e.g., a smear of the cream, a swatch of the lipstick).
     *   **Image 7-8:** "In-use" or scale shots (e.g., the product held in a hand).
     *   **Image 9:** An infographic or size chart (ensure text is large enough for mobile).

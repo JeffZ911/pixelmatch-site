@@ -49,7 +49,7 @@ Audit your current main images against the [Amazon 85% product fill rule](https:
 
 The following table breaks down the core differences between the two categories of AI tools currently dominating the Amazon FBA and multi-channel landscape.
 
-| Feature | AI Description Tools (e.g., Helium 10) | AI Image Tools (e.g., PixelMatch, Photoroom) |
+| Feature | AI Description Tools (e.g., Helium 10) | [AI Image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) Tools (e.g., PixelMatch, Photoroom) |
 | :--- | :--- | :--- |
 | **Primary Goal** | Search Indexing & SEO | Conversion Rate & CTR |
 | **Key Output** | Titles, Bullets, Descriptions, Backend Terms | Main Images, Lifestyle Shots, A+ Content |

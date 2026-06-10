@@ -73,7 +73,7 @@ Manual clipping paths in Photoshop took too long and required expensive freelanc
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **[Try PixelMatch free →](https://pixelmatch.art/login?utm_source=blog&utm_medium=mid&utm_campaign=shopify-sidekick-ai-image-editing-case-study)**
 
-To solve the conflict between quality and speed, the seller built a hybrid workflow. This pipeline uses Shopify Sidekick for data-driven decision-making and PixelMatch for high-performance visual execution. By separating the "thinking" (analytics) from the "doing" (batch editing), the seller eliminated the 1 MP resolution ceiling.
+To solve the conflict between quality and speed, the seller built a hybrid workflow. This pipeline uses [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) for data-driven decision-making and PixelMatch for high-performance visual execution. By separating the "thinking" (analytics) from the "doing" (batch editing), the seller eliminated the 1 MP resolution ceiling.
 
 ### Step 1: Data-Driven Selection with Sidekick
 The seller uses Shopify Sidekick's conversational analytics to identify which product categories have high traffic but low conversion rates. By asking Sidekick, "Which products had the most views but the fewest sales this month?", the seller generates a priority list for visual refreshes. This ensures that AI credits and human time are spent only on the images that will move the needle on revenue.

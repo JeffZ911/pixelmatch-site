@@ -182,7 +182,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 - [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
-- <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+AI+Image+Generator+for+Sponsored+Brands&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: AI Image Generator for Sponsored Brands</a>
+- <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+AI+Image+Generator+for+Sponsored+Brands&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: [AI Image Generator](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) for Sponsored Brands</a>
 - [Shopify Help Center: Product Image Best Practices and Sizes](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 - TikTok Shop Seller Center: Image and Video Specifications
 - Canva Official Pricing Page

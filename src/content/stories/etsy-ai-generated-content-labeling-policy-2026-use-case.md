@@ -71,7 +71,7 @@ To solve the twin problems of high costs and policy compliance, the seller trans
 
 The seller optimized their workflow to ensure all exports met or exceeded Etsy's strict [2000 x 2000 px minimum](https://help.etsy.com/hc/en-us/articles/115015663347) image size requirements. By using PixelMatch to batch-generate backgrounds, they could take one high-quality "hero" shot of a bottle and place it in five different high-resolution scenes in seconds.
 
-To remain 100% compliant with the etsy ai generated content labeling policy 2026, the seller integrated a standardized disclosure statement into their listing templates. This transparency not only satisfied the Etsy algorithm but also built trust with customers who value honesty in the "clean beauty" space.
+To remain 100% compliant with the [etsy ai](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) generated content labeling policy 2026, the seller integrated a standardized disclosure statement into their listing templates. This transparency not only satisfied the Etsy algorithm but also built trust with customers who value honesty in the "clean beauty" space.
 
 ### The Compliance Checklist Table
 
