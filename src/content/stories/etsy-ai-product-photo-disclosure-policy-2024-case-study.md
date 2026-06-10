@@ -63,7 +63,7 @@ Beyond pricing, the workflow remained fragmented. Generating AI models in Canva 
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-The seller transitioned to PixelMatch to consolidate background generation and AI model staging into a single, automated platform. This allowed them to move from "one-off" edits to a batch-processing system that respected Etsy's technical and legal requirements.
+The seller transitioned to PixelMatch to consolidate background generation and [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) staging into a single, automated platform. This allowed them to move from "one-off" edits to a batch-processing system that respected Etsy's technical and legal requirements.
 
 ### Step 1: Capture and Batch Upload
 The process begins with a clean, well-lit flat-lay photo of the apparel item. PixelMatch’s engine identifies the garment's edges, removes the original background, and prepares it for staging. Unlike general-purpose editors, PixelMatch is designed for apparel, ensuring that the drape and texture of the fabric are preserved when placed on a model.

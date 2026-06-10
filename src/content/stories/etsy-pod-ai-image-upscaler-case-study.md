@@ -86,7 +86,7 @@ Sarah briefly experimented with free open-source tools like Upscayl or ESRGAN. W
 To solve the quality and cost issues, Sarah transitioned to a consolidated workflow using PixelMatch as the central hub for her image preparation. This allowed her to move from a raw design to a print-ready, high-resolution file in under 60 seconds.
 
 ### Step 1: Design Generation and Background Removal
-Sarah generates her base artwork using her preferred AI model. Instead of moving to a separate background removal tool, she imports the raw file directly into PixelMatch. Using the integrated AI background remover, she strips the background with one click, ensuring the edges are clean for apparel placement.
+Sarah generates her base artwork using her preferred [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide). Instead of moving to a separate background removal tool, she imports the raw file directly into PixelMatch. Using the integrated AI background remover, she strips the background with one click, ensuring the edges are clean for apparel placement.
 
 ### Step 2: Batch Upscaling for Etsy and Printify
 This is where the "best ai image upscaler for etsy pod sellers" proves its value. Sarah selects her batch of designs and applies a 4x upscale.

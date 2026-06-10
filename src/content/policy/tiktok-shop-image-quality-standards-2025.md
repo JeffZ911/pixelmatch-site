@@ -105,7 +105,7 @@ Execute a batch-processing workflow to fix your entire catalog at once rather th
 
 ### Batch Background Correction
 
-Use an AI image editor like PixelMatch to automatically strip non-compliant backgrounds and replace them with pure white (#FFFFFF). Unlike general-purpose editors, PixelMatch is designed for ecommerce workflows, ensuring that shadows are handled naturally while the background remains digitally pure. This allows you to pass TikTok's automated moderation instantly. If you are currently using Adobe Express's free tier, you may find the manual "clean up" process for batch uploads too slow for a high-volume TikTok Shop.
+Use an [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) editor like PixelMatch to automatically strip non-compliant backgrounds and replace them with pure white (#FFFFFF). Unlike general-purpose editors, PixelMatch is designed for ecommerce workflows, ensuring that shadows are handled naturally while the background remains digitally pure. This allows you to pass TikTok's automated moderation instantly. If you are currently using Adobe Express's free tier, you may find the manual "clean up" process for batch uploads too slow for a high-volume TikTok Shop.
 
 ### Upscaling Supplier Photos
 

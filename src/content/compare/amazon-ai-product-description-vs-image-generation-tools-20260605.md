@@ -133,7 +133,7 @@ To maximize your Amazon FBA and multi-channel ROI in 2026, follow this hierarchy
 3.  **Automate SEO Text with Caution:** Use a tool like Helium 10 to identify high-opportunity keywords, but always have a human review the output to ensure it doesn't sound like a bot.
 4.  **Scale Across Platforms:** Once your Amazon assets are solid, use PixelMatch to batch-resize and re-style those images for the more "aesthetic" requirements of Shopify and Etsy.
 
-By prioritizing AI image generation, you address the most critical part of the funnel: the moment a customer decides whether to click your product or your competitor's. Text gets you found, but images get you paid.
+By prioritizing [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation, you address the most critical part of the funnel: the moment a customer decides whether to click your product or your competitor's. Text gets you found, but images get you paid.
 
 
 <!-- pm-cta:foot -->
