@@ -100,7 +100,7 @@ By offloading the heavy lifting to PixelMatch instead of relying solely on nativ
 
 Cost per listing dropped from an estimated $4.50 (freelance rates) to $0.85. This $0.85 figure accounts for the monthly subscription cost of the AI tools divided by the total number of images processed. For a seller launching a new 50-item collection every month, the monthly savings exceed $200, which can be reallocated toward Meta or TikTok ad spend.
 
-The workflow maintained the [free access](https://www.shopify.com/magic) benefits of Shopify Sidekick for store management and analytics, while using PixelMatch for professional-grade visual output. This "best-of-both-worlds" approach ensures that the store's backend remains lean while the frontend remains premium.
+The workflow maintained the [free access](https://www.shopify.com/magic) benefits of [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) for store management and analytics, while using PixelMatch for professional-grade visual output. This "best-of-both-worlds" approach ensures that the store's backend remains lean while the frontend remains premium.
 
 | Metric | Manual/Freelance | AI Hybrid Workflow |
 | :--- | :--- | :--- |

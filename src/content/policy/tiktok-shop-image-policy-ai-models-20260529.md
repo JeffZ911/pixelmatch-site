@@ -67,7 +67,7 @@ You cannot use AI to "enhance" the product features. For example, if you sell a 
 TikTok Shop has a zero-tolerance policy for AI-generated doctors, scientists, or professionals. You cannot generate a synthetic avatar wearing a lab coat to endorse your supplement or beauty product. Any image suggesting that a professional has "approved" the product via an AI-generated likeness will result in an immediate Permanent Store Ban.
 
 ### Intellectual Property and Likeness
-Using AI to replicate the likeness of a celebrity or a known influencer to sell your products is illegal and violates TikTok’s Intellectual Property Policy. Even if the AI model only "resembles" a famous person, TikTok’s facial recognition filters may flag it for a manual review.
+Using AI to replicate the likeness of a celebrity or a known influencer to sell your products is illegal and violates TikTok’s Intellectual Property Policy. Even if the [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) only "resembles" a famous person, TikTok’s facial recognition filters may flag it for a manual review.
 
 ### Actionable Step: Standardize Your AIGC Workflow
 Create a mandatory checklist for your VA or content team: Every image generated via AI must be tagged with the "AIGC" metadata or disclosed via the Seller Center toggle. This prevents accidental policy violations that occur when scaling your catalog to hundreds of SKUs.

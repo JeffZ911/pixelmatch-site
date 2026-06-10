@@ -94,7 +94,7 @@ A high-converting Etsy listing follows a specific visual narrative. By using a m
 2.  **Slot 2-4 (The Vibe):** Use PixelMatch to generate lifestyle backgrounds. Place your product in a cozy living room, a sunlit office, or a trendy cafe.
 3.  **Slot 5 (The Detail):** A macro shot showing the material, stitching, or engraving.
 4.  **Slot 6 (The Scale):** An image showing the product next to a common object (like a hand or a phone) to clarify size.
-5.  **Slot 7 (The Disclosure):** If you used synthetic models, ensure this slot or the previous lifestyle slots have the "AI Model Used" badge.
+5.  **Slot 7 (The Disclosure):** If you used synthetic models, ensure this slot or the previous lifestyle slots have the "[AI Model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) Used" badge.
 
 ### Automating Compliant Image Resizing
 
