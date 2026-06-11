@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Scaling a high-volume Shopify store requires hundreds of lifestyle images that pass Google Merchant Center's strict filters without slowing down your site speed. Choosing between Flair AI and Pebblely depends on whether you need granular scene control or rapid social-media-ready framing, but both require specific configurations to meet 2026 platform standards.
+Scaling a high-volume Shopify store requires hundreds of lifestyle images that pass [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide)'s strict filters without slowing down your site speed. Choosing between Flair AI and Pebblely depends on whether you need granular scene control or rapid social-media-ready framing, but both require specific configurations to meet 2026 platform standards.
 
 ## Quick Reference Table
 
@@ -60,7 +60,7 @@ Flair AI handles this by offering custom upscaling in its Pro tier at $10/mo, al
 
 ### Google Merchant Center Lifestyle Rules
 
-Because most Shopify stores sync their products to Google Shopping, your lifestyle shots must adhere to Google Merchant Center specifications. Google recommends a minimum of 1500 x 1500 pixels for lifestyle images (referred to as `lifestyle_image_link`). 
+Because most Shopify stores sync their products to Google Shopping, your lifestyle shots must adhere to [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center specifications. Google recommends a minimum of 1500 x 1500 pixels for lifestyle images (referred to as `lifestyle_image_link`). 
 
 Unlike standard product photos on a white background, Google’s lifestyle rules allow for "natural environments," but they strictly forbid:
 *   Promotional overlays (e.g., "50% OFF").
@@ -78,7 +78,7 @@ If you use Flair AI’s "Elements" feature to add props, ensure they do not obsc
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Scan your generated backgrounds for "AI gibberish" text before uploading to Google Merchant Center (GMC). AI models often attempt to "complete" a scene by adding signs, labels, or posters in the background, but these frequently contain illegible characters that trigger Google’s automated "promotional text" filters.
+Scan your generated backgrounds for "AI gibberish" text before uploading to Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) (GMC). AI models often attempt to "complete" a scene by adding signs, labels, or posters in the background, but these frequently contain illegible characters that trigger Google’s automated "promotional text" filters.
 
 ### AI Text Hallucinations
 

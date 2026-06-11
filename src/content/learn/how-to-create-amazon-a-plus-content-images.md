@@ -60,7 +60,7 @@ Amazon provides a library of modules, but you should prioritize those that answe
 ### Formatting to 2026 Image Specs
 Amazon’s 2026 requirements for A+ Content are strict. If a single image exceeds the file size or falls below the resolution threshold, the entire A+ submission will be flagged. Use high-resolution exports but compress them to stay under the 2 MB limit.
 
-**2026 Amazon A+ Content Image Specs**
+**2026 Amazon A+ Content [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs)**
 
 | Module Type | Required Dimensions (Pixels) | Max File Size | Format |
 | :--- | :--- | :--- | :--- |
@@ -149,7 +149,7 @@ The maximum file size is 2 MB per image. If your file is larger, use a tool like
 Amazon accepts JPG, PNG, and BMP formats. JPG is the recommended format for lifestyle images as it provides the best balance between file size and visual quality, leading to faster page load times for shoppers on slow mobile connections.
 
 **How long does Amazon take to approve A+ Content?**
-Standard approval time is within 7 business days. However, during peak seasons like Q4 (October through December), manual reviews can take up to 14 business days. Plan your content updates at least three weeks before major sales events like Prime Day or Black Friday.
+Standard approval time is within 7 business days. However, during peak seasons like Q4 (October through December), manual reviews can take up to 14 business days. Plan your content updates at least three weeks before major sales events like [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) or Black Friday.
 
 **Can I use A+ Content if I am not Brand Registered?**
 No. A+ Content is an exclusive benefit for sellers who have a verified trademark and are enrolled in the Amazon Brand Registry program. If you are not registered, your listing will only show the basic text-only product description.

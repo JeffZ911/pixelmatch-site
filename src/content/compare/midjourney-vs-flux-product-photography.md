@@ -115,7 +115,7 @@ Shopify stores rely on "vibe" and brand storytelling.
 *   **Why Midjourney wins here:** For your homepage hero banner or Instagram ads, Midjourney v7’s cinematic lighting and "Style Reference" (`--sref`) feature are unbeatable. You can upload a photo of a high-end editorial shoot and tell Midjourney to "copy this lighting" for your new product. This ensures your [Shopify hero images (1920x1080 px)](https://help.shopify.com/en/manual/products/product-media/product-media-types) maintain a consistent brand aesthetic.
 
 ### High-Volume Multi-Platform Sellers
-If you sell on Amazon, Shopify, Etsy, and TikTok Shop, you face four different sets of image specs. 
+If you sell on Amazon, Shopify, Etsy, and TikTok Shop, you face four different sets of [image specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs). 
 *   **The Workflow Solution:** Use Flux-powered batch tools like PixelMatch. Instead of prompting one by one in Discord, you upload your "seed" product photo once. The AI then generates 50+ lifestyle scenes and automatically resizes/crops them to meet [Etsy’s 2000px shortest-side recommendation](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) and TikTok Shop’s 1:1 square requirements.
 
 ## Where Each Falls Short

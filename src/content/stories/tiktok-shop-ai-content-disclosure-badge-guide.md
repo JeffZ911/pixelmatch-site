@@ -90,7 +90,7 @@ The most critical step in the new workflow happened during the upload process. W
 
 Review your "Listing Quality Score" in the Seller Center to ensure all AI-labeled images maintain a 100% approval rate. By embracing transparency, the beauty brand transformed their account health from "At Risk" back to "Good."
 
-The proactive use of the AI disclosure badge removed the "deceptive" flag from their listings. While some sellers fear that an "AI-generated" label might deter buyers, the reality in the beauty niche is that consumers prioritize the *aesthetic* of the lifestyle shot and the *accuracy* of the product description. The brand found that a labeled, high-quality AI image performed significantly better than a low-quality, unlabeled real photo.
+The proactive use of the AI [disclosure badge](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) removed the "deceptive" flag from their listings. While some sellers fear that an "AI-generated" label might deter buyers, the reality in the beauty niche is that consumers prioritize the *aesthetic* of the lifestyle shot and the *accuracy* of the product description. The brand found that a labeled, high-quality AI image performed significantly better than a low-quality, unlabeled real photo.
 
 | Metric | Before (Manual Photography) | After (PixelMatch AI) |
 | :--- | :--- | :--- |

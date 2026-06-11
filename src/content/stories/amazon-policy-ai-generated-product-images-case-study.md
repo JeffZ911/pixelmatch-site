@@ -34,7 +34,7 @@ High-end studio photography often drains 30% of a beauty brand’s pre-launch bu
 
 Managing a catalog of 150+ SKUs in the beauty niche requires a constant cycle of refreshes to maintain a competitive Click-Through Rate (CTR). For the composite seller in this study—a 7-figure Amazon FBA brand specializing in organic serums and skincare—the cost of traditional photography had become a bottleneck for growth. Each new product launch required a professional photographer, a prop stylist, and a retouching editor, totaling roughly $450 per listing for a standard set of seven images.
 
-As AI image generation tools entered the market, the brand saw an opportunity to scale. However, they faced a significant hurdle: the [amazon policy for ai generated product images](https://sellercentral.amazon.com/help/hub/reference/G1881). Amazon does not ban AI-generated images, but it enforces rigid technical specifications and accuracy standards. Violating these rules leads to listing suppression, or worse, account health warnings due to "Product Not as Described" complaints.
+As [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation tools entered the market, the brand saw an opportunity to scale. However, they faced a significant hurdle: the [amazon policy for ai generated product images](https://sellercentral.amazon.com/help/hub/reference/G1881). Amazon does not ban AI-generated images, but it enforces rigid technical specifications and accuracy standards. Violating these rules leads to listing suppression, or worse, account health warnings due to "Product Not as Described" complaints.
 
 ## The Seller's Situation
 

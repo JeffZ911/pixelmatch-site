@@ -33,7 +33,7 @@ TikTok Shop requires sellers to disclose AI-generated images and virtual influen
 ![Quick Reference Table](/img/tiktok-shop-ai-influencer-image-disclosure-rules/inline-1.webp)
 
 
-Perform a weekly audit of your "Content Violations" tab in the TikTok Seller Center to identify any "Unlabeled AI Content" flags before they escalate to account-level points. TikTok's automated systems now scan for metadata and visual patterns consistent with synthetic generation, meaning "stealth" AI usage is no longer a viable strategy for high-volume sellers.
+Perform a weekly audit of your "Content Violations" tab in the TikTok Seller Center to identify any "Unlabeled [AI Content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide)" flags before they escalate to account-level points. TikTok's automated systems now scan for metadata and visual patterns consistent with synthetic generation, meaning "stealth" AI usage is no longer a viable strategy for high-volume sellers.
 
 | Disclosure Type | Required Action | Reach Impact | Penalty for Non-Compliance |
 | :--- | :--- | :--- | :--- |

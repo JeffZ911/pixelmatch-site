@@ -28,14 +28,14 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Stop burning your Q2 margins on traditional studio photography that won't deliver until the Amazon Prime Day 2026 traffic surge has already passed. Scaling high-conversion visuals for 150+ beauty SKUs requires a level of speed and precision that manual retouching simply cannot match when the Prime Day window shifts to June.
+Stop burning your Q2 margins on traditional studio photography that won't deliver until the [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) 2026 traffic surge has already passed. Scaling high-conversion visuals for 150+ beauty SKUs requires a level of speed and precision that manual retouching simply cannot match when the Prime Day window shifts to June.
 
 ## The Seller's Situation
 
 ![The Seller's Situation](/img/amazon-prime-day-2026-image-prep-guide/inline-1.webp)
 
 
-Managing a beauty brand with $50,000 to $100,000 in monthly revenue means you are constantly balancing inventory capital against marketing spend. For our composite seller, a mid-sized Amazon FBA brand specializing in organic skincare and cosmetic serums, the announcement of a June Prime Day created an immediate logistical crisis. 
+Managing a beauty brand with $50,000 to $100,000 in monthly revenue means you are constantly balancing inventory capital against marketing spend. For our composite seller, a mid-sized Amazon FBA brand specializing in organic skincare and cosmetic serums, the announcement of a June [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) created an immediate logistical crisis. 
 
 Amazon officially announced that Prime Day will take place in [June 2026](https://sellercentral.amazon.com/), significantly compressing the usual preparation timeline. In previous years, sellers often had until July to perfect their listings, but the 2026 schedule moved the goalposts. The exact dates for the event are undisclosed, which forces sellers into a "ready-now" defensive posture. 
 
@@ -129,7 +129,7 @@ Export the final batch in [JPEG format](https://sellercentral.amazon.com/help/hu
 ![Caveats and Honest Limitations](/img/amazon-prime-day-2026-image-prep-guide/inline-6.webp)
 
 
-While AI batch processing is a force multiplier, it is not a "set and forget" solution, especially in the high-stakes environment of Amazon Prime Day 2026.
+While AI batch processing is a force multiplier, it is not a "set and forget" solution, especially in the high-stakes environment of [Amazon Prime](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) Day 2026.
 
 First, AI edge detection can occasionally struggle with highly transparent beauty packaging. If you are selling clear glass serums or bottles with complex liquid refractions, the AI may cut into the glass or leave a slight "fuzz" on the edges. These specific SKUs may require a "High-Precision" pass or minor manual masking.
 
