@@ -129,7 +129,7 @@ Canva is the industry standard for adding secondary graphic elements, such as si
 Yes, TikTok Shop allows AI-generated images provided they do not deceive the buyer. You must not use AI to change the product's color, size, or features. Additionally, if the image is significantly altered (like a full lifestyle scene), you must use the "AI-generated" content toggle in the Seller Center to remain compliant with the 2026 AIGC policy.
 
 **What is the best image size for TikTok Shop?**
-The recommended size is 800x800 pixels with a 1:1 square aspect ratio. While the platform accepts images as small as 600x600 pixels, anything smaller than 800x800 pixels will result in a lower Listing Quality Score and may appear blurry on high-resolution smartphone screens.
+The recommended size is 800x800 pixels with a 1:1 square aspect ratio. While the platform accepts images as small as 600x600 pixels, anything smaller than 800x800 pixels will result in a lower Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) and may appear blurry on high-resolution smartphone screens.
 
 **How many images should I upload to TikTok Shop?**
 You should upload a minimum of 5 images, though the platform allows up to 9. Listings with 5 or more images are much more likely to achieve a "Good" quality rating, which is a prerequisite for high organic reach in the TikTok Shop tab.

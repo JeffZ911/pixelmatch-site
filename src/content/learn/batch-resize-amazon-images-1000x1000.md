@@ -153,7 +153,7 @@ Yes, Amazon accepts PNG files. However, JPEG is highly recommended for main imag
 If your image is between 500 and 999 pixels, it will likely be accepted by the system, but the zoom functionality will be disabled. If the image is under 500 pixels, the listing may be suppressed entirely. In 2026, Amazon prioritizes listings with zoom, so staying under 1000 pixels is a major competitive disadvantage.
 
 **How do I check the RGB value of my background?**
-Use a "Color Picker" tool in any image editor (like Photoshop, Canva, or PixelMatch). Hover over the white area; the values must be R: 255, G: 255, B: 255. If the numbers are 254 or lower, you must re-process the image to avoid potential suppression.
+Use a "Color Picker" tool in any [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) (like Photoshop, Canva, or PixelMatch). Hover over the white area; the values must be R: 255, G: 255, B: 255. If the numbers are 254 or lower, you must re-process the image to avoid potential suppression.
 
 **Is WebP accepted on Amazon in 2026?**
 As of May 22, 2026, Amazon does not officially support the WebP format for product image uploads. Stick to JPEG, PNG, TIFF, or non-animated GIF to ensure your uploads are processed correctly.

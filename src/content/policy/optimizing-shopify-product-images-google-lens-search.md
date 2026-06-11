@@ -31,7 +31,7 @@ Stop losing sales to "search by image" competitors who undercut your price becau
 **Slug:** optimizing-shopify-product-images-google-lens-search
 **Meta Description:** Learn the exact 2026 specs for optimizing Shopify product images for Google Lens search. Avoid [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) disapprovals and scale with AI.
 
-**Quick Answer:** Shopify product images for Google Lens must meet Merchant Center specs: minimum 500x500 px, max 16 MB, and 75-90% product fill.
+**Quick Answer:** Shopify product images for Google Lens must meet [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) specs: minimum 500x500 px, max 16 MB, and 75-90% product fill.
 
 ## Quick Reference Table
 
@@ -46,7 +46,7 @@ Run a manual audit of your top 10 best-selling SKUs against these 2026 standards
 | **Recommended Resolution** | 1500 x 1500 pixels | For optimal zoom/Lens matching |
 | **Maximum File Size** | 16 MB | Hard limit for GMC uploads |
 | **Product Fill Area** | 75% to 90% of the frame | [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center Requirement |
-| **Supported Formats** | JPEG, PNG, WebP, GIF, BMP, TIFF | Merchant Center Image Specs |
+| **Supported Formats** | JPEG, PNG, WebP, GIF, BMP, TIFF | Merchant Center [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |
 | **Background Color** | Solid white or transparent | Clean image policy |
 
 ## Detailed Requirements
@@ -54,7 +54,7 @@ Run a manual audit of your top 10 best-selling SKUs against these 2026 standards
 ![Detailed Requirements](/img/optimizing-shopify-product-images-google-lens-search/inline-2.webp)
 
 
-Google Lens does not "see" images the way humans do; it uses feature extraction to identify shapes, textures, and logos. To appear in Lens search results, your Shopify store must feed the Google Merchant Center (GMC) clean, high-contrast data that the AI can easily parse.
+Google Lens does not "see" images the way humans do; it uses feature extraction to identify shapes, textures, and logos. To appear in Lens search results, your Shopify store must feed the [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) (GMC) clean, high-contrast data that the AI can easily parse.
 
 ### Technical Image Specs
 
@@ -79,7 +79,7 @@ Check your store’s eligibility for [Google Lens and Google Images](https://dev
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Open your Google Merchant Center account and navigate to **Products > Diagnostics**. If you see a "Needs attention" warning or a red "Disapproved" status, your images are likely violating one of the following four criteria.
+Open your [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center account and navigate to **Products > Diagnostics**. If you see a "Needs attention" warning or a red "Disapproved" status, your images are likely violating one of the following four criteria.
 
 ### Image Too Small
 Uploading images under the 500 x 500 pixel minimum is the most common reason for rejection in 2026. While older 100x100 pixel thumbnails were once tolerated for non-apparel items, Google has moved toward a high-definition standard to support the precision required for [visual search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide). A small image prevents the Lens AI from identifying unique textures—like the grain of leather or the weave of a fabric—resulting in a "hard rejection" where the product is removed from the Shopping tab entirely.

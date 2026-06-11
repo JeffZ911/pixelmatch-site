@@ -25,7 +25,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop wasting hours manually retouching product photos or paying high-ticket photographers for lifestyle scenes that AI can generate in seconds. Choosing between Google Product Studio and Canva Magic Studio depends entirely on whether you are optimizing a Google Shopping feed or building a brand identity across social media.
+Stop wasting hours manually retouching product photos or paying high-ticket photographers for lifestyle scenes that AI can generate in seconds. Choosing between Google Product Studio and [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio depends entirely on whether you are optimizing a Google Shopping feed or building a brand identity across social media.
 
 ## TL;DR Verdict
 

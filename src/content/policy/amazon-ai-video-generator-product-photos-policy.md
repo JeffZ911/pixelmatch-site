@@ -23,7 +23,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop wasting thousands on production studios only to have your Sponsored Brands video rejected by a manual reviewer for "low-quality motion." Audit your creative assets against the updated 2026 Amazon AI Video requirements to ensure your AI-generated clips actually go live.
+Stop wasting thousands on production studios only to have your Sponsored Brands video rejected by a manual reviewer for "low-quality motion." Audit your creative assets against the updated 2026 [Amazon AI Video](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) requirements to ensure your AI-generated clips actually go live.
 
 ## Quick Reference Table
 
@@ -48,7 +48,7 @@ Audit your existing creative library against the 2026 spec table below to identi
 
 Configure your AI prompt parameters to exclude text overlays and ensure a 16:9 aspect ratio before you hit the "generate" button. Amazon's native AI tool, which widened access to all U.S. advertisers in late 2024, is designed specifically for Sponsored Brands. However, if you are a multi-platform seller, you need a workflow that handles more than just Amazon's 16:9 horizontal format.
 
-PixelMatch solves this by allowing you to batch-generate AI product images that serve as the high-fidelity source material for any video generator. Instead of relying on a single native tool, you can generate a consistent set of product shots and then push them into video tools to create 16:9 videos for Amazon and 9:16 vertical videos for TikTok Shop or Instagram Reels simultaneously.
+PixelMatch solves this by allowing you to batch-generate AI product images that serve as the high-fidelity source material for any [video generator](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic). Instead of relying on a single native tool, you can generate a consistent set of product shots and then push them into video tools to create 16:9 videos for Amazon and 9:16 vertical videos for TikTok Shop or Instagram Reels simultaneously.
 
 ### Sponsored Ads vs. Product Detail Page Specs
 
@@ -60,7 +60,7 @@ Product Detail Page (PDP) videos are more flexible but higher stakes. While they
 
 Set your video export settings to <a href="https://www.amazon.com/s?k=128+kbps+or+higher+for+audio&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">128 kbps or higher for audio</a> and a sample rate of <a href="https://www.amazon.com/s?k=44.1+kHz&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">44.1 kHz</a>. Even though Sponsored Brands videos often play on mute, the file must contain an audio track that meets these technical specs to pass the automated validation check. 
 
-For the video stream, use the H.264 or H.265 codec. Most AI video generators like Booth.AI or Adobe Express default to these, but if you are using a custom Stable Diffusion pipeline, you must manually verify that your <a href="https://www.amazon.com/s?k=bitrate+is+at+least+8+Mbps+for+1080p+content&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">bitrate is at least 8 Mbps for 1080p content</a>.
+For the video stream, use the H.264 or H.265 codec. Most [AI video](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) generators like Booth.AI or Adobe Express default to these, but if you are using a custom Stable Diffusion pipeline, you must manually verify that your <a href="https://www.amazon.com/s?k=bitrate+is+at+least+8+Mbps+for+1080p+content&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">bitrate is at least 8 Mbps for 1080p content</a>.
 
 ## Common Rejection Reasons
 

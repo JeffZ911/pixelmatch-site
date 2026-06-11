@@ -102,7 +102,7 @@ Run your next product launch through this checklist to ensure your shop remains 
 2.  **Select a brand-aligned [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide).** Choose models and backgrounds that fit your target demographic. PixelMatch allows you to select specific ethnicities and age groups, which is more cost-effective than hiring a diverse roster of physical models.
 3.  **Export at 2000 x 2000 pixels.** Always export at the [maximum recommended resolution](https://help.etsy.com/hc/en-us/articles/115015663347). This prevents your images from appearing blurry on mobile devices or during the "zoom" phase of a buyer's journey.
 4.  **Insert the mandatory disclosure.** Do not hide your AI disclosure at the bottom of the page. Place it right after your 1-2 sentence product elevator pitch in the description. This builds trust by showing you are an honest seller.
-5.  **Add a compliance badge for US/NY sales.** If you sell in the U.S. and use AI-generated people, consider adding a small "AI model used" watermark or badge directly on the image. This prepares your shop for the New York digital replica law and similar upcoming legislation in other states.
+5.  **Add a compliance badge for US/NY sales.** If you sell in the U.S. and use AI-generated people, consider adding a small "[AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) used" watermark or badge directly on the image. This prepares your shop for the New York digital replica law and similar upcoming legislation in other states.
 
 ## Monitor Regulatory Updates to Protect Your Shop Assets
 

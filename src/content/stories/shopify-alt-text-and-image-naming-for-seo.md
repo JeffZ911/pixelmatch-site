@@ -117,7 +117,7 @@ The operational efficiency gains were equally stark:
 ![Steps to Replicate](/img/shopify-alt-text-and-image-naming-for-seo/inline-5.webp)
 
 
-Follow these five steps to clean up your Shopify media library and start capturing more visual search traffic.
+Follow these five steps to clean up your Shopify media library and start capturing more [visual search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide) traffic.
 
 ### Step 1: The Media Audit
 Don't guess where your gaps are. Use a tool like Screaming Frog or a Shopify-specific SEO auditor to crawl your site. Export a list of all images missing alt text. If your file names are currently strings of numbers, prioritize your top-selling 20% of products first.

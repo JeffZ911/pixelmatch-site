@@ -77,7 +77,7 @@ Audit your monthly image requirements before choosing a plan. If you are launchi
 ![Best For (By Seller Profile)](/img/midjourney-v7-vs-flux-2-for-products/inline-4.webp)
 
 
-Match your AI model to your primary sales channel. A "cinematic" image that works on Instagram might get your listing suppressed on Amazon if it doesn't meet strict technical guidelines.
+Match your [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) to your primary sales channel. A "cinematic" image that works on Instagram might get your listing suppressed on Amazon if it doesn't meet strict technical guidelines.
 
 ### Amazon FBA Private Label
 Flux 2 is the clear winner for Amazon Main Images. Amazon requires a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) and the product must fill 85% of the frame. Flux 2’s deterministic nature means you can prompt for "Product on pure white background, 255,255,255" and it will actually deliver it without the gray shadows or "off-white" tints that Midjourney often introduces. Furthermore, Flux 2 ensures your packaging text is readable, which is essential for items where the brand name or "Key Ingredients" must be visible in the search results.
@@ -104,7 +104,7 @@ Implement a human-in-the-loop QA process for every AI-generated image. Even in 2
 ![Recommendation](/img/midjourney-v7-vs-flux-2-for-products/inline-6.webp)
 
 
-Stop treating AI image generation as a "one-off" creative task and start treating it as a data-processing task. 
+Stop treating [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation as a "one-off" creative task and start treating it as a data-processing task. 
 
 If you are a solo founder building a brand identity from scratch, invest your time in learning **Midjourney v7**. Its ability to generate "vibes" will help you define your brand's visual language faster than any mood board.
 

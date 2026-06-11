@@ -66,7 +66,7 @@ When using a batch-generation tool to process your photos, ensure the output res
 - **File Size:** Under 1MB is recommended for fast loading, though Etsy supports up to 10MB.
 - **Color Profile:** Use sRGB to ensure colors remain consistent across different device screens.
 
-**Actionable Step:** Use a browser-based "Image Info" extension or right-click "Properties" on your top-selling listing's primary photo. If the dimensions are below 2000px, use an AI upscaler to increase the resolution without losing detail, then re-upload the file to improve your listing quality score.
+**Actionable Step:** Use a browser-based "Image Info" extension or right-click "Properties" on your top-selling listing's primary photo. If the dimensions are below 2000px, use an AI upscaler to increase the resolution without losing detail, then re-upload the file to improve your listing [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026).
 
 [IMAGE PLACEHOLDER: A side-by-side comparison showing a non-compliant fully AI-generated product vs. a compliant real product photo with an AI-generated background.]
 

@@ -50,7 +50,7 @@ Match your target marketplace's minimum resolution requirements against these to
 | :--- | :--- | :--- | :--- |
 | **Max Resolution** | [1 Megapixel (1024x1024)](https://help.shopify.com/en/manual/shopify-magic/media-generation) | High-Resolution Upscaling Included | 4K High-Resolution Output |
 | **Price** | Free (Included in Shopify plans) | $10/mo (Pro) | Pay-per-batch / Subscription |
-| **Canvas Style** | Single-image editor | Drag-and-drop 3D canvas | Batch-processing dashboard |
+| **Canvas Style** | Single-[image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) | Drag-and-drop 3D canvas | Batch-processing dashboard |
 | **Fashion Models** | Background swap only | AI Human Models | Multi-ethnic AI Batch Models |
 | **Marketplace Specs** | Shopify-centric | General/Social Media | Amazon/Etsy/TikTok Presets |
 | **Batch Limit** | Single Image | [Information not yet publicly available as of 2026-05-29] | 100+ SKUs simultaneously |

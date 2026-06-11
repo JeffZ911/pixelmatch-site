@@ -82,15 +82,15 @@ Stick to a 1:1 (square) aspect ratio for all primary product photos. This ensure
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Scan your Google Merchant Center "Diagnostics" tab and your Shopify "Product" alerts for these common image-related "Critical Issues" that block your items from appearing in search results.
+Scan your [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) "Diagnostics" tab and your Shopify "Product" alerts for these common image-related "Critical Issues" that block your items from appearing in search results.
 
 *   **Upload Blocked by Hard Limits:** If you attempt to upload a file exceeding 20 MB or 5000 x 5000 pixels, Shopify will return an immediate error. This often happens when sellers upload "raw" files directly from a professional camera without processing.
 *   **Zoom Functionality Failure:** If your image is smaller than 800 x 800 px, Shopify’s native "hover-to-zoom" feature will not activate. In 2026, shoppers expect to see fine details; a lack of zoom functionality is often perceived as a lack of transparency, leading to abandoned carts.
 *   **Blurry or Pixelated Assets:** Upscaling a small image (e.g., taking a 400px thumbnail and stretching it to 2048px) results in interpolation artifacts. These images look unprofessional on high-density Retina displays and are often downgraded in Google Images ranking.
-*   **Google Shopping Disapprovals:** Google Merchant Center has strict policies regarding "promotional overlays." If your product images contain watermarks, "Free Shipping" badges, or logos covering the product, your entire feed can be disapproved. Google requires a clean, unobstructed view of the item, preferably on a neutral background for the primary image.
-*   **Missing Alt Text Penalties:** While not a "rejection" that removes your product from the store, missing alt text is a significant SEO penalty. It prevents your products from appearing in "Visual Search" queries, which have grown by undisclosed in the last year.
+*   **Google Shopping Disapprovals:** [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center has strict policies regarding "promotional overlays." If your product images contain watermarks, "Free Shipping" badges, or logos covering the product, your entire feed can be disapproved. Google requires a clean, unobstructed view of the item, preferably on a neutral background for the primary image.
+*   **Missing Alt Text Penalties:** While not a "rejection" that removes your product from the store, missing alt text is a significant SEO penalty. It prevents your products from appearing in "[Visual Search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide)" queries, which have grown by undisclosed in the last year.
 
-**Actionable Step:** Open your Google Merchant Center account, navigate to **Products > Diagnostics**, and filter by "Image Issues." If you see "Image too small" or "Promotional overlay on image," these SKUs are currently hidden from Google Shopping.
+**Actionable Step:** Open your Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) account, navigate to **Products > Diagnostics**, and filter by "Image Issues." If you see "Image too small" or "Promotional overlay on image," these SKUs are currently hidden from Google Shopping.
 
 ## How to Fix Each Issue
 

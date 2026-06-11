@@ -41,7 +41,7 @@ Amazon officially announced that [Prime Day](https://pixelmatch.art/blog/stories
 
 The seller faced a catalog of 150+ SKUs, many with aging hero images that didn't meet the modern aesthetic of the beauty category or the increasingly strict enforcement of Amazon’s technical standards. To avoid listing suppression during the highest-traffic week of the year, they needed to update every main image to ensure compliance with Amazon's strict main image rules before the late May inbound shipping deadlines. 
 
-**Actionable Step for Today:** Run a "Listing Quality Report" in your Amazon Seller Central account. Filter for "Image Issues" to identify which of your 150+ SKUs are currently at risk of suppression before the Prime Day traffic spike begins.
+**Actionable Step for Today:** Run a "Listing Quality Report" in your Amazon Seller Central account. Filter for "Image Issues" to identify which of your 150+ SKUs are currently at risk of suppression before the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) traffic spike begins.
 
 ## What Wasn't Working
 

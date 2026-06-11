@@ -90,7 +90,7 @@ If your AI-generated model shows instant-effect visuals—such as a weight loss 
 A common mistake is using AI to generate a product image from a text prompt rather than a photo. This often results in a product that looks "better" than the real version (e.g., higher quality stitching, different fabric texture, or a more vibrant color). When the customer receives the actual item and it doesn't match the AI-rendered version, they file a "Product Not as Described" claim. If your Return Rate exceeds platform thresholds, TikTok will throttle your traffic.
 
 ### Missing AI Labels on Synthetic Models
-TikTok is currently rolling out advanced watermarking (based on the C2PA standard) that identifies AI content even if you don't use the toggle. If the system detects synthetic content that you have not labeled, you will receive Violation Points. Accumulating 12-24 points can lead to a temporary suspension of your selling privileges.
+TikTok is currently rolling out advanced watermarking (based on the C2PA standard) that identifies [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) even if you don't use the toggle. If the system detects synthetic content that you have not labeled, you will receive Violation Points. Accumulating 12-24 points can lead to a temporary suspension of your selling privileges.
 
 ### Unrealistic Lifestyle Contexts
 While "floating" products in space or surreal environments are popular on Instagram, TikTok Shop prefers "shoppability." AI images that make the product's size impossible to determine—such as a small portable speaker appearing the size of a car in an AI-generated landscape—are flagged for "Size Misrepresentation."

@@ -123,7 +123,7 @@ When uploading to the TikTok Shop Seller Center:
 1.  Fill in your product details and upload your 4-9 images.
 2.  Locate the **"AI-generated content"** checkbox or toggle.
 3.  Check the box to confirm that the images contain synthetic elements.
-4.  Publish. The platform will now display the mandatory disclosure badge, protecting your account from automated flags.
+4.  Publish. The platform will now display the mandatory [disclosure badge](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide), protecting your account from automated flags.
 
 ## Caveats and Honest Limitations
 

@@ -107,7 +107,7 @@ PixelMatch is designed for this specific batch workflow. Instead of editing one 
 ![Official Source Links](/img/etsy-shop-conversion-boost-with-ai-mockups/inline-5.webp)
 
 
-Stay updated by checking these official resources regularly. Policies regarding AI and image specs can change with little notice, and as a multi-platform seller, your ability to adapt determines your shop's longevity.
+Stay updated by checking these official resources regularly. Policies regarding AI and [image specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) can change with little notice, and as a multi-platform seller, your ability to adapt determines your shop's longevity.
 
 | Resource | Official Link | Key Information |
 | :--- | :--- | :--- |

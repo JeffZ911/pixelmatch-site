@@ -149,7 +149,7 @@ Take your lifestyle images and add text overlays. Use high-contrast fonts (e.g.,
 ![Caveats and Honest Limitations](/img/amazon-rufus-listing-optimization-image-strategy/inline-6.webp)
 
 
-While AI image generation is a massive lever for efficiency, it is not a "set and forget" solution. Sellers must maintain a level of human oversight to stay within platform guidelines.
+While [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation is a massive lever for efficiency, it is not a "set and forget" solution. Sellers must maintain a level of human oversight to stay within platform guidelines.
 
 ### 1. The Human Quality Filter
 AI image generation isn't flawless. You must manually review every output for "AI artifacts"—common errors like floating objects, shadows that don't match the light source, or distorted product edges. In the home goods niche, scale inconsistencies are the most frequent issue (e.g., a pillow looking the size of a sofa). Always check that the proportions look realistic before uploading to Amazon.
@@ -180,7 +180,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
-*   <a href="https://www.amazon.com/s?k=Amazon+Rufus+Introduction+and+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Rufus Introduction and Overview</a>
+*   <a href="https://www.amazon.com/s?k=Amazon+Rufus+Introduction+and+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide) Introduction and Overview</a>
 *   Photoroom Pricing and Tiers
 *   Stripe Standard Processing Fees
 *   [Amazon FBA Referral Fees by Category](https://sell.amazon.com/pricing#referral-fees)
