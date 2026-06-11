@@ -136,7 +136,7 @@ TikTok strictly prohibits using AI to fake "after" effects. For example, you can
 
 If your product relies on demonstrating physical results—such as a "7-day transformation"—you must use real, unedited photos for those specific claims. The AI [disclosure badge](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) is mandatory for synthetic backgrounds, but it does not grant you a license to mislead. 
 
-Additionally, while the AI disclosure badge is a compliance requirement, its impact on consumer trust is still evolving. As of June 2026, the exact long-term effect of these badges on conversion rates across all demographics is not yet publicly available. However, for most sellers, the trade-off is clear: a small badge is a minor price to pay for a 100% listing approval rate and an 80% reduction in content overhead.
+Additionally, while the AI [disclosure badge](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) is a compliance requirement, its impact on consumer trust is still evolving. As of June 2026, the exact long-term effect of these badges on conversion rates across all demographics is not yet publicly available. However, for most sellers, the trade-off is clear: a small badge is a minor price to pay for a 100% listing approval rate and an 80% reduction in content overhead.
 
 
 <!-- pm-cta:foot -->

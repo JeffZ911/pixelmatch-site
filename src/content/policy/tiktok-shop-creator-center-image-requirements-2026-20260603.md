@@ -121,7 +121,7 @@ PixelMatch is specifically designed for the multi-platform workflow. Instead of 
 Review your secondary images for brand URLs or social media handles. TikTok treats these as "External Redirection," which is a high-level violation. Use an "Object Removal" tool to paint over any URLs or watermarks on your product packaging if they appear too prominent in your lifestyle shots. 
 
 ### Increase Image Count to Boost Listing Tier
-If your listing is live but not getting impressions, check your "Listing Quality Score" in the TikTok Seller Center. If you have fewer than 5 images, your listing is likely being deprioritized. 
+If your listing is live but not getting impressions, check your "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)" in the TikTok Seller Center. If you have fewer than 5 images, your listing is likely being deprioritized. 
 1.  **Main Image:** Pure white background.
 2.  **Angle 2:** Side profile or back view.
 3.  **Angle 3:** Close-up of material or texture.
@@ -137,7 +137,7 @@ By generating these additional angles, you move your listing into the "Good" or 
 
 To stay compliant as TikTok updates its Creator Center throughout 2026, bookmark these official resources:
 
-*   **TikTok Shop Seller Help Center:** The definitive source for image specs and listing policies.
+*   **TikTok Shop Seller Help Center:** The definitive source for [image specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) and listing policies.
 *   **TikTok For Business Catalog Best Practices:** Guidance on optimizing images for TikTok Ads and Shop.
 *   **TikTok Shop Content Policy:** Detailed rules on prohibited items and AIGC disclosures.
 *   **TikTok Academy:** Official training modules for improving product click-through rates (CTR).

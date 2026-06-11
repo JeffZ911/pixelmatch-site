@@ -89,7 +89,7 @@ To solve the quality and cost issues, Sarah transitioned to a consolidated workf
 Sarah generates her base artwork using her preferred [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide). Instead of moving to a separate background removal tool, she imports the raw file directly into PixelMatch. Using the integrated AI background remover, she strips the background with one click, ensuring the edges are clean for apparel placement.
 
 ### Step 2: Batch Upscaling for Etsy and Printify
-This is where the "best ai image upscaler for etsy pod sellers" proves its value. Sarah selects her batch of designs and applies a 4x upscale.
+This is where the "best [ai image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) upscaler for etsy pod sellers" proves its value. Sarah selects her batch of designs and applies a 4x upscale.
 *   **For Etsy Listing Photos:** The upscaler pushes her 1024px design to 4096px. This exceeds the [2000px Etsy requirement](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), ensuring that when a customer zooms in on a mobile device, the design remains sharp.
 *   **For Printify Production:** The upscale ensures the file hits the 300 DPI threshold. Sarah sets her export parameters to a 3000x3000px minimum, which is the "sweet spot" for square thumbnail crops on Etsy search pages.
 

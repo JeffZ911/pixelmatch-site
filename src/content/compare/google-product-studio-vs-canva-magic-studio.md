@@ -34,7 +34,7 @@ Stop wasting hours manually retouching product photos or paying high-ticket phot
 
 Audit your current distribution channels before committing to a tool: if 80% of your traffic comes from Google Search, use Google Product Studio; if you are building an audience on Instagram or Pinterest, use [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio. For multi-channel sellers managing over 50 SKUs, neither tool provides the batch-processing speed required to maintain a consistent catalog across Amazon, TikTok Shop, and Shopify.
 
-| Feature | Google Product Studio | Canva Magic Studio | PixelMatch |
+| Feature | Google Product Studio | [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Google Shopping Feed Optimization | Social Media & Marketing Design | High-Volume Ecommerce Batching |
 | **Cost** | Free for GMC Next users | $15/mo (Pro) | Enterprise/Pro Batch Pricing |

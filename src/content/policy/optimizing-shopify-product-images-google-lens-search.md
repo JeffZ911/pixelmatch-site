@@ -133,7 +133,7 @@ Google Lens often shows a "Visual matches" section below the primary search resu
 
 Refer to these official documentation pages to stay updated on policy changes as we approach the 2027 enforcement deadlines:
 
-*   Google Merchant Center Help: Image requirements and best practices
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Help: Image requirements and best practices
 *   [Google Search Central: Image SEO Best Practices](https://developers.google.com/search/docs/appearance/google-images)
 *   [Shopify Help Center: Adding alt text to images](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings/images)
 *   [Google Developers: Product Structured Data Specs](https://developers.google.com/search/docs/appearance/structured-data/product)
@@ -148,7 +148,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Google Merchant Center Help: Image too small
+*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center Help: Image too small
 *   Google Developers: [WebP Compression Study](https://developers.google.com/speed/webp)
 *   Shopify Help Center: [Image Alt Text Limits](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings/images)
 *   Photoroom: Pricing and Features

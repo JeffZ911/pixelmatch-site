@@ -101,7 +101,7 @@ Automate your image production and optimization by moving away from manual, one-
 
 ### Batch Resizing & Compression
 
-Do not resize images individually in Photoshop. Use a dedicated bulk image editor to standardize your entire library to 2048 x 2048 px. For compression, tools like TinyPNG or Shopify-native apps like Crush.pics can automate the reduction of file sizes to the sub-200 KB range. 
+Do not resize images individually in Photoshop. Use a dedicated bulk [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) to standardize your entire library to 2048 x 2048 px. For compression, tools like TinyPNG or Shopify-native apps like Crush.pics can automate the reduction of file sizes to the sub-200 KB range. 
 
 If you are managing a store with thousands of SKUs, the most efficient way to fix sizing issues is to use a "Lossless" compression setting. This maintains the visual integrity required for high-end products while stripping out unnecessary metadata that bloats file size.
 

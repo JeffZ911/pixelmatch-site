@@ -145,7 +145,7 @@ When you are syncing a catalog from Shopify (which might use various ratios) to 
 ![Official Source Links](/img/tiktok-shop-thumbnail-aspect-ratio-requirements-2026/inline-5.webp)
 
 
-Stay updated by monitoring the official TikTok Shop documentation. Policies regarding listing quality and image specs are updated frequently to combat spam and improve the mobile shopping experience.
+Stay updated by monitoring the official TikTok Shop documentation. Policies regarding listing quality and [image specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) are updated frequently to combat spam and improve the mobile shopping experience.
 
 | Resource Name | Purpose | Link/Location |
 | :--- | :--- | :--- |

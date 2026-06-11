@@ -57,7 +57,7 @@ The seller attempted to bridge the gap using popular entry-level AI tools, but h
 *   **Photoroom:** While effective for single-product edits, Photoroom's Pro tier at $12.99/mo imposes a 50-image batch session cap. For a seller with 150+ SKUs and multiple angles per SKU, this created a fragmented workflow that required constant manual restarts.
 *   **Canva:** The seller tested Canva's Pro plan at $120/year. While Canva is excellent for social media graphics, it lacked the specialized e-commerce batching engines required to output thousands of variations with a guaranteed [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/1881). The background remover often left "halos" around complex beauty items like serum droppers or translucent glass bottles, requiring manual cleanup that defeated the purpose of automation.
 
-**Actionable Step for Today:** Calculate your current "Time to Live" metric. Measure the days between a product arriving at your office and the hero image going live on Amazon. If this number is higher than 7 days, your manual workflow will fail during the Prime Day lead-up.
+**Actionable Step for Today:** Calculate your current "Time to Live" metric. Measure the days between a product arriving at your office and the hero image going live on Amazon. If this number is higher than 7 days, your manual workflow will fail during the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) lead-up.
 
 ## The Workflow They Built
 

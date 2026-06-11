@@ -143,7 +143,7 @@ Export your images as JPEG. While Amazon accepts multiple formats, [JPEG is the 
 ![Caveats and Honest Limitations](/img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-6.webp)
 
 
-While AI image generation is a transformative tool for ecommerce, it is not a "magic button" that works perfectly in 100% of scenarios. Sellers must be aware of specific limitations to avoid policy violations.
+While [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation is a transformative tool for ecommerce, it is not a "magic button" that works perfectly in 100% of scenarios. Sellers must be aware of specific limitations to avoid policy violations.
 
 ### Reflective Surfaces and Clear Glass
 AI still occasionally struggles with highly reflective chrome caps or clear glass bottles containing transparent liquids. The AI may sometimes "hallucinate" reflections that don't exist or fail to perfectly cut out the background through the glass. These images may require a quick 2-minute manual touch-up in a tool like Adobe Express or Canva to fix the transparency.
