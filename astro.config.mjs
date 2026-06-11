@@ -48,6 +48,22 @@ function remarkStripFirstH1() {
 // This whole chain looked "broken" only because the Replit app was offline
 // (apex 404, the /blog reverse-proxy dead). Bringing Replit back online
 // restored it — canonical points at the apex/blog home, NOT the subdomain.
+
+// Dependency-free rehype plugin: native lazy-loading for article-body images.
+// (Hero images are template-level with fetchpriority=high; body images are
+// below the fold by definition → lazy + async decode improves LCP/CWV.)
+function rehypeLazyImages() {
+  function walk(node) {
+    if (node.type === "element" && node.tagName === "img") {
+      node.properties = node.properties || {};
+      if (!node.properties.loading) node.properties.loading = "lazy";
+      if (!node.properties.decoding) node.properties.decoding = "async";
+    }
+    (node.children || []).forEach(walk);
+  }
+  return (tree) => walk(tree);
+}
+
 export default defineConfig({
   site: "https://pixelmatch.art",
   base: "/blog",
@@ -56,7 +72,7 @@ export default defineConfig({
   output: "static",
   markdown: {
     remarkPlugins: [remarkStripFirstH1],
-    rehypePlugins: [rehypeExternalLinks],
+    rehypePlugins: [rehypeExternalLinks, rehypeLazyImages],
   },
   build: {
     inlineStylesheets: "auto",
