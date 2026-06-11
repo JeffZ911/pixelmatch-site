@@ -148,7 +148,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   TikTok Shop Image Specs (Pro Photo Studio)
+*   TikTok Shop [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) (Pro Photo Studio)
 *   TikTok Shop 4-9 Image Requirements (Rewarx Studio)
 *   TikTok Shop AI-Generated Content Policy (Official)
 *   TikTok Shop Referral Fee Policy (Official)

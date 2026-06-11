@@ -90,7 +90,7 @@ A common reason for [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime
 
 The transition from a manual, studio-dependent workflow to an AI-batch workflow with PixelMatch fundamentally changed the brand's unit economics. By removing the need for physical shipping, studio rental, and per-image retouching fees, the seller achieved a massive reduction in overhead.
 
-The results mirrored broader industry benchmarks for AI adoption in e-commerce, where total photography costs dropped from an estimated $18,000+ (for 150 SKUs with multiple angles) to just $2,400. This represents an 86.6% cost saving, which was immediately reallocated into Amazon PPC (Pay-Per-Click) spend for the Prime Day event.
+The results mirrored broader industry benchmarks for AI adoption in e-commerce, where total photography costs dropped from an estimated $18,000+ (for 150 SKUs with multiple angles) to just $2,400. This represents an 86.6% cost saving, which was immediately reallocated into Amazon PPC (Pay-Per-Click) spend for the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) event.
 
 ### Performance Comparison Table
 

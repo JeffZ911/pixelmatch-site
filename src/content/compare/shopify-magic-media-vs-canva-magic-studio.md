@@ -63,7 +63,7 @@ Open your Shopify Admin, go to a product page, and click the "Magic" icon to see
 
 Shopify Magic Media is a "utility" tool. It resides in your product media gallery and allows you to describe a scene (e.g., "on a wooden table with sunlight") or choose a preset. However, because it caps output at [1 megapixel](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation), it often fails the "zoom test" on high-end desktop monitors.
 
-Canva Magic Studio is a "design" suite. It includes tools like Magic Expand, which can turn a vertical phone photo into a horizontal website hero banner. While powerful, it is not an ecommerce-first tool. You cannot upload a CSV of 200 products and tell Canva to "make them all look like they are in a marble kitchen." You have to do that 200 times.
+[Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio is a "design" suite. It includes tools like Magic Expand, which can turn a vertical phone photo into a horizontal website hero banner. While powerful, it is not an ecommerce-first tool. You cannot upload a CSV of 200 products and tell Canva to "make them all look like they are in a marble kitchen." You have to do that 200 times.
 
 ## Pricing Comparison
 

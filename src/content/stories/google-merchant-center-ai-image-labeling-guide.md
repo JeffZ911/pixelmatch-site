@@ -110,7 +110,7 @@ The increase in CTR from 1.2% to 2.8% was largely attributed to the ability to A
 ![Steps to Replicate](/img/google-merchant-center-ai-image-labeling-guide/inline-5.webp)
 
 
-Set your AI export resolution to exactly 1500 x 1500 pixels or higher to future-proof your feed against upcoming GMC spec changes. Follow this checklist to implement a compliant AI image workflow:
+Set your AI export resolution to exactly 1500 x 1500 pixels or higher to future-proof your feed against upcoming GMC spec changes. Follow this checklist to implement a compliant [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) workflow:
 
 1.  **Generate with Compliant Tools:** Use PixelMatch or a similar AI tool that explicitly supports IPTC metadata embedding. Verify the export by right-clicking the file, selecting "Properties" (Windows) or "Get Info" (Mac), and looking for the "Digital Source Type" field.
 2.  **Verify Image Dimensions:** Ensure your images meet Google's standard of at least 100 x 100 pixels for non-apparel, though for high-performance ads, you should aim for 1500 x 1500 pixels. Ensure the file size stays below 16 MB and 64 megapixels.

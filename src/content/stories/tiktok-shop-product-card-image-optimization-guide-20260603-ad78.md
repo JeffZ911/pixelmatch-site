@@ -70,7 +70,7 @@ The cost of this inefficiency wasn't just the $2.50 per listing in labor costs; 
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Create a "Global Preset" for TikTok Shop in your image editor that automatically crops to 1:1 and scales to exactly 1200 x 1200 px to future-proof your assets. The beauty seller transitioned to an AI-first workflow using PixelMatch to handle the heavy lifting of image generation and standardization.
+Create a "Global Preset" for TikTok Shop in your [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) that automatically crops to 1:1 and scales to exactly 1200 x 1200 px to future-proof your assets. The beauty seller transitioned to an AI-first workflow using PixelMatch to handle the heavy lifting of image generation and standardization.
 
 ### The Batch Processing Pipeline
 
@@ -139,7 +139,7 @@ Use a high-contrast physical backdrop (like a matte grey or green card) when sho
 
 1.  **Transparent Packaging Challenges:** AI background removal can occasionally struggle with clear serum bottles or glass jars where the original background is visible *through* the product. In these cases, you may need to use the "Manual Refine" tool in PixelMatch to touch up the edges.
 2.  **Policy Volatility:** TikTok Shop policies change frequently. While the 600 x 600 px minimum is the standard as of June 2026, the platform often tests new requirements for specific categories like "Luxury Beauty." Always verify current specs directly in the TikTok Seller Center before a major launch.
-3.  **Content-Image Alignment:** While PixelMatch handles the technical image specs, your listing's success still depends on "Listing Completeness." High-quality images must be paired with accurate descriptions and correct category tagging to reach the "Excellent" listing tier. 
+3.  **Content-Image Alignment:** While PixelMatch handles the technical [image specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs), your listing's success still depends on "Listing Completeness." High-quality images must be paired with accurate descriptions and correct category tagging to reach the "Excellent" listing tier. 
 4.  **Reflections:** AI-generated backgrounds are excellent at creating shadows, but if your original photo has a reflection of you holding a phone in a chrome lipstick tube, the AI cannot "un-reflect" that. Ensure your raw photography is as clean as possible to give the AI the best data to work with.
 
 By shifting from manual editing to an automated, AI-driven workflow, you stop being a photo editor and start being a growth-focused brand owner. The 80% cost reduction seen by this beauty seller is achievable for any store willing to standardize their visual pipeline.

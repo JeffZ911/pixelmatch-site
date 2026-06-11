@@ -156,7 +156,7 @@ As of early 2025, TikTok has expanded its [API support for WEBP and HEIC](https:
 Stay updated on policy changes by frequently visiting these official documentation hubs. TikTok Shop policies can change with 24-hour notice, especially regarding AI-generated content and image metadata requirements.
 
 *   TikTok Shop Seller Center: Product Listing Policy
-*   TikTok Shop Academy: Improve Your Listing Quality Score
+*   TikTok Shop Academy: Improve Your Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)
 *   [TikTok Shop Partner Center: API Updates for Media](https://partner.tiktokshop.com/doc/page/271813)
 *   TikTok For Business: Creative Center Best Practices
 
