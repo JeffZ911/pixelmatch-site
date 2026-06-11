@@ -46,7 +46,7 @@ Run a manual audit of your top 10 best-selling SKUs against these 2026 standards
 | **Recommended Resolution** | 1500 x 1500 pixels | For optimal zoom/Lens matching |
 | **Maximum File Size** | 16 MB | Hard limit for GMC uploads |
 | **Product Fill Area** | 75% to 90% of the frame | [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center Requirement |
-| **Supported Formats** | JPEG, PNG, WebP, GIF, BMP, TIFF | Merchant Center [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |
+| **Supported Formats** | JPEG, PNG, WebP, GIF, BMP, TIFF | [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |
 | **Background Color** | Solid white or transparent | Clean image policy |
 
 ## Detailed Requirements
@@ -88,7 +88,7 @@ Uploading images under the 500 x 500 pixel minimum is the most common reason for
 Lifestyle images are excellent for social media but often fail in Google Lens search. If your product occupies less than 75% of the frame, or if the background contains other objects (e.g., a coffee cup next to a smartphone case), the Lens algorithm may misidentify the primary object. Google's vision algorithms are trained to isolate the "silhouette" of a product; a cluttered background creates "noise" that lowers the confidence score of the match.
 
 ### Promotional Overlays
-Adding watermarks, "Free Shipping" badges, or brand logos over the product image is a direct violation of Google's clean image policies. These overlays obscure the product's actual appearance. If your Shopify store uses an app to automatically add "Sale" stickers to your product images, ensure those stickers are not being pushed to your `image_link` attribute in the Google Merchant Center feed.
+Adding watermarks, "Free Shipping" badges, or brand logos over the product image is a direct violation of Google's clean image policies. These overlays obscure the product's actual appearance. If your Shopify store uses an app to automatically add "Sale" stickers to your product images, ensure those stickers are not being pushed to your `image_link` attribute in the [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) feed.
 
 ### File Size Limits
 Uploading uncompressed TIFFs or massive PNGs that exceed the 16 MB limit will result in a hard rejection. While high resolution is good, excessive file size suggests a lack of optimization that can slow down the Google Image crawler. Use a balance of high resolution (1500px to 2000px) and efficient compression.
@@ -107,7 +107,7 @@ For low-resolution or cluttered images, use AI tools to strip backgrounds and up
 To fix your catalog today:
 1. **Sync your Shopify Feed:** Connect your store to PixelMatch to identify images that fall below the 500x500 px threshold.
 2. **Apply Global Rules:** Set a rule to automatically generate a solid white background and center the product.
-3. **Calibrate Fill Ratio:** Use the PixelMatch slider to ensure every product hits the exact 75-90% fill ratio required by Google Merchant Center. This prevents the "product too small in frame" error that plagues lifestyle-heavy brands.
+3. **Calibrate Fill Ratio:** Use the PixelMatch slider to ensure every product hits the exact 75-90% fill ratio required by [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center. This prevents the "product too small in frame" error that plagues lifestyle-heavy brands.
 4. **Export and Re-sync:** Push the optimized assets back to Shopify. This ensures that the `image_link` sent to Google contains the clean, high-res version, while your store can still keep lifestyle shots in the secondary gallery.
 
 ### Updating Alt Text in Shopify

@@ -154,4 +154,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   https://www.photoroom.com/pricing (Photoroom Pricing)
 *   https://pebblely.com/pricing (Pebblely Pricing)
 *   https://www.canva.com/pricing (Canva Pro Pricing)
-*    (Listing Quality Score Criteria)
+*    (Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) Criteria)

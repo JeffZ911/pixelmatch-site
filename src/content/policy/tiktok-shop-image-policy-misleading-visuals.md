@@ -44,7 +44,7 @@ Use the following technical specifications to audit your current image library. 
 | **File Format** | JPG, JPEG, or PNG | Convert WebP or HEIC files before uploading. |
 | **Max File Size** | 5MB | Compress high-res exports to avoid upload timeouts. |
 | **Main Image Background** | Solid white or neutral | Remove cluttered backgrounds using a batch tool. |
-| **AI Content Labeling** | Mandatory for AIGC | Toggle the "AI-generated" label in the TikTok Seller Center. |
+| **[AI Content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) Labeling** | Mandatory for AIGC | Toggle the "AI-generated" label in the TikTok Seller Center. |
 | **Max Images** | 9 Images | Use all slots to show product from multiple angles. |
 | **Prohibited Elements** | Watermarks, Logos, Text | Scrub "Best Seller" or "Free Shipping" badges from images. |
 

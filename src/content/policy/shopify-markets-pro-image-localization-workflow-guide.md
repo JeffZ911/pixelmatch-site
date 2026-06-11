@@ -28,7 +28,7 @@ Selling globally through Shopify Managed Markets feels like a win until your Spa
 
 # Shopify Markets Pro Image Localization Workflow Guide
 
-Shopify Markets Pro (now Managed Markets) handles international taxes and duties for a 6.5% fee, but native tools don't localize product images. To show region-specific images, you must use metafields or third-party apps alongside standard 2048x2048px image specs.
+Shopify Markets Pro (now Managed Markets) handles international taxes and duties for a 6.5% fee, but native tools don't localize product images. To show region-specific images, you must use metafields or third-party apps alongside standard 2048x2048px [image specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs).
 
 ## Quick Reference Table
 

@@ -132,8 +132,8 @@ Verify these specifications and stay updated on policy changes by visiting the o
 | :--- | :--- | :--- |
 | **Shopify Help Center** | [Product Media Types](https://help.shopify.com/en/manual/products/product-media/product-media-types) | File limits, formats, and 3D model specs. |
 | **Shopify Help Center** | [Alt Text for Media](https://help.shopify.com/en/manual/products/product-media/add-alt-text) | Instructions for accessibility compliance. |
-| **Google Search Central** | [Google Images SEO](https://developers.google.com/search/docs/appearance/google-images) | Best practices for ranking in visual search. |
-| **Google Merchant Center** | Product Image Requirements | Specific rules for Google Shopping ads. |
+| **Google Search Central** | [Google Images SEO](https://developers.google.com/search/docs/appearance/google-images) | Best practices for ranking in [visual search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide). |
+| **[Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide)** | Product Image Requirements | Specific rules for Google Shopping ads. |
 
 By following these Shopify product image SEO best practices 2026, you ensure your store remains fast, accessible, and highly visible in an increasingly visual ecommerce landscape. Using ecommerce image optimization tools to automate these technical requirements allows you to focus on scaling your brand across multiple platforms without getting bogged down in manual file management.
 

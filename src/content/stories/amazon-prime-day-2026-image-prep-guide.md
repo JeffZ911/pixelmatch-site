@@ -50,7 +50,7 @@ The seller faced a catalog of 150+ SKUs, many with aging hero images that didn't
 
 Before adopting an AI-driven batch workflow, the seller relied on a traditional photography pipeline. They would ship physical samples to a boutique studio, wait 14 days for the shoot, and another 10 days for retouching. 
 
-The costs were staggering. At an average rate of $120 per finished hero image (including styling and post-production), refreshing 150 SKUs would have cost $18,000. Beyond the price, the timeline was impossible. A 24-day turnaround meant that images wouldn't be live until late June—well after the Prime Day inventory must be checked into FBA warehouses.
+The costs were staggering. At an average rate of $120 per finished hero image (including styling and post-production), refreshing 150 SKUs would have cost $18,000. Beyond the price, the timeline was impossible. A 24-day turnaround meant that images wouldn't be live until late June—well after the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) inventory must be checked into FBA warehouses.
 
 The seller attempted to bridge the gap using popular entry-level AI tools, but hit significant friction points:
 

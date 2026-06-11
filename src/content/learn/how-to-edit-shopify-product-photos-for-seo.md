@@ -52,7 +52,7 @@ Furthermore, properly named files and descriptive alt text are your primary driv
 ![Step-by-Step Walkthrough](/img/how-to-edit-shopify-product-photos-for-seo/inline-2.webp)
 
 
-Set your image editor to a fixed 1:1 aspect ratio and a 2048 x 2048 pixel canvas before importing any raw product shots to ensure total consistency across your Shopify store.
+Set your [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) to a fixed 1:1 aspect ratio and a 2048 x 2048 pixel canvas before importing any raw product shots to ensure total consistency across your Shopify store.
 
 ### 1. Resize to Shopify's 2026 Dimensions
 

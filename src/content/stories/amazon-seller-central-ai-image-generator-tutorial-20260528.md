@@ -115,7 +115,7 @@ The time-to-market for new product variations was cut from 3 weeks (studio lead 
 ![Steps to Replicate](/img/amazon-seller-central-ai-image-generator-tutorial-20260528/inline-5.webp)
 
 
-You do not need a degree in prompt engineering to replicate these results. Follow this five-step process to build your own AI image pipeline.
+You do not need a degree in prompt engineering to replicate these results. Follow this five-step process to build your own [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) pipeline.
 
 ### Step 1: The "Calibration" Shoot
 Shoot flat-lay or eye-level product photos using a smartphone. You do not need a lightbox, but you do need natural, even light.

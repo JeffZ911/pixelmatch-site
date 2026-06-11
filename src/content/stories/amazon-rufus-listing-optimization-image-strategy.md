@@ -152,7 +152,7 @@ Take your lifestyle images and add text overlays. Use high-contrast fonts (e.g.,
 While [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation is a massive lever for efficiency, it is not a "set and forget" solution. Sellers must maintain a level of human oversight to stay within platform guidelines.
 
 ### 1. The Human Quality Filter
-AI image generation isn't flawless. You must manually review every output for "AI artifacts"—common errors like floating objects, shadows that don't match the light source, or distorted product edges. In the home goods niche, scale inconsistencies are the most frequent issue (e.g., a pillow looking the size of a sofa). Always check that the proportions look realistic before uploading to Amazon.
+[AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation isn't flawless. You must manually review every output for "AI artifacts"—common errors like floating objects, shadows that don't match the light source, or distorted product edges. In the home goods niche, scale inconsistencies are the most frequent issue (e.g., a pillow looking the size of a sofa). Always check that the proportions look realistic before uploading to Amazon.
 
 ### 2. Main Image Policy Restrictions
 Amazon's policy is strict: the main image must be a professional photograph of the actual product. You cannot use a "fully" AI-generated product. You must start with a real photo of your inventory and use AI only for background removal and enhancement. Attempting to list a 100% synthetic product image can lead to a permanent "Inaccurate Product Image" flag on your account.

@@ -179,4 +179,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide) Rollout: <a href="https://www.amazon.com/s?k=About+Amazon+-+Rufus+AI&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">About Amazon - Rufus AI</a>
 *   Photoroom Pricing: Photoroom Official Pricing
 *   Seller Sentiment on Batch Limits: Reddit r/Flipping - Photoroom Plan Discussion
-*   Rufus Conversion Benchmarks: YouTube - Amazon Rufus SEO Guide
+*   Rufus Conversion Benchmarks: YouTube - [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide) SEO Guide

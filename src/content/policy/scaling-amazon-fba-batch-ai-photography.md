@@ -111,7 +111,7 @@ Finally, always verify the file size before a bulk upload. Amazon’s [10MB limi
 | **Amazon Error 100584** | Troubleshooting Main Image Issues | [https://sellercentral.amazon.com/help/hub/reference/G100584](https://sellercentral.amazon.com/help/hub/reference/G100584) |
 | **Shopify Help Center** | Product Media Guidelines | [https://help.shopify.com/en/manual/products/product-media/product-media-types#images](https://help.shopify.com/en/manual/products/product-media/product-media-types#images) |
 | **Etsy Success Guide** | Image Requirements & Best Practices | [https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) |
-| **TikTok Shop Academy** | Product Image Specs |  |
+| **TikTok Shop Academy** | Product [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |  |
 
 
 <!-- pm-cta:foot -->

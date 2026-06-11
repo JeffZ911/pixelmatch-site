@@ -134,7 +134,7 @@ Audit your "Before/After" claims to ensure every visual proof point is a RAW, un
 
 TikTok strictly prohibits using AI to fake "after" effects. For example, you cannot use AI to smooth a model's skin to imply your moisturizer works better than it does. You cannot use AI to lengthen eyelashes or brighten teeth in a way that misleads the consumer about the product's efficacy.
 
-If your product relies on demonstrating physical results—such as a "7-day transformation"—you must use real, unedited photos for those specific claims. The AI disclosure badge is mandatory for synthetic backgrounds, but it does not grant you a license to mislead. 
+If your product relies on demonstrating physical results—such as a "7-day transformation"—you must use real, unedited photos for those specific claims. The AI [disclosure badge](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) is mandatory for synthetic backgrounds, but it does not grant you a license to mislead. 
 
 Additionally, while the AI disclosure badge is a compliance requirement, its impact on consumer trust is still evolving. As of June 2026, the exact long-term effect of these badges on conversion rates across all demographics is not yet publicly available. However, for most sellers, the trade-off is clear: a small badge is a minor price to pay for a 100% listing approval rate and an 80% reduction in content overhead.
 
@@ -153,4 +153,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Shop AI-Generated Content Policy (Official)
 *   TikTok Shop Referral Fee Policy (Official)
 *   Photoroom Pricing (Official)
-*   TikTok Seller Center AI Restrictions (Official)
+*   TikTok Seller [Center AI](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Restrictions (Official)

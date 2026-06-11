@@ -155,7 +155,7 @@ Shopify allows up to 5000 x 5000 pixels and 20 MB per file. However, 2048 x 2048
 Yes, Shopify automatically serves optimized formats like WebP or AVIF based on the user's browser capabilities. However, pre-compressing your 2048x2048 files is still best practice. If you upload a 10 MB file, Shopify's compression has to work harder, and the "master" file stored in your account still takes up more resources.
 
 ### Why do my Shopify images look blurry?
-This usually happens because the original file was too small (e.g., 400x400) and was stretched by your theme to fit a larger container. It can also happen if the image was saved at a "Low Quality" setting (below 60%) in an image editor. Always ensure your source file is at least 2048x2048 before exporting.
+This usually happens because the original file was too small (e.g., 400x400) and was stretched by your theme to fit a larger container. It can also happen if the image was saved at a "Low Quality" setting (below 60%) in an [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide). Always ensure your source file is at least 2048x2048 before exporting.
 
 ### How many images can I upload per product?
 As of 2026, Basic Shopify allows up to 250 media items per product, while Advanced Shopify allows up to 5,000. This includes images, 3D models, and videos. Most sellers find that 5-7 high-quality 2048x2048 images (Main, Angles, Detail, Lifestyle) are sufficient for high conversion.
