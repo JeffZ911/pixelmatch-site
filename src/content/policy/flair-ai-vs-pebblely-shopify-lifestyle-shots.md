@@ -128,10 +128,10 @@ By using PixelMatch for your core catalog and tools like Flair or Pebblely for o
 
 
 *   [Shopify Help Center: Image Upload Limits and Recommendations](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor)
-*   Google Merchant Center Help: Lifestyle Image Link Specifications
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Help: Lifestyle Image Link Specifications
 *   Flair AI Official Pricing and Feature Tiers
 *   Pebblely Official Pricing and Plan Comparison
-*   Google Merchant Center: Product Image Requirements
+*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center: Product Image Requirements
 
 
 <!-- pm-cta:foot -->

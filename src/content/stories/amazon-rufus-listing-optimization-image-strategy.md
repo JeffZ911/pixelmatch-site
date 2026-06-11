@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Scaling a home goods brand to $100,000 in monthly revenue usually hits a wall when traditional photography costs eat your margins and your listings fail to rank for AI-driven conversational search. If you are still relying on static lifestyle shoots and basic white-background images, you are losing visibility to competitors who have already optimized their visual assets for Amazon Rufus.
+Scaling a home goods brand to $100,000 in monthly revenue usually hits a wall when traditional photography costs eat your margins and your listings fail to rank for AI-driven conversational search. If you are still relying on static lifestyle shoots and basic white-background images, you are losing visibility to competitors who have already optimized their visual assets for [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide).
 
 # Amazon Rufus Listing Optimization: An AI Image Strategy Case Study
 

@@ -140,7 +140,7 @@ Export your images as JPEGs. While Amazon accepts PNG and TIFF, JPEGs are genera
 
 Acknowledge the technical boundaries of AI tools to avoid common pitfalls in source photography. While AI can drastically reduce the cost and time of creating Amazon-compliant images, it is not a magic fix for poor-quality input.
 
-First, AI image generation cannot fix fundamentally blurry, out-of-focus, or low-resolution source photos. If your original capture is grainy, the "upscaled" version will likely look artificial or "plastic." You still need a sharp, well-lit original photo to get the best results from a tool like PixelMatch.
+First, [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation cannot fix fundamentally blurry, out-of-focus, or low-resolution source photos. If your original capture is grainy, the "upscaled" version will likely look artificial or "plastic." You still need a sharp, well-lit original photo to get the best results from a tool like PixelMatch.
 
 Second, remember that meeting image specs is only one component of a successful Lightning Deal. Amazon’s internal algorithm for approving and ranking Lightning Deals also depends heavily on your inventory levels, your pricing history (you must offer a significant discount off the lowest price in the last 30 days), and your overall Seller Feedback rating. High-quality images will improve your CTR, but they cannot compensate for a "Deal" that isn't actually a good value for the customer.
 

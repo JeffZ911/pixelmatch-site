@@ -130,7 +130,7 @@ By following these steps, you minimize the risk of the 4-tier penalty system. A 
 *   TikTok Shop Seller Center: AI-Generated Content Restrictions
 *   TikTok Advertising Policies: Misleading and False Content
 *   [FTC Disclosures 101 for Social Media Influencers](https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers)
-*   TikTok AI Content Policy & Reach Impact Study 2026
+*   TikTok [AI Content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) Policy & Reach Impact Study 2026
 
 
 <!-- pm-cta:foot -->

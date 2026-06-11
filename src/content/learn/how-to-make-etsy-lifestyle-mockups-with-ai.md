@@ -183,7 +183,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 *   https://www.etsy.com/legal/sellers/ (Etsy Seller Policy - 2026 Update)
-*   https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos (Official Image Specs)
+*   https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos (Official [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs))
 *   https://pebblely.com/pricing/ (Pebblely 2026 Pricing)
 *   https://www.photoroom.com/pricing (Photoroom 2026 Pricing)
 *   https://www.adobe.com/express/pricing (Adobe Express 2026 Plans)

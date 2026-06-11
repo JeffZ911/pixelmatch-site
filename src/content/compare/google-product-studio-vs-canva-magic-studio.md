@@ -85,7 +85,7 @@ Calculate your monthly per-image cost by dividing your subscription fee by the n
 Map your channel-specific requirements to the tool that minimizes your clicks per listing. A Shopify seller has different needs than a brand registered Amazon seller.
 
 ### When to use Google Product Studio
-Use Google Product Studio if you are a Shopify or WooCommerce merchant whose primary sales driver is Google Shopping. Because it is integrated into the Merchant Center, you can update your "Seasonal" images (e.g., adding a holiday-themed background) without ever leaving the platform.
+Use Google Product Studio if you are a Shopify or WooCommerce merchant whose primary sales driver is Google Shopping. Because it is integrated into the [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide), you can update your "Seasonal" images (e.g., adding a holiday-themed background) without ever leaving the platform.
 *   **Actionable Step:** Set a recurring calendar reminder to sync your Google Product Studio lifestyle images with your seasonal Google Shopping campaigns (e.g., updating backgrounds to "autumn leaves" on September 1st).
 
 ### When to use Canva Magic Studio
@@ -131,5 +131,5 @@ Stop clicking "Remove Background" one image at a time. Audit your catalog today:
 *   Canva Pricing and Plans
 *   Canva Magic Studio Features
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
-*   Google Merchant Center Help: Image Specifications
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Help: Image Specifications
 *   TikTok Shop Academy: Product Image Guidelines

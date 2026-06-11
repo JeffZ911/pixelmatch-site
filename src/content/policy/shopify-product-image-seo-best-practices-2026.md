@@ -44,7 +44,7 @@ Audit your current image library against the 2026 Shopify specifications listed 
 | **Alt Text Length** | 512 Characters | 125 Characters | Screen readers cut off after ~125 characters. |
 | **Aspect Ratio** | Any | 1:1 (Square) | Prevents Cumulative Layout Shift (CLS) in grids. |
 
-Run a "Bulk Export" of your product CSV from the Shopify Admin today and check the `Image Alt Text` and `Image Src` columns. If your filenames look like `DSC_001.jpg` or your alt text is empty, you are invisible to Google’s visual search crawlers.
+Run a "Bulk Export" of your product CSV from the Shopify Admin today and check the `Image Alt Text` and `Image Src` columns. If your filenames look like `DSC_001.jpg` or your alt text is empty, you are invisible to Google’s [visual search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide) crawlers.
 
 ## Detailed Requirements
 

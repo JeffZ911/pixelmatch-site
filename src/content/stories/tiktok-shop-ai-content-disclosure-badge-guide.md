@@ -107,7 +107,7 @@ The 80% reduction in photography costs allowed the brand to reinvest those funds
 ![Steps to Replicate](/img/tiktok-shop-ai-content-disclosure-badge-guide/inline-5.webp)
 
 
-Conduct a "Mobile View" check on your uploaded listings to ensure the AI disclosure badge doesn't obscure critical product text or branding. Follow this four-step process to scale your TikTok Shop presence safely.
+Conduct a "Mobile View" check on your uploaded listings to ensure the AI [disclosure badge](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) doesn't obscure critical product text or branding. Follow this four-step process to scale your TikTok Shop presence safely.
 
 ### Step 1: The Foundation Shoot
 Do not use AI to create your product from scratch. Shoot your product on a clean, well-lit surface using a modern smartphone. Ensure the lighting is neutral so the AI can later match the shadows and highlights of the generated background.

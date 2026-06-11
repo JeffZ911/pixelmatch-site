@@ -148,7 +148,7 @@ Canva and Adobe Express are the industry standards for general graphic design, b
 Test your image compression by uploading a single test listing to the TikTok Seller Center before batch-uploading your entire 500-SKU catalog. This prevents a mass-rejection event that could flag your account for "spammy behavior."
 
 ### Does TikTok Shop require a white background?
-Yes, for the primary (first) cover image. While the algorithm may occasionally let a lifestyle image pass as the cover, your listing quality score will remain in the "Fair" category. To hit the "Good" tier and maximize visibility, the first image must be the product on a clean, white, or neutral background.
+Yes, for the primary (first) cover image. While the algorithm may occasionally let a lifestyle image pass as the cover, your listing [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) will remain in the "Fair" category. To hit the "Good" tier and maximize visibility, the first image must be the product on a clean, white, or neutral background.
 
 ### What is the maximum file size for TikTok Shop images?
 The limit is 5MB per image. However, for optimal mobile performance, you should aim for under 2MB. If your resizer tool allows for "Quality" settings, 80% to 90% JPG quality usually provides the best balance between clarity and file size.

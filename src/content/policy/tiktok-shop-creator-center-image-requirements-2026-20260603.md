@@ -44,7 +44,7 @@ Audit your current creative assets against this technical checklist to prevent i
 | **Maximum File Size** | 5MB per image | Technical Upload Limit |
 | **Image Quantity** | 1 to 9 images | Product Listing Guidelines |
 | **Main Image Background** | Solid white or neutral | TikTok Shop Display Standards |
-| **AIGC Disclosure** | Required for synthetic imagery | TikTok AI Content Policy |
+| **AIGC Disclosure** | Required for synthetic imagery | TikTok [AI Content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) Policy |
 
 To run a diagnostic on your current listings, download your TikTok Shop "Product Diagnostic" report from the Growth Center. This report flags specific SKUs that fall below the recommended 5-image threshold, which is the baseline TikTok uses to categorize a listing as "Good" or "High Quality."
 

@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Your organic traffic is dropping because Amazon Rufus doesn't just match keywords; it validates your product’s physical attributes through visual data. If your images fail to provide the multimodal "proof" Rufus requires to answer conversational shopper queries, your ASIN stays hidden behind competitors who have already optimized for the Cosmo algorithm.
+Your organic traffic is dropping because [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide) doesn't just match keywords; it validates your product’s physical attributes through visual data. If your images fail to provide the multimodal "proof" Rufus requires to answer conversational shopper queries, your ASIN stays hidden behind competitors who have already optimized for the Cosmo algorithm.
 
 # Optimizing Product Images for Amazon Rufus Search: A Seller's Guide to AI Discovery
 

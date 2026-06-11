@@ -120,7 +120,7 @@ You do not need a 7-figure budget to implement this workflow. Any seller with a 
 5.  **Verify Specs:** Ensure all final files are [at least 1000 pixels in either height or width](https://sellercentral.amazon.com/help/hub/reference/G1881), though 1600+ is preferred for zoom.
 6.  **Iterate via MYE:** Upload the top two lifestyle variations to Amazon Seller Central and let the data decide which one stays.
 
-**Actionable Step:** Create a "Compliance Folder" on your local drive. Before uploading any AI image to Amazon, run it through a simple check: Does it contain any [text, logos, or watermarks](https://sellercentral.amazon.com/help/hub/reference/G1881) in the main image slot? If yes, use a "Generative Fill" or cleanup tool to remove them, as these are the most common reasons for manual listing flags.
+**Actionable Step:** Create a "Compliance Folder" on your local drive. Before uploading any [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) to Amazon, run it through a simple check: Does it contain any [text, logos, or watermarks](https://sellercentral.amazon.com/help/hub/reference/G1881) in the main image slot? If yes, use a "Generative Fill" or cleanup tool to remove them, as these are the most common reasons for manual listing flags.
 
 ## Caveats and Honest Limitations
 

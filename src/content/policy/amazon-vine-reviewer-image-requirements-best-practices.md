@@ -45,7 +45,7 @@ Run a technical audit of your current listing images against the table below. If
 | **Frame Coverage** | Product must occupy at least [85% of the image frame](https://sellercentral.amazon.com/help/hub/reference/G1881) | Amazon Seller Central |
 | **Vine Enrollment Fee** | [$0 (1-2 units), $75 (3-10 units), or $200 (11-30 units)](https://sellercentral.amazon.com/help/hub/reference/G201114120) | Amazon Vine Policy |
 | **Reviewer Content Rules** | No [barcodes, children's faces, or license plates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85WAMZFEHL) | Community Guidelines |
-| **File Formats** | JPEG (.jpg), PNG (.png), TIFF (.tif), or GIF (.gif) | Amazon Image Specs |
+| **File Formats** | JPEG (.jpg), PNG (.png), TIFF (.tif), or GIF (.gif) | Amazon [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |
 
 [IMAGE PLACEHOLDER: A side-by-side comparison of a compliant Amazon seller main image (pure white background) and a rejected image with props. Aspect Ratio: 16:9]
 
