@@ -79,9 +79,9 @@ Amazon’s [technical requirements](https://sellercentral.amazon.com/help/hub/re
 Amazon requires a [minimum of 1000 pixels](https://sellercentral.amazon.com/help/hub/reference/1881) on the longest side to enable the "Zoom" function, though they recommend 1600 pixels for optimal performance. The seller’s raw photos varied in size. They used the PixelMatch batch editor to upscale all images to a uniform 2000x2000 pixel square. This provided a crisp, high-detail view of the beauty ingredients and labels, which is essential for building trust in the skincare category.
 
 ### 3. The 85% Frame Rule
-A common reason for Prime Day listing rejection is the "frame coverage" rule. The product must fill [85% or more of the frame](https://sellercentral.amazon.com/help/hub/reference/1881). PixelMatch’s AI-driven cropping tool automatically detected the product boundaries and resized the canvas so the item occupied exactly 88% of the image area, leaving just enough "breathing room" to avoid looking cramped while maximizing visibility in mobile search results.
+A common reason for [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) listing rejection is the "frame coverage" rule. The product must fill [85% or more of the frame](https://sellercentral.amazon.com/help/hub/reference/1881). PixelMatch’s AI-driven cropping tool automatically detected the product boundaries and resized the canvas so the item occupied exactly 88% of the image area, leaving just enough "breathing room" to avoid looking cramped while maximizing visibility in mobile search results.
 
-**Actionable Step for Today:** Create a "Master Preset" in your image editor. Set the output to 2000x2000 pixels, JPEG format, and a 255,255,255 background. Applying this preset to a test batch of 5 images will show you exactly where your current raw photos are falling short of Amazon's zoom requirements.
+**Actionable Step for Today:** Create a "Master Preset" in your [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide). Set the output to 2000x2000 pixels, JPEG format, and a 255,255,255 background. Applying this preset to a test batch of 5 images will show you exactly where your current raw photos are falling short of Amazon's zoom requirements.
 
 ## Results (with Numbers)
 

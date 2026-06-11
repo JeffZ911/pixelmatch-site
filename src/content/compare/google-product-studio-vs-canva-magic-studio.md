@@ -47,7 +47,7 @@ Audit your current distribution channels before committing to a tool: if 80% of 
 ![Side-by-Side Feature Table](/img/google-product-studio-vs-canva-magic-studio/inline-2.webp)
 
 
-Enable the "Increase Resolution" toggle in [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Next to automatically upscale low-quality vendor assets to meet the minimum 100x100 pixel requirement for non-apparel items. While both Google and Canva offer generative AI, their feature sets serve different stages of the funnel. Google Product Studio is a utility for search visibility, whereas Canva Magic Studio is a creative engine for brand storytelling.
+Enable the "Increase Resolution" toggle in [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Next to automatically upscale low-quality vendor assets to meet the minimum 100x100 pixel requirement for non-apparel items. While both Google and Canva offer generative AI, their feature sets serve different stages of the funnel. Google Product Studio is a utility for search visibility, whereas [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio is a creative engine for brand storytelling.
 
 ### Google Product Studio Features
 Google’s toolset is built directly into [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center Next, meaning your edits sync directly with your product feed. 

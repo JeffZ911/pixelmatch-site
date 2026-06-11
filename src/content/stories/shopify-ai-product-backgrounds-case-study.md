@@ -182,7 +182,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Shopify Official Image Specs: https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements
+*   Shopify Official [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs): https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements
 *   Shopify WebP Support Documentation: https://help.shopify.com/en/manual/online-store/os/using-themes/change-the-layout/images
 *   Photoroom Batch Features:
 *   Pebblely Pricing and Tiers: https://pebblely.com/pricing/

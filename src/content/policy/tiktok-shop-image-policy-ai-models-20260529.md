@@ -112,7 +112,7 @@ PixelMatch is specifically designed for the TikTok Shop workflow because it trea
 When uploading images to the Seller Center, look for the "AI-generated content" toggle. As of May 2026, this is a standard field in the product upload flow. Checking this box does not hurt your SEO; in fact, it protects your account from automated takedowns.
 
 ### Focus on Context, Not Alteration
-Instead of using AI to fake a result, use it to provide context. If you sell hiking boots, use AI to place them on a mountain trail. This is a "Lifestyle Context" use case, which is highly encouraged by TikTok for increasing the Listing Quality Score. 
+Instead of using AI to fake a result, use it to provide context. If you sell hiking boots, use AI to place them on a mountain trail. This is a "Lifestyle Context" use case, which is highly encouraged by TikTok for increasing the Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026). 
 
 ### Audit Your Image Specs Before Export
 Before you upload, ensure your final exports meet the following checklist:

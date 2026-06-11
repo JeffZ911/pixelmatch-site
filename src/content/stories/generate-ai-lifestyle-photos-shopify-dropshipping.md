@@ -127,7 +127,7 @@ Upload your clean product cutouts to PixelMatch. Use the "Scene Match" feature t
 Export your final renders as 2048 x 2048 pixel WebP files. This size is large enough to allow Shopify's "zoom" feature to work perfectly on desktop while being optimized for mobile bandwidth. If you are selling on multiple platforms (e.g., TikTok Shop or Etsy), use PixelMatch's "Multi-Channel Export" to automatically resize the same lifestyle scene into the 3:4 or 4:5 ratios required by those platforms.
 
 ### 4. Apply AI Disclosures
-To comply with Shopify's 2026 AI image policy [1.4.2], ensure your store is transparent. You can do this by:
+To comply with Shopify's 2026 [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) policy [1.4.2], ensure your store is transparent. You can do this by:
 *   Adding a small disclaimer in the "Product Details" accordion.
 *   Using C2PA metadata tagging (which PixelMatch handles automatically during export).
 *   Ensuring the product itself is not "beautified" beyond its physical reality (e.g., do not use AI to remove a visible power cord if the actual product has one).

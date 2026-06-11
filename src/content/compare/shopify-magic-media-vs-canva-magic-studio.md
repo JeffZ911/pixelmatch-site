@@ -52,7 +52,7 @@ Shopify Magic Media focuses on the "product page" experience, while [Canva Magic
 
 Open your Shopify Admin, go to a product page, and click the "Magic" icon to see if the generated scene matches your brand's existing lighting. This immediate test shows you the limits of Shopify’s native AI compared to a dedicated design suite like Canva.
 
-| Feature | Shopify Magic Media | Canva Magic Studio | PixelMatch |
+| Feature | Shopify Magic Media | [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use** | Product background edits | Marketing & social design | Batch product photography |
 | **Max Resolution** | [1024 x 1024 px (1 MP)](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation) | [2048 x 2048 px](https://www.canva.com/help/magic-media/) | Up to 4K / High-Res |

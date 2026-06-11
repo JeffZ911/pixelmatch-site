@@ -141,7 +141,7 @@ You can implement this exact workflow today to professionalize your shop and red
 2.  **Create a "Signature" Style:** Use Kittl’s "Settings" to save your favorite font pairings and color palettes. This ensures brand consistency across your shop.
 3.  **Export for Print and Web:** Export your final design twice. Once as a 300 DPI PNG for your print provider (Printify/Printful), and once as a standard PNG for PixelMatch.
 4.  **Generate Lifestyle Scenes:** Upload your design to PixelMatch. Select 3-5 different lifestyle "scenes." For example, if you sell "Mountain Hiking" shirts, generate mockups in a forest or trail setting rather than a plain studio.
-5.  **Finalize Image Specs:** Before uploading to Etsy, ensure your files are:
+5.  **Finalize [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs):** Before uploading to Etsy, ensure your files are:
     *   **Dimensions:** 2000x2000 px (square) or 2000x1500 px (4:3 ratio).
     *   **File Size:** Under [1MB](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) to ensure fast loading on mobile devices.
     *   **Format:** JPG or PNG.

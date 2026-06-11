@@ -119,7 +119,7 @@ PixelMatch is better suited for this workflow because it strictly preserves the 
 **Actionable Step:** Take one high-quality photo of your product on a white background. Upload it to PixelMatch and select a "Neutral Lifestyle" prompt. Generate 5 variations (e.g., on a wooden table, on a marble shelf, held by a hand). This ensures all your lifestyle shots are consistent and the product remains 100% accurate to the physical SKU.
 
 ### Fixing Resolution and Aspect Ratios
-If your images are flagged for low resolution, do not simply "stretch" them in an image editor. This creates pixelation, which TikTok’s bots flag as "Low Quality."
+If your images are flagged for low resolution, do not simply "stretch" them in an [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide). This creates pixelation, which TikTok’s bots flag as "Low Quality."
 
 1.  **Re-export at Source:** If you have the original RAW or high-res JPG files, re-export them at 1200 x 1200 pixels.
 2.  **Batch Upscaling:** If you only have low-res files, use an AI upscaler to increase the pixel count while maintaining edge sharpness.
