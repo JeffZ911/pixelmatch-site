@@ -39,7 +39,7 @@ Run a full catalog audit immediately to identify listings that fail the [pure wh
 
 The brand's primary challenge was the scale of the update required in a compressed timeframe. Amazon requires that the product occupies at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881), yet many of their beauty serum and cosmetic palette images were centered with excessive padding to fit a minimalist Shopify theme. With the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) window shifting earlier into June, the brand faced a hard deadline for listing optimization.
 
-Traditional studio photography was not a viable solution. Reputable services like Soona charge $39 per photo, which would have cost the brand over $5,800 for Main Images alone, not including the 3-week turnaround time that would have pushed them past the Prime Day "image lock" period. The seller needed a way to transform their existing high-quality raw photos into Amazon-compliant assets without the "studio tax" or the manual labor of a freelance retoucher.
+Traditional studio photography was not a viable solution. Reputable services like Soona charge $39 per photo, which would have cost the brand over $5,800 for Main Images alone, not including the 3-week turnaround time that would have pushed them past the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) "image lock" period. The seller needed a way to transform their existing high-quality raw photos into Amazon-compliant assets without the "studio tax" or the manual labor of a freelance retoucher.
 
 ## What Wasn't Working: Bottlenecks in Manual Editing and Basic AI Tools
 
