@@ -57,7 +57,7 @@ Check your plan eligibility in the **Settings > Billing** section of your Shopif
 
 ### Plan Eligibility
 
-To use the AI image generation features within the Shopify file editor, your store must be on a [Basic, Shopify, Advanced, or Plus plan](https://help.shopify.com/en/manual/shopify-magic/media-generation). If you are on the Basic plan at approximately $39/month, you already have full access to these tools.
+To use the [AI image](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) generation features within the Shopify file editor, your store must be on a [Basic, Shopify, Advanced, or Plus plan](https://help.shopify.com/en/manual/shopify-magic/media-generation). If you are on the Basic plan at approximately $39/month, you already have full access to these tools.
 
 Multi-platform sellers should note that while these tools are "free" within the Shopify ecosystem, they are functionally locked to the Shopify admin. If you need to generate images for your eBay or Amazon storefronts simultaneously, you would typically need to export them from Shopify, which can lead to further compression. Tools like PixelMatch are designed for this multi-platform workflow, allowing you to generate high-resolution assets that can be distributed across all channels without the 1-megapixel Shopify bottleneck.
 

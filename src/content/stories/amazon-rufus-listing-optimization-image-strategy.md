@@ -184,5 +184,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Photoroom Pricing and Tiers
 *   Stripe Standard Processing Fees
 *   [Amazon FBA Referral Fees by Category](https://sell.amazon.com/pricing#referral-fees)
-*   Semantic Confidence and AI Search Optimization Guide
+*   Semantic Confidence and [AI Search](https://pixelmatch.art/blog/policy/amazon-shop-by-style-ai-search-guide) Optimization Guide
 *   Adobe Express Premium Pricing

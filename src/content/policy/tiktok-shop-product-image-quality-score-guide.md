@@ -60,7 +60,7 @@ TikTok categorizes product listings into three quality tiers: Poor, Fair, and Go
 
 The "Good" tier is the gold standard for multi-platform sellers looking to scale. To reach this status, you must go beyond the bare minimum requirements. TikTok's internal scoring system looks for at least 5 high-resolution images and a comprehensive set of product attributes. If you only upload the minimum of one image, your listing will likely be stuck in the "Fair" tier, even if that single image is perfect.
 
-The quality score is not static. If TikTok’s AI detects that your images are being flagged by users or leading to high return rates due to "item not as described," your score can drop. High-quality images must accurately represent the product’s color, scale, and texture to maintain a "Good" rating over time.
+The [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) is not static. If TikTok’s AI detects that your images are being flagged by users or leading to high return rates due to "item not as described," your score can drop. High-quality images must accurately represent the product’s color, scale, and texture to maintain a "Good" rating over time.
 
 ### Main Image vs. Additional Images
 

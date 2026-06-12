@@ -137,7 +137,7 @@ You can apply this same "image fix" to your store today by following this techni
 ![Caveats and Honest Limitations](/img/tiktok-shop-listing-quality-tier-image-fix-20260529/inline-6.webp)
 
 
-While AI image generation is the fastest way to fix your LQT, it is not a "set and forget" solution for every product type.
+While [AI image](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) generation is the fastest way to fix your LQT, it is not a "set and forget" solution for every product type.
 
 ### Technical Limitations with Transparency
 AI background removal tools, including PixelMatch, can occasionally struggle with highly transparent or reflective packaging. If you sell serums in clear glass bottles or products with intricate lace packaging, the AI may "over-erase" the edges. You should plan for a 5% manual touch-up rate where you may need to use a mask-refinement tool to restore edge detail.

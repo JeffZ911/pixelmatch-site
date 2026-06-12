@@ -135,7 +135,7 @@ First, AI edge detection can occasionally struggle with highly transparent beaut
 
 Second, Amazon’s "No Props" rule is absolute for main images. You must manually verify that no ingredients (like a stray rose petal or a slice of lemon) are included in the main image. While PixelMatch can remove backgrounds, it cannot automatically determine if a physical object in the photo is the "product" or a "prop." Including props in your main image is a leading cause of listing suppression during high-traffic events.
 
-Finally, because the exact Prime Day dates are undisclosed, the window for error is non-existent. Sellers who wait for the official date announcement to begin their image prep will find themselves stuck in the "Pending Review" queue along with 100,000 other sellers. The only way to ensure your listings are optimized is to complete the batch-generation process immediately.
+Finally, because the exact [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) dates are undisclosed, the window for error is non-existent. Sellers who wait for the official date announcement to begin their image prep will find themselves stuck in the "Pending Review" queue along with 100,000 other sellers. The only way to ensure your listings are optimized is to complete the batch-generation process immediately.
 
 **Actionable Step for Today:** Designate a "Red Team" reviewer. Have someone who didn't create the images look at your top 10 SKUs. If they can see any jagged edges or "AI artifacts" around the product rim, re-run those specific images through PixelMatch using a higher detail setting before the FBA deadline.
 

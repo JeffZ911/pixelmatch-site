@@ -178,5 +178,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Seller Academy: AI-generated Content Policy
 *   TikTok Newsroom: Labeling AI-generated content and joining C2PA
 *   PYMNTS: TikTok Shop Bans AI Voices From Livestreams
-*   AuditSocials: TikTok AI Content Policy and Detection Accuracy
+*   AuditSocials: TikTok [AI Content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) Policy and Detection Accuracy
 *   Photoroom: Pro Pricing Plans

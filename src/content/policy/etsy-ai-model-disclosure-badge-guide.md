@@ -40,9 +40,9 @@ Missing a mandatory badge on an AI-generated model now triggers a $1,000 civil p
 
 Compare your current listing assets against the following matrix to determine which specific disclosures you must apply today. Failure to distinguish between an AI-generated product and an AI-generated background can lead to unnecessary badges or, conversely, expensive legal omissions.
 
-| Feature Type | Etsy Checkbox Required? | Disclosure Badge Required? | N.Y. S8420A Penalty Risk | Primary Attribution |
+| Feature Type | Etsy Checkbox Required? | [Disclosure Badge](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) Required? | N.Y. S8420A Penalty Risk | Primary Attribution |
 | :--- | :--- | :--- | :--- | :--- |
-| **AI Human Model** | Yes | Yes ("AI Model Used") | $1,000 per violation | Designed by Seller |
+| **AI Human Model** | Yes | Yes ("[AI Model](https://pixelmatch.art/blog/policy/tiktok-shop-ai-model-policy-leak-2026) Used") | $1,000 per violation | Designed by Seller |
 | **AI Generated Product** | Yes | Recommended in Text | Low (Unless human-like) | Designed by Seller |
 | **AI Product Background** | Yes | No | None | Made by Seller (if item is physical) |
 | **AI Digital Art** | Yes | Recommended in Text | None | Designed by Seller |
