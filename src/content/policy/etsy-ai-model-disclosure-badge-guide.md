@@ -24,14 +24,14 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Missing a mandatory badge on an AI-generated model now triggers a $1,000 civil penalty under New York law. You risk immediate listing takedowns and heavy legal fines if your Etsy shop uses synthetic humans in mockups without the required "AI Model Used" disclosure.
+Missing a mandatory badge on an AI-generated model now triggers a $1,000 civil penalty under New York law. You risk immediate listing takedowns and heavy legal fines if your Etsy shop uses synthetic humans in mockups without the required "[AI Model](https://pixelmatch.art/blog/policy/tiktok-shop-ai-model-policy-leak-2026) Used" disclosure.
 
 ## Etsy AI Model Disclosure Badge Guide: Navigating the 2026 Rules
 
 ![Etsy AI Model Disclosure Badge Guide: Navigating the 2026 Rules](/img/etsy-ai-model-disclosure-badge-guide/inline-1.webp)
 
 
-**Quick Answer:** As of June 9, 2026, sellers using AI human models in mockups must add a conspicuous disclosure badge to comply with New York's Synthetic Performer Law. Etsy also requires ticking the 'I used AI-generative technology' box in the listing editor to remain compliant with their Creativity Standards.
+**Quick Answer:** As of June 9, 2026, sellers using AI human models in mockups must add a conspicuous [disclosure badge](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) to comply with New York's Synthetic Performer Law. Etsy also requires ticking the 'I used AI-generative technology' box in the listing editor to remain compliant with their Creativity Standards.
 
 ## Review the 2026 AI Disclosure Matrix
 

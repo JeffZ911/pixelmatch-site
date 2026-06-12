@@ -129,7 +129,7 @@ Stop clicking "Remove Background" one image at a time. Audit your catalog today:
 
 *   Google Blog: Google Product Studio Generative AI
 *   Canva Pricing and Plans
-*   Canva Magic Studio Features
+*   [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio Features
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Help: Image Specifications
 *   TikTok Shop Academy: Product Image Guidelines

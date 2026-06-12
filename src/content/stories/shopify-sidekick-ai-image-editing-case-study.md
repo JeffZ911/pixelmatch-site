@@ -156,7 +156,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   [Shopify Official: Product Media Types and Specifications](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   [Shopify Magic: AI Features for Merchants](https://www.shopify.com/magic)
-*   WebDesign Singapore: Shopify AI Image Editing Limitations
+*   WebDesign Singapore: Shopify [AI Image](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Editing Limitations
 *   [Photoroom: Pro Pricing and Feature List](https://www.photoroom.com/pricing)
 *   WizCommerce: Photoroom Pricing Breakdown and Batch Limits
 *   [Google Developers: WebP Image Format for the Web](https://developers.google.com/speed/webp)

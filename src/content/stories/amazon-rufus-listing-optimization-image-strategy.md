@@ -122,7 +122,7 @@ This visibility boost occurred because the AI could finally verify—via the sec
 ![Steps to Replicate This Amazon Rufus Image Strategy](/img/amazon-rufus-listing-optimization-image-strategy/inline-5.webp)
 
 
-You can replicate this workflow regardless of your category. Follow these four steps to modernize your visual assets for AI search.
+You can replicate this workflow regardless of your category. Follow these four steps to modernize your visual assets for [AI search](https://pixelmatch.art/blog/policy/amazon-shop-by-style-ai-search-guide).
 
 ### Step 1: Audit with Rufus Diagnostic Questions
 Before generating new images, identify what Rufus *doesn't* know about your product. Ask Rufus:

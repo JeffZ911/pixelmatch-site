@@ -111,7 +111,7 @@ The 18% increase in Click-Through Rate (CTR) was the most significant driver of 
 ![Steps to Replicate](/img/amazon-prime-day-2026-image-prep-guide/inline-5.webp)
 
 
-You do not need a massive team to replicate these results. A single virtual assistant or founder can process an entire catalog for Prime Day by following this three-step protocol.
+You do not need a massive team to replicate these results. A single virtual assistant or founder can process an entire catalog for [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) by following this three-step protocol.
 
 ### Step 1: The Catalog Audit
 Before uploading anything, audit your current assets. Identify every image that fails the [1000 pixels minimum](https://sellercentral.amazon.com/help/hub/reference/1881) requirement. In the beauty niche, pay special attention to "Lifestyle" images that you intend to use in the 2nd or 3rd slot of your image stack. While the main image must be white, the secondary images should be batch-processed for consistent lighting and color grading to ensure the brand looks cohesive.

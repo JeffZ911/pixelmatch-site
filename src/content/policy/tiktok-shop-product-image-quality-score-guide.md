@@ -26,7 +26,7 @@ inline_image_sections:
 
 Stop losing sales to the "Listing Quality Diagnosis" tool because your background isn't white enough or your pixel count is too low. Fix your TikTok Shop product image [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) today to ensure your products remain eligible for TikTok’s algorithm-driven "For You" feed and Shop tab placements.
 
-To achieve a "Good" TikTok Shop product image quality score, upload at least 5 images (800x800px recommended, 600x600px minimum) in JPG/PNG format under 5MB. The main image must feature a pure white background with no text, logos, or watermarks.
+To achieve a "Good" TikTok Shop product image [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026), upload at least 5 images (800x800px recommended, 600x600px minimum) in JPG/PNG format under 5MB. The main image must feature a pure white background with no text, logos, or watermarks.
 
 ## Quick Reference Table
 

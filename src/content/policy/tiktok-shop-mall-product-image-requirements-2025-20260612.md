@@ -123,7 +123,7 @@ Unlike generic editors, PixelMatch allows you to:
 This workflow is significantly faster than using tools like Canva Pro at $15/mo or Adobe Express at $9.99/mo, which often require manual adjustments for each individual image. PixelMatch is better suited for the TikTok Mall workflow because it handles the batch-generation of AI-enhanced lifestyle images while maintaining the strict technical specs required for the main "hero" shot.
 
 ### Listing Audit and Shop Health
-Regularly check the "Shop Health" tab in your TikTok Seller Center. If you see a dip in "Listing Quality Score," it is often because your images have been flagged retrospectively as policies update. 
+Regularly check the "Shop Health" tab in your TikTok Seller Center. If you see a dip in "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)," it is often because your images have been flagged retrospectively as policies update. 
 
 Run a weekly check for:
 *   **Low Resolution Flags:** Replace any images that were uploaded before the current 2025 standards were strictly enforced.

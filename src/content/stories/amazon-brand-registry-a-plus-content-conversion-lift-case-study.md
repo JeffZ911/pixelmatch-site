@@ -122,7 +122,7 @@ Beyond the conversion lift, the brand saw a 12% reduction in "Return Dissatisfac
 ![Steps to Replicate](/img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-5.webp)
 
 
-You do not need a professional studio to achieve these results. Follow this five-step protocol to modernize your Amazon listings.
+You do not need a professional studio to achieve these results. Follow this five-step protocol to modernize your [Amazon listings](https://pixelmatch.art/blog/stories/flux-pro-vs-midjourney-for-amazon-listings).
 
 ### Step 1: Verify Brand Registry Status
 You cannot access the A+ Content Manager without an active Trademark and enrollment in Amazon Brand Registry. Ensure your brand is fully approved by checking the "Brand Indicators" in Seller Central. This unlocks the ability to replace the text-only "Product Description" with rich media.

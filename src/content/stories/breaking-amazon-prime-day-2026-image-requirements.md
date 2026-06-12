@@ -35,7 +35,7 @@ Scaling a 150-SKU beauty catalog for [Prime Day](https://pixelmatch.art/blog/sto
 ![The Seller's Situation: Auditing 150+ SKUs for the June 23-26 Window](/img/breaking-amazon-prime-day-2026-image-requirements/inline-1.webp)
 
 
-Run a full catalog audit immediately to identify listings that fail the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement before the Prime Day inventory lockdown. For a 7-figure beauty brand managing 150+ SKUs across Amazon FBA and Shopify, the announcement of [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) for June 23-26, 2026 created an immediate compliance crisis. Their existing catalog featured "off-white" lifestyle-style hero images that, while aesthetically pleasing on Shopify, violated the strict Amazon Main Image standards.
+Run a full catalog audit immediately to identify listings that fail the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement before the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) inventory lockdown. For a 7-figure beauty brand managing 150+ SKUs across Amazon FBA and Shopify, the announcement of [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) for June 23-26, 2026 created an immediate compliance crisis. Their existing catalog featured "off-white" lifestyle-style hero images that, while aesthetically pleasing on Shopify, violated the strict Amazon Main Image standards.
 
 The brand's primary challenge was the scale of the update required in a compressed timeframe. Amazon requires that the product occupies at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881), yet many of their beauty serum and cosmetic palette images were centered with excessive padding to fit a minimalist Shopify theme. With the Prime Day window shifting earlier into June, the brand faced a hard deadline for listing optimization.
 
@@ -151,6 +151,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   **Amazon Seller Central:** [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   **Amazon Seller Central:** [Prohibited seller activities and image policies](https://sellercentral.amazon.com/help/hub/reference/G200332540)
-*   **Forbes:** Amazon Prime Day 2026 Dates and Predictions
+*   **Forbes:** [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) 2026 Dates and Predictions
 *   **Photoroom:** Pricing and Batch Export Limits
 *   **Soona:** Product Photography Pricing

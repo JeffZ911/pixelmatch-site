@@ -120,7 +120,7 @@ Follow this workflow to move from a TikTok video to a fully compliant, 9-image l
 6.  **Export and Sync:** Download the JPG/PNG files and upload them directly to TikTok Shop Seller Center.
 
 ### Ensuring Consistency Across Platforms
-If you are a multi-platform seller, your TikTok Shop assets need to be consistent with your Shopify or Amazon listings. Using a batch-generation tool ensures that the "Midnight Blue" in your TikTok video doesn't look like "Navy" on your website. By using the same AI-generated lighting and background settings across your entire batch, you maintain brand integrity across every touchpoint.
+If you are a multi-platform seller, your TikTok Shop assets need to be consistent with your Shopify or [Amazon listings](https://pixelmatch.art/blog/stories/flux-pro-vs-midjourney-for-amazon-listings). Using a batch-generation tool ensures that the "Midnight Blue" in your TikTok video doesn't look like "Navy" on your website. By using the same AI-generated lighting and background settings across your entire batch, you maintain brand integrity across every touchpoint.
 
 ## Official Source Links
 
