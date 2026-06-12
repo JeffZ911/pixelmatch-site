@@ -94,7 +94,7 @@ By switching to an automated batch conversion workflow, the brand transformed th
 | :--- | :--- | :--- |
 | **Time per 100 listings** | 12 hours | 45 minutes |
 | **Cost per listing** | $3.50 (VA fees) | $0.15 (Subscription allocation) |
-| **Listing Quality Score** | Varied (Fair/Poor) | 100% "Good" Tier |
+| **Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)** | Varied (Fair/Poor) | 100% "Good" Tier |
 | **Turnaround Time** | 48+ Hours | Instant |
 | **File Size Optimization** | Unpredictable | Consistent < 2MB |
 

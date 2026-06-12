@@ -126,7 +126,7 @@ The time saved was equally impactful. The old process of finding, buying, and ed
 | Etsy Upload/SEO | 5 | 2 |
 | **Total** | **45** | **15** |
 
-**Actionable Step:** Use Etsy’s "Search Analytics" tool (found under Marketing) to monitor your "Listing Quality Score." If your CTR is below 1.5% in a competitive niche like apparel, your primary image is likely the bottleneck.
+**Actionable Step:** Use Etsy’s "Search Analytics" tool (found under Marketing) to monitor your "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)." If your CTR is below 1.5% in a competitive niche like apparel, your primary image is likely the bottleneck.
 
 The increased conversion rate allowed the seller to easily absorb the $0.20 listing fee and the costs of their software subscriptions. By selling more units per listing, the "cost per design" effectively dropped, even though they were using more premium tools.
 
