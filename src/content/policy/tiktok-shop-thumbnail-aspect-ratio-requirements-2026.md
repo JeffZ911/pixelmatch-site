@@ -35,7 +35,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Running a high-volume TikTok Shop in 2026 means playing by a set of rules that the algorithm enforces with zero sentiment. If your thumbnails are even a few pixels off the 1:1 requirement, you aren't just risking a "Poor" quality score—you are actively throttling your store's organic reach and inviting the TikTok Seller Center to shadowban your listings.
+Running a high-volume TikTok Shop in 2026 means playing by a set of rules that the algorithm enforces with zero sentiment. If your thumbnails are even a few pixels off the 1:1 requirement, you aren't just risking a "Poor" [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)—you are actively throttling your store's organic reach and inviting the TikTok Seller Center to shadowban your listings.
 
 ## Quick Reference Table
 

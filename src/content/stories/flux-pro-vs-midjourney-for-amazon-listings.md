@@ -56,7 +56,7 @@ The brand faced three non-negotiable constraints that every Amazon seller must m
 ![What Wasn't Working](/img/flux-pro-vs-midjourney-for-amazon-listings/inline-2.webp)
 
 
-Lumina Skin initially turned to Midjourney, the most well-known AI image generator, hoping to create lifestyle scenes (e.g., a bottle of serum on a marble bathroom counter with soft morning light). While the images looked "beautiful," they were unusable for a professional Amazon listing for several reasons.
+Lumina Skin initially turned to Midjourney, the most well-known [AI image generator](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial), hoping to create lifestyle scenes (e.g., a bottle of serum on a marble bathroom counter with soft morning light). While the images looked "beautiful," they were unusable for a professional Amazon listing for several reasons.
 
 ### The "Hallucination" Problem
 Midjourney is designed to be an artist, not a replicator. When the seller uploaded a reference photo of their serum bottle, Midjourney would often alter the curvature of the cap, change the font on the label, or add "imaginary" ingredients to the scene. For a beauty brand, these inaccuracies are more than just annoying; they are a violation of Amazon’s policy against misleading imagery. If the product in the photo doesn't match the product in the box, you are inviting "Item Not as Described" returns and negative reviews.
@@ -78,7 +78,7 @@ Midjourney operates primarily through Discord. For a seller trying to generate 5
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-The breakthrough for Lumina Skin came from switching to Flux Pro, a newer AI model that prioritizes "prompt adherence"—the ability to follow instructions literally rather than artistically. Instead of interacting with complex code or the Discord-based Midjourney interface, they used PixelMatch to manage the Flux Pro engine through a dedicated ecommerce dashboard.
+The breakthrough for Lumina Skin came from switching to Flux Pro, a newer [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) that prioritizes "prompt adherence"—the ability to follow instructions literally rather than artistically. Instead of interacting with complex code or the Discord-based Midjourney interface, they used PixelMatch to manage the Flux Pro engine through a dedicated ecommerce dashboard.
 
 ### Why Flux Pro Changed the Math
 Flux Pro, specifically the Flux 1.1 Pro model, is architected differently than Midjourney. It is significantly better at rendering text and maintaining the spatial integrity of objects. When paired with PixelMatch’s background-locking technology, the seller could finally place their *actual* product into an AI-generated scene without the bottle morphing into a different shape.

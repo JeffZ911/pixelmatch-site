@@ -132,7 +132,7 @@ You can implement this exact workflow regardless of your current technical skill
 ![Caveats and Honest Limitations](/img/shopify-sidekick-ai-image-editing-case-study/inline-6.webp)
 
 
-While AI image editing has reached a "pro-sumer" level of quality, it is not a magic wand that works perfectly 100% of the time. Sellers must maintain a quality control (QC) layer to ensure brand integrity.
+While [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) editing has reached a "pro-sumer" level of quality, it is not a magic wand that works perfectly 100% of the time. Sellers must maintain a quality control (QC) layer to ensure brand integrity.
 
 While [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is [free to all Shopify merchants](https://www.shopify.com/magic), its image generation capabilities are still entry-level and include invisible watermarks. These watermarks are intended to comply with AI safety standards but may interfere with certain third-party marketplaces that have strict "no-watermark" policies for main images.
 

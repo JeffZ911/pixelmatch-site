@@ -102,7 +102,7 @@ The results mirrored broader industry benchmarks for AI adoption in e-commerce, 
 | **Compliance Rate** | 94% (Manual Errors) | 100% (Algorithmic) | +6% |
 | **Search CTR** | Baseline | +18% | +18% |
 
-The 18% increase in Click-Through Rate (CTR) was the most significant driver of Prime Day success. Because the images were upscaled and perfectly centered, they appeared larger and sharper in the "Amazon Mobile App" search results compared to competitors who were using non-optimized, lower-resolution photos.
+The 18% increase in Click-Through Rate (CTR) was the most significant driver of [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) success. Because the images were upscaled and perfectly centered, they appeared larger and sharper in the "Amazon Mobile App" search results compared to competitors who were using non-optimized, lower-resolution photos.
 
 **Actionable Step for Today:** Open your Amazon "Brand Analytics" dashboard. Compare your "Click Share" to your "Conversion Share" for your top 5 keywords. If your click share is lower than your conversion share, your main image is the bottleneck—not your price or your product.
 

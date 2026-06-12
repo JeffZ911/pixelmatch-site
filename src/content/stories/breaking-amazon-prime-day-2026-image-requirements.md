@@ -28,14 +28,14 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Scaling a 150-SKU beauty catalog for Prime Day usually requires a six-figure photography budget and months of lead time, but the surprise shift to a June 2026 date left sellers with weeks to fix non-compliant images. When Amazon moves the goalposts, manual retouching becomes a liability that can lead to suppressed listings during the highest-traffic week of the year.
+Scaling a 150-SKU beauty catalog for [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) usually requires a six-figure photography budget and months of lead time, but the surprise shift to a June 2026 date left sellers with weeks to fix non-compliant images. When Amazon moves the goalposts, manual retouching becomes a liability that can lead to suppressed listings during the highest-traffic week of the year.
 
 ## The Seller's Situation: Auditing 150+ SKUs for the June 23-26 Window
 
 ![The Seller's Situation: Auditing 150+ SKUs for the June 23-26 Window](/img/breaking-amazon-prime-day-2026-image-requirements/inline-1.webp)
 
 
-Run a full catalog audit immediately to identify listings that fail the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement before the Prime Day inventory lockdown. For a 7-figure beauty brand managing 150+ SKUs across Amazon FBA and Shopify, the announcement of Amazon Prime Day for June 23-26, 2026 created an immediate compliance crisis. Their existing catalog featured "off-white" lifestyle-style hero images that, while aesthetically pleasing on Shopify, violated the strict Amazon Main Image standards.
+Run a full catalog audit immediately to identify listings that fail the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement before the Prime Day inventory lockdown. For a 7-figure beauty brand managing 150+ SKUs across Amazon FBA and Shopify, the announcement of [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) for June 23-26, 2026 created an immediate compliance crisis. Their existing catalog featured "off-white" lifestyle-style hero images that, while aesthetically pleasing on Shopify, violated the strict Amazon Main Image standards.
 
 The brand's primary challenge was the scale of the update required in a compressed timeframe. Amazon requires that the product occupies at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881), yet many of their beauty serum and cosmetic palette images were centered with excessive padding to fit a minimalist Shopify theme. With the Prime Day window shifting earlier into June, the brand faced a hard deadline for listing optimization.
 
@@ -65,7 +65,7 @@ Configure your export settings to [1600 x 1600 pixels](https://sellercentral.ama
 
 The brand's new workflow focused on three technical pillars: color accuracy, scaling, and file optimization. They moved away from CMYK color profiles, which are intended for print and often lead to "muddy" colors on mobile screens. Instead, they set PixelMatch to export all images as [JPEGs in sRGB color mode](https://sellercentral.amazon.com/help/hub/reference/G1881). This ensured that the vibrant pinks and golds of their cosmetic packaging looked identical on an iPhone as they did in the studio.
 
-By using an ecommerce batch image editor like PixelMatch, they automated the "85% fill" rule. The software's AI logic identified the product boundaries and automatically cropped the canvas so the item dominated the frame. This eliminated the need for manual "eyeballing" in Photoshop.
+By using an ecommerce batch [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) like PixelMatch, they automated the "85% fill" rule. The software's AI logic identified the product boundaries and automatically cropped the canvas so the item dominated the frame. This eliminated the need for manual "eyeballing" in Photoshop.
 
 ### The Beauty Brand’s Batch Configuration Table
 
@@ -82,7 +82,7 @@ By using an ecommerce batch image editor like PixelMatch, they automated the "85
 ![Results: 48-Hour Compliance and a 3.4% CTR](/img/breaking-amazon-prime-day-2026-image-requirements/inline-4.webp)
 
 
-Track your Click-Through Rate (CTR) using Amazon’s "Manage Your Experiments" tool to compare your new AI-optimized hero images against your old assets. The results for the beauty brand were immediate and measurable. By automating the compliance process for the breaking Amazon Prime Day 2026 image requirements, the team updated all 150 SKUs in just 48 hours—a task that previously would have taken weeks of back-and-forth with a retouching agency.
+Track your Click-Through Rate (CTR) using Amazon’s "Manage Your Experiments" tool to compare your new AI-optimized hero images against your old assets. The results for the beauty brand were immediate and measurable. By automating the compliance process for the breaking [Amazon Prime](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) Day 2026 image requirements, the team updated all 150 SKUs in just 48 hours—a task that previously would have taken weeks of back-and-forth with a retouching agency.
 
 The financial impact was equally significant. While a traditional studio like Soona would have cost $39 per photo, the brand's cost per listing photo dropped to an estimated $4.50. This figure accounts for the PixelMatch subscription and the internal team's time to review the batch outputs.
 
@@ -123,7 +123,7 @@ Verify the "edges" of your AI-processed images if you sell clear glass or liquid
 
 High-volume sellers must also monitor their software limits. While PixelMatch is designed for batch scaling, other tools like Photoroom cap Pro users at 500 batch exports per month. If you are managing thousands of SKUs across multiple platforms (Amazon, Walmart, eBay), ensure your chosen tool has an enterprise-grade API or unlimited batching capabilities to avoid mid-project shutdowns.
 
-Finally, Amazon does not permit fully AI-generated main images. According to [Amazon's Seller Central policies](https://sellercentral.amazon.com/help/hub/reference/G200332540), the Main Image must be a "real photo of the product being sold." You can use AI to remove backgrounds, enhance lighting, or sharpen details, but you cannot use a text-to-image generator to create a synthetic version of your product. Always use a high-quality photograph as your base layer to remain compliant with Amazon's anti-fraud guidelines.
+Finally, Amazon does not permit fully AI-generated main images. According to [Amazon's Seller Central policies](https://sellercentral.amazon.com/help/hub/reference/G200332540), the Main Image must be a "real photo of the product being sold." You can use AI to remove backgrounds, enhance lighting, or sharpen details, but you cannot use a text-to-[image generator](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) to create a synthetic version of your product. Always use a high-quality photograph as your base layer to remain compliant with Amazon's anti-fraud guidelines.
 
 ## Frequently Asked Questions
 
