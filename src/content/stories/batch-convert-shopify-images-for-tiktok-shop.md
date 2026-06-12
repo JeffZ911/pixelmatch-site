@@ -100,7 +100,7 @@ By switching to an automated batch conversion workflow, the brand transformed th
 
 The most significant impact wasn't just the $1,340 saved in VA fees; it was the speed to market. The efficiency allowed the brand to launch 30+ new seasonal beauty bundles on TikTok Shop just 72 hours before a major holiday weekend. Had they relied on manual edits, the bundles would have launched after the peak shopping window had closed.
 
-Furthermore, because 100% of their catalog achieved the "Good" listing quality score on the first try, they avoided the "Poor" tier shadowban. On TikTok Shop, products with high-quality images are prioritized in the "Shop" tab search results and are more likely to be accepted into TikTok-run flash sales and "Deals" programs.
+Furthermore, because 100% of their catalog achieved the "Good" listing [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) on the first try, they avoided the "Poor" tier shadowban. On TikTok Shop, products with high-quality images are prioritized in the "Shop" tab search results and are more likely to be accepted into TikTok-run flash sales and "Deals" programs.
 
 **Actionable Step for Your Store:** Check your "Product Rating" in the TikTok Seller Center. If your images are inconsistent, your conversion rate (CVR) will suffer. Aim for a 100% "Good" rating across your entire catalog to maximize your eligibility for TikTok-subsidized shipping and coupons.
 

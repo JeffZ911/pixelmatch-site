@@ -91,7 +91,7 @@ Identify the gaps in your current listing process before Etsy’s automated syst
 Apply these three fixes to your shop today to insulate your business from legal risk and platform penalties.
 
 ### Add a "Synthetic Performer" Badge
-Add a highly visible "AI Model Used" or "Synthetic Performer" badge to the bottom-right or top-left corner of any listing image that features an AI-generated person. To meet the "conspicuous" requirement of the NY law, ensure the text is at least 12pt font and has a high-contrast background (e.g., white text on a black semi-transparent box). 
+Add a highly visible "[AI Model](https://pixelmatch.art/blog/policy/tiktok-shop-ai-model-policy-leak-2026) Used" or "Synthetic Performer" badge to the bottom-right or top-left corner of any listing image that features an AI-generated person. To meet the "conspicuous" requirement of the NY law, ensure the text is at least 12pt font and has a high-contrast background (e.g., white text on a black semi-transparent box). 
 
 If you are using [2000×2000 px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos) images as recommended by Etsy, your badge should be at least 300px wide to remain legible on mobile devices.
 

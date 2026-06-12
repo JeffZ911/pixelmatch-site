@@ -46,7 +46,7 @@ Run a calibration test by uploading your most complex product—one with fine te
 
 Check your current listing images against the [Amazon 1600px-on-the-longest-side recommendation](https://sellercentral.amazon.com/help/hub/reference/G1881) to see if your current AI output is actually helping or hurting your search rank. High-resolution source files are the only way to ensure your "Zoom" feature doesn't look pixelated to a potential buyer.
 
-| Feature | Midjourney v7 | Flux 2 (Max/Pro) |
+| Feature | [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) | Flux 2 (Max/Pro) |
 | :--- | :--- | :--- |
 | **Product Consistency** | High (via Omni Reference) but prone to "hallucinating" small details. | Ultra-High (Multi-reference system) for near-perfect preservation. |
 | **Typography Accuracy** | Improved, but struggles with long technical specs or small fonts. | Industry-leading; renders exact packaging text and labels flawlessly. |
