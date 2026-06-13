@@ -55,7 +55,7 @@ The seller initially attempted to pivot to consumer-grade AI tools to save costs
 
 Previous image submissions had been rejected or suppressed for two primary reasons:
 *   **Background Inconsistency:** Images that looked white to the human eye but failed the pure white background (RGB 255,255,255) requirement. Even a slight grey tint (RGB 253, 253, 253) can trigger an automated suppression bot.
-*   **Frame Utilization:** The products failed to fill 85% or more of the frame. Amazon mandates that the product occupies the vast majority of the image area to ensure visibility on mobile devices, where the majority of Prime Day shopping occurs.
+*   **Frame Utilization:** The products failed to fill 85% or more of the frame. Amazon mandates that the product occupies the vast majority of the image area to ensure visibility on mobile devices, where the majority of [Prime Day](https://pixelmatch.art/blog/stories/breaking-amazon-prime-day-2026-image-requirements) shopping occurs.
 
 ## The Workflow They Built
 

@@ -125,7 +125,7 @@ Skip the hours of prompting and let the technology handle the heavy lifting whil
 Technically yes, but it is difficult. Amazon requires a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/G1881). Midjourney often adds soft shadows or reflections that technically violate this, which can lead to listing suppression. Flux 2 or a dedicated tool like PixelMatch is better for Main Images.
 
 ### Does Flux 2 really handle text better than Midjourney?
-Yes. Flux 2 uses a different architecture that allows it to follow prompt instructions for text with nearly 100% accuracy. If your product packaging has a specific brand name or "Organic" certification logo, Flux 2 will render it correctly, whereas Midjourney v7 may still occasionally "scramble" the letters.
+Yes. Flux 2 uses a different architecture that allows it to follow prompt instructions for text with nearly 100% accuracy. If your product packaging has a specific brand name or "Organic" certification logo, Flux 2 will render it correctly, whereas [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) may still occasionally "scramble" the letters.
 
 ### What is the best aspect ratio for Shopify product images in 2026?
 Shopify generally recommends a [1:1 square ratio with a size of 2048 x 2048 pixels](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-specifications). This ensures the image looks sharp on both desktop and mobile while allowing for high-quality zoom.
