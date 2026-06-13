@@ -100,7 +100,7 @@ Go to Amazon Seller Central > Inventory > Manage All Inventory > Listing Quality
 To successfully use [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) for ecommerce, you must treat the AI as a "background generator" rather than a "product generator." The most successful sellers in 2026 use a composite workflow: generate the scene in AI, then place the real product into that scene.
 
 ### Step 1: Generate Compliant Lifestyle Backgrounds
-Use specific Midjourney v7 prompts that leave "negative space" for your product. 
+Use specific [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) prompts that leave "negative space" for your product. 
 *   **Prompt Example:** `A minimalist oak coffee table in a sunlit Scandinavian living room, soft morning light, hyper-realistic, 8k, empty space in center for product placement --v 7 --style raw --ar 1:1 --s 150`
 
 ### Step 2: Composite Real Products with PixelMatch

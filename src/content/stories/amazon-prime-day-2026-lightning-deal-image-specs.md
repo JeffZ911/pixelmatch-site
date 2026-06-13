@@ -97,7 +97,7 @@ Analyze the performance delta between standard studio shots and AI-optimized ass
 
 The most immediate impact was on the bottom line. The cost per listing plummeted from $150 (studio + retouching) to just $12 (software subscription + internal staff time). For 40 SKUs, this represented a total saving of $5,520—capital that was reallocated into their Amazon PPC (Pay-Per-Click) budget to drive even more traffic to the Lightning Deals.
 
-More importantly, the technical optimization led to a significant lift in engagement. Because the products now filled 85% of the frame and featured high-resolution zoom capabilities, the average CTR increased from 1.2% to 3.4%. On a high-traffic event like Prime Day, a 2.2% increase in CTR can result in thousands of additional visitors.
+More importantly, the technical optimization led to a significant lift in engagement. Because the products now filled 85% of the frame and featured high-resolution zoom capabilities, the average CTR increased from 1.2% to 3.4%. On a high-traffic event like [Prime Day](https://pixelmatch.art/blog/stories/breaking-amazon-prime-day-2026-image-requirements), a 2.2% increase in CTR can result in thousands of additional visitors.
 
 Finally, the brand achieved a 100% approval rate. Zero images were flagged or suppressed by Amazon's automated compliance bots. This meant that all 40 Lightning Deals ran as scheduled, without the seller having to scramble to fix "Search Suppressed" listings in the middle of the year's biggest sales event.
 
