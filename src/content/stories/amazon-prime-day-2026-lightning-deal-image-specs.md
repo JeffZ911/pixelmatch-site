@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Scaling a 40-SKU beauty catalog for a four-day window like Prime Day 2026 requires more than just a high-end camera; it requires a workflow that doesn't break under the pressure of Amazon's strict compliance bots. When your brand is paying hundreds of dollars per Lightning Deal, a single suppressed listing due to a non-compliant background isn't just an administrative error—it is a direct hit to your quarterly revenue.
+Scaling a 40-SKU beauty catalog for a four-day window like [Prime Day](https://pixelmatch.art/blog/stories/breaking-amazon-prime-day-2026-image-requirements) 2026 requires more than just a high-end camera; it requires a workflow that doesn't break under the pressure of Amazon's strict compliance bots. When your brand is paying hundreds of dollars per Lightning Deal, a single suppressed listing due to a non-compliant background isn't just an administrative error—it is a direct hit to your quarterly revenue.
 
 ## The Seller's Situation
 
@@ -156,7 +156,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Amazon Prime Day 2026 Dates - NBC News
+*   [Amazon Prime Day](https://pixelmatch.art/blog/stories/breaking-amazon-prime-day-2026-image-requirements) 2026 Dates - NBC News
 *   Amazon Lightning Deal Fees and Guidelines - Adbrew
 *   Photoroom Pricing and Features - CheckThat.ai
 *   Amazon Product Image Requirements (RGB and 85% Rule) - Seller Labs

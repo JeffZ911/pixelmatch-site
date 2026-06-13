@@ -26,7 +26,7 @@ inline_image_sections:
 
 Scaling a multi-platform store requires high-volume imagery that doesn't trigger "image suppression" flags on Amazon or "low-quality" penalties on TikTok Shop. If your AI-generated lifestyle shots look hyper-realistic but fail to match your physical product's dimensions or colors, you risk account suspension and high return rates.
 
-The Midjourney v7 leak has introduced sophisticated prompting techniques like Omni Reference and Draft Mode, which allow for unprecedented consistency in brand aesthetics. However, the 2026 ecommerce landscape is more strictly regulated than ever. Platforms now use automated AI-detection and metadata analysis to ensure that "what the customer sees is what they get." You must bridge the gap between high-end AI generation and rigid marketplace compliance.
+The [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) leak has introduced sophisticated prompting techniques like Omni Reference and Draft Mode, which allow for unprecedented consistency in brand aesthetics. However, the 2026 ecommerce landscape is more strictly regulated than ever. Platforms now use automated AI-detection and metadata analysis to ensure that "what the customer sees is what they get." You must bridge the gap between high-end AI generation and rigid marketplace compliance.
 
 ## Quick Reference Table: 2026 Image Specifications
 
