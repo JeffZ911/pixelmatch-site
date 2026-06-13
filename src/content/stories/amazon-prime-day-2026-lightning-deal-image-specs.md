@@ -35,7 +35,7 @@ Scaling a 40-SKU beauty catalog for a four-day window like [Prime Day](https://p
 ![The Seller's Situation](/img/amazon-prime-day-2026-lightning-deal-image-specs/inline-1.webp)
 
 
-Calculate the total exposure of your Lightning Deal fees before committing to a photography budget. For a composite 7-figure beauty brand managing 40 SKUs, the stakes for Prime Day 2026, officially scheduled for June 23–26, are exceptionally high. In the beauty category, where visual fidelity drives the "add to cart" decision, the cost of participation extends far beyond inventory.
+Calculate the total exposure of your Lightning Deal fees before committing to a photography budget. For a composite 7-figure beauty brand managing 40 SKUs, the stakes for [Prime Day](https://pixelmatch.art/blog/stories/breaking-amazon-prime-day-2026-image-requirements) 2026, officially scheduled for June 23–26, are exceptionally high. In the beauty category, where visual fidelity drives the "add to cart" decision, the cost of participation extends far beyond inventory.
 
 Amazon's Lightning Deal fees are dynamic and can escalate significantly during peak events, reaching anywhere between $300 to $500 per deal for high-traffic windows. For this seller, running 40 deals meant an upfront investment of up to $20,000 in Amazon fees alone. To justify this expenditure, the brand needed main images that maximized Click-Through Rate (CTR) while strictly adhering to the technical guidelines that Amazon’s automated systems use to "gate" or suppress listings.
 

@@ -53,7 +53,7 @@ Download your top-selling SKU's main image and use a tool like Photoshop or an o
 ![Detailed Requirements for 2026 Multi-Platform Selling](/img/midjourney-v7-leak-product-photography-prompts-guide/inline-2.webp)
 
 
-The Midjourney v7 leak product photography prompts have changed the workflow for lifestyle imagery. By using the `--v 7` parameter combined with `--style raw`, sellers can generate backgrounds that look like $5,000 professional studio sets. However, the technical requirements for each platform remain distinct and unforgiving.
+The [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) leak product photography prompts have changed the workflow for lifestyle imagery. By using the `--v 7` parameter combined with `--style raw`, sellers can generate backgrounds that look like $5,000 professional studio sets. However, the technical requirements for each platform remain distinct and unforgiving.
 
 ### Amazon's Main Image Rigidity
 Amazon strictly requires the main image (the "HERO" image) to be a real photograph or a highly accurate 3D render of the product alone on a [pure white background](https://sellercentral.amazon.com/help/hub/reference/1881). You cannot use Midjourney to generate your main image from scratch because the AI will inevitably "hallucinate" small details—a different zipper shape, a slightly altered logo, or a texture that doesn't exist on the physical item. 
