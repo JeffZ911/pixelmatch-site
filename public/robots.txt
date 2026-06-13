@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 
-# Phase 1-2: sitemap is served on the subdomain where Pages actually
-# deploys. Phase 3 will swap this to pixelmatch.art/blog/sitemap.xml
-# once the CF Worker path rewrite is in place.
-Sitemap: https://blog.pixelmatch.art/sitemap.xml
+# Canonical host is the apex; the CF Worker rewrites /blog/* to Pages, so the
+# sitemap GSC indexes lives under the apex path (sc-domain property).
+Sitemap: https://pixelmatch.art/blog/sitemap.xml
