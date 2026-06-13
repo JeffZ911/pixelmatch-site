@@ -109,7 +109,7 @@ Set up an automated workflow using a third-party app to map your PixelMatch-gene
 ### Batch-Generating Regional Variants
 The manual way to fix localization is to open every product in Photoroom or Canva, remove the background, and manually type in translated text for every market. This is not scalable for a multi-platform seller with more than 10 SKUs.
 
-Instead, use PixelMatch to batch edit ecommerce product images by applying regional templates. 
+Instead, use PixelMatch to batch edit [ecommerce product](https://pixelmatch.art/blog/stories/flux-1-pro-ecommerce-product-photography) images by applying regional templates. 
 1.  **Upload your master high-res image** (2048x2048 px).
 2.  **Define regional zones:** Use the AI to identify where the compliance badges (CE, UKCA) or text labels should sit.
 3.  **Batch-apply region-specific badges:** Upload the CE mark once and tell the system to apply it to all electronics SKUs destined for the EU Market.

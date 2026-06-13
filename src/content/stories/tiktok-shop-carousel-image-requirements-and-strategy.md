@@ -35,7 +35,7 @@ Stop losing TikTok Shop sales to "Fair" quality listing scores and blurry 1:1 cr
 ![The Seller's Situation](/img/tiktok-shop-carousel-image-requirements-and-strategy/inline-1.webp)
 
 
-Run a diagnostic check on your TikTok Shop Seller Center today: navigate to the "Product" tab and click "Manage Products" to see your current Listing Quality score. For a mid-market beauty brand managing a 250-SKU catalog, this dashboard often reveals a "Fair" or even "Poor" rating, which directly suppresses your visibility in the TikTok Shop tab and affiliate creator marketplace.
+Run a diagnostic check on your TikTok Shop Seller Center today: navigate to the "Product" tab and click "Manage Products" to see your current Listing [Quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026). For a mid-market beauty brand managing a 250-SKU catalog, this dashboard often reveals a "Fair" or even "Poor" rating, which directly suppresses your visibility in the TikTok Shop tab and affiliate creator marketplace.
 
 The composite seller in this use case was transitioning a successful beauty and cosmetics brand from Shopify to TikTok Shop. While their Shopify store thrived on clean, minimalist aesthetics, TikTok's ecosystem demanded a higher volume of more engaging content. To achieve the TikTok Shop "Good" listing quality tier, sellers must upload a minimum of 5 high-resolution images per product, though the platform allows up to 9.
 

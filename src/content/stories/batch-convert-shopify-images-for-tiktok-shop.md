@@ -146,6 +146,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Shopify Image Best Practices: [2048 x 2048 px recommendation](https://help.shopify.com/en/manual/online-store/images/theme-images)
 *   TikTok Shop Seller Center: Product Image Specifications
-*   TikTok Shop Academy: Listing Quality Score Criteria
+*   TikTok Shop Academy: Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) Criteria
 *   Photoroom Pricing: Pro Tier at $12.99/month
 *   TikTok Safety Center: AI-Generated Content Labeling Policy

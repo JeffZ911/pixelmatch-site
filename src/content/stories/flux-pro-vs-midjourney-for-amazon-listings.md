@@ -81,7 +81,7 @@ Midjourney operates primarily through Discord. For a seller trying to generate 5
 The breakthrough for Lumina Skin came from switching to Flux Pro, a newer [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) that prioritizes "prompt adherence"—the ability to follow instructions literally rather than artistically. Instead of interacting with complex code or the Discord-based Midjourney interface, they used PixelMatch to manage the Flux Pro engine through a dedicated ecommerce dashboard.
 
 ### Why Flux Pro Changed the Math
-Flux Pro, specifically the Flux 1.1 Pro model, is architected differently than Midjourney. It is significantly better at rendering text and maintaining the spatial integrity of objects. When paired with PixelMatch’s background-locking technology, the seller could finally place their *actual* product into an AI-generated scene without the bottle morphing into a different shape.
+Flux Pro, specifically the [Flux 1](https://pixelmatch.art/blog/stories/flux-1-pro-ecommerce-product-photography).[1 Pro](https://pixelmatch.art/blog/stories/flux-1-pro-ecommerce-product-photography) model, is architected differently than Midjourney. It is significantly better at rendering text and maintaining the spatial integrity of objects. When paired with PixelMatch’s background-locking technology, the seller could finally place their *actual* product into an AI-generated scene without the bottle morphing into a different shape.
 
 ### The PixelMatch Integration
 PixelMatch acts as the bridge between raw AI power and Amazon’s strict requirements. The workflow the seller developed looks like this:

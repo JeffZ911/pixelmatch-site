@@ -128,7 +128,7 @@ Finally, Amazon does not permit fully AI-generated main images. According to [Am
 ## Frequently Asked Questions
 
 ### What happens if my Amazon Main Image isn't exactly RGB 255, 255, 255?
-Amazon's automated systems scan your Main Image for background purity. If the background is even slightly off-white (e.g., a light gray or cream), your listing may be suppressed, meaning it will not appear in search results until the image is fixed. This is one of the most common reasons for a sudden drop in sales during high-traffic events like Prime Day.
+Amazon's automated systems scan your Main Image for background purity. If the background is even slightly off-white (e.g., a light gray or cream), your listing may be suppressed, meaning it will not appear in search results until the image is fixed. This is one of the most common reasons for a sudden drop in sales during high-traffic events like [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs).
 
 ### Can I use AI to create a lifestyle background for my secondary images?
 Yes, Amazon allows AI-generated backgrounds for secondary images and A+ Content. However, the [Main Image must remain on a pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881) and must be a real photograph of the product. Using AI to place your product in a "lifestyle" setting is an excellent way to increase conversion on your secondary image slots.
