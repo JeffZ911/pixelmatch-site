@@ -106,7 +106,7 @@ Implement a human-in-the-loop QA process for every AI-generated image. Even in 2
 
 Stop treating [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation as a "one-off" creative task and start treating it as a data-processing task. 
 
-If you are a solo founder building a brand identity from scratch, invest your time in learning **Midjourney v7**. Its ability to generate "vibes" will help you define your brand's visual language faster than any mood board.
+If you are a solo founder building a brand identity from scratch, invest your time in learning **[Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products)**. Its ability to generate "vibes" will help you define your brand's visual language faster than any mood board.
 
 If you are an established seller with an existing catalog that needs to be ported to new marketplaces, **Flux 2** is the technical tool you need for accuracy. Its ability to maintain product integrity is the bridge between "AI art" and "ecommerce assets."
 
