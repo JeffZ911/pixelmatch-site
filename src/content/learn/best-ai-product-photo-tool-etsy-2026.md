@@ -68,7 +68,7 @@ Upload your images at the highest possible resolution while staying under the 1M
 
 ### Navigating Etsy's AI Policy
 
-Etsy's updated AI policy allows AI backgrounds for physical items, provided the product geometry isn't altered or misrepresented. Under the "Creativity Standards" updated in early 2026, the platform distinguishes between "AI-generated" (where the product itself is digital/AI) and "AI-assisted" (where the background or lighting is enhanced).
+Etsy's updated AI policy allows AI backgrounds for physical items, provided the product geometry isn't altered or misrepresented. Under the "[Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study)" updated in early 2026, the platform distinguishes between "AI-generated" (where the product itself is digital/AI) and "AI-assisted" (where the background or lighting is enhanced).
 
 If you are selling a physical, handmade item, you do not need to check the "I used AI-generative technology" box for simple background replacements. However, if the AI changes the color, texture, or physical shape of your product to make it look "better" than the real item, you risk a permanent shop suspension for truth-in-advertising violations.
 

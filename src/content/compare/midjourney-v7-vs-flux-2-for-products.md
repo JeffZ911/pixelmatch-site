@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Scaling a multi-platform ecommerce store in 2026 requires more than just "good" photos; it requires pixel-perfect consistency across Amazon, Shopify, and TikTok Shop without the overhead of a $200-an-hour photographer. As AI models have evolved, the choice between [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) and Flux 2 has become the defining technical decision for high-volume sellers looking to automate their visual pipeline.
+Scaling a multi-platform ecommerce store in 2026 requires more than just "good" photos; it requires pixel-perfect consistency across Amazon, Shopify, and TikTok Shop without the overhead of a $200-an-hour photographer. As AI models have evolved, the choice between [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) and [Flux 2](https://pixelmatch.art/blog/stories/flux-2-0-product-photography-prompt-parameters-reddit) has become the defining technical decision for high-volume sellers looking to automate their visual pipeline.
 
 ## TL;DR Verdict
 

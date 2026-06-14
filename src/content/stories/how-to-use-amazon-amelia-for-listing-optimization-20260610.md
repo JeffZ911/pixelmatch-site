@@ -68,7 +68,7 @@ The seller attempted to use Photoroom’s Pro tier at $9.99/mo to handle backgro
 Open your Seller Central dashboard and look for the Amazon Amelia icon (currently rolling out to US sellers) to begin analyzing your "Voice of the Customer" data. This seller built a three-stage workflow that bridged the gap between Amazon’s internal AI and external image automation.
 
 ### Step 1: Data Mining with Amazon Amelia
-The seller used Project Amelia, which is powered by Amazon Bedrock, to diagnose their performance. Instead of guessing which keywords to target, they asked Amelia specific questions: "Amelia, what are the top three reasons customers return my serum?" and "Which search terms are my competitors winning that I am losing?"
+The seller used [Project Amelia](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes), which is powered by Amazon Bedrock, to diagnose their performance. Instead of guessing which keywords to target, they asked Amelia specific questions: "Amelia, what are the top three reasons customers return my serum?" and "Which search terms are my competitors winning that I am losing?"
 
 Amelia analyzed years of account-specific data and customer reviews to identify that "non-greasy" and "fast-absorbing" were the most critical missing keywords in their current titles. This allowed the seller to move away from generic "organic serum" descriptors toward high-intent phrases that customers were actually searching for.
 
@@ -138,6 +138,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   Digital Commerce 360: Amazon Unveils Amelia Powered by Bedrock
-*   EcomEngine: Tips for Using Amazon Project Amelia
+*   EcomEngine: Tips for Using [Amazon Project Amelia](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes)
 *   App Store: Photoroom AI Photo Editor Pricing
 *   [Amazon Seller Central: Product Detail Page Rules](https://sellercentral.amazon.com/help/hub/reference/G200390640)

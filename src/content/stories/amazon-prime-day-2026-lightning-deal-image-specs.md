@@ -115,7 +115,7 @@ Finally, the brand achieved a 100% approval rate. Zero images were flagged or su
 ![Steps to Replicate](/img/amazon-prime-day-2026-lightning-deal-image-specs/inline-5.webp)
 
 
-Execute a four-step migration to move your catalog from "compliant" to "conversion-optimized" before the Prime Day submission window closes.
+Execute a four-step migration to move your catalog from "compliant" to "conversion-optimized" before the [Prime Day](https://pixelmatch.art/blog/stories/breaking-amazon-prime-day-2026-image-requirements) submission window closes.
 
 ### Step 1: Audit for Zoom Capability
 Review your current image library. Any image smaller than 1,000 pixels on the longest side will disable the zoom feature on your listing. In the beauty category, where customers want to see pigment and texture, losing zoom is a conversion killer. Identify every SKU that falls below this threshold for immediate replacement.

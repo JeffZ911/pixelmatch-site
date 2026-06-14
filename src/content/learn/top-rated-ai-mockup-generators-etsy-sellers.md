@@ -35,7 +35,7 @@ Stop wasting hours on manual photo shoots only to have Etsy's search algorithm b
 
 Audit your current listing gallery immediately to see if your product remains centered during Etsy’s new 2026 thumbnail rotations. Etsy now dynamically adjusts listing displays across square, portrait (4:5), and landscape (1.33:1) crops depending on the buyer's device and search context. If your product isn't framed within the "safe zone" of your mockup, the AI-driven crop will likely cut off vital parts of your item, leading to a direct drop in click-through rates (CTR).
 
-Under the Etsy Creativity Standards updated for 2026, AI-generated mockups are fully permitted to illustrate the end product, provided they accurately represent the physical item the buyer will receive [1.2.9]. This means you can use AI to place your digital art on a wall or your handmade jewelry on a model, but the product itself must not be AI-altered in a way that misleads the customer about textures, colors, or scale.
+Under the [Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) updated for 2026, AI-generated mockups are fully permitted to illustrate the end product, provided they accurately represent the physical item the buyer will receive [1.2.9]. This means you can use AI to place your digital art on a wall or your handmade jewelry on a model, but the product itself must not be AI-altered in a way that misleads the customer about textures, colors, or scale.
 
 Failing to meet technical specs is the fastest way to trigger a "de-prioritization" in Etsy's search placement. Etsy’s 2026 infrastructure prioritizes listings that load in under 200ms, which is why they strictly recommend keeping file sizes under 1MB.
 

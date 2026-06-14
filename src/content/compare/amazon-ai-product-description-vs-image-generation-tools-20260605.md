@@ -38,7 +38,7 @@ Run a split test on your top-selling SKU today by replacing a generic studio sho
 *   **AI description tools** focus on the "backend"—optimizing text for search engines and ensuring your product appears in relevant queries.
 *   **[AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generators** like PixelMatch, Photoroom, and Pebblely focus on the "frontend"—creating lifestyle and hero images that drive the initial click.
 *   **Compliance is king:** Amazon strictly requires main images to have a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) and be [at least 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) to enable the zoom function.
-*   **The Verdict:** Invest in image generation first to fix your CTR. A perfectly written description is useless if nobody clicks on the listing. Once your visuals are professional, use text AI to refine your SEO and backend search terms.
+*   **The Verdict:** Invest in [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) first to fix your CTR. A perfectly written description is useless if nobody clicks on the listing. Once your visuals are professional, use text AI to refine your SEO and backend search terms.
 
 ## Side-by-Side Feature Table
 
