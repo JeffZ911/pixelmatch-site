@@ -87,7 +87,7 @@ Shopify has specific recommendations for optimal site performance. The platform 
 
 PixelMatch allowed the brand to set these export parameters once. Every generated image was automatically upscaled to 2048 x 2048 pixels while staying well under Shopify's [20 MB file size limit](https://help.shopify.com/en/manual/online-store/images/theme-images).
 
-**Actionable Step:** In your image generation settings, lock your export resolution to exactly 2048 x 2048 pixels. This ensures that when a customer hovers over your product on a desktop, they see a high-resolution texture rather than a blurry, pixelated mess.
+**Actionable Step:** In your [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) settings, lock your export resolution to exactly 2048 x 2048 pixels. This ensures that when a customer hovers over your product on a desktop, they see a high-resolution texture rather than a blurry, pixelated mess.
 
 ## Results (with Numbers)
 

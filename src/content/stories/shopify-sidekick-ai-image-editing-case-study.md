@@ -134,7 +134,7 @@ You can implement this exact workflow regardless of your current technical skill
 
 While [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) editing has reached a "pro-sumer" level of quality, it is not a magic wand that works perfectly 100% of the time. Sellers must maintain a quality control (QC) layer to ensure brand integrity.
 
-While [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is [free to all Shopify merchants](https://www.shopify.com/magic), its image generation capabilities are still entry-level and include invisible watermarks. These watermarks are intended to comply with AI safety standards but may interfere with certain third-party marketplaces that have strict "no-watermark" policies for main images.
+While [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is [free to all Shopify merchants](https://www.shopify.com/magic), its [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) capabilities are still entry-level and include invisible watermarks. These watermarks are intended to comply with AI safety standards but may interfere with certain third-party marketplaces that have strict "no-watermark" policies for main images.
 
 Shopify has not yet released official data on the average conversion lift of Sidekick-generated images undisclosed, so merchants must A/B test their own results. Do not assume that an AI-generated background will automatically perform better than a clean white one; data from your own customer base is the only metric that matters.
 

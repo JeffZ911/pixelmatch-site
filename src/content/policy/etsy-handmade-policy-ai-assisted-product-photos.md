@@ -141,7 +141,7 @@ PixelMatch is better suited for the Etsy workflow because it focuses on batch-ge
 
 Stay updated on policy shifts by bookmarking these official Etsy resources. Etsy frequently updates these pages without broad announcements to sellers.
 
--   Etsy's Creativity Standards (2026): The primary document defining what "handmade" and "AI-generated" mean on the platform.
+-   Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) (2026): The primary document defining what "handmade" and "AI-generated" mean on the platform.
 -   Etsy Listing Image Requirements: Technical specifications and rules regarding what can be shown in a primary photo.
 -   [Requirements and Best Practices for Images in Your Etsy Shop](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop): A guide to image sizes, aspect ratios, and photography tips.
 -   [How to Offer Personalized Listings](https://help.etsy.com/hc/en-us/articles/360000336367-How-to-Offer-Personalized-Listings): Specific rules for sellers who customize items for buyers.
