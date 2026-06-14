@@ -74,7 +74,7 @@ Furthermore, ensure that the digital human's movements do not overlap with restr
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Identify the specific error codes in your TikTok Shop Seller Center to determine why your Symphony videos are failing to generate. Most rejections are not due to the AI itself, but rather the source data provided by the seller.
+Identify the specific [error codes](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) in your TikTok Shop Seller Center to determine why your Symphony videos are failing to generate. Most rejections are not due to the AI itself, but rather the source data provided by the seller.
 
 ### Unsupported Categories and Framing
 

@@ -159,4 +159,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Shop Seller Center: Product Listing Policy
 *   [Shopify Help Center: Product media types and specs](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   [Etsy Help: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347)
-*   Midjourney v7 Prompting Guide & Leak Analysis
+*   [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) Prompting Guide & Leak Analysis

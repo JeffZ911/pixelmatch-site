@@ -167,6 +167,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Etsy Help: Requirements for Listing Images](https://help.etsy.com/hc/en-us/articles/115013196707-Listing-Images)
 *   [Etsy Help: Fees and Taxes for Selling on Etsy](https://help.etsy.com/hc/en-us/articles/115015628847-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy-)
 *   [Etsy Help: How Offsite Ads Work](https://help.etsy.com/hc/en-us/articles/360000338367-How-Etsy-s-Offsite-Ads-Work)
-*   Etsy Creativity Standards
+*   [Etsy Creativity](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) Standards
 *   Photoroom Pricing and Plans
 *   Etsy Purchase Protection Program for Sellers

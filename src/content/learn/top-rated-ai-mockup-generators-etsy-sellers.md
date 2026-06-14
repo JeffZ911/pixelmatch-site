@@ -26,7 +26,7 @@ inline_image_sections:
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-19._
 
-Stop wasting hours on manual photo shoots only to have Etsy's search algorithm bury your listings because of poor thumbnail cropping or slow-loading files. You need a visual strategy that balances Etsy’s strict 2026 Creativity Standards with the high-volume demands of a multi-platform shop.
+Stop wasting hours on manual photo shoots only to have Etsy's search algorithm bury your listings because of poor thumbnail cropping or slow-loading files. You need a visual strategy that balances Etsy’s strict 2026 [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) with the high-volume demands of a multi-platform shop.
 
 ## Why This Matters for Sellers
 

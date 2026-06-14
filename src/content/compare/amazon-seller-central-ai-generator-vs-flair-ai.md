@@ -76,7 +76,7 @@ Amazon’s [AI image generator](https://pixelmatch.art/blog/policy/shopify-sidek
 ### Flair AI: The Tiered Creative Suite
 Flair AI uses a credit-based and subscription-based model that rewards lower-volume, high-creativity users:
 *   **Free Tier:** 10 images per month. This is strictly for testing the interface.
-*   **Pro Plan ($10/month):** Offers unlimited image generation but lacks a full commercial license. This plan is best for prototyping or social media posts where strict commercial ownership isn't the primary legal concern.
+*   **Pro Plan ($10/month):** Offers unlimited [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) but lacks a full commercial license. This plan is best for prototyping or social media posts where strict commercial ownership isn't the primary legal concern.
 *   **Pro+ Plan ($35/month):** This is the required tier for professional sellers, as it includes the commercial license and higher-priority processing.
 
 ### PixelMatch: The Scalable Choice

@@ -112,7 +112,7 @@ Stay updated by checking these official resources regularly. Policies regarding 
 | Resource | Official Link | Key Information |
 | :--- | :--- | :--- |
 | **Etsy Listing Requirements** | [Help Center Guide](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Detailed pixel specs and aspect ratio advice. |
-| **Etsy Creativity Standards** | Legal Policy | Rules on AI usage and seller transparency. |
+| **[Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study)** | Legal Policy | Rules on AI usage and seller transparency. |
 | **NY Synthetic Media Law** | Senate Bill S.8420-A | Disclosure requirements for AI-generated people. |
 | **Photoroom Pricing** | Official Pricing Page | Current costs for Pro background removal and batching. |
 | **Pebblely Pricing** | Official Pricing Page | Costs for AI background generation tiers. |
@@ -128,7 +128,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   Etsy Help Center: [Requirements and Best Practices for Images in Your Etsy Shop](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop)
-*   Etsy Legal: Etsy Creativity Standards
+*   Etsy Legal: [Etsy Creativity](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) Standards
 *   The New York State Senate: Senate Bill S8420A
 *   Photoroom: Pricing and Subscription Tiers
 *   Pebblely: Pricing Plans

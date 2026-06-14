@@ -51,7 +51,7 @@ Audit your current listings for the mandatory AI disclosure tag and verify that 
 
 ### Etsy’s AI Disclosure Rules
 
-Etsy updated its Creativity Standards to maintain marketplace transparency as AI tools become more prevalent. As a seller, you must disclose within your listing description if an item or its presentation—including the photography—is created with the use of AI. This is particularly relevant when using tools like PixelMatch, Photoroom, or Pebblely to generate backgrounds. 
+Etsy updated its [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) to maintain marketplace transparency as AI tools become more prevalent. As a seller, you must disclose within your listing description if an item or its presentation—including the photography—is created with the use of AI. This is particularly relevant when using tools like PixelMatch, Photoroom, or Pebblely to generate backgrounds. 
 
 While Etsy allows AI-generated backgrounds, the core product must remain a faithful representation of the physical item. If you use AI to create a "lifestyle" scene, the buyer needs to know that the environment is synthetic. Failure to disclose this can lead to account flags or the loss of "Star Seller" status if buyers report the shop for misleading practices. When using Pebblely’s Basic plan at $19/mo or Photoroom’s Pro tier at $12.99/mo, ensure you are utilizing the "background replacement" features rather than "product generation" features, as the latter would violate the requirement to sell physical goods you have made or designed.
 

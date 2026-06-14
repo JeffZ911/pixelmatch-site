@@ -82,7 +82,7 @@ The cost of these tools varies significantly based on whether they are part of a
 | **Photoroom (Pro)** | $12.99 / month | Mobile-first background removal |
 | **Pebblely (Basic)** | $19 / month | 1,000 images per month |
 | **PixelMatch** | Competitive Flat Rate | Batch-generating compliant Amazon images |
-| **ChatGPT Plus** | $20 / month | Generic text and DALL-E image generation |
+| **ChatGPT Plus** | $20 / month | Generic text and DALL-E [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) |
 
 For many sellers, the Helium 10 Platinum plan at $129/mo is a standard business expense because it covers product research and financial tracking. However, using it solely for AI text generation is an expensive way to get results that ChatGPT Plus can often replicate for $20/month.
 
