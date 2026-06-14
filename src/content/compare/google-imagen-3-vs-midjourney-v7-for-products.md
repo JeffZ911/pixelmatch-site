@@ -39,7 +39,7 @@ Spending hours prompting AI to get one "perfect" product shot is a drain on your
 ![TL;DR Verdict](/img/google-imagen-3-vs-midjourney-v7-for-products/inline-1.webp)
 
 
-Choosing between Google Imagen 3 and Midjourney v7 depends entirely on whether you are prioritizing "the vibe" or "the specs." Midjourney v7 is currently the gold standard for creating a brand mood, but Google Imagen 3 is the superior tool for technical accuracy.
+Choosing between Google Imagen 3 and [Midjourney v7](https://pixelmatch.art/blog/policy/midjourney-v7-leak-product-photography-prompts-guide) depends entirely on whether you are prioritizing "the vibe" or "the specs." Midjourney v7 is currently the gold standard for creating a brand mood, but Google Imagen 3 is the superior tool for technical accuracy.
 
 *   **Midjourney v7** dominates in artistic control, offering a Web Editor and Omni Reference for consistent styling across product shoots.
 *   **Google Imagen 3** is the leader in photorealism, precise text generation, and enterprise-grade safety via SynthID watermarking.

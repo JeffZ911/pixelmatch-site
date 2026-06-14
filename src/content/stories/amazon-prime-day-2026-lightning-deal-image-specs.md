@@ -93,7 +93,7 @@ Beyond the main image, the seller needed A+ Content (formerly EBC) to convert th
 ![Results (with Numbers)](/img/amazon-prime-day-2026-lightning-deal-image-specs/inline-4.webp)
 
 
-Analyze the performance delta between standard studio shots and AI-optimized assets to quantify your ROI. By bringing the image generation workflow in-house and using PixelMatch to handle the technical specs, the beauty brand saw a dramatic shift in both their overhead and their listing performance.
+Analyze the performance delta between standard studio shots and AI-optimized assets to quantify your ROI. By bringing the [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) workflow in-house and using PixelMatch to handle the technical specs, the beauty brand saw a dramatic shift in both their overhead and their listing performance.
 
 The most immediate impact was on the bottom line. The cost per listing plummeted from $150 (studio + retouching) to just $12 (software subscription + internal staff time). For 40 SKUs, this represented a total saving of $5,520—capital that was reallocated into their Amazon PPC (Pay-Per-Click) budget to drive even more traffic to the Lightning Deals.
 
