@@ -116,7 +116,7 @@ Always follow the "Primary Photo Rule": use an unedited, well-lit photo of the p
 
 
 *   [Etsy Help Center: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images)
-*   Etsy Legal: Creativity Standards and AI Policy
+*   Etsy Legal: [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) and AI Policy
 *   [Etsy Help Center: Purchase Protection Program for Sellers](https://help.etsy.com/hc/en-us/articles/360000344568-Etsy-s-Purchase-Protection-Program-for-Sellers)
 *   Photoroom Pricing: Pro Tier Details
 *   Pebblely Pricing: Basic and Pro Plans

@@ -136,7 +136,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
-*   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+Image+Generation+Tool+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: Image Generation Tool Overview</a>
+*   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+Image+Generation+Tool+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: [Image Generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) Tool Overview</a>
 *   [Amazon Seller Central: Zoom Requirements and Dimensions](https://sellercentral.amazon.com/help/hub/reference/G200332540)
 *   Flair AI: Official Pricing and Licensing Tiers
 *   TikTok Shop: Product Image Guidelines

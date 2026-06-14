@@ -168,6 +168,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Etsy Fees and Payments Policy
 *   [Etsy Image Requirements and Best Practices](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop)
-*   Etsy Creativity Standards and AI Disclosure
+*   [Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) and AI Disclosure
 *   eRank: What is a Good Conversion Rate on Etsy?
 *   Photoroom Pricing and Plans

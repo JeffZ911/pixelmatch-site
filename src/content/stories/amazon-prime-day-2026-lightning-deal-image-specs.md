@@ -160,4 +160,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Amazon Lightning Deal Fees and Guidelines - Adbrew
 *   Photoroom Pricing and Features - CheckThat.ai
 *   Amazon Product Image Requirements (RGB and 85% Rule) - Seller Labs
-*   Amazon A+ Content Image Specs and Limits - SellerSprite
+*   Amazon A+ Content [Image Specs](https://pixelmatch.art/blog/policy/tiktok-shop-symphony-digital-human-image-specs) and Limits - SellerSprite

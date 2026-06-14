@@ -135,7 +135,7 @@ Canva is useful for sellers who want to add text overlays or "Best Seller" badge
 
 
 ### Are AI-generated mockups allowed on Etsy?
-Yes. Etsy permits the use of stock photos or AI-generated mockups to illustrate the end product. However, you must comply with the "Creativity Standards" [1.2.7], which require that the mockup accurately depicts the item for sale. You cannot use AI to "fix" a broken product or make a low-quality item look premium.
+Yes. Etsy permits the use of stock photos or AI-generated mockups to illustrate the end product. However, you must comply with the "[Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study)" [1.2.7], which require that the mockup accurately depicts the item for sale. You cannot use AI to "fix" a broken product or make a low-quality item look premium.
 
 ### What is the best image size for Etsy in 2026?
 Etsy recommends a width and height of at least 2000 pixels. Using a 1:1 (square) ratio of 2000 x 2000 pixels is the safest bet to ensure your product remains visible across the various portrait and landscape crops Etsy uses in 2026.
