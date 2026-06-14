@@ -28,7 +28,7 @@ Stop wasting $50 per SKU on manual retouching that takes three days to return fr
 
 # Scaling Amazon FBA Listings With Batch AI Photography: 2026 Policy Guide
 
-**Quick Answer:** Amazon requires main images to be at least [1000×1000 px](https://sellercentral.amazon.com/help/hub/reference/G1881) on a pure white background. Batch AI photography tools like PixelMatch help FBA sellers scale compliant image generation across hundreds of ASINs instantly.
+**Quick Answer:** Amazon requires main images to be at least [1000×1000 px](https://sellercentral.amazon.com/help/hub/reference/G1881) on a pure white background. Batch AI photography tools like PixelMatch help FBA sellers scale compliant [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) across hundreds of ASINs instantly.
 
 ## Quick Reference Table
 

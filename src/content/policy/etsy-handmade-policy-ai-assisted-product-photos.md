@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop risking a permanent shop suspension by guessing where Etsy draws the line between "creative tool" and "policy violation." Review your listing photos today against the updated 2026 Creativity Standards to ensure your AI-enhanced imagery builds trust instead of triggering a manual review.
+Stop risking a permanent shop suspension by guessing where Etsy draws the line between "creative tool" and "policy violation." Review your listing photos today against the updated 2026 [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) to ensure your AI-enhanced imagery builds trust instead of triggering a manual review.
 
 ## Quick Reference Table
 
