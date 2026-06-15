@@ -101,7 +101,7 @@ PixelMatch was used to:
 
 The transition from agency shoots to a [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0 and PixelMatch workflow yielded immediate financial and performance gains. The most significant shift was the decoupling of "content volume" from "content cost."
 
-| Metric | Traditional Agency Shoot | Flux 2.0 + PixelMatch Workflow |
+| Metric | Traditional Agency Shoot | [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0 + PixelMatch Workflow |
 | :--- | :--- | :--- |
 | **Cost Per Listing** | $150 | $22 |
 | **Amazon CTR** | 0.8% | 2.4% |

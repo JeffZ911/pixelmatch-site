@@ -28,7 +28,7 @@ inline_image_sections:
 
 Managing a multi-platform catalog means you are likely spending four hours a week just resizing, cropping, and re-exporting the same product photo to satisfy the conflicting demands of Amazon, Shopify, and TikTok Shop. If you are still manually adjusting margins to hit Amazon’s 85% frame fill requirement while trying to maintain Shopify’s high-resolution standards, you are losing time that should be spent on product sourcing and PPC optimization.
 
-The "SWE-bench" (Software Engineering Benchmark) has become the gold standard for evaluating how well AI models like GPT-4o and Claude 3.5 Sonnet can solve real-world technical problems. While SWE-bench itself measures coding ability, the foundation models that dominate these rankings are the same "engines" powering today’s top ecommerce AI image generators. A model that ranks high on SWE-bench possesses the logical reasoning required to understand complex platform policies—like distinguishing between a "pure white" background and a "light grey" one—and apply those rules across thousands of images simultaneously.
+The "SWE-bench" (Software Engineering Benchmark) has become the gold standard for evaluating how well AI models like GPT-4o and Claude 3.5 Sonnet can solve real-world technical problems. While SWE-bench itself measures coding ability, the foundation models that dominate these rankings are the same "engines" powering today’s top ecommerce [AI image](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) generators. A model that ranks high on SWE-bench possesses the logical reasoning required to understand complex platform policies—like distinguishing between a "pure white" background and a "light grey" one—and apply those rules across thousands of images simultaneously.
 
 ## TL;DR Verdict
 
@@ -53,7 +53,7 @@ The foundation models that dominate SWE-bench (like GPT-4o and Claude) are incre
 | **Primary Strength** | Multi-platform batch compliance | Mobile-first editing & templates | Quick lifestyle scene generation |
 | **Batch Limit** | High-volume (optimized for catalogs) | 500 images per batch (Pro) | Per-session limits apply |
 | **Amazon Compliance** | Automated (85% fill + RGB 255) | Manual/Template-based | Manual/Template-based |
-| **Foundation Model** | Claude 3.5 / GPT-4o Logic | Proprietary + Stable Diffusion | Proprietary |
+| **Foundation Model** | Claude 3.5 / GPT-4o Logic | Proprietary + [Stable Diffusion](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615) | Proprietary |
 | **Best For** | Multi-channel scaling | Individual resellers | Boutique brands |
 
 ## Side-by-Side Feature Table

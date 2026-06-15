@@ -107,7 +107,7 @@ One of the most frequent errors is taking a low-resolution image (e.g., 500x500 
 When you resize an image to a square, it is easy to leave too much white space around the product. If your product only occupies 60% of the frame, it will look significantly smaller than your competitors' products in the search results. Most professional batch tools allow you to "Auto-Crop to Product" to ensure you hit that 85%+ threshold automatically.
 
 ### Neglecting Edge Shadows
-While natural shadows are permitted on secondary images, main images must have a clean "cutout" look. If a shadow touches the edge of your 1000x1000 frame, Amazon’s AI may flag it as a "non-white background." Ensure your batch background removal is set to a "tight" feathering level to remove stray shadows.
+While natural shadows are permitted on secondary images, main images must have a clean "cutout" look. If a shadow touches the edge of your 1000x1000 frame, Amazon’s AI may flag it as a "non-white background." Ensure your [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal is set to a "tight" feathering level to remove stray shadows.
 
 ### High Compression Loss
 Saving a JPEG at a low quality (e.g., 50% or 60%) to save space is a mistake. While it keeps the file size small, it introduces "noise" around the product edges. Given that Amazon allows up to 10MB, there is no reason to compress your 1000x1000 images heavily. Stay at a quality level of 90-100.

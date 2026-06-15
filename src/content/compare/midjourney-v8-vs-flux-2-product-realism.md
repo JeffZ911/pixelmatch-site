@@ -54,7 +54,7 @@ To choose the right tool, you must match the AI's output capabilities to the str
 | Feature | Midjourney v8.1 | Flux 2 (Pro/Max) |
 | :--- | :--- | :--- |
 | **Max Resolution** | 2048 x 2048 px (2K HD) | Up to 4-Megapixel (approx. 2048 x 2048+) |
-| **Text Rendering** | Improved, but still prone to "letter soup" on small labels | High accuracy via 32B-parameter Mistral-3 vision model |
+| **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Improved, but still prone to "letter soup" on small labels | High accuracy via 32B-parameter Mistral-3 vision model |
 | **Product Consistency** | Character/Style Reference (limited to 1-2 images) | Multi-Reference (up to 10 images) |
 | **Workflow** | Discord or Web Alpha (no official API) | API, ComfyUI, or PixelMatch Batching |
 | **Best For** | Lifestyle "Mood" shots and Social Media | Hero images, A+ Content, and Shopify listings |

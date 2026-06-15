@@ -132,7 +132,7 @@ To fix resolution issues across your shop:
 ![Official Source Links](/img/etsy-pod-mockup-policy-digital-products/inline-5.webp)
 
 
-*   Etsy's Creativity Standards (Updated June 2025)
+*   Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) (Updated June 2025)
 *   [Etsy Listing Image Requirements Policy](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)
 *   [Etsy Seller Handbook: Stance on AI Creations](https://www.etsy.com/seller-handbook/article/1251344033069)
 *   [Etsy Disclosing Production Partners](https://help.etsy.com/hc/en-us/articles/360000336547-How-to-List-Production-Partners)

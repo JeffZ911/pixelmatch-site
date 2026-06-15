@@ -115,7 +115,7 @@ PixelMatch is built specifically for multi-platform sellers who need to batch-ge
 *   **Best For:** Professional sellers managing 50+ SKUs across multiple marketplaces who cannot afford to manually edit every listing.
 
 ### Canva
-Canva is the industry standard for adding secondary graphic elements, such as size charts or feature callouts, to your product images. While its native AI generation is improving, it is currently less specialized for maintaining exact product geometry compared to dedicated ecommerce AI tools.
+Canva is the industry standard for adding secondary graphic elements, such as size charts or feature callouts, to your product images. While its native AI generation is improving, it is currently less specialized for maintaining exact product geometry compared to dedicated [ecommerce AI](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) tools.
 *   **Key Feature:** Magic Edit and background removal, combined with an extensive library of fonts and icons for secondary images.
 *   **Pricing:** Canva Pro is currently $15/month or $120/year as of 2026-05-19.
 *   **Best For:** Creating the "infographic" style images that occupy slots 2 through 5 in your TikTok Shop gallery.

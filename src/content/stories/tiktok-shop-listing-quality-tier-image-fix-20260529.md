@@ -167,7 +167,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Shop Help: Product Image Guidelines
 *   Canva Pricing Plans
 *   Photoroom Pro Pricing
-*   Photoroom Batch Limit Documentation
+*   [Photoroom Batch](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) Limit Documentation
 *   TikTok Shop Image Constraints - SKU IQ
 *   TikTok Shop Image Optimization Best Practices - TikVix
 *   Stripe Standard Pricing

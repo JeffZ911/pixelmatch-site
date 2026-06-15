@@ -154,7 +154,7 @@ Bookmark the following official resources to track policy updates in real-time. 
 ## Frequently Asked Questions
 
 ### Can I use AI models to show how clothes fit on TikTok Shop?
-Yes, you can use AI models, but you must enable the "AI-generated content" toggle. Additionally, the AI model must accurately represent the fit and drape of the garment; if the AI makes the clothing look significantly different than it does on a human, you risk a "Product Not As Described" violation.
+Yes, you can use AI models, but you must enable the "AI-generated content" toggle. Additionally, the [AI model](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) must accurately represent the fit and drape of the garment; if the AI makes the clothing look significantly different than it does on a human, you risk a "Product Not As Described" violation.
 
 ### What happens if I forget to label an AI-generated background?
 If TikTok's automated system detects synthetic content that isn't labeled, you may face a 7-day posting restriction for a first offense. Repeated violations can lead to a 30-day suspension or the permanent removal of the affected listings from the shop.

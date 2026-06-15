@@ -130,7 +130,7 @@ While Flux.1 Pro is a massive leap forward, it is not a "magic button" that repl
 
 Sellers must still ensure their base photo accurately represents the physical item to avoid return-rate spikes from mismatched expectations. If your product is a "dark navy" but your AI prompt makes it look "royal blue" due to the generated lighting, customers will feel misled. Always perform a side-by-side "Color Match" check between the physical product and the final screen output.
 
-Generation times for Flux.1 Pro can be slightly longer than lower-tier models like Stable Diffusion XL. While a standard model might take 5 seconds, a high-fidelity Flux generation might take 15–30 seconds. For a seller with 150 SKUs, this extra time is negligible compared to the weeks-long wait for a photography studio, but it is a factor to consider when planning high-volume catalog refreshes.
+Generation times for Flux.1 Pro can be slightly longer than lower-tier models like [Stable Diffusion](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615) XL. While a standard model might take 5 seconds, a high-fidelity Flux generation might take 15–30 seconds. For a seller with 150 SKUs, this extra time is negligible compared to the weeks-long wait for a photography studio, but it is a factor to consider when planning high-volume catalog refreshes.
 
 **Actionable Step:** Zoom to 400% on any AI-generated image that contains your brand's logo or [product text](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615). If the text appears "melted" or has incorrect characters (AI gibberish), use PixelMatch's "Layer Lock" feature to keep your original product photo untouched while only changing the background.
 
