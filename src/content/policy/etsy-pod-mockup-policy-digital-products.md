@@ -33,7 +33,7 @@ Stop losing sales to listing deactivations by aligning your shop with the update
 ![Audit your current listing images against the 2026 spec table](/img/etsy-pod-mockup-policy-digital-products/inline-1.webp)
 
 
-Run a full audit of your shop’s visual assets to ensure they meet the minimum thresholds established in the June 2025 Creativity Standards update. Etsy’s automated listing review system now scans for specific metadata and image ratios to prioritize high-quality listings in search results. If your mockups are older than 12 months, they likely fall below the 2000px minimum requirement or use outdated aspect ratios that cause awkward cropping on the Etsy mobile app.
+Run a full audit of your shop’s visual assets to ensure they meet the minimum thresholds established in the June 2025 [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) update. Etsy’s automated listing review system now scans for specific metadata and image ratios to prioritize high-quality listings in search results. If your mockups are older than 12 months, they likely fall below the 2000px minimum requirement or use outdated aspect ratios that cause awkward cropping on the Etsy mobile app.
 
 | Feature | POD Product Mockup Requirement | Digital Product Mockup Requirement |
 | :--- | :--- | :--- |

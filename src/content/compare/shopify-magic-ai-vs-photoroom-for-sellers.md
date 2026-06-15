@@ -144,7 +144,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   [Shopify Help Center: Media Generation with Shopify Magic](https://help.shopify.com/en/manual/shopify-magic/media-generation)
 *   Photoroom Pricing and Features
-*   Photoroom Batch Editor Features
+*   [Photoroom Batch](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) Editor Features
 *   WizCommerce: Photoroom Pricing Review
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
 *   [Etsy Help Center: Requirements for Listing Photos](https://help.etsy.com/hc/en-us/articles/360000338367-How-to-List-an-Item-on-Etsy)

@@ -131,7 +131,7 @@ Import your raw product photos into PixelMatch. Select the "Amazon Main Image" p
 Adjust the bounding box settings within PixelMatch to ensure the product occupies at least 85% of the frame. If you are selling a small item, like an eyeliner pencil, ensure that the "white space" around the product is minimized. This makes the product appear larger in search results, especially on mobile screens where thumbnails are small.
 
 ### Step 4: Export and Upload
-Export your images as JPEGs. While Amazon accepts PNG and TIFF, JPEGs are generally preferred for faster loading and better compatibility with Seller Central's bulk upload tools. Upload the new assets to the "Images" tab in Seller Central at least 7–10 days before Prime Day to ensure the system has indexed the new high-resolution versions.
+Export your images as JPEGs. While Amazon accepts PNG and TIFF, JPEGs are generally preferred for faster loading and better compatibility with Seller Central's bulk upload tools. Upload the new assets to the "Images" tab in Seller Central at least 7–10 days before [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-badge-suppression-fix-ai) to ensure the system has indexed the new high-resolution versions.
 
 ## Caveats and Honest Limitations
 

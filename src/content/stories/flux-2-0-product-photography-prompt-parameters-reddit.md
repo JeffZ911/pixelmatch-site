@@ -84,7 +84,7 @@ To solve the "uncanny valley" look of AI images, the brand used specific technic
 *   **Material Parameters:** `Subsurface scattering, caustic reflections` to accurately depict how light travels through skincare oils and gels.
 
 ### Integration with PixelMatch
-While Flux 2.0 generated the high-fidelity "art," it did not natively understand the technical requirements of Shopify or Amazon. The brand integrated PixelMatch into the final stage of the workflow to handle the heavy lifting of ecommerce compliance.
+While [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0 generated the high-fidelity "art," it did not natively understand the technical requirements of Shopify or Amazon. The brand integrated PixelMatch into the final stage of the workflow to handle the heavy lifting of ecommerce compliance.
 
 PixelMatch was used to:
 1.  **Automate Background Removal:** It ensured every Amazon hero image hit the [pure white RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement without manual masking.

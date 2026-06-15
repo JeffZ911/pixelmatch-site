@@ -59,7 +59,7 @@ Choosing between Google Imagen 3 and [Midjourney v7](https://pixelmatch.art/blog
 
 When you are managing a catalog of 50+ SKUs, the interface and technical output of the model matter more than the "cool factor." Midjourney has moved away from its Discord-only roots, but Google’s integration with the Vertex AI ecosystem offers a different level of technical scale.
 
-| Feature | Midjourney v7 | Google Imagen 3 |
+| Feature | [Midjourney v7](https://pixelmatch.art/blog/policy/midjourney-v7-leak-product-photography-prompts-guide) | Google Imagen 3 |
 | :--- | :--- | :--- |
 | **Primary Access** | Web Editor / Discord | Vertex AI / Gemini / API |
 | **Best For** | Lifestyle / Editorial | Photorealistic Mockups |

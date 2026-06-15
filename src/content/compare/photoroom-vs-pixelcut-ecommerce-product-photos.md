@@ -152,5 +152,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
 *   [Shopify Help Center: Product Media Types and Sizes](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   Apple App Store: Pixelcut AI Photo Editor Ratings and Tiers
-*   Reddit r/Flipping: Discussions on Photoroom Batch Limits
+*   Reddit r/Flipping: Discussions on [Photoroom Batch](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) Limits
 *   [Etsy Help: Requirements for Listing Photos](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)

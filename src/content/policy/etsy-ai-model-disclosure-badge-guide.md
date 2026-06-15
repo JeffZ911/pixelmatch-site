@@ -117,7 +117,7 @@ By shifting your workflow to focus on AI backgrounds rather than AI humans, you 
 
 Consult these primary sources to stay updated on evolving ecommerce AI laws and platform policies.
 
-*   Etsy's Seller Policy and Creativity Standards: The definitive guide on how to attribute AI-generated content on the platform.
+*   Etsy's Seller Policy and [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study): The definitive guide on how to attribute AI-generated content on the platform.
 *   New York Senate Bill S8420A: The full text of the law regarding synthetic performers and commercial disclosures.
 *   FTC Guidelines on Disclosures in Digital Advertising: Federal standards for making "clear and conspicuous" disclosures that protect you from consumer protection claims.
 

@@ -70,7 +70,7 @@ The cost of this inefficiency wasn't just the $2.50 per listing in labor costs; 
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Create a "Global Preset" for TikTok Shop in your [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) that automatically crops to 1:1 and scales to exactly 1200 x 1200 px to future-proof your assets. The beauty seller transitioned to an AI-first workflow using PixelMatch to handle the heavy lifting of image generation and standardization.
+Create a "Global Preset" for TikTok Shop in your [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide) that automatically crops to 1:1 and scales to exactly 1200 x 1200 px to future-proof your assets. The beauty seller transitioned to an AI-first workflow using PixelMatch to handle the heavy lifting of [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) and standardization.
 
 ### The Batch Processing Pipeline
 
