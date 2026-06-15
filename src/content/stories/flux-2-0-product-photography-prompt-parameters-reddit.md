@@ -151,7 +151,7 @@ Don't stop at the main image. Use the same [Flux 2](https://pixelmatch.art/blog/
 ![Caveats and Honest Limitations](/img/flux-2-0-product-photography-prompt-parameters-reddit/inline-6.webp)
 
 
-While the Flux 2.0 workflow is revolutionary, it is not a "magic button" that works perfectly on the first try every time.
+While the [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0 workflow is revolutionary, it is not a "magic button" that works perfectly on the first try every time.
 
 First, Flux 2.0 has a learning curve. Achieving the perfect reflection on a highly curved, chrome-finished cosmetic cap can still take 10 to 15 iterations of prompt tweaking. You may find that certain materials, like holographic packaging, require more advanced "negative prompts" to prevent the AI from creating muddy colors.
 

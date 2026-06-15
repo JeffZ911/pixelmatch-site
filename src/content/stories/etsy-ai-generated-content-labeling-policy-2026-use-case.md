@@ -144,7 +144,7 @@ Second, if you sell on multiple platforms, remember that AI disclosure rules var
 
 Finally, be aware of technical limitations. PixelMatch is highly effective for background generation, but complex transparent packaging—like glass perfume bottles or clear plastic tubes—may occasionally require minor manual touch-ups. The way light refracts through glass is difficult for any AI to perfectly replicate 100% of the time.
 
-**Actionable Step for Sellers:** Check Etsy's [Seller Handbook](https://www.etsy.com/seller-handbook) monthly for updates to the "Creativity Standards" as AI regulation is a fast-moving target in 2026. Set a calendar reminder for the first of every month to ensure your shop remains compliant with any new labeling requirements.
+**Actionable Step for Sellers:** Check Etsy's [Seller Handbook](https://www.etsy.com/seller-handbook) monthly for updates to the "[Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study)" as AI regulation is a fast-moving target in 2026. Set a calendar reminder for the first of every month to ensure your shop remains compliant with any new labeling requirements.
 
 
 <!-- pm-cta:foot -->

@@ -79,7 +79,7 @@ The most significant issue was resolution. Amazon requires images to be [at leas
 To solve these issues, the brand implemented a three-step workflow using PixelMatch. This process ensured that every image generated was "born compliant" with the amazon policy for ai generated product images.
 
 ### Step 1: Main Image Compliance (The "Hero" Shot)
-The brand uploaded raw smartphone photos of their bottles taken in natural light. Using PixelMatch’s batch background removal, they stripped the original backgrounds and replaced them with a calibrated [RGB 255, 255, 255 white](https://sellercentral.amazon.com/help/hub/reference/G1881). 
+The brand uploaded raw smartphone photos of their bottles taken in natural light. Using PixelMatch’s [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal, they stripped the original backgrounds and replaced them with a calibrated [RGB 255, 255, 255 white](https://sellercentral.amazon.com/help/hub/reference/G1881). 
 
 To meet the [85% frame fill requirement](https://sellercentral.amazon.com/help/hub/reference/G1881), they used the auto-scaling feature. This ensured that the product occupied the maximum allowable space without touching the edges of the frame, which can also trigger a rejection.
 

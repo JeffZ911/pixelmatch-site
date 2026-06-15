@@ -148,7 +148,7 @@ Finally, consider your tool stack. If you are already paying for Photoroom’s P
 The `ValidationException` is an error code triggered by Amazon's Nova Canvas model when a user's prompt hits a "Responsible AI" filter. These filters are designed to block inappropriate content but often catch standard beauty terms like "skin" or "body," preventing the image from generating.
 
 ### How do I ensure my AI images meet Amazon's pure white background rule?
-To meet the [RGB 255, 255, 255 requirement](https://sellercentral.amazon.com/help/hub/reference/G1881), you should use a dedicated ecommerce AI tool with a "Main Image" preset. Standard AI generators often produce "off-white" or "light grey" backgrounds that look white to the eye but will be rejected by Amazon's automated verification bots.
+To meet the [RGB 255, 255, 255 requirement](https://sellercentral.amazon.com/help/hub/reference/G1881), you should use a dedicated [ecommerce AI](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) tool with a "Main Image" preset. Standard AI generators often produce "off-white" or "light grey" backgrounds that look white to the eye but will be rejected by Amazon's automated verification bots.
 
 ### Can I use AI-generated images for my Amazon Main Image?
 Yes, as long as the image accurately represents the product and meets all technical specs, including the [85% fill rule](https://sellercentral.amazon.com/help/hub/reference/G1881) and the pure white background. However, you must ensure the AI does not alter the product's appearance, shape, or color, as this can lead to "Product Not as Described" returns.

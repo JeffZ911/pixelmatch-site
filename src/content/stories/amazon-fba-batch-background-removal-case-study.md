@@ -64,7 +64,7 @@ Before adopting a batch AI workflow, the seller relied on a mix of freelance lab
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-The seller transitioned to PixelMatch’s batch background remover to centralize their asset production. By shifting from a "fix it in post" mentality to a "shoot for the AI" workflow, they eliminated the need for manual touch-ups on 95% of their inventory.
+The seller transitioned to PixelMatch’s [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) remover to centralize their asset production. By shifting from a "fix it in post" mentality to a "shoot for the AI" workflow, they eliminated the need for manual touch-ups on 95% of their inventory.
 
 ### Standardizing the Capture
 The seller stopped trying to shoot "pretty" lifestyle photos for their main images. Instead, they moved to a high-contrast "Calibration Shoot" setup. They used a neutral gray backdrop rather than a white one. While counterintuitive, a light gray backdrop provides better edge contrast for AI models than a white-on-white setup, especially for light-colored home goods like white plastic bins. They utilized consistent ring lighting to eliminate harsh internal shadows that AI might mistake for part of the product's physical structure.

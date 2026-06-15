@@ -90,7 +90,7 @@ The raw photos were uploaded to PixelMatch, which automatically removed the back
 To ensure the images performed well across all devices, the seller adhered to Etsy's 2026 image requirements. While the platform requires a [2000px minimum on the shortest side](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), the seller opted for a 3000×3000px square format. This extra resolution ensures that when Etsy's search results crop the image into a thumbnail, the product remains crisp and centered.
 
 ### Compliance and Transparency
-Etsy's Creativity Standards now emphasize transparency regarding the use of AI. To maintain shop health and prevent flagging, the seller added a standard disclosure in the "Item Details" or listing description. A simple sentence like, *"Lifestyle backgrounds are digitally generated to show product scale and styling ideas,"* kept the shop in full compliance while maintaining the aesthetic appeal of the photos.
+Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) now emphasize transparency regarding the use of AI. To maintain shop health and prevent flagging, the seller added a standard disclosure in the "Item Details" or listing description. A simple sentence like, *"Lifestyle backgrounds are digitally generated to show product scale and styling ideas,"* kept the shop in full compliance while maintaining the aesthetic appeal of the photos.
 
 **Actionable Step for Sellers:** Create a "Master Template" in your AI tool that uses a consistent depth of field (blurriness of the background). This ensures that while the rooms change, the "lens feel" of your shop remains identical across every listing.
 

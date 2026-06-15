@@ -122,7 +122,7 @@ Skip the hours of prompting and let the technology handle the heavy lifting whil
 ## Frequently Asked Questions
 
 ### Can I use Midjourney v7 images for my Amazon Main Image?
-Technically yes, but it is difficult. Amazon requires a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/G1881). Midjourney often adds soft shadows or reflections that technically violate this, which can lead to listing suppression. Flux 2 or a dedicated tool like PixelMatch is better for Main Images.
+Technically yes, but it is difficult. Amazon requires a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/G1881). Midjourney often adds soft shadows or reflections that technically violate this, which can lead to listing suppression. [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism) or a dedicated tool like PixelMatch is better for Main Images.
 
 ### Does Flux 2 really handle text better than Midjourney?
 Yes. Flux 2 uses a different architecture that allows it to follow prompt instructions for text with nearly 100% accuracy. If your product packaging has a specific brand name or "Organic" certification logo, Flux 2 will render it correctly, whereas [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) may still occasionally "scramble" the letters.
