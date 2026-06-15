@@ -129,7 +129,7 @@ In PixelMatch, don't just pick a "nice room." Pick a room that matches your cust
 Always export at [3000 × 3000 pixels](https://help.etsy.com/hc/en-us/articles/115013196707-Listing-Images). While Etsy allows smaller images, the 3000px threshold is the "gold standard" for 2026. It ensures that when a buyer is on a 4K monitor or a high-density mobile screen, your product looks crisp and professional. Ensure your file size remains under the [10 MB limit](https://help.etsy.com/hc/en-us/articles/115013196707-Listing-Images) by using standard JPG compression.
 
 ### Step 4: Disclose AI Usage for Policy Compliance
-Under Etsy's Creativity Standards, sellers must be honest about how their items are represented. In your listing description or the "About" section of your shop, mention that you use AI-assisted tools to create lifestyle mockups. This builds trust and protects your shop from potential platform penalties regarding "misleading" imagery.
+Under Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study), sellers must be honest about how their items are represented. In your listing description or the "About" section of your shop, mention that you use AI-assisted tools to create lifestyle mockups. This builds trust and protects your shop from potential platform penalties regarding "misleading" imagery.
 
 **Actionable Step for Sellers:** Create a "Style Guide" for your PixelMatch generations. Note down the specific prompt keywords or templates you use (e.g., "Muted Earth Tones," "Soft Morning Light") so that your entire Etsy shop has a cohesive visual identity rather than looking like a random collection of AI images.
 

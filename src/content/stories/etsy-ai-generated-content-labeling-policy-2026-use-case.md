@@ -138,7 +138,7 @@ Update your listing description to include the required AI disclosure statement.
 
 While AI tools like PixelMatch are transformative for ecommerce, they are not a "set and forget" solution. You must remain the final editor of your brand's visual identity.
 
-First, AI cannot replace the need for an accurate representation of the physical product. If your serum is a pale yellow, the AI should not "color grade" it to look bright orange. Etsy’s Creativity Standards are very clear: the buyer must receive what they see in the photo. Only use AI to enhance the *surroundings*, not to alter the product's features.
+First, AI cannot replace the need for an accurate representation of the physical product. If your serum is a pale yellow, the AI should not "color grade" it to look bright orange. Etsy’s [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) are very clear: the buyer must receive what they see in the photo. Only use AI to enhance the *surroundings*, not to alter the product's features.
 
 Second, if you sell on multiple platforms, remember that AI disclosure rules vary. For example, Amazon’s requirements for AI-generated content may differ from Etsy’s or TikTok Shop’s. Always check the specific "Seller University" or "Help Center" for each platform before cross-posting your images.
 

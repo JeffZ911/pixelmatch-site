@@ -66,7 +66,7 @@ Apply the `--style raw` parameter in Midjourney or use the "Production" preset i
 | Feature | Midjourney (v7.1) | Flux.2 Pro |
 | :--- | :--- | :--- |
 | **Primary Strength** | Artistic lifestyle & hero banners | Photorealistic accuracy & packaging text |
-| **Text Rendering** | Improved, but still prone to "gibberish" in small fonts | Near-perfect rendering of labels and logos |
+| **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Improved, but still prone to "gibberish" in small fonts | Near-perfect rendering of labels and logos |
 | **Color Control** | Visual descriptors only (e.g., "navy blue") | Supports exact HEX code matching |
 | **API Access** | No official public API (Discord/Web only) | Robust API via Black Forest Labs |
 | **Commercial Rights** | Included in Standard/Pro/Mega tiers | Included in Pro and Enterprise tiers |

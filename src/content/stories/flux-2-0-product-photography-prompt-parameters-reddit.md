@@ -139,7 +139,7 @@ Once you have your raw AI generations, upload the folder to PixelMatch. Set your
 This step removes the need for manual Photoshop work and ensures that your images won't be suppressed by Amazon's automated quality bots.
 
 ### Step 4: Generate the Full Gallery
-Don't stop at the main image. Use the same Flux 2.0 parameters but swap the environment prompts to create a full listing gallery:
+Don't stop at the main image. Use the same [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0 parameters but swap the environment prompts to create a full listing gallery:
 *   **Image 2:** Close-up of the liquid texture (use "macro lens" parameter).
 *   **Image 3:** Product in a lifestyle setting (use "marble countertop" parameter).
 *   **Image 4:** Size comparison (use "placed next to a standard lipstick for scale" parameter).
