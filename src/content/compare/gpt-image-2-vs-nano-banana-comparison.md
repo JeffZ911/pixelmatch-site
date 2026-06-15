@@ -51,7 +51,7 @@ Run a resolution calibration test on your existing assets to see if your current
 | Feature | GPT Image 2.0 | Nano Banana Pro |
 | :--- | :--- | :--- |
 | **Native Resolution** | Up to 2K (2048px) | Up to 4K (4096px) |
-| **Text Rendering** | Near-perfect (Size charts, labels) | Moderate (Struggles with dense text) |
+| **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Near-perfect (Size charts, labels) | Moderate (Struggles with dense text) |
 | **Watermarking** | Standard Metadata | Invisible SynthID Digital Watermark |
 | **Spatial Logic** | High (Maintains 3x3 grids/layouts) | Low (Often blends items in grids) |
 | **Primary Strength** | Complex Infographics | Hyper-Realistic Lifestyle Scenes |

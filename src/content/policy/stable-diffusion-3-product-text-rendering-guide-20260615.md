@@ -36,7 +36,7 @@ Stable Diffusion 3 uses MMDiT architecture to accurately render text on product 
 *Related: [TikTok Shop Symphony Digital Human Image Specs (2026)](/blog/policy/tiktok-shop-symphony-digital-human-image-specs) · [TikTok Shop Image Specs for Video Shopping Ads (2026)](/blog/policy/tiktok-shop-image-specs-video-shopping-ads) · [Midjourney v7 Leak Product Photography Prompts & 2026 Rules](/blog/policy/midjourney-v7-leak-product-photography-prompts-guide)*
 
 
-Audit your current image generation pipeline against these hard technical requirements for 2026. While SD3 offers the most advanced text-rendering capabilities of any open-weights model, your outputs must still align with the rigid ingestion specs of your target marketplaces.
+Audit your current [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) pipeline against these hard technical requirements for 2026. While SD3 offers the most advanced text-rendering capabilities of any open-weights model, your outputs must still align with the rigid ingestion specs of your target marketplaces.
 
 | Platform | Min Dimensions | Recommended Size | Background Rule | SD3 Text Strategy |
 | :--- | :--- | :--- | :--- | :--- |

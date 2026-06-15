@@ -130,5 +130,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   New York State Senate: Bill S8420A regarding digital replicas
 *   European Commission: EU AI Act Overview
 *   Photoroom Pricing and Plan Comparison
-*   Reddit Discussion: Photoroom Batch Export Limits
+*   Reddit Discussion: [Photoroom Batch](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) Export Limits
 *   Jungle Scout: Guide to Product Photography Costs

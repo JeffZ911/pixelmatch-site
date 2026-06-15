@@ -62,7 +62,7 @@ Photoroom is widely regarded as the gold standard for background removal. It han
 Pixelcut, conversely, is optimized for the "reseller" workflow. It is incredibly fast on mobile devices, but it can struggle with highly reflective surfaces. You may find yourself using the "Refine" tool more often in Pixelcut to fix "eaten" edges on light-colored products.
 
 ### Batch Processing and Workflow
-The most significant divergence is how they handle volume. Photoroom Pro limits users to 500 batch exports per month, a move that has pushed many high-volume eBay and Poshmark sellers toward other tools. Pixelcut offers unlimited batch background removal, allowing you to photograph 100 items in a single session and process them in minutes.
+The most significant divergence is how they handle volume. Photoroom Pro limits users to 500 batch exports per month, a move that has pushed many high-volume eBay and Poshmark sellers toward other tools. Pixelcut offers unlimited [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal, allowing you to photograph 100 items in a single session and process them in minutes.
 
 ### Marketplace Presets
 Both tools offer presets, but Photoroom’s library is more tailored to strict marketplace compliance. It includes built-in templates for [Shopify's recommended 2048 × 2048 px](https://help.shopify.com/en/manual/products/product-media/product-media-types) and Amazon’s 1:1 ratios with the specific [RGB 255, 255, 255 pure white](https://sellercentral.amazon.com/help/hub/reference/external/G1881) requirement. Pixelcut’s templates lean toward social media, with heavy emphasis on TikTok Shop, Instagram Stories, and Depop-style aesthetics.

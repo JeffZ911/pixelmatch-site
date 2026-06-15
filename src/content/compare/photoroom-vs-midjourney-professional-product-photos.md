@@ -50,7 +50,7 @@ Scaling a multi-platform store requires understanding the technical constraints 
 
 | Feature | Photoroom | Midjourney |
 | :--- | :--- | :--- |
-| **Primary Use Case** | Batch background removal & clean catalog shots | Creative lifestyle scenes & social media content |
+| **Primary Use Case** | [Batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal & clean catalog shots | Creative lifestyle scenes & social media content |
 | **Exact Product Preservation** | High (uses your original photo) | Low (often "hallucinates" or alters product details) |
 | **Batch Processing** | Yes (available in Pro and Business tiers) | No (requires 3rd-party API or manual generation) |
 | **Export Resolution** | Up to [2048 x 2048 px](https://help.shopify.com/en/manual/products/product-media/image-sizes) (Shopify Optimized) | Variable (up to ~1024px, requires upscaling) |

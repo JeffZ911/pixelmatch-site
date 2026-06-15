@@ -60,7 +60,7 @@ Product Detail Page (PDP) videos are more flexible but higher stakes. While they
 
 Set your video export settings to <a href="https://www.amazon.com/s?k=128+kbps+or+higher+for+audio&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">128 kbps or higher for audio</a> and a sample rate of <a href="https://www.amazon.com/s?k=44.1+kHz&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">44.1 kHz</a>. Even though Sponsored Brands videos often play on mute, the file must contain an audio track that meets these technical specs to pass the automated validation check. 
 
-For the video stream, use the H.264 or H.265 codec. Most [AI video](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) generators like Booth.AI or Adobe Express default to these, but if you are using a custom Stable Diffusion pipeline, you must manually verify that your <a href="https://www.amazon.com/s?k=bitrate+is+at+least+8+Mbps+for+1080p+content&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">bitrate is at least 8 Mbps for 1080p content</a>.
+For the video stream, use the H.264 or H.265 codec. Most [AI video](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) generators like Booth.AI or Adobe Express default to these, but if you are using a custom [Stable Diffusion](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615) pipeline, you must manually verify that your <a href="https://www.amazon.com/s?k=bitrate+is+at+least+8+Mbps+for+1080p+content&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">bitrate is at least 8 Mbps for 1080p content</a>.
 
 ## Common Rejection Reasons
 

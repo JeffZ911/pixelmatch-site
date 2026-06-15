@@ -99,7 +99,7 @@ PixelMatch was used to:
 ![Results (with Numbers)](/img/flux-2-0-product-photography-prompt-parameters-reddit/inline-4.webp)
 
 
-The transition from agency shoots to a Flux 2.0 and PixelMatch workflow yielded immediate financial and performance gains. The most significant shift was the decoupling of "content volume" from "content cost."
+The transition from agency shoots to a [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0 and PixelMatch workflow yielded immediate financial and performance gains. The most significant shift was the decoupling of "content volume" from "content cost."
 
 | Metric | Traditional Agency Shoot | Flux 2.0 + PixelMatch Workflow |
 | :--- | :--- | :--- |
@@ -190,5 +190,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   [Shopify Help Center: Product Media Types and Specifications](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   Photoroom Pricing and Plans
-*   Reddit: Photoroom Batch Export Limits Discussion
+*   Reddit: [Photoroom Batch](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) Export Limits Discussion
 *   Stripe: Standard Processing Fees

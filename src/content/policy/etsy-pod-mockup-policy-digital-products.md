@@ -81,7 +81,7 @@ The 2026 rules emphasize "representative accuracy." If an AI-generated mockup sh
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Scan your shop for "placeholder fatigue" — a common reason for listing deactivations in 2026. Etsy’s AI-driven quality control tools now flag shops that use the same generic stock mockups as thousands of other sellers. Using unedited stock imagery from popular sites without any modification makes your shop look like a low-effort reseller, which contradicts the "Creativity Standards."
+Scan your shop for "placeholder fatigue" — a common reason for listing deactivations in 2026. Etsy’s AI-driven quality control tools now flag shops that use the same generic stock mockups as thousands of other sellers. Using unedited stock imagery from popular sites without any modification makes your shop look like a low-effort reseller, which contradicts the "[Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study)."
 
 The most frequent rejection reasons include:
 1.  **Placeholder Text:** Using "Your Design Here" as the main thumbnail for customizable products.

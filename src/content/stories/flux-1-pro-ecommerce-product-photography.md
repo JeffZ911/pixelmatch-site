@@ -65,7 +65,7 @@ Before adopting Flux.1 Pro via PixelMatch, the seller attempted to bridge the ga
 
 Competitor tools like Photoroom's Pro tier at $12.99/mo were tested, but the seller hit workflow friction with batch processing limits and needed higher-fidelity outputs for complex textures. While excellent for social media posts or simple fashion items, these tools often struggled with the intricate reflections found in home goods. The seller found that high-gloss surfaces, like polished wood or glass, would often "bleed" into the AI-generated background, creating blurry edges that looked unprofessional.
 
-Relying on standard, older AI models often resulted in warped product dimensions that violated marketplace policies. Amazon is particularly strict about "proportional accuracy." If an [AI model](https://pixelmatch.art/blog/policy/tiktok-shop-ai-model-policy-leak-2026) subtly shifts the handle of a mug or changes the thickness of a rug to "fit" the scene, the seller risks a "Product Not as Described" return. Standard Stable Diffusion models often hallucinated these small changes, making them unusable for professional listings.
+Relying on standard, older AI models often resulted in warped product dimensions that violated marketplace policies. Amazon is particularly strict about "proportional accuracy." If an [AI model](https://pixelmatch.art/blog/policy/tiktok-shop-ai-model-policy-leak-2026) subtly shifts the handle of a mug or changes the thickness of a rug to "fit" the scene, the seller risks a "Product Not as Described" return. Standard [Stable Diffusion](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615) models often hallucinated these small changes, making them unusable for professional listings.
 
 **Actionable Step:** Use a "Color Picker" browser extension to verify if your current AI-generated white backgrounds are truly [pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881). If your tool is outputting off-white or light gray (e.g., RGB 254, 254, 254), your listing may be suppressed by Amazon’s automated quality bots.
 
@@ -132,7 +132,7 @@ Sellers must still ensure their base photo accurately represents the physical it
 
 Generation times for Flux.1 Pro can be slightly longer than lower-tier models like Stable Diffusion XL. While a standard model might take 5 seconds, a high-fidelity Flux generation might take 15–30 seconds. For a seller with 150 SKUs, this extra time is negligible compared to the weeks-long wait for a photography studio, but it is a factor to consider when planning high-volume catalog refreshes.
 
-**Actionable Step:** Zoom to 400% on any AI-generated image that contains your brand's logo or product text. If the text appears "melted" or has incorrect characters (AI gibberish), use PixelMatch's "Layer Lock" feature to keep your original product photo untouched while only changing the background.
+**Actionable Step:** Zoom to 400% on any AI-generated image that contains your brand's logo or [product text](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615). If the text appears "melted" or has incorrect characters (AI gibberish), use PixelMatch's "Layer Lock" feature to keep your original product photo untouched while only changing the background.
 
 ## Frequently Asked Questions
 

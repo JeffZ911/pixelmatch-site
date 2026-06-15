@@ -63,7 +63,7 @@ When you are managing a catalog of 50+ SKUs, the interface and technical output 
 | :--- | :--- | :--- |
 | **Primary Access** | Web Editor / Discord | Vertex AI / Gemini / API |
 | **Best For** | Lifestyle / Editorial | Photorealistic Mockups |
-| **Text Rendering** | Improved, but prone to "AI gibberish" | High accuracy for labels/packaging |
+| **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Improved, but prone to "AI gibberish" | High accuracy for labels/packaging |
 | **Consistency** | Strong (Style Reference / Character Reference) | Moderate (Requires Seed/API tuning) |
 | **Max Resolution** | ~1024x1024 (Upscale needed) | Up to 2048x2048 via API |
 | **Speed** | Draft Mode (Fast) / Relax Mode (Slower) | Imagen 3 Fast (Sub-5 seconds) |
