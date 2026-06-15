@@ -124,7 +124,7 @@ The time-to-market reduction was equally impactful. In the beauty industry, tren
 You can implement this workflow without a background in computer science. Follow these four steps to standardize your AI photography pipeline.
 
 ### Step 1: Capture the Base Image
-You do not need a professional camera, but you do need a "clean" reference. Take a smartphone photo of your product in a well-lit room. Ensure the label is clearly visible and the product is centered. This image acts as the structural guide for Flux 2.0, ensuring the AI maintains your brand's actual dimensions and text.
+You do not need a professional camera, but you do need a "clean" reference. Take a smartphone photo of your product in a well-lit room. Ensure the label is clearly visible and the product is centered. This image acts as the structural guide for [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0, ensuring the AI maintains your brand's actual dimensions and text.
 
 ### Step 2: Apply Flux 2.0 Prompt Parameters
 Input your base photo into a Flux-supported generator and use a prompt that defines the environment and the camera. 

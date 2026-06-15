@@ -92,7 +92,7 @@ The tools in the SWE-bench ecommerce AI model rankings differ significantly in h
 
 Calculate your true cost-per-image by dividing your monthly subscription by your actual output volume; a "$19 plan" that only generates 200 images costs you $0.09 per photo, which can eat into the margins of low-ASP (Average Selling Price) items.
 
-Pricing in the AI image space has shifted from "unlimited" models to "credit" or "tiered" models as the cost of running foundation models (like those evaluated by SWE-bench) remains high.
+Pricing in the [AI image](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) space has shifted from "unlimited" models to "credit" or "tiered" models as the cost of running foundation models (like those evaluated by SWE-bench) remains high.
 
 *   **Photoroom:** The Pro plan is currently priced at $12.99/month (or $89.99 billed annually, which averages to $7.50/month). This plan includes a 500 batch-export limit. For larger teams, the Max plan is $34.99/month. If you need to integrate these tools into your own software, Photoroom's API is billed separately: background removal starts at $0.02 per image, while more complex Image Editing (like Generative Fill) costs $0.10 per image.
 *   **Pebblely:** The Basic plan costs $19/month for 200 images per month. The Pro plan is $39/month and is capped at 500 images. Unlike some older AI tools, Pebblely does not offer an "unlimited" tier, making it a more expensive option for high-volume sellers who need thousands of variations for A/B testing.

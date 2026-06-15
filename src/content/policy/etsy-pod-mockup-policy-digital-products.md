@@ -147,7 +147,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Etsy News: "Our New Creativity Standards" (July 2024/Updated June 2025)
+*   Etsy News: "Our New [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study)" (July 2024/Updated June 2025)
 *   Etsy Help Center: "Requirements for Listing Photos" (Accessed May 2026)
 *   Marketplace Pulse: "Etsy's Policy Shifts on AI and POD" (April 2026)
 *   Jungle Scout: "Selling POD on Etsy in 2026: What You Need to Know"

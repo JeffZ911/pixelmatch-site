@@ -115,7 +115,7 @@ By shifting your workflow to focus on AI backgrounds rather than AI humans, you 
 
 ## Official Source Documentation
 
-Consult these primary sources to stay updated on evolving ecommerce AI laws and platform policies.
+Consult these primary sources to stay updated on evolving [ecommerce AI](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) laws and platform policies.
 
 *   Etsy's Seller Policy and [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study): The definitive guide on how to attribute AI-generated content on the platform.
 *   New York Senate Bill S8420A: The full text of the law regarding synthetic performers and commercial disclosures.
