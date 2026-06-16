@@ -116,7 +116,7 @@ The seller was fully prepared for the June 23-26 shopping rush without the panic
 ![Steps to Replicate This Fix](/img/amazon-prime-day-badge-suppression-fix-ai/inline-5.webp)
 
 
-If you are currently facing "Suppressed" status for your Prime Day deals, follow this checklist to restore your badge status before the June 23rd start date.
+If you are currently facing "Suppressed" status for your [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) deals, follow this checklist to restore your badge status before the June 23rd start date.
 
 ### 1. Audit Suppressed Listings
 Navigate to Seller Central under **Advertising > Prime Exclusive Discounts**. Download the "Status" report to identify exactly which ASINs are missing the badge. If the reason is "Main Image Violation," proceed to the next steps.

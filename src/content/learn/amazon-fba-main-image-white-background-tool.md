@@ -40,7 +40,7 @@ High-resolution images are no longer optional for competitive sellers. To enable
 Amazon also mandates that the product occupies at least 85% of the image frame. If your product is "floating" in a sea of white space, or if it is cropped too tightly, you violate the technical requirements. Furthermore, main images must be free of text, logos, watermarks, or unincluded props. Using an automated Amazon FBA main image white background tool allows you to standardize these specs across 100+ SKUs in minutes, rather than spending $50–$100 per hour on a professional retoucher.
 
 ### Actionable Step for Today
-Download the "Amazon Seller" mobile app and use the "Product Image Checker" tool within the app to scan your current main images. If the app flags a background as "Non-compliant," prioritize that SKU for a batch-reprocessing run in PixelMatch.
+Download the "[Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix)" mobile app and use the "Product Image Checker" tool within the app to scan your current main images. If the app flags a background as "Non-compliant," prioritize that SKU for a batch-reprocessing run in PixelMatch.
 
 ## Step-by-Step Walkthrough
 

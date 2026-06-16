@@ -87,7 +87,7 @@ Once your audit is complete, configure your batch editor with these exact specif
 For main images, batch-applying a background removal tool is essential. Ensure your tool is configured to replace the background with hex code #FFFFFF (RGB 255, 255, 255). Amazon’s bots can detect "off-white" backgrounds (like RGB 253, 254, 255) that look white to the human eye but fail the automated scan.
 
 ### Exporting and Naming
-Amazon prefers JPEGs for their balance of quality and compression. When exporting, keep the quality setting at 80% or higher to avoid "compression artifacts" (visible pixelation around edges). Use a clear naming convention, such as `[ASIN].MAIN.jpg`, to simplify the bulk upload process in Seller Central.
+Amazon prefers JPEGs for their balance of quality and compression. When exporting, keep the quality setting at 80% or higher to avoid "compression artifacts" (visible pixelation around edges). Use a clear naming convention, such as `[ASIN].MAIN.jpg`, to simplify the bulk upload process in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix).
 
 ## Common Mistakes to Avoid
 

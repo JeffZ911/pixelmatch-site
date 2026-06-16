@@ -32,7 +32,7 @@ Stop losing sales to "Search Suppressed" tags because your main image has a slig
 
 Amazon’s A10 algorithm prioritizes listings that provide a seamless customer experience, and that starts with the main image. If your background is off-white (RGB 254, 254, 254) instead of pure white (RGB 255, 255, 255), Amazon’s automated validation systems will eventually flag and suppress your listing. This doesn't just hide your product from search results; it resets your "Sales Velocity" momentum, making it harder to regain your ranking even after you fix the image.
 
-Open your Amazon Seller Central dashboard and navigate to **Inventory > Manage All Inventory**. If you see a "Search Suppressed" status next to any SKU, click "Edit" and check the "Image" tab. Amazon will explicitly list the reason for suppression, which is frequently a non-pure white background or a failure to meet the 85% frame fill requirement.
+Open your [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) dashboard and navigate to **Inventory > Manage All Inventory**. If you see a "Search Suppressed" status next to any SKU, click "Edit" and check the "Image" tab. Amazon will explicitly list the reason for suppression, which is frequently a non-pure white background or a failure to meet the 85% frame fill requirement.
 
 ### Amazon Main Image Specs (2026 Update)
 
@@ -167,7 +167,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 **Start free →**
 
 ## Sources
-*   Amazon Seller Central: [Main Color Background Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central: [Main Color Background Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   Amazon Seller Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G200123620)
 *   Canva Pricing: Canva Pro Subscription Plans
 *   Photoroom Pricing: Photoroom Pro Features

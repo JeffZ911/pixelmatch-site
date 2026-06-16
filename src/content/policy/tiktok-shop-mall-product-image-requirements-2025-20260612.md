@@ -86,7 +86,7 @@ For fashion categories, the requirements expand. You should include a size chart
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Audit your rejected listings by clicking on the "Suspended" or "Failed" tabs in the Seller Center. TikTok uses a combination of AI-driven image recognition and human moderation to enforce its Product Listing Policy. If your images fail, it is usually due to one of four technical or policy-based errors.
+Audit your rejected listings by clicking on the "Suspended" or "Failed" tabs in the Seller Center. TikTok uses a combination of AI-driven image recognition and human moderation to enforce its Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616). If your images fail, it is usually due to one of four technical or policy-based errors.
 
 ### Non-White Backgrounds
 The most frequent cause for Mall rejection is a primary image that uses an off-white, gray, or gradient background. TikTok's AI looks for the specific hex code #FFFFFF. If you shot your photos against a physical white backdrop but didn't post-process them, the shadows and lighting variations will result in a "non-compliant background" flag.

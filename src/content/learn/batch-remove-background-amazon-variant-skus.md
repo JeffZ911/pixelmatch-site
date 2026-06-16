@@ -69,7 +69,7 @@ Select the "Amazon Compliance" preset within the tool. This automatically sets t
 For variants with difficult textures—such as lace, fur, or mesh—use the "Refine Edge" batch setting. This ensures that the AI doesn't leave "halos" or artifacts around the product, which is a common reason for manual rejection by Amazon’s internal audit team. 
 
 ### Step 4: Export with Variant Naming Conventions
-Amazon’s Seller Central and bulk upload templates (Flat Files) rely on specific naming strings to automatically associate images with the correct child ASIN. Use the PixelMatch bulk rename tool during the export phase to format your files correctly.
+Amazon’s [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) and bulk upload templates (Flat Files) rely on specific naming strings to automatically associate images with the correct child ASIN. Use the PixelMatch bulk rename tool during the export phase to format your files correctly.
 
 | Image Type | Suffix Code | Example Filename |
 | :--- | :--- | :--- |

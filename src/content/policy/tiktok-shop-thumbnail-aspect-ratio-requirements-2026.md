@@ -165,7 +165,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   TikTok Shop Seller Center: Product Detail Pages & Listing Quality Guidelines (Updated October 2025)
-*   TikTok Shop Seller Center: Product Listing Policy (Updated May 2026)
+*   TikTok Shop Seller Center: Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) (Updated May 2026)
 *   TikTok Shop Academy: Upgrading Your Listing Quality (September 2024)
 *   TikTok Shop Seller Center: Brand Circumvention Policy (Effective May 28, 2026)
 *   TSL Agency: TikTok Shop Product Images Specification Guide (April 2026)
