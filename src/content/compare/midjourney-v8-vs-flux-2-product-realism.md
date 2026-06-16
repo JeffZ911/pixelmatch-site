@@ -139,7 +139,7 @@ Yes, but with caution. Amazon requires your main "Hero" image to be a [pure whit
 While Flux 2 is significantly better than Midjourney, it is not 100% perfect on very long ingredient lists or tiny legal disclaimers. It excels at brand names and large labels. For the fine print on the back of a bottle, it is still best to use the AI for the "scene" and then overlay your high-resolution label file using a tool like PixelMatch or Photoshop to ensure 100% legibility.
 
 ### Is it cheaper to run Flux 2 locally or use an API?
-Running Flux 2 locally requires a high-end GPU (e.g., NVIDIA RTX 4090) which costs upwards of $1,600. Unless you are generating more than 50,000 images a year, the $0.03 - $0.07 per image API cost is much more economical for the average Shopify or Amazon seller.
+Running Flux 2 locally requires a high-end GPU (e.g., NVIDIA RTX 4090) which costs upwards of $1,600. Unless you are generating more than 50,000 images a year, the $0.03 - $0.07 per image API cost is much more economical for the average Shopify or [Amazon seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix).
 
 ### What is the best resolution for AI product images?
 For most platforms, you should aim for at least 2000 x 2000 pixels. [Amazon's zoom feature requires a minimum resolution](https://sellercentral.amazon.com/help/hub/reference/G16881), and [Shopify recommends 2048 x 2048 pixels](https://help.shopify.com/en/manual/products/product-definitions/product-images) for a square aspect ratio. Both Midjourney v8.1 and Flux 2 can hit these targets, but Flux 2's 4-megapixel output provides more "headroom" for cropping.

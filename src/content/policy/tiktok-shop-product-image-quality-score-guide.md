@@ -172,7 +172,7 @@ By hitting the "Good" tier on TikTok Shop, you aren't just avoiding rejectionsâ€
 ![Official Source Links](/img/tiktok-shop-product-image-quality-score-guide/inline-5.webp)
 
 
-*   TikTok Shop Seller Center: Product Listing Policy
+*   TikTok Shop Seller Center: Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616)
 *   TikTok Shop Seller Center: Upgrading your listing quality
 *   TikTok For Business: Best practices for catalog
 *   TikTok Shop Academy: Image and Video Specifications

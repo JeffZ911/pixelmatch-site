@@ -59,7 +59,7 @@ TikTok Shop Mall enforces stricter visual standards than standard TikTok Shop, r
 
 ### Main Image vs. Additional Images
 
-Navigate to your "Manage Products" tab and examine your primary slot. The main image is your digital storefront window. TikTok's Product Listing Policy dictates that the primary image must show the front physical view of the product clearly. 
+Navigate to your "Manage Products" tab and examine your primary slot. The main image is your digital storefront window. TikTok's Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) dictates that the primary image must show the front physical view of the product clearly. 
 
 For additional images (slots 2 through 9), you have more creative freedom, but you must still adhere to the 1:1 aspect ratio. Use these slots to build a comprehensive visual narrative:
 *   **The Scale Shot:** Place the product next to a common object (like a hand or a smartphone) to communicate size.

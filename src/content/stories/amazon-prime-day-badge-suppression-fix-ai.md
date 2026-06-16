@@ -109,7 +109,7 @@ The jump in Click-Through Rate (CTR) from 1.2% to 3.5% was largely attributed to
 1. **Zoom Functionality:** By ensuring every image was over [1,000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/1881), the seller enabled Amazon’s hover-to-zoom feature, which significantly increases buyer confidence in the home goods category.
 2. **Visual Consistency:** A perfectly centered product that fills 85% of the frame appears more professional in the search results "grid" than a small, off-center product with inconsistent lighting.
 
-The seller was fully prepared for the June 23-26 shopping rush without the panic of last-minute manual edits. By reducing the cost per listing from $45 to $5, they were able to reallocate that budget into Amazon PPC (Pay-Per-Click) advertising, further boosting their Prime Day visibility.
+The seller was fully prepared for the June 23-26 shopping rush without the panic of last-minute manual edits. By reducing the cost per listing from $45 to $5, they were able to reallocate that budget into Amazon PPC (Pay-Per-Click) advertising, further boosting their [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) visibility.
 
 ## Steps to Replicate This Fix
 
