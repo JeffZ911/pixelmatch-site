@@ -168,7 +168,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 *   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central: [Main Color Background Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
-*   Amazon Seller Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G200123620)
+*   [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix): [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G200123620)
 *   Canva Pricing: Canva Pro Subscription Plans
 *   Photoroom Pricing: Photoroom Pro Features
 *   Remove.bg Pricing: Remove.bg Credits and Subscriptions

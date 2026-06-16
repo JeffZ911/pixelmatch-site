@@ -52,7 +52,7 @@ Upload at least 5 high-resolution images to unlock the "Good" listing tier in yo
 
 ### Main Image vs. Secondary Images
 
-The main image (the first photo shoppers see) is the most scrutinized asset. TikTok’s Product Listing Policy dictates that the main image must show the physical product clearly from a front-facing view. While lifestyle imagery is permitted for secondary slots, your primary image should ideally feature a clean, white background to reduce cognitive load and pass the automated technical review.
+The main image (the first photo shoppers see) is the most scrutinized asset. TikTok’s Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) dictates that the main image must show the physical product clearly from a front-facing view. While lifestyle imagery is permitted for secondary slots, your primary image should ideally feature a clean, white background to reduce cognitive load and pass the automated technical review.
 
 Secondary images should provide the "context" that a video often provides but in a static, digestible format. This includes:
 *   **The "6-View" Rule:** TikTok recommends showing the front, back, top, bottom, and both sides of the product to reduce returns and "Item Not As Described" disputes.

@@ -123,7 +123,7 @@ Refer to the official documentation below to verify any policy changes as of May
 | Source Name | Link | Key Information |
 | :--- | :--- | :--- |
 | **Amazon Ads Help** | <a href="https://www.amazon.com/s?k=Video+Ad+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Video Ad Specs</a> | Resolution, Bitrate, and Duration |
-| **Seller Central** | [Upload Video Guide](https://sellercentral.amazon.com/help/hub/reference/G200332540) | PDP specific rules and file sizes |
+| **[Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix)** | [Upload Video Guide](https://sellercentral.amazon.com/help/hub/reference/G200332540) | PDP specific rules and file sizes |
 | **Amazon Ad Policy** | <a href="https://www.amazon.com/s?k=Creative+Guidelines&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Creative Guidelines</a> | Prohibited text and visual content |
 | **Marketing Dive** | AI Tool Launch News | Availability of native [AI video](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) tools |
 
@@ -138,7 +138,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   Amazon Advertising: <a href="https://www.amazon.com/s?k=Video+Ad+Specifications+and+Guidelines&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Video Ad Specifications and Guidelines</a>
-*   Amazon Seller Central: [Manage Product Videos](https://sellercentral.amazon.com/help/hub/reference/G200332540)
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central: [Manage Product Videos](https://sellercentral.amazon.com/help/hub/reference/G200332540)
 *   Marketing Dive: Amazon widens access to [video generator](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic)
 *   Photoroom: Official Pricing and Features
 *   Adobe Express: Premium Plan Details

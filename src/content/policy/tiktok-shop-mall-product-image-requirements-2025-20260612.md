@@ -95,7 +95,7 @@ The most frequent cause for Mall rejection is a primary image that uses an off-w
 Uploading images smaller than 600x600 pixels or using non-square aspect ratios (like 4:5 or 16:9) will cause the image to be stretched or cropped awkwardly in the TikTok feed. This triggers an automatic quality rejection because it degrades the user experience on the mobile app.
 
 ### Prohibited Content Overlays
-Do not place QR codes, website links, or social media handles on your images. TikTok's Listing Policy strictly prohibits any elements that direct traffic off-platform. Additionally, avoid "clickbait" text like "Best Seller," "Free Shipping," or "Number 1 Rated" directly on the image. These claims must be in the text description, not the visual assets.
+Do not place QR codes, website links, or social media handles on your images. TikTok's [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) strictly prohibits any elements that direct traffic off-platform. Additionally, avoid "clickbait" text like "Best Seller," "Free Shipping," or "Number 1 Rated" directly on the image. These claims must be in the text description, not the visual assets.
 
 ### Unsupported Formats and Metadata
 Uploading WebP or HEIC files directly from a smartphone often leads to upload errors. While these formats are efficient for storage, TikTok requires JPG, JPEG, or PNG. Furthermore, images with excessive metadata or corrupted headers from low-quality "free" online converters can cause the Seller Center's "Media Center" to hang during the upload process.
