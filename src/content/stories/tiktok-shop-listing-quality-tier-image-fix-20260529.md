@@ -85,7 +85,7 @@ To solve the LQT crisis, the seller moved to a PixelMatch-centric workflow. This
 The seller exported their raw product photos from Shopify and ran them through PixelMatch's batch editor. They set the output parameters to 1000x1000 px to ensure the images remained crisp even when customers used the mobile pinch-to-zoom feature. PixelMatch was configured to export exclusively in JPG format to keep file sizes under the 5MB limit, which is critical for fast page load speeds on the TikTok mobile app.
 
 ### Step 2: Instant "Main Image" Compliance
-TikTok requires the first image to be a "Hero" shot on a pure white background. The seller used PixelMatch’s batch background removal to strip out lifestyle props from their original photos. Unlike standard removers, PixelMatch's AI was trained on ecommerce datasets, allowing it to maintain the sharp edges of cosmetic brushes and the semi-transparency of glass serum bottles—areas where generic tools often fail.
+TikTok requires the first image to be a "Hero" shot on a pure white background. The seller used PixelMatch’s [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal to strip out lifestyle props from their original photos. Unlike standard removers, PixelMatch's AI was trained on ecommerce datasets, allowing it to maintain the sharp edges of cosmetic brushes and the semi-transparency of glass serum bottles—areas where generic tools often fail.
 
 ### Step 3: Generating the "Good" Tier Multiples
 To hit the ≥5 images per product requirement, the seller used PixelMatch to generate AI lifestyle scenes. Instead of a physical photoshoot, they uploaded a single shot of a lipstick tube and used AI to place it in various compliant settings:

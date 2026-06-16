@@ -120,7 +120,7 @@ Identify the "manual click" bottleneck in your current workflow by timing how lo
 ### Canva's Limitations
 *   **Generic AI Output:** Canva’s Magic Media can sometimes produce "uncanny valley" results, especially with human hands or complex text within the background.
 *   **Lack of Real Batching:** While Canva has a "Bulk Create" feature using CSV files, it is primarily for text and simple image swaps. It does not intelligently adjust your POD design to fit the contours of a 3D object in a batch process. You still have to manually check every single page to ensure the design isn't overlapping a collar or a sleeve.
-*   **Price Increases:** Canva has historically increased prices as they add AI features. As of 2026-05-19, the $15/month price point is higher than competitors like Adobe Express or Photoroom.
+*   **Price Increases:** Canva has historically increased prices as they add [AI features](https://pixelmatch.art/blog/stories/shopify-summer-edition-2026-ai-features-case-study). As of 2026-05-19, the $15/month price point is higher than competitors like Adobe Express or Photoroom.
 
 ### Adobe Express's Limitations
 *   **Asset Library Size:** While Adobe Stock is massive, the number of "ready-to-use" POD mockup templates in Express is smaller than Canva’s. You often have to build your mockup from scratch using the AI, which takes more time.

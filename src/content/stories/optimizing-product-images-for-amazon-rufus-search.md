@@ -138,7 +138,7 @@ Before editing, identify what Rufus thinks is "missing" from your product.
 3. Use PixelMatch to generate a lifestyle image for *your* product that visually disproves that specific con (e.g., your product next to a measuring tape or in a large room).
 
 ### Step 2: Batch Generate Compliant Main Images
-Upload your entire product catalog to PixelMatch. Use the batch background removal tool to set all backgrounds to [RGB 255, 255, 255](https://sellercentral.amazon.com/gp/help/external/1881). Ensure you use the "Auto-Scale" feature to meet the [85% fill requirement](https://sellercentral.amazon.com/gp/help/external/1881). This prevents the "small product in a big white box" error that triggers suppression.
+Upload your entire product catalog to PixelMatch. Use the [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal tool to set all backgrounds to [RGB 255, 255, 255](https://sellercentral.amazon.com/gp/help/external/1881). Ensure you use the "Auto-Scale" feature to meet the [85% fill requirement](https://sellercentral.amazon.com/gp/help/external/1881). This prevents the "small product in a big white box" error that triggers suppression.
 
 ### Step 3: Create "Multimodal Proof" Lifestyle Shots
 Generate images that answer common buyer questions. Rufus’s vision-language model looks for:

@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Your Prime Day 2026 sales projections evaporate the moment you see the "Suppressed" status next to your top-selling ASINs in Seller Central. For a mid-sized Amazon FBA seller, this badge suppression isn't just a technical glitch; it is a direct threat to the 30% of annual revenue typically generated during the June 23-26 shopping window.
+Your [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) 2026 sales projections evaporate the moment you see the "Suppressed" status next to your top-selling ASINs in Seller Central. For a mid-sized Amazon FBA seller, this badge suppression isn't just a technical glitch; it is a direct threat to the 30% of annual revenue typically generated during the June 23-26 shopping window.
 
 ## The Seller's Situation: Gearing Up for Prime Day 2026
 
@@ -38,7 +38,7 @@ Your Prime Day 2026 sales projections evaporate the moment you see the "Suppress
 *Related: [How a Beauty Seller Cut Photo Costs 80% with AI: Shopify Magic vs Phot](/blog/stories/shopify-magic-vs-photoroom-batch-background) · [How a Vintage Seller Cut Photo Costs 80% While Meeting Etsy's 2026 AI ](/blog/stories/etsy-ai-image-disclosure-2026-case-study) · [How an Amazon FBA Beauty Seller Bypassed Project Amelia Errors to Cut ](/blog/stories/amazon-project-amelia-image-generation-error-codes)*
 
 
-With Amazon Prime Day 2026 officially scheduled for June 23-26, sellers are rushing to submit their Prime Exclusive Discounts. Our composite seller, a mid-sized home goods brand doing $50k-$100k in monthly revenue, submitted their entire catalog for the event but immediately faced a wave of "Suppressed" errors in the Advertising console.
+With [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) 2026 officially scheduled for June 23-26, sellers are rushing to submit their Prime Exclusive Discounts. Our composite seller, a mid-sized home goods brand doing $50k-$100k in monthly revenue, submitted their entire catalog for the event but immediately faced a wave of "Suppressed" errors in the Advertising console.
 
 While some suppressions were pricing-related—Amazon requires the Prime Exclusive Discount price to be at least [15% lower than the reference price](https://sellercentral.amazon.com/help/hub/reference/G201186860)—the majority were flagged for main image violations. Amazon's automated systems have become increasingly aggressive in 2026, using computer vision to suppress listings that fail to meet the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) and [1,000 pixels or larger on the longest side](https://sellercentral.amazon.com/help/hub/reference/1881) requirements.
 
@@ -177,7 +177,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   NBC News: Amazon Prime Day 2026 Dates
+*   NBC News: [Amazon Prime](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) Day 2026 Dates
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
 *   [Amazon Seller Central: Prime Exclusive Discount Requirements](https://sellercentral.amazon.com/help/hub/reference/G201186860)
 *   Canva Pricing

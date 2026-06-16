@@ -58,7 +58,7 @@ Open your Shopify Admin, go to a product page, and click the "Magic" icon to see
 | **Max Resolution** | [1024 x 1024 px (1 MP)](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation) | [2048 x 2048 px](https://www.canva.com/help/magic-media/) | Up to 4K / High-Res |
 | **Batch Processing** | No (One by one) | No (Manual per page) | Yes (100+ images at once) |
 | **Amazon White BG** | Basic (RGB 255,255,255) | Manual (Magic Grab) | Automated & Verified |
-| **AI Features** | Background removal, scene gen | Magic Expand, Magic Grab, Edit | Batch scene replacement |
+| **[AI Features](https://pixelmatch.art/blog/stories/shopify-summer-edition-2026-ai-features-case-study)** | Background removal, scene gen | Magic Expand, Magic Grab, Edit | Batch scene replacement |
 | **Cost** | [Free with Shopify plan](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation) | $15/mo (Pro) | Varies by volume |
 
 Shopify Magic Media is a "utility" tool. It resides in your product media gallery and allows you to describe a scene (e.g., "on a wooden table with sunlight") or choose a preset. However, because it caps output at [1 megapixel](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation), it often fails the "zoom test" on high-end desktop monitors.

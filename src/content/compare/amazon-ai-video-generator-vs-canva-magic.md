@@ -128,7 +128,7 @@ By focusing on the quality of your input images first, you eliminate the risk of
 ## Frequently Asked Questions
 
 ### Can I use the videos I make in Amazon Seller Central on TikTok?
-Yes, you can download your generated videos from the Creative Assets library in Seller Central. However, be aware that these videos often include Amazon-specific layouts or fonts that may not align with the native "lo-fi" aesthetic of TikTok or Instagram Reels.
+Yes, you can download your generated videos from the Creative Assets library in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix). However, be aware that these videos often include Amazon-specific layouts or fonts that may not align with the native "lo-fi" aesthetic of TikTok or Instagram Reels.
 
 ### How many videos can I make per month with Canva's free version?
 Canva's free tier is extremely limited for AI video, usually offering only [5 lifetime credits](https://www.canva.com/help/magic-media/) for Magic Media video generation. If you plan to use AI video for an active ecommerce store, you will almost certainly need the Canva Pro plan which provides 500 monthly credits.
@@ -153,4 +153,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   <a href="https://www.amazon.com/s?k=Amazon+Ads%3A+AI+Video+Generator+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Ads: AI Video Generator Overview</a>
 *   [Canva Help Center: Magic Media Credits and Limits](https://www.canva.com/help/magic-media/)
 *   Canva Official Pricing Page
-*   Amazon Seller Central: Creative Assets Management
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central: Creative Assets Management

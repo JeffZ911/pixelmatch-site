@@ -43,7 +43,7 @@ The shift from Standard to Premium is not merely a cosmetic upgrade; it is a fun
 
 Data from Amazon's internal testing indicates that Premium A+ can drive up to a [20% conversion lift](https://sellercentral.amazon.com/help/hub/reference/G202102950), whereas Standard A+ averages an [8% lift](https://sellercentral.amazon.com/help/hub/reference/G202102950). Because Premium A+ is now accessible to your competitors, upgrading your listing visuals is no longer an optional "premium" strategy—it is a baseline requirement to maintain your current conversion rates.
 
-**Actionable Step:** Log into Seller Central, navigate to **Advertising > A+ Content Manager**, and start a new draft. If the "Premium" module types (like Video or Navigation Carousels) are selectable, you must begin migrating your top-selling SKUs to the 1464px format immediately.
+**Actionable Step:** Log into [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix), navigate to **Advertising > A+ Content Manager**, and start a new draft. If the "Premium" module types (like Video or Navigation Carousels) are selectable, you must begin migrating your top-selling SKUs to the 1464px format immediately.
 
 ## Side-by-Side Feature Table
 

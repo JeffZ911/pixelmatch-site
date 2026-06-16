@@ -185,7 +185,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Shopify Help Center: [Image size and resolution requirements 2026](https://help.shopify.com/en/manual/online-store/images/product-images)
 *   TikTok Shop Academy: Product Image Specifications and Guidelines
-*   Amazon Seller Central: [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
+*   [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix): [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
 *   Photoroom Pricing: Official Subscription Tiers
 *   Pebblely Pricing: Subscription and Image Credits
 *   Jungle Scout: Ecommerce Photography Costs for 2026

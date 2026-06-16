@@ -47,7 +47,7 @@ Audit your current image production costs today by dividing your monthly photogr
 
 Standardize your aspect ratios across channels by using this comparison to identify which tool supports the specific dimensions required by your secondary marketplaces.
 
-| Feature | Amazon Seller Central AI | Flair AI | PixelMatch |
+| Feature | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central AI | Flair AI | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Quick lifestyle backgrounds for Amazon Ads | Creative, manual scene composition | High-volume, multi-platform batching |
 | **Main [Image Generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes)** | No (Limited to lifestyle/backgrounds) | Possible (Manual background removal) | Yes (Automated 255,255,255 white) |

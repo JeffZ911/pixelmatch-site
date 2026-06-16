@@ -82,7 +82,7 @@ By using an ecommerce batch [image editor](https://pixelmatch.art/blog/policy/sh
 ![Results: 48-Hour Compliance and a 3.4% CTR](/img/breaking-amazon-prime-day-2026-image-requirements/inline-4.webp)
 
 
-Track your Click-Through Rate (CTR) using Amazon’s "Manage Your Experiments" tool to compare your new AI-optimized hero images against your old assets. The results for the beauty brand were immediate and measurable. By automating the compliance process for the breaking [Amazon Prime](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) Day 2026 image requirements, the team updated all 150 SKUs in just 48 hours—a task that previously would have taken weeks of back-and-forth with a retouching agency.
+Track your Click-Through Rate (CTR) using Amazon’s "Manage Your Experiments" tool to compare your new AI-optimized hero images against your old assets. The results for the beauty brand were immediate and measurable. By automating the compliance process for the breaking [Amazon Prime](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) [Day 2026 image](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) requirements, the team updated all 150 SKUs in just 48 hours—a task that previously would have taken weeks of back-and-forth with a retouching agency.
 
 The financial impact was equally significant. While a traditional studio like Soona would have cost $39 per photo, the brand's cost per listing photo dropped to an estimated $4.50. This figure accounts for the PixelMatch subscription and the internal team's time to review the batch outputs.
 
