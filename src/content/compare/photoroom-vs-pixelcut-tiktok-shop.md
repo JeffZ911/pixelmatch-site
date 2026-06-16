@@ -111,7 +111,7 @@ If your workflow involves taking one raw photo and needing it formatted for TikT
 ![Where Each Falls Short](/img/photoroom-vs-pixelcut-tiktok-shop/inline-5.webp)
 
 
-No tool is perfect, and 2026's AI still has specific technical hurdles that can lead to TikTok Shop listing rejections if you aren't careful.
+No tool is perfect, and 2026's AI still has specific technical hurdles that can lead to [TikTok Shop listing](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) rejections if you aren't careful.
 
 ### Photoroom's Batch Limitations
 The most frequent complaint from professional sellers regarding Photoroom is the session limit. Having to restart a batch every 50 images is a significant friction point if you are processing a 200-item collection. Furthermore, their desktop web app occasionally lacks the feature parity of the mobile app, meaning some advanced AI "cleanup" tools are only available on your phone.

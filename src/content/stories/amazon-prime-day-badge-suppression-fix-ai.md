@@ -42,7 +42,7 @@ With [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-202
 
 While some suppressions were pricing-related—Amazon requires the Prime Exclusive Discount price to be at least [15% lower than the reference price](https://sellercentral.amazon.com/help/hub/reference/G201186860)—the majority were flagged for main image violations. Amazon's automated systems have become increasingly aggressive in 2026, using computer vision to suppress listings that fail to meet the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) and [1,000 pixels or larger on the longest side](https://sellercentral.amazon.com/help/hub/reference/1881) requirements.
 
-The seller realized that their lifestyle-heavy main images, which had performed well in 2025, were now being rejected because they included "off-white" shadows or props that Amazon's 2026 algorithm identifies as clutter. Without a fix, they would lose the "Prime Day Deal" badge, effectively burying their products on page five of search results during the year's highest-traffic period.
+The seller realized that their lifestyle-heavy main images, which had performed well in 2025, were now being rejected because they included "off-white" shadows or props that Amazon's 2026 algorithm identifies as clutter. Without a fix, they would lose the "[Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) Deal" badge, effectively burying their products on page five of search results during the year's highest-traffic period.
 
 ## What Wasn't Working: Manual Edits and General-Purpose Tools
 

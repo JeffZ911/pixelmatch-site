@@ -126,7 +126,7 @@ Finally, always upscale your final renders. To meet Shopify’s [2048 x 2048 px 
 | :--- | :--- |
 | Amazon Product Image Requirements | [Seller Central Guide](https://sellercentral.amazon.com/help/hub/reference/external/G1811) |
 | Shopify Product Media Types | [Shopify Help Center](https://help.shopify.com/en/manual/products/product-media/product-media-types) |
-| TikTok Shop Listing Guidelines | TikTok Seller Academy |
+| TikTok [Shop Listing](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) Guidelines | TikTok Seller Academy |
 | Etsy Image Requirements | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015663347) |
 | Stable Diffusion 3 Technical Release | Stability AI News |
 

@@ -147,5 +147,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Shopify Image Specifications & Best Practices](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   [Etsy Image Requirements for Sellers](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop)
 *   Midjourney Subscription Plans and Features
-*   Black Forest Labs - Flux 2 Model Release Notes
+*   Black Forest Labs - [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism) Model Release Notes
 *   Fal.ai Flux 2 API Pricing

@@ -45,7 +45,7 @@ Audit your current listings against the table below to identify which items requ
 | Requirement Category | Specific Rule | Required Action |
 | :--- | :--- | :--- |
 | **AI-Generated Digital Art** | Must be disclosed as AI-created | Add disclosure to the listing description. |
-| **AI Human Models** | Must have "conspicuous" disclosure | Overlay an "AI model used" badge per the NY AI Transparency Act. |
+| **AI Human Models** | Must have "conspicuous" disclosure | Overlay an "[AI model](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) used" badge per the NY AI Transparency Act. |
 | **AI Backgrounds** | Permitted for mockups | Ensure the product itself is real; use tools like PixelMatch for compliant backgrounds. |
 | **Primary Listing Photo** | Must represent the actual item | Do not use AI to generate the core product in the [main image](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop). |
 | **AI Prompt Bundles** | Strictly prohibited | Remove any listings selling AI prompt sets. |

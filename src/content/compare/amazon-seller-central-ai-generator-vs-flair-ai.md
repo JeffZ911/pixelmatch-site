@@ -36,7 +36,7 @@ Managing a 500-SKU catalog across Amazon, Shopify, and TikTok Shop shouldn't mea
 
 Audit your current image production costs today by dividing your monthly photography spend by the number of unique lifestyle assets produced to see if a $0 or $10/month tool can replace your current workflow.
 
-*   **Amazon’s native tool** is built directly into Seller Central and is available [at no additional cost](https://sellercentral.amazon.com/) for basic lifestyle background generation. It is the path of least resistance for sellers who only operate within the Amazon ecosystem and need quick assets for Sponsored Brands.
+*   **Amazon’s native tool** is built directly into [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) and is available [at no additional cost](https://sellercentral.amazon.com/) for basic lifestyle background generation. It is the path of least resistance for sellers who only operate within the Amazon ecosystem and need quick assets for Sponsored Brands.
 *   **Flair AI** provides a robust drag-and-drop editor and AI fashion models, with a Pro plan at $10/month for more creative control. It is designed for "manual" creativity, allowing you to place products in 3D-like scenes with high precision.
 *   **PixelMatch** bridges the gap that both tools leave open: batch processing. While Amazon and Flair require you to work one image at a time, PixelMatch is engineered for multi-platform sellers who need to batch-generate platform-compliant images for hundreds of SKUs simultaneously, ensuring every shot meets the specific [Amazon main image pure white background rules](https://sellercentral.amazon.com/help/hub/reference/G1881) and TikTok Shop’s 1:1 requirements.
 

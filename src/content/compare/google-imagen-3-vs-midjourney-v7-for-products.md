@@ -99,7 +99,7 @@ Google charges per successful request through Vertex AI. This is a "pay-as-you-g
 ![Best For (By Seller Profile)](/img/google-imagen-3-vs-midjourney-v7-for-products/inline-4.webp)
 
 
-Not every ecommerce store has the same creative needs. A private label Amazon seller has different requirements than a high-end furniture brand on Shopify.
+Not every ecommerce store has the same creative needs. A private label [Amazon seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) has different requirements than a high-end furniture brand on Shopify.
 
 ### 1. The Boutique Brand Builder: Midjourney v7
 If you are selling a "feeling" rather than just a product, Midjourney is your tool. It understands lighting, texture, and composition better than any other model. 

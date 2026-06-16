@@ -121,7 +121,7 @@ Photoroom is a mobile-first background remover and resizer that is popular among
 Pebblely focuses on using AI to place products into realistic lifestyle scenes.
 *   **Pricing:** The Free tier provides 40 images per month. The Basic plan is $19 per month (limited to 200 images), and the Pro plan is $39 per month (up to 1,000 images).
 *   **Batch Capabilities:** Pebblely allows for some batch processing, but its primary strength is the aesthetic quality of the AI backgrounds rather than the raw speed of resizing.
-*   **Best For:** Creating the "lifestyle" images (slots 2-9) for your TikTok Shop listing once your main cover image is secured.
+*   **Best For:** Creating the "lifestyle" images (slots 2-9) for your [TikTok Shop listing](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) once your main cover image is secured.
 
 ### Canva & Adobe Express
 

@@ -39,7 +39,7 @@ Audit your current creative assets against this technical checklist to prevent i
 | :--- | :--- | :--- |
 | **Minimum Resolution** | 600 x 600 pixels | Official TikTok Seller Help Center |
 | **Recommended Resolution** | 800 x 800 pixels or higher | TikTok Catalog Best Practices |
-| **Aspect Ratio** | 1:1 (Square) | TikTok Shop Listing Policy |
+| **Aspect Ratio** | 1:1 (Square) | TikTok [Shop Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) |
 | **File Formats** | JPG, JPEG, PNG | Seller Center Upload Requirements |
 | **Maximum File Size** | 5MB per image | Technical Upload Limit |
 | **Image Quantity** | 1 to 9 images | Product Listing Guidelines |

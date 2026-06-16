@@ -94,7 +94,7 @@ Images falling below the 600x600 pixel threshold are blocked at the upload stage
 
 ### Prohibited Overlays and Brand Infringement
 
-Including brand logos (other than your own), promotional text, or watermarks on the main image violates the Product Listing Policy. This includes subtle watermarks often added by stock photo sites or supplier catalogs. TikTok also scans for "clickbait" elements, such as fake "Play" buttons or notification badges drawn onto the image. If you are selling a multi-pack, the main image must show the exact number of items the customer will receive; using a "3-pack" text overlay instead of showing three items visually is a common reason for rejection.
+Including brand logos (other than your own), promotional text, or watermarks on the main image violates the Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616). This includes subtle watermarks often added by stock photo sites or supplier catalogs. TikTok also scans for "clickbait" elements, such as fake "Play" buttons or notification badges drawn onto the image. If you are selling a multi-pack, the main image must show the exact number of items the customer will receive; using a "3-pack" text overlay instead of showing three items visually is a common reason for rejection.
 
 ## How to Fix Each Issue
 

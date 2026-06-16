@@ -101,7 +101,7 @@ Amazon requires A+ Content to provide *additional* value beyond the main product
 
 ### Prohibited Claims
 The 2026 moderation guidelines are particularly strict regarding health and environmental claims.
-*   **Environmental Claims:** Do not use "Eco-Friendly," "Biodegradable," or "Carbon Neutral" unless you have the specific certification badges recognized by Amazon’s Climate Pledge Friendly program.
+*   **Environmental Claims:** Do not use "Eco-Friendly," "Biodegradable," or "Carbon Neutral" unless you have the specific certification badges recognized by Amazon’s [Climate Pledge Friendly](https://pixelmatch.art/blog/policy/amazon-climate-pledge-friendly-image-requirements) program.
 *   **Health Claims:** Any mention of "FDA Approved" or "Cures [Disease]" without verified documentation will lead to a rejection and a potential "Restricted Product" flag on your entire ASIN.
 *   **Customer Reviews:** You are allowed a maximum of four quotes in A+ Content, but they must be from reputable publications or verified public figures. You cannot pull a quote from a random customer review on your own listing.
 
@@ -145,7 +145,7 @@ Verify these policies directly on the Amazon Seller Central portal to ensure you
 | **A+ Content Guidelines** | Official policy on prohibited claims | [sellercentral.amazon.com/help/hub/reference/G202102960](https://sellercentral.amazon.com/help/hub/reference/G202102960) |
 | **Brand Registry Enrollment** | Register your trademark with Amazon | <a href="https://www.amazon.com/s?k=brandservices.amazon.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">brandservices.amazon.com</a> |
 | **IP Accelerator** | Find Amazon-approved law firms for trademarks | <a href="https://www.amazon.com/s?k=brandservices.amazon.com%2Fipaccelerator&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">brandservices.amazon.com/ipaccelerator</a> |
-| **Climate Pledge Friendly** | Requirements for environmental claims | <a href="https://www.amazon.com/s?k=amazon.com%2Fb%3Fnode%3D21221608011&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">amazon.com/b?node=21221608011</a> |
+| **Climate [Pledge Friendly](https://pixelmatch.art/blog/policy/amazon-climate-pledge-friendly-image-requirements)** | Requirements for environmental claims | <a href="https://www.amazon.com/s?k=amazon.com%2Fb%3Fnode%3D21221608011&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">amazon.com/b?node=21221608011</a> |
 
 
 <!-- pm-cta:foot -->

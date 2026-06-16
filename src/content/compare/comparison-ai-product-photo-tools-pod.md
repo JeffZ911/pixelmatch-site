@@ -159,7 +159,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   **Amazon Seller Central:** [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
+*   **[Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix):** [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
 *   **Shopify Help Center:** [Product image specifications](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   **TikTok Shop Seller Center:** Image and Video Guidelines
 *   **Etsy Help:** [Requirements for Listing Photos](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)
