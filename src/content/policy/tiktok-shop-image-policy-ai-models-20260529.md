@@ -146,7 +146,7 @@ To stay ahead of policy shifts, you must monitor the official TikTok Shop docume
 *   Monitor the TikTok Shop Violation Points System to see which image-related errors carry the heaviest penalties.
 
 ### Actionable Step: Set a Monthly Policy Review
-On the first Monday of every month, visit the "Announcements" section of the TikTok Seller Center. Search for "AI" or "AIGC" to see if the platform has updated its detection algorithms or disclosure requirements. In the fast-moving 2026 ecommerce landscape, a policy change can happen overnight.
+On the first Monday of every month, visit the "Announcements" section of the TikTok Seller Center. Search for "AI" or "AIGC" to see if the platform has updated its detection algorithms or [disclosure requirements](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026). In the fast-moving 2026 ecommerce landscape, a policy change can happen overnight.
 
 
 <!-- pm-cta:foot -->

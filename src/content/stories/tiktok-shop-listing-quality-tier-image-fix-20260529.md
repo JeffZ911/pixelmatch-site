@@ -37,7 +37,7 @@ Your TikTok Shop visibility lives or dies by the "Listing Quality Tier" (LQT) as
 
 You are likely experiencing the same frustration as a mid-sized beauty seller doing $30k-$50k in monthly revenue: your Shopify store is thriving, but your TikTok Shop integration is stalled. When this composite seller first synced their catalog, they found that 85% of their 200 SKUs were flagged with "Poor" listing quality warnings.
 
-The TikTok Shop Listing Quality Tier (LQT) system categorizes products into four levels: Poor, Fair, Good, and Excellent. To even qualify for organic traffic in the Shop Tab or to be eligible for "Product Deals" campaigns, you must reach the "Good" tier. This seller’s beauty products—ranging from serums to matte lipsticks—failed because their images didn't meet the platform's rigid structural requirements.
+The TikTok [Shop Listing](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) Quality Tier (LQT) system categorizes products into four levels: Poor, Fair, Good, and Excellent. To even qualify for organic traffic in the Shop Tab or to be eligible for "Product Deals" campaigns, you must reach the "Good" tier. This seller’s beauty products—ranging from serums to matte lipsticks—failed because their images didn't meet the platform's rigid structural requirements.
 
 To fix your status today, you must audit your Seller Center "Manage Products" page and identify which of the following TikTok Shop image requirements you are currently violating:
 *   **Quantity:** You must provide at least 5 images per listing to move from "Fair" to "Good."

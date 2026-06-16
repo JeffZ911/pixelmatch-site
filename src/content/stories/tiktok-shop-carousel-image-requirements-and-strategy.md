@@ -170,6 +170,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   TikTok Shop Product Image Guidelines (Official)
-*   TikTok Shop Listing Quality Score Requirements
+*   [TikTok Shop Listing](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) Quality Score Requirements
 *   Photoroom Pricing and Batch Limits
 *   TikTok Seller University: Product Optimization

@@ -96,7 +96,7 @@ PixelMatch is built for the professional FBA seller who finds credit systems fru
 Not every [Amazon seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) has the same needs. A person flipping used electronics via retail arbitrage has a vastly different workflow than a private label brand owner launching a custom supplement line.
 
 ### When to Choose Pixelcut
-Choose Pixelcut if you are a "mobile-first" seller. If your entire business is run from your phone—shooting photos in your garage and listing directly via the Amazon Seller app—Pixelcut’s mobile interface is unbeatable. It is excellent for:
+Choose Pixelcut if you are a "mobile-first" seller. If your entire business is run from your phone—shooting photos in your garage and listing directly via the [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) app—Pixelcut’s mobile interface is unbeatable. It is excellent for:
 *   Quickly removing messy backgrounds from one-off items.
 *   Creating social media stories to drive "off-Amazon" traffic.
 *   Sellers who do not need high-resolution upscaling for large-format printing or 4K displays.

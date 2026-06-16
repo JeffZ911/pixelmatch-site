@@ -148,7 +148,7 @@ If your TikTok ad includes an AI label, your landing page should also feature a 
 
 *   TikTok Shop Seller Center: AI-Generated Content Policy
 *   TikTok Newsroom: Our Approach to Labeling AI-Generated Content
-*   TikTok Ads Manager: AI Disclosure Requirements
+*   TikTok Ads Manager: AI [Disclosure Requirements](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026)
 *   TikTok Shop Seller Center: Product Image Specifications
 *   Stripe Official Pricing Page
 *   Photoroom Official Pricing

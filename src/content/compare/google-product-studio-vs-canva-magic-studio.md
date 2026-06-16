@@ -82,7 +82,7 @@ Calculate your monthly per-image cost by dividing your subscription fee by the n
 ![Best For (By Seller Profile)](/img/google-product-studio-vs-canva-magic-studio/inline-4.webp)
 
 
-Map your channel-specific requirements to the tool that minimizes your clicks per listing. A Shopify seller has different needs than a brand registered Amazon seller.
+Map your channel-specific requirements to the tool that minimizes your clicks per listing. A Shopify seller has different needs than a brand registered [Amazon seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix).
 
 ### When to use Google Product Studio
 Use Google Product Studio if you are a Shopify or WooCommerce merchant whose primary sales driver is Google Shopping. Because it is integrated into the [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide), you can update your "Seasonal" images (e.g., adding a holiday-themed background) without ever leaving the platform.

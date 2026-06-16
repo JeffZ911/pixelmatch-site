@@ -63,7 +63,7 @@ The brand initially looked for "free" or "budget" alternatives to professional a
 
 ### Amazon’s Native AI Image Generator
 The brand attempted to <a href="https://www.amazon.com/s?k=generate+lifestyle+backgrounds+in+Amazon+Seller+Central&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">generate lifestyle backgrounds in Amazon Seller Central</a> using Amazon’s free AI [Image Generator](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial). While this tool is integrated into the <a href="https://www.amazon.com/s?k=Amazon+Ads+console&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Ads console</a> and is excellent for quickly creating Sponsored Brands banners, it has significant limitations for multi-platform sellers.
-- **Platform Silo:** Images generated within the Amazon ecosystem are often optimized for specific ad formats and are not easily exported in the high-res, varied aspect ratios required for a Shopify hero banner or a TikTok Shop listing.
+- **Platform Silo:** Images generated within the Amazon ecosystem are often optimized for specific ad formats and are not easily exported in the high-res, varied aspect ratios required for a Shopify hero banner or a [TikTok Shop listing](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616).
 - **Resolution Caps:** The native tool often prioritizes speed over raw pixel count, making it difficult to hit the [2048 x 2048 px standard recommended for Shopify](https://www.shopify.com/blog/image-sizes) without significant upscaling artifacts.
 
 ### Generic Design Tools

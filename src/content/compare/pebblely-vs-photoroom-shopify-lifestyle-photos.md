@@ -170,6 +170,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Shopify Help Center: [Product image specifications and requirements](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-requirements)
 *   Pebblely Official Pricing: pebblely.com/pricing
 *   Photoroom Pricing and Plans: photoroom.com/pricing
-*   Amazon Seller Central: [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
+*   [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix): [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
 *   TikTok Shop Academy: Product Image Guidelines
 *   Stripe Pricing for SaaS: stripe.com/pricing

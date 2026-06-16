@@ -156,7 +156,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Amazon Seller Central: Product image requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
-*   TikTok Shop Seller Center: Product Listing Policy
+*   TikTok Shop Seller Center: Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616)
 *   [Shopify Help Center: Product media types and specs](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   [Etsy Help: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347)
 *   [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) Prompting Guide & Leak Analysis
