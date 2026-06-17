@@ -82,7 +82,7 @@ To solve the "floating product" problem and achieve studio-quality lighting with
 [IC-Light (Imposing Consistent Light)](https://github.com/lllyasviel/IC-Light) is an open-source model designed specifically to relight objects based on a reference image or a lighting map. Unlike standard image generators, IC-Light preserves the identity of your product while changing how light interacts with its surface.
 
 ### The Node-Based Architecture
-The workflow uses ComfyUI, a node-based GUI for Stable Diffusion. This setup allows for precise control over every stage of the image generation process. The brand's workflow consisted of three primary stages:
+The workflow uses ComfyUI, a node-based GUI for [Stable Diffusion](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615). This setup allows for precise control over every stage of the image generation process. The brand's workflow consisted of three primary stages:
 
 1.  **The Masking Stage (BiRefNet):** Instead of using standard background removers, they used the [BiRefNet node](https://github.com/ZhengPeng7/BiRefNet), which is currently one of the most accurate open-source models for identifying object boundaries, especially for complex items like hair or translucent glass.
 2.  **The IC-Light Conditioning Stage:** The masked product is fed into an IC-Light node. This node takes two inputs: the product image and a "light source" (either a background image or a simple gradient). The model then calculates how the light from that source would wrap around the bottle and what kind of shadow it would cast on the surface.
@@ -180,7 +180,7 @@ Currently, neither Amazon nor Shopify prohibits the use of AI to enhance product
 Transparent objects are the hardest to get right. You should use the "IC-Light-V2" models if available, as they have better handling of light refraction. Additionally, ensure your initial mask (from BiRefNet) is set to "soft" rather than "binary," allowing some of the background light to "bleed" through the glass as it would in a real photo.
 
 ### Do I need to be a coder to use a ComfyUI workflow?
-You don't need to write code, but you do need to understand "logic flows." ComfyUI is a visual programming interface. If you find the node-based setup overwhelming, you are better off using a dedicated ecommerce AI tool like PixelMatch, which handles the complex "under-the-hood" lighting physics for you.
+You don't need to write code, but you do need to understand "logic flows." ComfyUI is a visual programming interface. If you find the node-based setup overwhelming, you are better off using a dedicated [ecommerce AI](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) tool like PixelMatch, which handles the complex "under-the-hood" lighting physics for you.
 
 
 <!-- pm-cta:foot -->

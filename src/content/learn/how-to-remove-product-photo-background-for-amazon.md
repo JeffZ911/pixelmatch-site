@@ -160,7 +160,7 @@ The most common reasons for image suppression in 2026 include:
 4.  **Prohibited Content:** You included a logo, watermark, or a prop that isn't part of the product.
 
 ### How do I fix a "Search Suppressed" listing due to images?
-Navigate to "Manage All Inventory" in Seller Central and look for the "Search Suppressed" status. Click "Edit," go to the "Images" tab, and upload a new, compliant JPEG. Amazon’s system typically takes 15 minutes to 6 hours to re-index the listing and restore it to search results after the update.
+Navigate to "Manage All Inventory" in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) and look for the "Search Suppressed" status. Click "Edit," go to the "Images" tab, and upload a new, compliant JPEG. Amazon’s system typically takes 15 minutes to 6 hours to re-index the listing and restore it to search results after the update.
 
 
 <!-- pm-cta:foot -->

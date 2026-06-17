@@ -129,7 +129,7 @@ If you are a multi-platform seller, your TikTok Shop assets need to be consisten
 
 To stay updated on policy changes as they happen throughout 2026, bookmark these official TikTok resources:
 
-*   **TikTok Shop Seller Center:** Product Listing Policy & Image Guidelines - The definitive guide for listing health and image requirements.
+*   **TikTok Shop Seller Center:** Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) & Image Guidelines - The definitive guide for listing health and image requirements.
 *   **TikTok For Business:** Best Practices for Catalog - Technical specs for images used in the Shop tab and Shopping Ads.
 *   **TikTok Ads Manager Help:** Rejection Reasons and Suggestions - A checklist of why images and videos are rejected during the review process.
 *   **Photoroom Pricing:** Official Pricing Page - Reference for competitor Pro tier features and costs.

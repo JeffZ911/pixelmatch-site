@@ -137,7 +137,7 @@ If you don't have Photoshop, free tools like GIMP or online converters like "CMY
 ![Official Source Links](/img/amazon-brand-registry-a-plus-content-image-specs/inline-5.webp)
 
 
-Verify these policies directly on the Amazon Seller Central portal to ensure you are viewing the most recent updates for your specific region (US, UK, EU, etc.).
+Verify these policies directly on the [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) portal to ensure you are viewing the most recent updates for your specific region (US, UK, EU, etc.).
 
 | Resource | Purpose | URL |
 | :--- | :--- | :--- |
@@ -156,7 +156,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 **Start free →**
 
 ## Sources
-*   Amazon Seller Central: A+ Content Specifications and Images (verified 2026-05-18)
+*   Amazon [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix): A+ Content Specifications and Images (verified 2026-05-18)
 *   Amazon Brand Services: Brand Registry Requirements (verified 2026-05-18)
 *   Jungle Scout: Amazon A+ Content Guide for Sellers (updated 2026)
 *   Helium 10: Optimizing Amazon A+ Content for Mobile (updated 2026)

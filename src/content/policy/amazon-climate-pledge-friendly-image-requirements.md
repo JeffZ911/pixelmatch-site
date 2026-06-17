@@ -151,7 +151,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Amazon Seller Central: [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
+*   [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix): [Product image requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
 *   Amazon Business: <a href="https://www.amazon.com/s?k=Climate+Pledge+Friendly+program+details&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Climate Pledge Friendly program details</a>
 *   Amazon Advertising: <a href="https://www.amazon.com/s?k=Creative+specifications+and+policies&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Creative specifications and policies</a>
-*   Amazon Seller Central: [Sustainability Solution Hub enrollment](https://sellercentral.amazon.com/help/hub/reference/GE94565V5PDYL5MZ)
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central: [Sustainability Solution Hub enrollment](https://sellercentral.amazon.com/help/hub/reference/GE94565V5PDYL5MZ)

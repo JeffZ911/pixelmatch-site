@@ -142,7 +142,7 @@ To prevent a white product from "disappearing" into a pure white background, you
 TikTok Shop allows a maximum of 9 images per product listing. To reach the "Good" quality tier, which can improve your search visibility and eligibility for Mall promotions, you must upload at least 5 images. Each image must be under 5MB.
 
 ### Does TikTok Shop Mall allow text overlays for sales or discounts?
-No, text overlays like "50% Off" or "Limited Time Offer" are strictly prohibited on product images according to the TikTok Shop Product Listing Policy. Including such text can lead to your listing being suppressed or your Mall status being reviewed. All promotional information should be handled through the "Promotions" tool in the Seller Center, which adds a compliant badge to your listing automatically.
+No, text overlays like "50% Off" or "Limited Time Offer" are strictly prohibited on product images according to the TikTok Shop Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616). Including such text can lead to your listing being suppressed or your Mall status being reviewed. All promotional information should be handled through the "Promotions" tool in the Seller Center, which adds a compliant badge to your listing automatically.
 
 ## Official Source Links
 

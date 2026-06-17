@@ -154,7 +154,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Amazon Seller Central - Product Image Requirements: `https://sellercentral.amazon.com/help/hub/reference/G1881`
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central - Product Image Requirements: `https://sellercentral.amazon.com/help/hub/reference/G1881`
 *   Amazon Seller Central - Category Style Guides: `https://sellercentral.amazon.com/help/hub/reference/G201102630`
 *   Photoroom Pricing: `
 *   Pebblely Pricing: `https://pebblely.com/pricing`
