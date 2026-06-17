@@ -133,8 +133,8 @@ Once your images are corrected, follow these steps to lift the suppression:
 
 Refer to these official resources to stay updated on policy shifts, as Amazon frequently adjusts its "Imaging Algorithm" sensitivity without public announcements.
 
-*   **Amazon Seller Central - Product Image Requirements:** [https://sellercentral.amazon.com/help/hub/reference/G1881](https://sellercentral.amazon.com/help/hub/reference/G1881)
-*   **Amazon Seller Central - Image Issues and Suppression:** [https://sellercentral.amazon.com/help/hub/reference/200405880](https://sellercentral.amazon.com/help/hub/reference/200405880)
+*   **[Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) - Product Image Requirements:** [https://sellercentral.amazon.com/help/hub/reference/G1881](https://sellercentral.amazon.com/help/hub/reference/G1881)
+*   **Amazon [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) - Image Issues and Suppression:** [https://sellercentral.amazon.com/help/hub/reference/200405880](https://sellercentral.amazon.com/help/hub/reference/200405880)
 *   **Amazon Brand Registry - Photography Guidelines:** <a href="https://www.amazon.com/s?k=https%3A%2F%2Fbrandservices.amazon.com%2F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">https://brandservices.amazon.com/</a>
 
 
@@ -147,7 +147,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Amazon Seller Central Help: "Product image requirements" (Accessed May 2026).
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central Help: "Product image requirements" (Accessed May 2026).
 *   Adobe Express Pricing Page: undisclosed (Referencing 2024/2025 standard rates of $9.99/mo).
 *   Canva Pro Pricing: undisclosed (Referencing 2025 standard rates of $120/year).
 *   Remove.bg Pricing: undisclosed (Referencing 2025 credit-based pricing).

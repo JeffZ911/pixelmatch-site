@@ -111,7 +111,7 @@ Before re-uploading, use a "validator" approach. Upload your image to a private 
 ![Official Source Links](/img/amazon-main-image-requirements-2026/inline-5.webp)
 
 
-Always refer to the primary documentation in Seller Central to stay updated on policy shifts, as Amazon frequently updates category-specific requirements (such as those for Clothing or Shoes).
+Always refer to the primary documentation in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) to stay updated on policy shifts, as Amazon frequently updates category-specific requirements (such as those for Clothing or Shoes).
 
 *   [Amazon Product Image Requirements (Ref ID 1881)](https://sellercentral.amazon.com/help/hub/reference/1881): The definitive guide for technical and content standards.
 *   [Amazon Intellectual Property Policy (Ref ID 201361070)](https://sellercentral.amazon.com/help/hub/reference/201361070): Guidelines on why you cannot use certain logos or watermarks.

@@ -43,7 +43,7 @@ Audit your current export settings in Lightroom, Canva, or Photoshop against the
 | **Supported Formats** | .jpg, .gif, .png, .svg, .heic | Unsupported formats (like .webp) will fail to upload |
 | **File Size Limit** | Under 1MB per image | Frequent "Upload Timeout" errors on mobile/slow Wi-Fi |
 | **Aspect Ratio** | 4:3 (First image) | Thumbnail will be cropped awkwardly in search results |
-| **Color Profile** | sRGB | Colors will appear dull or "washed out" to the buyer |
+| **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix)** | sRGB | Colors will appear dull or "washed out" to the buyer |
 
 **Actionable Step:** Open your most recent listing on a desktop browser. Hover over the main image. If the cursor does not change to a magnifying glass, your image is under the 2000px threshold. Re-export your original files at 2000px width immediately to reactivate the zoom feature.
 

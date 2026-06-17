@@ -47,7 +47,7 @@ Run a technical audit of your current listing images against the table below. If
 | **Reviewer Content Rules** | No [barcodes, children's faces, or license plates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85WAMZFEHL) | Community Guidelines |
 | **File Formats** | JPEG (.jpg), PNG (.png), TIFF (.tif), or GIF (.gif) | Amazon [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |
 
-[IMAGE PLACEHOLDER: A side-by-side comparison of a compliant Amazon seller main image (pure white background) and a rejected image with props. Aspect Ratio: 16:9]
+[IMAGE PLACEHOLDER: A side-by-side comparison of a compliant [Amazon seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) main image (pure white background) and a rejected image with props. Aspect Ratio: 16:9]
 
 ## Detailed Requirements
 

@@ -93,7 +93,7 @@ Avoid using "Your Text Here" or blank white mockups as your primary listing imag
 
 Resist the urge to use AI "beauty filters" on your products. While background removal is encouraged, using AI to digitally remove scratches from a vintage item or to change the texture of a fabric is considered deceptive. If the AI tool alters the physical attributes of the product—such as making a 3D-printed surface look injection-molded—the listing violates the [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study).
 
-**Actionable Step:** Compare your physical product in natural light to your primary listing photo. If the photo hides material defects or changes the color profile by more than 10%, re-edit the photo using a neutral color-correction tool rather than a generative "enhance" feature.
+**Actionable Step:** Compare your physical product in natural light to your primary listing photo. If the photo hides material defects or changes the [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix) by more than 10%, re-edit the photo using a neutral color-correction tool rather than a generative "enhance" feature.
 
 ## How to Fix Each Issue
 
