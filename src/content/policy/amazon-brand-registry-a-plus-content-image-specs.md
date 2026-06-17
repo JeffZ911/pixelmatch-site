@@ -52,7 +52,7 @@ Audit your current image library against the 2 MB limit before you start the upl
 *   **Accepted File Formats:** JPG, PNG, and BMP.
 *   **Prohibited Formats:** Animated GIFs and TIFF files.
 *   **Minimum Resolution:** 72 DPI (Dots Per Inch).
-*   **Color Profile:** RGB (SRGB preferred).
+*   **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix):** RGB (SRGB preferred).
 
 ## Detailed Requirements
 

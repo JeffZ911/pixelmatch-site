@@ -39,7 +39,7 @@ Run a technical audit of your current listing images against the table below. If
 
 | Requirement Type | Specification | Source/Policy |
 | :--- | :--- | :--- |
-| **Minimum Dimensions** | [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) (required for zoom) | Amazon Seller Central |
+| **Minimum Dimensions** | [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) (required for zoom) | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central |
 | **Recommended Dimensions** | [2000 × 2000 pixels](https://sellercentral.amazon.com/help/hub/reference/G1881) (optimal for high-res displays) | Amazon Seller Central |
 | **Main Image Background** | [Pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) | Amazon Seller Central |
 | **Frame Coverage** | Product must occupy at least [85% of the image frame](https://sellercentral.amazon.com/help/hub/reference/G1881) | Amazon Seller Central |

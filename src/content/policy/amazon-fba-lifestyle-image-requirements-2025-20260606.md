@@ -88,7 +88,7 @@ For secondary lifestyle images:
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Open your "Fix Your Products" dashboard in Seller Central weekly to check for image-related alerts. Amazon's AI-driven moderation is increasingly aggressive, often rejecting images within minutes of an upload if they fail to meet the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) standard.
+Open your "Fix Your Products" dashboard in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) weekly to check for image-related alerts. Amazon's AI-driven moderation is increasingly aggressive, often rejecting images within minutes of an upload if they fail to meet the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) standard.
 
 The most frequent reasons for rejection in 2025 include:
 

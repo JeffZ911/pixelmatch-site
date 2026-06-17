@@ -41,9 +41,9 @@ Run a manual audit of your top 10 highest-revenue ASINs against this checklist t
 | **Minimum Dimension** | [1,000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/1881) | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central |
 | **Maximum Dimension** | [10,000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/1881) | [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) |
 | **Product Fill** | [Minimum 85% of the image frame](https://sellercentral.amazon.com/help/hub/reference/1881) | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central |
-| **File Formats** | JPEG (.jpg), TIFF (.tif), PNG (.png), or GIF (.gif) | Amazon Seller Central |
-| **File Size** | [Maximum 10MB per image](https://sellercentral.amazon.com/help/hub/reference/1881) | Amazon Seller Central |
-| **Prohibited Elements** | Text, logos, watermarks, borders, inset images, props | Amazon Seller Central |
+| **File Formats** | JPEG (.jpg), TIFF (.tif), PNG (.png), or GIF (.gif) | [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) |
+| **File Size** | [Maximum 10MB per image](https://sellercentral.amazon.com/help/hub/reference/1881) | Amazon [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) |
+| **Prohibited Elements** | Text, logos, watermarks, borders, inset images, props | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central |
 
 ## Detailed Requirements
 

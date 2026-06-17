@@ -47,7 +47,7 @@ Audit your current distribution channels before committing to a tool: if 80% of 
 ![Side-by-Side Feature Table](/img/google-product-studio-vs-canva-magic-studio/inline-2.webp)
 
 
-Enable the "Increase Resolution" toggle in [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Next to automatically upscale low-quality vendor assets to meet the minimum 100x100 pixel requirement for non-apparel items. While both Google and Canva offer generative AI, their feature sets serve different stages of the funnel. Google Product Studio is a utility for search visibility, whereas [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio is a creative engine for brand storytelling.
+Enable the "Increase Resolution" toggle in [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Next to automatically upscale low-quality vendor assets to meet the minimum 100x100 pixel requirement for non-apparel items. While both Google and Canva offer generative AI, their feature sets serve different stages of the funnel. [Google Product Studio](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) is a utility for search visibility, whereas [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio is a creative engine for brand storytelling.
 
 ### Google Product Studio Features
 Google’s toolset is built directly into [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center Next, meaning your edits sync directly with your product feed. 
@@ -69,9 +69,9 @@ While Google and Canva focus on the *art* of the image, PixelMatch focuses on th
 ![Pricing Comparison](/img/google-product-studio-vs-canva-magic-studio/inline-3.webp)
 
 
-Audit your software stack to see if you are paying for Canva Pro solely for background removal; if so, switch to Google Product Studio’s free tool to save $180 per year. Pricing for these tools is straightforward, but the "hidden cost" is the time spent on manual edits.
+Audit your software stack to see if you are paying for Canva Pro solely for background removal; if so, switch to [Google Product](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) Studio’s free tool to save $180 per year. Pricing for these tools is straightforward, but the "hidden cost" is the time spent on manual edits.
 
-*   **Google Product Studio:** This tool is entirely free for any merchant using Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Next. There are no per-image credits or monthly subscriptions. undisclosed regarding any future paid premium tiers for Google Product Studio.
+*   **Google [Product Studio](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617):** This tool is entirely free for any merchant using Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Next. There are no per-image credits or monthly subscriptions. undisclosed regarding any future paid premium tiers for Google Product Studio.
 *   **[Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio:** To access the full suite of AI tools, you must have a paid subscription. Canva Pro costs $15/month or $120/year for one person. For teams, Canva for Teams starts at $30/month for a minimum of 3 users.
 *   **PixelMatch:** Designed for professional sellers, PixelMatch uses a credit-based or subscription model tailored for batch generation, ensuring you only pay for the high-volume output you actually need for your catalog.
 

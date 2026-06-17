@@ -92,7 +92,7 @@ Main images must not contain props that are not part of the product. While a "se
 ![How to Fix Each Issue](/img/amazon-rufus-visual-search-image-optimization-guide/inline-4.webp)
 
 
-Open your Amazon Seller Central "Voice of the Customer" dashboard. If you see complaints regarding "size" or "color," your images are failing to communicate technical specs to Rufus and your customers.
+Open your [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) "Voice of the Customer" dashboard. If you see complaints regarding "size" or "color," your images are failing to communicate technical specs to Rufus and your customers.
 
 ### Background Removal
 For existing photos that have shadows or off-white backgrounds, use AI-driven background removal. While tools like Removebg or Adobe Express offer quick fixes, ensure the output is strictly [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881). 

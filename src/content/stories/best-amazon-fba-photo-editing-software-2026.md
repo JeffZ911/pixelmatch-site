@@ -77,7 +77,7 @@ For secondary images (slots 2-9), the seller uses AI background generation to cr
 | **Turnaround Time** | 10 - 14 Days | 5 - 10 Minutes | < 60 Seconds (Batch) |
 | **Compliance Check** | Manual | Manual / Hit-or-Miss | Automated Amazon Preset |
 | **Batch Capacity** | N/A (Per Photo) | Often limited to 50 | Unlimited Batch Processing |
-| **Lifestyle Scenes** | Physical Props Required | AI Generated | AI Generated + Brand Presets |
+| **Lifestyle Scenes** | Physical Props Required | [AI Generated](https://pixelmatch.art/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix) | AI Generated + Brand Presets |
 
 ## Results (with Numbers)
 

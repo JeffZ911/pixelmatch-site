@@ -47,7 +47,7 @@ Failing to meet technical specs is the fastest way to trigger a "de-prioritizati
 | **Maximum File Size** | 1MB | Use WebP or high-compression JPEG. |
 | **Supported Formats** | .jpg, .gif, .png | Avoid transparency; it renders as black. |
 | **Thumbnail Crops** | Square, Portrait, Landscape | Keep product in the center 60% of the frame. |
-| **Color Profile** | sRGB | Ensure your AI tool exports in sRGB for color accuracy. |
+| **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix)** | sRGB | Ensure your AI tool exports in sRGB for color accuracy. |
 
 ## Step-by-Step Walkthrough
 

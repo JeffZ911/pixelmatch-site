@@ -121,7 +121,7 @@ Before the refresh, the brand’s average Click-Through Rate (CTR) was 1.2%. The
 The secondary lifestyle images played a major role here. By showing the product in a high-end bathroom setting, the brand visually answered the buyer's unspoken question: "Does this product belong in my daily routine?" 
 
 ### Compliance and Account Health
-Despite the heavy use of AI, the brand experienced zero listing suppressions. By strictly following the [Amazon image standards](https://sellercentral.amazon.com/help/hub/reference/G1881) for the main image (white background, no text) and using AI only for the environment in secondary images, they remained fully compliant with the amazon policy for ai generated product images.
+Despite the heavy use of AI, the brand experienced zero listing suppressions. By strictly following the [Amazon image standards](https://sellercentral.amazon.com/help/hub/reference/G1881) for the main image (white background, no text) and using AI only for the environment in secondary images, they remained fully compliant with the amazon policy for [ai generated](https://pixelmatch.art/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix) product images.
 
 ## Steps to Replicate
 
