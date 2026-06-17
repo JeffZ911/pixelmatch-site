@@ -64,7 +64,7 @@ Upload your images at the highest possible resolution while staying under the 1M
 | **Minimum Dimension** | 2000 px (shortest side) | Ensure zoom functionality remains active |
 | **File Size Limit** | Under 1 MB | Use JPG/WEBP with 90% quality compression |
 | **Aspect Ratio** | 1:1 or 4:3 | Keep consistent across the entire shop |
-| **Color Profile** | sRGB | Avoid CMYK to prevent "washed out" colors |
+| **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix)** | sRGB | Avoid CMYK to prevent "washed out" colors |
 
 ### Navigating Etsy's AI Policy
 

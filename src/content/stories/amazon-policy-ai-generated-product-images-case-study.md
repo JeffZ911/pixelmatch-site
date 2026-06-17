@@ -76,7 +76,7 @@ The most significant issue was resolution. Amazon requires images to be [at leas
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-To solve these issues, the brand implemented a three-step workflow using PixelMatch. This process ensured that every image generated was "born compliant" with the amazon policy for ai generated product images.
+To solve these issues, the brand implemented a three-step workflow using PixelMatch. This process ensured that every image generated was "born compliant" with the amazon policy for [ai generated](https://pixelmatch.art/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix) product images.
 
 ### Step 1: Main Image Compliance (The "Hero" Shot)
 The brand uploaded raw smartphone photos of their bottles taken in natural light. Using PixelMatch’s [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal, they stripped the original backgrounds and replaced them with a calibrated [RGB 255, 255, 255 white](https://sellercentral.amazon.com/help/hub/reference/G1881). 

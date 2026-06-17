@@ -35,7 +35,7 @@ As of 2025, Amazon allows lifestyle images as the main image ONLY for specific c
 ![Quick Reference Table](/img/amazon-fba-lifestyle-image-requirements-2025-20260606/inline-1.webp)
 
 
-Download your Image Health report from the "Inventory Reports" section of Seller Central to identify which of your current ASINs are at risk of suppression due to non-compliant imagery. Use the table below to verify the specific technical and stylistic requirements for your 2025 uploads.
+Download your Image Health report from the "Inventory Reports" section of [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) to identify which of your current ASINs are at risk of suppression due to non-compliant imagery. Use the table below to verify the specific technical and stylistic requirements for your 2025 uploads.
 
 | Feature | Main Image (Standard) | Main Image (Exceptions) | Secondary Images |
 | :--- | :--- | :--- | :--- |

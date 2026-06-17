@@ -62,7 +62,7 @@ A successful beauty brand owner was preparing to launch a new line of organic vi
 
 Moments later, the upload failed. Next to each thumbnail, a red warning icon appeared. The seller saw the label `IMG-9002.JPG` highlighted in red and immediately searched for an "amazon seller central [error code](https://pixelmatch.art/blog/stories/amazon-a-plus-content-error-code-9006-fix) img-9002 fix."
 
-The panic was real, but the diagnosis was wrong. "IMG-9002" is not a technical error code from Amazon's API; it is the default sequential filename assigned by Canon and Nikon cameras. The red warning indicates that the file *named* IMG-9002 failed to meet one or more of Amazon's strict [technical image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881). 
+The panic was real, but the diagnosis was wrong. "IMG-9002" is not a technical [error code](https://pixelmatch.art/blog/stories/amazon-a-plus-content-error-code-9006-fix) from Amazon's API; it is the default sequential filename assigned by Canon and Nikon cameras. The red warning indicates that the file *named* IMG-9002 failed to meet one or more of Amazon's strict [technical image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881). 
 
 **Actionable Step:** Before you contact Seller Support, click the "View Processing Report" button in the "Monitor Upload Status" tab. This spreadsheet will reveal the *actual* numeric error code (such as 20008 or 18644) that is preventing your listing from going live.
 

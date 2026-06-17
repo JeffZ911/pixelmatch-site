@@ -43,7 +43,7 @@ Compare your current listing assets against the following matrix to determine wh
 | Feature Type | Etsy Checkbox Required? | [Disclosure Badge](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) Required? | N.Y. S8420A Penalty Risk | Primary Attribution |
 | :--- | :--- | :--- | :--- | :--- |
 | **AI Human Model** | Yes | Yes ("[AI Model](https://pixelmatch.art/blog/policy/tiktok-shop-ai-model-policy-leak-2026) Used") | $1,000 per violation | Designed by Seller |
-| **AI Generated Product** | Yes | Recommended in Text | Low (Unless human-like) | Designed by Seller |
+| **[AI Generated](https://pixelmatch.art/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix) Product** | Yes | Recommended in Text | Low (Unless human-like) | Designed by Seller |
 | **AI Product Background** | Yes | No | None | Made by Seller (if item is physical) |
 | **AI Digital Art** | Yes | Recommended in Text | None | Designed by Seller |
 

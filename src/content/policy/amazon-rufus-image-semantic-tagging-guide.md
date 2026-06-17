@@ -148,7 +148,7 @@ Bookmark these updated 2026 technical documents to ensure your team stays ahead 
 
 | Resource | Purpose | Official Link |
 | :--- | :--- | :--- |
-| **Amazon Seller Central** | Image Technical Requirements | [Standard Guidelines](https://sellercentral.amazon.com/help/hub/reference/G1881) |
+| **[Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix)** | Image Technical Requirements | [Standard Guidelines](https://sellercentral.amazon.com/help/hub/reference/G1881) |
 | **Stripe Pricing** | Transaction Fee Calculation | Stripe Fees |
 | **Adobe Express** | Basic Image Editing | Adobe Pricing |
 | **Photoroom** | Background Removal | Photoroom Pricing |
@@ -183,7 +183,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Amazon Seller Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   Stripe: Payment Processing Pricing
 *   Photoroom: Subscription and Pricing
 *   Adobe: Adobe Express Pricing

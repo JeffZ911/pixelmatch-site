@@ -139,7 +139,7 @@ Amazon only recognizes <a href="https://www.amazon.com/s?k=over+50+specific+cert
 While Amazon does not explicitly state that the badge itself boosts A9 search rankings, it provides a <a href="https://www.amazon.com/s?k=dedicated+search+filter+for+%27Climate+Pledge+Friendly%27&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">dedicated search filter for 'Climate Pledge Friendly'</a>. Products with the badge appear in these filtered results, significantly increasing visibility to a specific segment of high-intent, eco-conscious shoppers.
 
 ### My product is "Compact by Design," but I don't see the badge. Why?
-<a href="https://www.amazon.com/s?k=Compact+by+Design&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Compact by Design</a> is an Amazon-specific certification based on "unit efficiency" (weight and volume per use). If your badge isn't showing, check your product dimensions and weight in Seller Central. If the data is incorrect, your product may fall outside the efficiency threshold required for the badge.
+<a href="https://www.amazon.com/s?k=Compact+by+Design&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Compact by Design</a> is an Amazon-specific certification based on "unit efficiency" (weight and volume per use). If your badge isn't showing, check your product dimensions and weight in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix). If the data is incorrect, your product may fall outside the efficiency threshold required for the badge.
 
 
 <!-- pm-cta:foot -->

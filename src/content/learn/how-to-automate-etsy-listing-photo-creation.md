@@ -46,7 +46,7 @@ Manual photo editing creates a severe bottleneck. If you spend 20 minutes per pr
 | **Minimum Dimension** | 2000 pixels (shortest side) | Blurry images on zoom; lower search ranking |
 | **Maximum File Size** | 1MB (1,000 KB) | Upload failure; slow mobile loading |
 | **File Formats** | .jpg, .gif, .png | Listing will not save or display |
-| **Color Profile** | sRGB | Colors will appear dull or "off" to buyers |
+| **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix)** | sRGB | Colors will appear dull or "off" to buyers |
 | **Resolution** | 72 PPI | Affects display clarity on high-res screens |
 
 ## Step-by-Step Walkthrough
