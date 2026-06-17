@@ -40,9 +40,9 @@ Run a technical audit of your current listing images against the table below. If
 | Requirement Type | Specification | Source/Policy |
 | :--- | :--- | :--- |
 | **Minimum Dimensions** | [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) (required for zoom) | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central |
-| **Recommended Dimensions** | [2000 × 2000 pixels](https://sellercentral.amazon.com/help/hub/reference/G1881) (optimal for high-res displays) | Amazon Seller Central |
-| **Main Image Background** | [Pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) | Amazon Seller Central |
-| **Frame Coverage** | Product must occupy at least [85% of the image frame](https://sellercentral.amazon.com/help/hub/reference/G1881) | Amazon Seller Central |
+| **Recommended Dimensions** | [2000 × 2000 pixels](https://sellercentral.amazon.com/help/hub/reference/G1881) (optimal for high-res displays) | [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) |
+| **Main Image Background** | [Pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) | Amazon [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) |
+| **Frame Coverage** | Product must occupy at least [85% of the image frame](https://sellercentral.amazon.com/help/hub/reference/G1881) | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central |
 | **Vine Enrollment Fee** | [$0 (1-2 units), $75 (3-10 units), or $200 (11-30 units)](https://sellercentral.amazon.com/help/hub/reference/G201114120) | Amazon Vine Policy |
 | **Reviewer Content Rules** | No [barcodes, children's faces, or license plates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85WAMZFEHL) | Community Guidelines |
 | **File Formats** | JPEG (.jpg), PNG (.png), TIFF (.tif), or GIF (.gif) | Amazon [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |

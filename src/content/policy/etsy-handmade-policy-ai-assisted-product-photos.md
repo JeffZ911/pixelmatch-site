@@ -64,7 +64,7 @@ When using a batch-generation tool to process your photos, ensure the output res
 - **Minimum for Zoom:** [2000px on the shortest side](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop).
 - **File Format:** .jpg, .gif, or .png (Etsy does not support transparent .pngs for listing photos; they will be rendered with a white or black background).
 - **File Size:** Under 1MB is recommended for fast loading, though Etsy supports up to 10MB.
-- **Color Profile:** Use sRGB to ensure colors remain consistent across different device screens.
+- **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix):** Use sRGB to ensure colors remain consistent across different device screens.
 
 **Actionable Step:** Use a browser-based "Image Info" extension or right-click "Properties" on your top-selling listing's primary photo. If the dimensions are below 2000px, use an AI upscaler to increase the resolution without losing detail, then re-upload the file to improve your listing [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026).
 

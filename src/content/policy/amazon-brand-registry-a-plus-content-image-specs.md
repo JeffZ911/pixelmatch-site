@@ -64,7 +64,7 @@ Set your Photoshop, Canva, or AI generation workspace to RGB color mode at the s
 ### File Types & Color Space
 Amazon’s A+ Content system is built for high-speed web delivery. While PNG files offer superior clarity for text-heavy graphics, they often exceed the 2 MB limit when saved at high resolutions. Use JPG for complex lifestyle photography to maintain the balance between visual fidelity and file size. 
 
-Avoid CMYK color spaces entirely. CMYK is designed for physical ink on paper; when uploaded to Amazon, the colors will often shift, making vibrant products look dull or "muddy." Stick to the sRGB color profile, which is the standard for 99% of consumer screens used by Amazon shoppers.
+Avoid CMYK color spaces entirely. CMYK is designed for physical ink on paper; when uploaded to Amazon, the colors will often shift, making vibrant products look dull or "muddy." Stick to the sRGB [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix), which is the standard for 99% of consumer screens used by Amazon shoppers.
 
 ### Module-Specific Dimensions
 Every A+ Content module has a specific "safe zone." For the **Standard Image Header (970 x 600 px)**, keep your primary subject centered. Amazon’s mobile rendering engine occasionally crops the edges of these headers to fit smaller vertical screens. 

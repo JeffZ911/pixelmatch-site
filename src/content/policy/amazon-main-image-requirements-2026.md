@@ -92,7 +92,7 @@ A product that fills less than 85% of the frame makes your item look small and u
 ![How to Fix Each Issue](/img/amazon-main-image-requirements-2026/inline-4.webp)
 
 
-Filter your Seller Central dashboard by "Suppressed" listings under the "Manage All Inventory" tab to identify which ASINs need immediate attention. Prioritize fixing the main image, as this is the most common reason for listing suppression.
+Filter your [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) dashboard by "Suppressed" listings under the "Manage All Inventory" tab to identify which ASINs need immediate attention. Prioritize fixing the main image, as this is the most common reason for listing suppression.
 
 ### Removing Backgrounds
 Use an AI tool to strip non-compliant backgrounds and replace them with exact RGB 255, 255, 255. Standard "background removers" often leave "halos"—thin lines of the original background color around the edges of the product. For complex items like jewelry or mesh fabrics, you may need a tool that specializes in edge-refinement. Once the background is removed, ensure you export the file in a format that supports the 10MB limit.

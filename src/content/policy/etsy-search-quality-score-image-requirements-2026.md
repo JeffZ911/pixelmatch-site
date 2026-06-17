@@ -132,7 +132,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Etsy Help Center. (2026). Requirements and Best Practices for Images in Your Shop. Retrieved from https://help.etsy.com/hc/en-us/articles/115015663347
 *   Etsy Help Center. (2026). How Etsy Search Works. Retrieved from https://help.etsy.com/hc/en-us/articles/115015663987
-*   Amazon Seller Central. (2026). Product image requirements. Retrieved from https://sellercentral.amazon.com/help/hub/reference/external/G1881
+*   [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix). (2026). Product image requirements. Retrieved from https://sellercentral.amazon.com/help/hub/reference/external/G1881
 *   Photoroom. (2026). Pricing Plans. Retrieved from https://www.photoroom.com/pricing
 *   Adobe Express. (2026). Pricing and Plans. Retrieved from https://www.adobe.com/express/pricing
 *   Stripe. (2026). Pricing & fees. Retrieved from https://stripe.com/pricing

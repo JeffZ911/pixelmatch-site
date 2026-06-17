@@ -73,7 +73,7 @@ The seller used [Project Amelia](https://pixelmatch.art/blog/stories/amazon-proj
 Amelia analyzed years of account-specific data and customer reviews to identify that "non-greasy" and "fast-absorbing" were the most critical missing keywords in their current titles. This allowed the seller to move away from generic "organic serum" descriptors toward high-intent phrases that customers were actually searching for.
 
 ### Step 2: Generating Optimized Copy
-Once the data was clear, the seller prompted Amelia to rewrite their listing. By providing Amelia with the new keyword targets, the AI generated titles and bullet points designed to satisfy the A9 algorithm while remaining readable for customers. This reduced the copywriting phase from days to minutes.
+Once the data was clear, the seller prompted Amelia to rewrite their listing. By providing Amelia with the new keyword targets, the [AI generated](https://pixelmatch.art/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix) titles and bullet points designed to satisfy the A9 algorithm while remaining readable for customers. This reduced the copywriting phase from days to minutes.
 
 ### Step 3: Automated Image Compliance with PixelMatch
 To match the new text, the seller needed images that met every Amazon spec without the $45 price tag. They uploaded raw smartphone photos of their products to PixelMatch. The tool performed three critical functions:

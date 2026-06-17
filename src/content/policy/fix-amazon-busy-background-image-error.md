@@ -117,7 +117,7 @@ Instead of processing one image at a time, you can upload your entire "Search Su
 ### How to Resubmit to Seller Central
 
 Once your images are corrected, follow these steps to lift the suppression:
-1.  Log into **Amazon Seller Central**.
+1.  Log into **[Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central**.
 2.  Navigate to **Inventory > Manage All Inventory**.
 3.  Filter by **"Search Suppressed"** status.
 4.  Click **"Edit"** on the affected SKU and go to the **"Images"** tab.
