@@ -89,7 +89,7 @@ Verify that no "props" are visible in your main image. For example, if you are s
 ![How to Fix Each Issue](/img/amazon-fba-busy-background-policy-compliance-tips/inline-4.webp)
 
 
-Fixing a suppressed listing requires more than just a quick re-upload; you must address the specific technical failure identified in Seller Central. If your background is the issue, you need a professional-grade clipping path or AI-driven background removal.
+Fixing a suppressed listing requires more than just a quick re-upload; you must address the specific technical failure identified in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix). If your background is the issue, you need a professional-grade clipping path or AI-driven background removal.
 
 ### AI Background Removal Tools
 For individual image fixes, several tools offer reliable results:

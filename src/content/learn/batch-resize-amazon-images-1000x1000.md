@@ -81,7 +81,7 @@ Once your audit is complete, configure your batch editor with these exact specif
 *   **Output Dimensions:** Set to 1000x1000 pixels for the minimum zoom requirement, or 2000x2000 pixels for optimal clarity on 4K and mobile Retina displays.
 *   **Aspect Ratio:** Lock the ratio to 1:1 (Square). Amazon’s search grid is optimized for squares; using a portrait 5:6 ratio can sometimes lead to awkward cropping in the mobile app.
 *   **Background Fill:** Ensure your tool is set to "Fit to Frame" rather than "Stretch." Stretching will distort your product and trigger a "non-representative image" rejection.
-*   **Color Profile:** Always export in the sRGB color space. This is the universal standard for web browsers and ensures your product colors look consistent on every screen.
+*   **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix):** Always export in the sRGB color space. This is the universal standard for web browsers and ensures your product colors look consistent on every screen.
 
 ### Applying Pure White Backgrounds
 For main images, batch-applying a background removal tool is essential. Ensure your tool is configured to replace the background with hex code #FFFFFF (RGB 255, 255, 255). Amazon’s bots can detect "off-white" backgrounds (like RGB 253, 254, 255) that look white to the human eye but fail the automated scan.

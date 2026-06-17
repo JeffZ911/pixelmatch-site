@@ -60,7 +60,7 @@ Stop losing sales to a red exclamation mark in Seller Central. If your latest pr
 
 A successful beauty brand owner was preparing to launch a new line of organic vitamin C serums and hydrating masks for the Q4 holiday rush. With a revenue target of $100,000 for the month, the pressure was on to get listings live. After a professional-style photoshoot using a standard DSLR camera, the seller uploaded a batch of 50 images to the Amazon Image Manager.
 
-Moments later, the upload failed. Next to each thumbnail, a red warning icon appeared. The seller saw the label `IMG-9002.JPG` highlighted in red and immediately searched for an "amazon seller central error code img-9002 fix."
+Moments later, the upload failed. Next to each thumbnail, a red warning icon appeared. The seller saw the label `IMG-9002.JPG` highlighted in red and immediately searched for an "amazon seller central [error code](https://pixelmatch.art/blog/stories/amazon-a-plus-content-error-code-9006-fix) img-9002 fix."
 
 The panic was real, but the diagnosis was wrong. "IMG-9002" is not a technical error code from Amazon's API; it is the default sequential filename assigned by Canon and Nikon cameras. The red warning indicates that the file *named* IMG-9002 failed to meet one or more of Amazon's strict [technical image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881). 
 

@@ -100,7 +100,7 @@ Ensure your product fills [85% or more of the image frame](https://sellercentral
 ![How to Fix Each Issue](/img/amazon-climate-pledge-friendly-image-requirements/inline-4.webp)
 
 
-Execute these steps immediately if you have received a "Quality Alert" in Seller Central or if your CPF badge is not appearing despite your product being certified.
+Execute these steps immediately if you have received a "Quality Alert" in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) or if your CPF badge is not appearing despite your product being certified.
 
 ### Step 1: Clean Your Main Images
 Strip all text, badges, and logos from your primary listing photos. If you have hundreds of SKUs, doing this manually is a bottleneck. PixelMatch is better suited for this workflow than general editors like Canva or Adobe Express because it can batch-process your catalog, identifying the product and automatically replacing non-compliant backgrounds with [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/1881) white while maintaining the [85% frame fill](https://sellercentral.amazon.com/help/hub/reference/1881).

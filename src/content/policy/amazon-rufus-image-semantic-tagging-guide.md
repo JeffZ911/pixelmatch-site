@@ -40,7 +40,7 @@ Amazon Rufus Image Semantic Tagging Guide: 2026 Seller Requirements
 
 Audit your top 10 ASINs for the 1600px zoom threshold today to ensure Rufus can extract high-confidence visual labels.
 
-The shift from the traditional A9 search algorithm to the Rufus generative AI model represents a move from keyword matching to "intent matching." While A9 looks for the word "waterproof" in your title, Rufus looks at your secondary images to see if the product is actually being used in a wet environment.
+The shift from the traditional A9 search algorithm to the Rufus generative [AI model](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) represents a move from keyword matching to "intent matching." While A9 looks for the word "waterproof" in your title, Rufus looks at your secondary images to see if the product is actually being used in a wet environment.
 
 | Optimization Feature | Traditional A9 Requirements | Rufus Semantic Requirements (2026) |
 | :--- | :--- | :--- |

@@ -27,7 +27,7 @@ inline_image_sections:
 
 Your listings no longer live or die solely by the keywords you stuff into your backend. With the full integration of Rufus, Amazon’s AI-powered shopping assistant, your product images now function as machine-readable data points that determine whether you appear in visual search queries.
 
-Amazon Rufus uses computer vision for visual search. To rank, ensure your main image is [at least 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) on a pure white background. Use secondary images to show scale and human use.
+[Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-image-semantic-tagging-guide) uses computer vision for visual search. To rank, ensure your main image is [at least 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) on a pure white background. Use secondary images to show scale and human use.
 
 ## Quick Reference Table
 

@@ -151,7 +151,7 @@ No, text overlays like "50% Off" or "Limited Time Offer" are strictly prohibited
 
 *   TikTok Shop Academy: Product Image Specifications
 *   TikTok Shop Seller Center: Listing Quality Tier Guide
-*   TikTok Shop: Product Listing Policy & Prohibited Content
+*   TikTok Shop: Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) & Prohibited Content
 *   Photoroom Pricing and Features
 *   Canva Pro Pricing
 *   Adobe Express Premium Plans
