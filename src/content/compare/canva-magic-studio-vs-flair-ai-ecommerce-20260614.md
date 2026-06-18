@@ -132,7 +132,7 @@ Your choice should be dictated by your volume and your primary sales channel.
 ## Frequently Asked Questions
 
 ### Does Amazon allow AI-generated product images?
-Yes, Amazon allows AI-generated images as long as the product itself is not distorted and the image follows all standard [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881). The main image must still be a professional photograph of the actual product on a pure white background, but lifestyle images (the 2nd through 7th slots) are excellent candidates for AI-generated backgrounds.
+Yes, Amazon allows AI-generated images as long as the product itself is not distorted and the image follows all standard [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881). The [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) must still be a professional photograph of the actual product on a pure white background, but lifestyle images (the 2nd through 7th slots) are excellent candidates for AI-generated backgrounds.
 
 ### Which tool is better for removing backgrounds?
 Both tools perform well, but Canva’s Background Remover is generally more consistent for simple shapes. However, for products with "fuzzy" edges like hair, fur, or intricate jewelry, Flair AI's dedicated focus on product photography often yields a cleaner mask that prevents the "halo" effect often seen in lower-tier AI editors.
