@@ -112,7 +112,7 @@ Upload your raw product photos to an AI background remover for products. Ensure 
 Use the auto-crop feature to ensure the product fills at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881). For beauty products like slim eyeliner pencils or small jars, this often requires removing significant "dead space" that exists in original studio shots.
 
 ### Step 4: Export and Validate
-Export your files as [JPEG (.jpg)](https://sellercentral.amazon.com/help/hub/reference/G1881). Verify that each file is under 10 MB and uses the sRGB color profile. Upload these to Seller Central at least 14 days before [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) to ensure they are indexed and live before the traffic peak.
+Export your files as [JPEG (.jpg)](https://sellercentral.amazon.com/help/hub/reference/G1881). Verify that each file is under 10 MB and uses the sRGB [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix). Upload these to Seller Central at least 14 days before [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) to ensure they are indexed and live before the traffic peak.
 
 ## Caveats and Honest Limitations of AI Workflows
 

@@ -67,7 +67,7 @@ Amazon’s A+ Content system is built for high-speed web delivery. While PNG fil
 Avoid CMYK color spaces entirely. CMYK is designed for physical ink on paper; when uploaded to Amazon, the colors will often shift, making vibrant products look dull or "muddy." Stick to the sRGB [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix), which is the standard for 99% of consumer screens used by Amazon shoppers.
 
 ### Module-Specific Dimensions
-Every A+ Content module has a specific "safe zone." For the **Standard Image Header (970 x 600 px)**, keep your primary subject centered. Amazon’s mobile rendering engine occasionally crops the edges of these headers to fit smaller vertical screens. 
+Every A+ Content module has a specific "safe zone." For the **Standard Image Header (970 x 600 px)**, keep your primary subject centered. Amazon’s [mobile rendering](https://pixelmatch.art/blog/stories/amazon-a-plus-content-mobile-rendering-bug) engine occasionally crops the edges of these headers to fit smaller vertical screens. 
 
 For the **Comparison Chart (150 x 300 px)**, focus on "micro-photography." Because these images are narrow and tall, wide-angle product shots will leave too much empty space at the top and bottom. Use tight crops that highlight the specific feature being compared.
 

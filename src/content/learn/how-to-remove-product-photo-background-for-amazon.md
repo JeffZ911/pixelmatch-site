@@ -153,7 +153,7 @@ JPEG (.jpg) is the preferred format because it provides the best balance between
 No. Only the main (hero) image must have a pure white background. Secondary images should be used for lifestyle shots, "in-use" photos, size charts, and infographics. These images are where you can use colored backgrounds, text, and props to explain your product’s value proposition.
 
 ### Why was my Amazon image suppressed?
-The most common reasons for image suppression in 2026 include:
+The most common reasons for [image suppression](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-suppression-alert-case-study) in 2026 include:
 1.  **Background Color:** The background was "near-white" but not pure white (RGB 255, 255, 255).
 2.  **Image Size:** The longest side was under 1000 pixels.
 3.  **Frame Fill:** The product occupied less than 85% of the total image area.

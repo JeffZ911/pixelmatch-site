@@ -118,7 +118,7 @@ Follow this checklist to clear Error 9006 and get your A+ Content live today.
 If you see an upload error or a network timeout, do not try to upload the same file again. Amazon’s backend has likely already flagged the file as "unprocessable." Check the file size immediately. It must be [under 2 MB](https://sellercentral.amazon.com/help/hub/reference/G202102960). If it is 2.1 MB, it will fail.
 
 ### 2. Verify Your Color Space
-Open your image properties (Right-click > Properties on Windows, or Cmd+I on Mac). Ensure the color profile is **sRGB** or **RGB**. If it says **CMYK**, the Amazon A+ builder will likely hang during the "Saving" phase.
+Open your image properties (Right-click > Properties on Windows, or Cmd+I on Mac). Ensure the [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix) is **sRGB** or **RGB**. If it says **CMYK**, the Amazon A+ builder will likely hang during the "Saving" phase.
 
 ### 3. Use PixelMatch for Template Locking
 Select the "Amazon A+ Standard Header" template in PixelMatch. This automatically locks your canvas to [970 x 600 px](https://sellercentral.amazon.com/help/hub/reference/G202102960). By generating the image *within* these dimensions rather than cropping a larger image later, you ensure the composition is perfectly centered for Amazon's module.
