@@ -71,7 +71,7 @@ For sellers managing large catalogs across Etsy, Shopify, and Amazon, manual edi
 
 ### Color Accuracy and the sRGB Standard
 
-Always export your product photos using the sRGB color profile. Etsy’s system is optimized for sRGB, which is the standard for web display. If you upload images in CMYK (standard for print) or ProPhoto RGB, the colors may appear "washed out" or "neon" on certain mobile devices. Since XWalk tracks how long a user lingers on a photo, a color discrepancy that makes the product look "fake" or "low quality" will result in shorter view times and lower search placement.
+Always export your product photos using the sRGB [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix). Etsy’s system is optimized for sRGB, which is the standard for web display. If you upload images in CMYK (standard for print) or ProPhoto RGB, the colors may appear "washed out" or "neon" on certain mobile devices. Since XWalk tracks how long a user lingers on a photo, a color discrepancy that makes the product look "fake" or "low quality" will result in shorter view times and lower search placement.
 
 ## Common Rejection Reasons
 

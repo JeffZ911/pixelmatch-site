@@ -63,7 +63,7 @@ The root cause of these upload failures is almost always a violation of Amazon's
 2.  **Color Space Rejection:** Amazon’s system is built for web display and only accepts the [RGB colorspace](https://sellercentral.amazon.com/help/hub/reference/G202102960). Creative agencies often export print-ready images in CMYK. When a CMYK file hits Amazon’s processing engine, the system fails to generate a preview thumbnail, leading to a silent rejection or a generic error.
 3.  **Resolution Overload:** While high resolution is generally good, uploading a 300 DPI (dots per inch) file intended for print is unnecessary for a 72 DPI web display.
 
-Attempting to manually fix these 150+ images created a massive operational bottleneck. Using tools like Canva Pro at $119.99/year or Photoroom's Pro tier at $12.99/mo required the team to open every single file, resize it, check the color profile, and re-export it. This manual labor was costing the brand thousands in employee hours, on top of the original agency fees.
+Attempting to manually fix these 150+ images created a massive operational bottleneck. Using tools like Canva Pro at $119.99/year or Photoroom's Pro tier at $12.99/mo required the team to open every single file, resize it, check the [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix), and re-export it. This manual labor was costing the brand thousands in employee hours, on top of the original agency fees.
 
 ## The Workflow They Built with PixelMatch
 
