@@ -151,7 +151,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Shopify Help Center. "Media generation with Shopify Magic." https://help.shopify.com/en/manual/shopify-magic/media-generation
 *   Shopify Help Center. "Product media types, sizes, and resolutions." https://help.shopify.com/en/manual/products/product-media/product-media-types
-*   Amazon Seller Central. "Product image requirements." https://sellercentral.amazon.com/help/hub/reference/external/G1881
+*   [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix). "Product image requirements." https://sellercentral.amazon.com/help/hub/reference/external/G1881
 *   Adobe Express. "Pricing and Plans." https://www.adobe.com/express/pricing
 *   Photoroom. "Pricing." https://www.photoroom.com/pricing
 *   Pebblely. "Pricing." https://pebblely.com/pricing/

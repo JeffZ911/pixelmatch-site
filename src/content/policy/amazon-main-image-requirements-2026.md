@@ -115,7 +115,7 @@ Always refer to the primary documentation in [Seller Central](https://pixelmatch
 
 *   [Amazon Product Image Requirements (Ref ID 1881)](https://sellercentral.amazon.com/help/hub/reference/1881): The definitive guide for technical and content standards.
 *   [Amazon Intellectual Property Policy (Ref ID 201361070)](https://sellercentral.amazon.com/help/hub/reference/201361070): Guidelines on why you cannot use certain logos or watermarks.
-*   **Seller Central "Fix Your Products"**: Access this via the "Performance" or "Inventory" tabs in your account to see specific "Image Not Found" or "Non-Compliant Image" errors.
+*   **[Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) "Fix Your Products"**: Access this via the "Performance" or "Inventory" tabs in your account to see specific "Image Not Found" or "Non-Compliant Image" errors.
 
 
 <!-- pm-cta:foot -->

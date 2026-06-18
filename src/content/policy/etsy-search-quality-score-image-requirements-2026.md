@@ -44,7 +44,7 @@ Run a quick audit of your current shop assets against the 2026 technical standar
 | **Aspect Ratio** | [4:3 or 1:1](https://help.etsy.com/hc/en-us/articles/115015663347) (Centered for mobile cropping) | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015663347) |
 | **File Format** | [.jpg, .gif, .png, .svg, or .heic](https://help.etsy.com/hc/en-us/articles/115015663347) | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015663347) |
 | **Max File Size** | [10 MB](https://help.etsy.com/hc/en-us/articles/115015663347) (Keep under 1MB for speed) | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015663347) |
-| **Color Profile** | sRGB (Required to prevent color shifting) | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015663347) |
+| **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix)** | sRGB (Required to prevent color shifting) | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015663347) |
 | **Listing Video** | [5 to 15 seconds](https://help.etsy.com/hc/en-us/articles/115015663347) (No audio support) | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015663347) |
 
 ## Detailed Requirements

@@ -42,7 +42,7 @@ Use this checklist to audit your current listing library. Any image falling belo
 | **Minimum Size** | [2000px on the shortest side](https://help.etsy.com/hc/en-us/articles/115015663347) | Enables the zoom tool; higher engagement metrics. |
 | **Aspect Ratio** | [4:3 Landscape](https://help.etsy.com/hc/en-us/articles/115015663347) | Prevents awkward cropping in search results and "Buy it Again" grids. |
 | **Max File Size** | [Under 1MB recommended](https://help.etsy.com/hc/en-us/articles/115015663347) | Faster page loads; reduces bounce rates on mobile devices. |
-| **Color Profile** | [sRGB](https://help.etsy.com/hc/en-us/articles/115015663347) | Ensures color accuracy across different mobile and desktop screens. |
+| **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix)** | [sRGB](https://help.etsy.com/hc/en-us/articles/115015663347) | Ensures color accuracy across different mobile and desktop screens. |
 | **File Format** | JPG, PNG, or GIF | Standardized formats for cross-platform browser compatibility. |
 | **Primary Photo** | Uncluttered, high-contrast | Allows the visual recognition engine to categorize the item accurately. |
 

@@ -154,5 +154,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 - Shopify Help Center: [Product Media Types](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 - Photoroom: Pricing and Plans
 - Canva: Pro Pricing
-- Amazon Seller Central: [Image Standards](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
+- Amazon [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix): [Image Standards](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
 - Stripe: Standard Pricing Fees

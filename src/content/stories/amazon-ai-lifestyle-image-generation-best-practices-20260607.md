@@ -118,7 +118,7 @@ You do not need a 7-figure budget to implement this workflow. Any seller with a 
 3.  **Generate Your Compliance Hero:** Upload the best angle to PixelMatch. Select the "Amazon Main Image" preset to ensure the [RGB 255,255,255 background](https://sellercentral.amazon.com/help/hub/reference/G1881) and frame-fill requirements are met.
 4.  **Batch Lifestyle Variants:** Use the **AI scene generation** tool to create a "Lifestyle Suite." Focus on "Usage Context" (the product in use) and "Aspirational Context" (the product in a beautiful home).
 5.  **Verify Specs:** Ensure all final files are [at least 1000 pixels in either height or width](https://sellercentral.amazon.com/help/hub/reference/G1881), though 1600+ is preferred for zoom.
-6.  **Iterate via MYE:** Upload the top two lifestyle variations to Amazon Seller Central and let the data decide which one stays.
+6.  **Iterate via MYE:** Upload the top two lifestyle variations to [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central and let the data decide which one stays.
 
 **Actionable Step:** Create a "Compliance Folder" on your local drive. Before uploading any [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) to Amazon, run it through a simple check: Does it contain any [text, logos, or watermarks](https://sellercentral.amazon.com/help/hub/reference/G1881) in the main image slot? If yes, use a "Generative Fill" or cleanup tool to remove them, as these are the most common reasons for manual listing flags.
 

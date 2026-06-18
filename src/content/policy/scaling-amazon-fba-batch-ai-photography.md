@@ -107,7 +107,7 @@ Finally, always verify the file size before a bulk upload. Amazon’s [10MB limi
 
 | Resource Name | Purpose | URL |
 | :--- | :--- | :--- |
-| **Amazon Seller Central** | Official Image Requirements | [https://sellercentral.amazon.com/help/hub/reference/G1881](https://sellercentral.amazon.com/help/hub/reference/G1881) |
+| **[Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix)** | Official Image Requirements | [https://sellercentral.amazon.com/help/hub/reference/G1881](https://sellercentral.amazon.com/help/hub/reference/G1881) |
 | **Amazon Error 100584** | Troubleshooting Main Image Issues | [https://sellercentral.amazon.com/help/hub/reference/G100584](https://sellercentral.amazon.com/help/hub/reference/G100584) |
 | **Shopify Help Center** | Product Media Guidelines | [https://help.shopify.com/en/manual/products/product-media/product-media-types#images](https://help.shopify.com/en/manual/products/product-media/product-media-types#images) |
 | **Etsy Success Guide** | Image Requirements & Best Practices | [https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) |

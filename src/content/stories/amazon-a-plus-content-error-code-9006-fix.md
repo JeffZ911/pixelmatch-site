@@ -32,7 +32,7 @@ Struggling with a spinning upload wheel in Seller Central only to be met with a 
 
 # Fixing Amazon A+ Content Upload Errors (and Cutting Photography Costs by 80%)
 
-Run a technical audit on your image assets before you attempt another bulk upload to Amazon Seller Central. For a high-volume home goods brand, the difference between a successful Q4 launch and a week of "Error 9006" timeouts often comes down to two hidden metadata fields: color space and file weight.
+Run a technical audit on your image assets before you attempt another bulk upload to [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central. For a high-volume home goods brand, the difference between a successful Q4 launch and a week of "Error 9006" timeouts often comes down to two hidden metadata fields: color space and file weight.
 
 ## The Seller's Situation: Scaling to 150+ SKUs for Q4
 
