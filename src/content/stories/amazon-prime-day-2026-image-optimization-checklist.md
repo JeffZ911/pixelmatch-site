@@ -42,7 +42,7 @@ Speed is the primary constraint for mid-market sellers managing hundreds of SKUs
 
 To capitalize on the surge, you must finalize your catalog updates well before the inbound inventory deadlines. This seller faced a catalog of 350 SKUs—ranging from kitchen utensils to decorative pillows—all requiring updated main images to meet the latest mobile-first standards. Every main image must be formatted to a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) to avoid suppression. 
 
-**Actionable Step:** Open your Seller Central "Manage Inventory" tab today and filter by "Status: Suppressed" to identify which listings already fail the white-background check before the Prime Day rush begins.
+**Actionable Step:** Open your Seller Central "Manage Inventory" tab today and filter by "Status: Suppressed" to identify which listings already fail the white-background check before the [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) rush begins.
 
 ## What Wasn't Working: Expensive Agencies and Restrictive App Limits
 

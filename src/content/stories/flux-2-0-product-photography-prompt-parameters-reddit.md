@@ -135,7 +135,7 @@ Input your base photo into a Flux-supported generator and use a prompt that defi
 Once you have your raw AI generations, upload the folder to PixelMatch. Set your output requirements:
 1.  **Format:** [2048 x 2048 pixels](https://help.shopify.com/en/manual/products/product-media/product-media-types).
 2.  **Background:** Pure White ([RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881)) for the main image.
-3.  **Color Profile:** sRGB.
+3.  **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix):** sRGB.
 This step removes the need for manual Photoshop work and ensures that your images won't be suppressed by Amazon's automated quality bots.
 
 ### Step 4: Generate the Full Gallery

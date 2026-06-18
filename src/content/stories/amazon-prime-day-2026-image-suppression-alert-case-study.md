@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Waking up to a "Search Suppressed" alert three weeks before Prime Day is a nightmare that can wipe out your entire Q2 profit margin. For one mid-sized beauty brand, this became a reality when Amazon's 2026 AI-detection bots flagged their entire summer bundle catalog just as inventory hit the FBA warehouses.
+Waking up to a "Search Suppressed" alert three weeks before [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) is a nightmare that can wipe out your entire Q2 profit margin. For one mid-sized beauty brand, this became a reality when Amazon's 2026 AI-detection bots flagged their entire summer bundle catalog just as inventory hit the FBA warehouses.
 
 ## The Seller's Situation
 

@@ -117,7 +117,7 @@ The biggest risk with AI text is the "uncanny valley" of marketing speak. Tools 
 ### AI Image Tool Limitations
 Generalist tools like Canva or Adobe Express often require significant manual prompting to get the lighting right. If the AI doesn't understand "Global Illumination," your product will look like a flat sticker placed on a 3D background, which destroys consumer trust. 
 
-More importantly, generic [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generators often ignore [Amazon's strict "No Props" rule](https://sellercentral.amazon.com/help/hub/reference/G1881) for main images. If your AI tool adds a decorative vase next to your product in the main image, Amazon's automated systems will likely suppress the listing within 24 hours. Purpose-built tools like PixelMatch are designed to keep the product as the sole focus for the main image while reserving props for the secondary lifestyle shots.
+More importantly, generic [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generators often ignore [Amazon's strict "No Props" rule](https://sellercentral.amazon.com/help/hub/reference/G1881) for main images. If your AI tool adds a decorative vase next to your product in the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy), Amazon's automated systems will likely suppress the listing within 24 hours. Purpose-built tools like PixelMatch are designed to keep the product as the sole focus for the main image while reserving props for the secondary lifestyle shots.
 
 ## Recommendation
 
