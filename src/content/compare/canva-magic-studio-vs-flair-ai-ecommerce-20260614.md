@@ -127,7 +127,7 @@ Your choice should be dictated by your volume and your primary sales channel.
 2.  **Choose Flair AI** if you are focused on high-conversion Facebook or Instagram ads. The ability to control lighting and "propping" makes for much more professional lifestyle images than Canva can currently produce.
 3.  **Choose PixelMatch** if you are a professional ecommerce seller managing dozens or hundreds of listings. When your goal is to get 100 new products live on three different marketplaces by the end of the day, the automation and batch-processing capabilities of PixelMatch will save you dozens of hours of manual editing.
 
-**Actionable Step:** Start by downloading your current top-selling product's main image. Run it through the free versions of both Canva and Flair. If the background removal isn't pixel-perfect on the edges of your product, or if the lighting feels "flat," it’s time to move to a specialized [ecommerce AI](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) tool that prioritizes edge-detection and realistic rendering.
+**Actionable Step:** Start by downloading your current top-selling product's [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy). Run it through the free versions of both Canva and Flair. If the background removal isn't pixel-perfect on the edges of your product, or if the lighting feels "flat," it’s time to move to a specialized [ecommerce AI](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) tool that prioritizes edge-detection and realistic rendering.
 
 ## Frequently Asked Questions
 

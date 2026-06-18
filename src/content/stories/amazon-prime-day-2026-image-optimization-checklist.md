@@ -49,7 +49,7 @@ To capitalize on the surge, you must finalize your catalog updates well before t
 ![What Wasn't Working: Expensive Agencies and Restrictive App Limits](/img/amazon-prime-day-2026-image-optimization-checklist/inline-2.webp)
 
 
-Traditional workflows are built for steady-state operations, not the explosive demand of a Prime Day site-wide update. This seller originally relied on a clipping path agency, but a 48-hour turnaround per batch was too slow to meet the June deadline. Furthermore, the cost of manual retouching for 350 SKUs ate into the marketing budget reserved for Sponsored Products.
+Traditional workflows are built for steady-state operations, not the explosive demand of a [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) site-wide update. This seller originally relied on a clipping path agency, but a 48-hour turnaround per batch was too slow to meet the June deadline. Furthermore, the cost of manual retouching for 350 SKUs ate into the marketing budget reserved for Sponsored Products.
 
 The seller then attempted to use standard automated tools but encountered significant scaling issues:
 
