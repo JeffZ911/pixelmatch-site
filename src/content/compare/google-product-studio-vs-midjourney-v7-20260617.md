@@ -130,7 +130,7 @@ Stop wasting hours on manual prompting and single-image edits. Use PixelMatch to
 No, not without post-processing. Amazon requires a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) for all main images. Midjourney often includes shadows or off-white tints that will trigger an automatic listing suppression. You must use a tool like PixelMatch or a background remover to ensure compliance.
 
 ### Does Google Product Studio own the rights to my images?
-According to Google's terms of service, you retain ownership of the original product images you upload, but Google uses the generated content to improve its machine learning models. Always review the latest [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Next agreement for specific commercial usage rights in your region.
+According to Google's terms of service, you retain ownership of the original product images you upload, but Google uses the [generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) to improve its machine learning models. Always review the latest [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Next agreement for specific commercial usage rights in your region.
 
 ### How do I maintain brand consistency in Midjourney v7?
 You should use the `--sref` (Style Reference) and `--cref` (Character/Product Reference) parameters. By providing a URL to an existing brand photo after these tags, you can tell Midjourney v7 to mimic the lighting, color palette, and product details of your original asset across new generations.

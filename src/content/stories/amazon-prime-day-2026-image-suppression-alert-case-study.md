@@ -109,7 +109,7 @@ The impact on listing health was even more dramatic. The "Search Suppressed" ale
 | **Batch processing limit** | None (Manual) | 1,000+ images | Unlimited workflow |
 | **Image compliance rate** | 70% (Manual errors) | 100% | 30% Increase |
 
-The brand successfully secured their inventory check-in ahead of the June 23 Prime Day kickoff. By maintaining their organic rank and avoiding suppression, they captured the full wave of early-bird Prime Day traffic, resulting in a 22% increase in sales compared to the previous year's Prime Day event.
+The brand successfully secured their inventory check-in ahead of the June 23 [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) kickoff. By maintaining their organic rank and avoiding suppression, they captured the full wave of early-bird Prime Day traffic, resulting in a 22% increase in sales compared to the previous year's Prime Day event.
 
 **Actionable Step:** Calculate your "Lost Revenue per Hour of Suppression" by dividing your average daily revenue by 24. For this seller, being suppressed for 48 hours cost them over $5,600 in potential sales—far more than the cost of any software tool.
 

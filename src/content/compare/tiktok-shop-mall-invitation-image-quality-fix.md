@@ -103,7 +103,7 @@ Review the Photoroom 500-export limit or Canva’s manual steps to ensure your b
 
 *   **PixelMatch:** Focuses strictly on ecommerce product images. It lacks general graphic design tools like font libraries, social media templates, or video editing features. It is a specialized tool for image compliance rather than a broad creative suite.
 *   **Photoroom:** The Pro plan limits batch exports to 500 per month. For massive multi-platform sellers who need to refresh thousands of images across TikTok, Amazon, and eBay, this limit can be restrictive, forcing an upgrade to the more expensive Max or Enterprise tiers.
-*   **Canva Pro:** AI image generation and batch processing for product catalogs are less specialized. Canva’s background remover is excellent, but its ability to "relight" a product to match a new AI-generated background is less sophisticated than PixelMatch or Photoroom. This can sometimes result in images that look "flat" or obviously edited, which Mall curators may reject.
+*   **Canva Pro:** [AI image](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) generation and batch processing for product catalogs are less specialized. Canva’s background remover is excellent, but its ability to "relight" a product to match a new AI-generated background is less sophisticated than PixelMatch or Photoroom. This can sometimes result in images that look "flat" or obviously edited, which Mall curators may reject.
 
 ## Recommendation
 

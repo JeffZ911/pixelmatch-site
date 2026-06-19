@@ -35,11 +35,11 @@ Your Google Shopping ads are likely the lifeblood of your top-of-funnel traffic,
 ![The Seller's Situation](/img/google-merchant-center-ai-image-labeling-guide/inline-1.webp)
 
 
-Audit your current Google Merchant Center "Diagnostics" tab immediately to see if "Image quality" or "Policy violation" warnings are creeping into your feed. Lumina Decor, a composite Shopify brand generating between $40,000 and $60,000 in monthly revenue, faced this exact crisis. Specializing in mid-market home decor—think minimalist floor lamps and ceramic vases—they relied on high-quality lifestyle imagery to maintain a competitive edge in the Google Shopping carousel.
+Audit your current [Google Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) "Diagnostics" tab immediately to see if "Image quality" or "Policy violation" warnings are creeping into your feed. Lumina Decor, a composite Shopify brand generating between $40,000 and $60,000 in monthly revenue, faced this exact crisis. Specializing in mid-market home decor—think minimalist floor lamps and ceramic vases—they relied on high-quality lifestyle imagery to maintain a competitive edge in the Google Shopping carousel.
 
 To scale their catalog without exploding their operational budget, Lumina Decor moved away from traditional photoshoots. In the past, capturing a new product in a modern living room setting required renting a studio, hiring a stylist, and paying for professional retouching. By adopting [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) generation, they could place their products in hyper-realistic, AI-generated environments in seconds.
 
-The initial performance was promising. The AI-generated backgrounds allowed them to showcase products in "aspirational" settings that resonated with their target demographic. However, within ten days of updating their main product images, their Google Merchant Center (GMC) account was flagged with misrepresentation warnings. Their most profitable listings were disapproved, and their overall account health plummeted. The issue wasn't the visual quality of the images—which were indistinguishable from real photography—but a failure to comply with Google’s evolving transparency standards for synthetic media.
+The initial performance was promising. The AI-generated backgrounds allowed them to showcase products in "aspirational" settings that resonated with their target demographic. However, within ten days of updating their main product images, their [Google Merchant](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Center (GMC) account was flagged with misrepresentation warnings. Their most profitable listings were disapproved, and their overall account health plummeted. The issue wasn't the visual quality of the images—which were indistinguishable from real photography—but a failure to comply with Google’s evolving transparency standards for synthetic media.
 
 ## What Wasn't Working
 
@@ -75,7 +75,7 @@ The team switched to PixelMatch for their lifestyle generation. Unlike general-p
 Instead of uploading the AI-generated exports to the Shopify "Files" or "Products" section, they hosted the images on an external AWS S3 bucket. Unlike ecommerce platform CDNs, a properly configured S3 bucket (or a dedicated image host like Cloudinary) allows you to serve the raw file exactly as it was exported, preserving the IPTC `DigitalSourceType` tag.
 
 ### Step 3: The Supplemental Feed Workaround
-The seller created a Google Sheet to serve as a Supplemental Feed in Google Merchant Center. This feed contained two columns: `id` (matching their Shopify SKUs) and `image_link`. They populated the `image_link` column with the direct AWS URLs of their metadata-labeled AI images.
+The seller created a Google Sheet to serve as a Supplemental Feed in Google [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619). This feed contained two columns: `id` (matching their Shopify SKUs) and `image_link`. They populated the `image_link` column with the direct AWS URLs of their metadata-labeled AI images.
 
 When GMC processed the feeds, the Supplemental Feed "overwrote" the default Shopify image URL. When Google's crawler visited the AWS link, it found the IPTC tags perfectly intact.
 

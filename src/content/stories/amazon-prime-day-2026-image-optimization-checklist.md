@@ -134,7 +134,7 @@ Before bulk uploading, name your files using the Amazon-standard format: `[ASIN]
 ![Caveats and Honest Limitations](/img/amazon-prime-day-2026-image-optimization-checklist/inline-6.webp)
 
 
-While AI-driven automation significantly speeds up the Prime Day workflow, it is not a "set-and-forget" solution for every product type. Sellers must remain aware of the following limitations:
+While AI-driven automation significantly speeds up the [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) workflow, it is not a "set-and-forget" solution for every product type. Sellers must remain aware of the following limitations:
 
 *   **Transparency Challenges:** AI background removal can still struggle with highly transparent items common in the Home category, such as glassware, clear acrylic organizers, or fine window netting. These items often require a manual "refine" step to ensure the edges don't look jagged or "eaten" by the white background.
 *   **Main Image Purity:** Amazon's [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881) strictly forbid any text, logos, watermarks, or "unauthorized props" in the main image. While PixelMatch can generate beautiful lifestyle backgrounds for your secondary images, never use an AI-generated lifestyle scene as your primary search image.

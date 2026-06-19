@@ -24,9 +24,9 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop losing sales to "Listing Suppressed" notifications because your hero image has a 2% off-white tint. TikTok Shop Mall enforces the platform's strictest visual standards, and failing to meet the exact pixel-perfect requirements will keep your products hidden from the Mall's premium traffic.
+Stop losing sales to "Listing Suppressed" notifications because your hero image has a 2% off-white tint. [TikTok Shop Mall](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) enforces the platform's strictest visual standards, and failing to meet the exact pixel-perfect requirements will keep your products hidden from the Mall's premium traffic.
 
-TikTok Shop Mall requires 5 to 9 product images per listing. Images must be JPG or PNG, under 5MB, and at least 600x600 pixels. Main images need a pure white background.
+TikTok [Shop Mall](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) requires 5 to 9 product images per listing. Images must be JPG or PNG, under 5MB, and at least 600x600 pixels. Main images need a pure white background.
 
 ## Quick Reference Table
 

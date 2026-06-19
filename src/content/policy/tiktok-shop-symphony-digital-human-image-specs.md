@@ -112,7 +112,7 @@ Finally, check your file compression settings. You must compress your JPG or PNG
 ## Frequently Asked Questions
 
 ### Can I use my own voice for the Symphony Digital Human?
-Yes, TikTok Symphony allows you to upload a voice sample to create a "Voice Clone," but this is subject to strict verification. You must provide a recording of yourself reading a specific consent script. Note that even with a cloned voice, the AI-generated label must remain visible on the video.
+Yes, [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) allows you to upload a voice sample to create a "Voice Clone," but this is subject to strict verification. You must provide a recording of yourself reading a specific consent script. Note that even with a cloned voice, the AI-generated label must remain visible on the video.
 
 ### Why does my product look "warped" on the digital human?
 Warping usually occurs when the source image is not a direct front-facing shot or if the aspect ratio was forced from a rectangle to a square. For the best results, use a 1:1 aspect ratio and ensure the product is centered. If the product takes up less than 60% of the original image, the AI may struggle to fill in the gaps, leading to a stretched or warped appearance.
@@ -121,7 +121,7 @@ Warping usually occurs when the source image is not a direct front-facing shot o
 As of June 2026, Symphony Creative Studio is available to sellers and advertisers within the TikTok Ads Manager and Seller Center. While the basic generation features are currently free to use for those with active ad accounts, TikTok may implement a credit-based system for high-volume batch generations in the future. Always check the latest billing updates in your dashboard.
 
 ### Can I use AI avatars to sell supplements or health products?
-TikTok has stricter policies for "Sensitive Categories" like supplements and health products. While you can use Symphony for these items, the scripts and visual claims are subject to intense scrutiny. Any medical claim made by an AI avatar must be backed by documented evidence in your Seller Center, or the video will be flagged for "Misleading Content."
+TikTok has stricter policies for "Sensitive Categories" like supplements and health products. While you can use Symphony for these items, the scripts and visual claims are subject to intense scrutiny. Any medical claim made by an [AI avatar](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) must be backed by documented evidence in your Seller Center, or the video will be flagged for "Misleading Content."
 
 ## Official Source Links
 

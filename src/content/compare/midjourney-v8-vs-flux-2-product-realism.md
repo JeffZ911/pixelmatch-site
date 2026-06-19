@@ -95,7 +95,7 @@ For your actual product detail page (PDP), you cannot afford errors. [Amazon's s
 ### The High-Volume Multi-Platform Seller (PixelMatch)
 If you sell across Amazon, eBay, TikTok Shop, and your own Shopify site, managing different aspect ratios and requirements is a nightmare. TikTok Shop prefers a 1:1 ratio with a minimum of 600 x 600 px, while Shopify can handle much larger files. PixelMatch is built for this specific profile. It uses Flux 2's realism engine but automates the "boring" parts: resizing, background removal, and batch-processing your entire inventory in one click.
 
-**Actionable Step:** Categorize your creative needs into "Atmospheric" (Midjourney) and "Accuracy-Critical" (Flux 2). Do not try to use one tool for both; you will either end up with boring social posts or inaccurate product listings.
+**Actionable Step:** Categorize your creative needs into "Atmospheric" (Midjourney) and "Accuracy-Critical" (Flux 2). Do not try to use one tool for both; you will either end up with boring social posts or inaccurate [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide).
 
 ## Where Each Falls Short
 

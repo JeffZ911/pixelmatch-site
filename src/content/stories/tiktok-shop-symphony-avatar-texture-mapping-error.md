@@ -42,7 +42,7 @@ This case study follows a mid-sized beauty and apparel seller generating between
 
 The seller's primary goal was to use Symphony Creative Studio’s "Product Avatars." This feature allows a seller to upload a static product image, which the AI then "maps" onto a digital human avatar, making it appear as though the avatar is holding, applying, or modeling the item. However, the technical requirements for these uploads are strict. To even list a product, TikTok Shop requires 4 to 9 images per listing, with a minimum resolution of 600x600 pixels and a maximum file size of 5MB.
 
-For the AI avatar to function, the input image must be even cleaner than a standard listing photo. The seller found that while their basic listing photos passed the initial TikTok Shop quality check, they failed miserably when fed into the Symphony rendering engine.
+For the [AI avatar](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) to function, the input image must be even cleaner than a standard listing photo. The seller found that while their basic listing photos passed the initial TikTok Shop quality check, they failed miserably when fed into the Symphony rendering engine.
 
 **Actionable Step:** Audit your current product library against the TikTok Shop image requirements. If your images are exactly 600x600 pixels, you have zero "buffer" for the AI to crop or rotate the item without losing quality. Aim for 800x800 pixels or higher to provide the rendering engine with enough data to map textures correctly.
 
@@ -51,7 +51,7 @@ For the AI avatar to function, the input image must be even cleaner than a stand
 ![What Wasn't Working](/img/tiktok-shop-symphony-avatar-texture-mapping-error/inline-2.webp)
 
 
-The seller repeatedly encountered what 3D designers call a "texture mapping error." In the context of TikTok Symphony, this occurs when the AI's "wrap" function fails. The AI tries to treat your 2D bottle or shirt as a 3D object to place it in the avatar's hand. If the edges of the product are blurry, or if there is a "halo" of the original background left behind, the AI interprets those pixels as part of the product's physical structure.
+The seller repeatedly encountered what 3D designers call a "texture mapping error." In the context of [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix), this occurs when the AI's "wrap" function fails. The AI tries to treat your 2D bottle or shirt as a 3D object to place it in the avatar's hand. If the edges of the product are blurry, or if there is a "halo" of the original background left behind, the AI interprets those pixels as part of the product's physical structure.
 
 The result is a digital artifact: a serum bottle that looks like it has a fuzzy white aura or a t-shirt that appears to merge into the avatar’s skin. The seller attempted to fix this using several popular tools, but each presented a new roadblock:
 

@@ -131,7 +131,7 @@ Export a batch of 50 RAW product photos and time how long it takes to manually r
 
 *   **Use Shopify Magic Media** for quick, one-off background swaps when you are already inside your Shopify admin and the resolution isn't your top priority. It is perfect for testing a new product idea before committing to a full photoshoot.
 *   **Use [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio** for your social media and ad creatives. When you need to turn a product photo into a "lifestyle" shot for an Instagram Story, Canva’s creative flexibility is unmatched.
-*   **Use PixelMatch** for scaling your actual product listings. When you need to batch-generate high-resolution, marketplace-compliant images that meet [Amazon's pure white RGB 255,255,255 background](https://sellercentral.amazon.com/help/hub/reference/1881) standards across hundreds of items, a dedicated batch tool is the only way to stay profitable.
+*   **Use PixelMatch** for scaling your actual [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide). When you need to batch-generate high-resolution, marketplace-compliant images that meet [Amazon's pure white RGB 255,255,255 background](https://sellercentral.amazon.com/help/hub/reference/1881) standards across hundreds of items, a dedicated batch tool is the only way to stay profitable.
 
 Stop treating your product photography as a manual chore. By choosing the right tool for the specific volume and platform, you ensure your listings stay active, your images stay sharp, and your conversion rates stay high.
 

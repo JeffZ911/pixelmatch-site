@@ -25,7 +25,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Your listings no longer live or die solely by the keywords you stuff into your backend. With the full integration of Rufus, Amazon’s AI-powered shopping assistant, your product images now function as machine-readable data points that determine whether you appear in visual search queries.
+Your listings no longer live or die solely by the keywords you stuff into your backend. With the full integration of Rufus, Amazon’s AI-powered shopping assistant, your product images now function as machine-readable data points that determine whether you appear in [visual search](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-visual-search-optimization) queries.
 
 [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-image-semantic-tagging-guide) uses computer vision for visual search. To rank, ensure your main image is [at least 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) on a pure white background. Use secondary images to show scale and human use.
 
@@ -126,7 +126,7 @@ Redesign your infographics to be "AI-readable." Use a minimum font size of 14pt 
 No, Rufus analyzes the entire image stack, including secondary images and A+ Content. While the main image is used for initial identification and must follow strict [pure white background rules](https://sellercentral.amazon.com/help/hub/reference/G1881), the secondary images provide the contextual data (scale, environment, use-case) that Rufus uses to answer complex shopper questions.
 
 ### Can I use AI-generated images on Amazon in 2026?
-Yes, Amazon allows AI-generated images as long as they accurately represent the product and do not mislead customers. For main images, the product itself must be a real representation, but the background can be AI-generated or removed. For secondary images, using tools like PixelMatch to create lifestyle scenes is a standard practice for multi-platform sellers to maintain <a href="https://www.amazon.com/s?k=COSMO+algorithm+compatibility&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">COSMO algorithm compatibility</a>.
+Yes, Amazon allows AI-generated images as long as they accurately represent the product and do not mislead customers. For main images, the product itself must be a real representation, but the background can be AI-generated or removed. For secondary images, using tools like PixelMatch to create lifestyle scenes is a standard practice for multi-platform sellers to maintain <a href="https://www.amazon.com/s?k=COSMO+algorithm+compatibility&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[COSMO algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) compatibility</a>.
 
 ### Why is my image suppressed even though it has a white background?
 The most common reason is that the background is not "pure" white. Amazon’s system checks for [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881). If your image has a slight gray tint or "noise" from a low-quality camera sensor, it will fail. Another reason is "Frame Fill"; if your product occupies less than [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881), it may be suppressed for poor visibility.
