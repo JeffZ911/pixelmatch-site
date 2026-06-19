@@ -23,7 +23,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop risking your TikTok Shop seller rating by guessing which AI-generated product photos require a disclosure label. One unlabeled "photorealistic" background or a slightly enhanced product shape can trigger a Level 3 restriction, effectively freezing your revenue for weeks.
+Stop risking your TikTok Shop seller rating by guessing which AI-generated product photos require a [disclosure label](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). One unlabeled "photorealistic" background or a slightly enhanced product shape can trigger a Level 3 restriction, effectively freezing your revenue for weeks.
 
 ## Quick Reference Table
 

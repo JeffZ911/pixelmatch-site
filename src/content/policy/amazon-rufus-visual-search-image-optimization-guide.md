@@ -105,7 +105,7 @@ If your legacy images are 500 or 800 pixels, do not simply stretch them in Photo
 AI upscaling regenerates the missing pixels rather than just enlarging them, maintaining the sharp edges Rufus needs for OCR and object recognition. This is especially important for products with fine text, such as supplement labels or electronic ports, where clarity determines whether Rufus can answer specific technical questions from shoppers.
 
 ### Contextual Lifestyle Generation
-The most time-consuming part of Rufus optimization is creating the "context" images that the COSMO algorithm craves. Instead of hiring a photographer for every new use-case, use PixelMatch to batch-generate compliant secondary images. 
+The most time-consuming part of Rufus optimization is creating the "context" images that the [COSMO algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) craves. Instead of hiring a photographer for every new use-case, use PixelMatch to batch-generate compliant secondary images. 
 
 For a single SKU, you should generate:
 1.  One image showing the product in a "human scale" context (e.g., a hand holding the item).

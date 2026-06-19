@@ -51,7 +51,7 @@ Standardize your image workflow using the 2026 Rufus Optimization Checklist belo
 ![Detailed Requirements](/img/amazon-rufus-seo-product-listings-guide/inline-2.webp)
 
 
-Calibrate your image metadata and visual hierarchy to align with Amazon’s COSMO algorithm. In 2026, the "search bar" is increasingly a conversation with Rufus, and Rufus does not just read your bullet points—it cross-references them with your visual assets to ensure you aren't "keyword stuffing" features that don't exist.
+Calibrate your [image metadata](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) and visual hierarchy to align with Amazon’s [COSMO algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study). In 2026, the "search bar" is increasingly a conversation with Rufus, and Rufus does not just read your bullet points—it cross-references them with your visual assets to ensure you aren't "keyword stuffing" features that don't exist.
 
 ### How Rufus Reads Your Images
 

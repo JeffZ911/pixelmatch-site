@@ -73,7 +73,7 @@ While the main image is clinical, images 2 through 9 are where you build trust a
 *   **Lifestyle Context:** In 2026, "authentic" lifestyle imagery outperforms studio-perfect shots. Use high-quality environmental photos that show the product in its natural use case—for example, a kitchen appliance on a countertop rather than a floating render.
 
 ### AI Content Disclosures
-TikTok’s 2026 policy on AI-generated content (AIGC) is transparent but strict. If you use AI tools to generate the entire product image or to create a synthetic human model (AI Avatar) to showcase your product, you must use the AIGC disclosure toggle during the upload process. 
+TikTok’s 2026 policy on AI-generated content (AIGC) is transparent but strict. If you use AI tools to generate the entire product image or to create a synthetic human model ([AI Avatar](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix)) to showcase your product, you must use the AIGC disclosure toggle during the upload process. 
 
 Failure to disclose AI-generated imagery can lead to "Content Violation" strikes. PixelMatch simplifies this by generating photorealistic backgrounds and lighting for your *real* product photos, ensuring you stay within the "AI-enhanced" category rather than "AI-generated," though we always recommend checking the disclosure box if the background is entirely synthetic to remain 100% compliant with TikTok’s evolving transparency standards.
 

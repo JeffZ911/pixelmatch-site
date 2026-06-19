@@ -138,7 +138,7 @@ Yes, Amazon allows AI-generated images as long as the product itself is not dist
 Both tools perform well, but Canva’s Background Remover is generally more consistent for simple shapes. However, for products with "fuzzy" edges like hair, fur, or intricate jewelry, Flair AI's dedicated focus on product photography often yields a cleaner mask that prevents the "halo" effect often seen in lower-tier AI editors.
 
 ### Can I use Canva or Flair AI for TikTok Shop?
-Yes, but you must be careful with aspect ratios. TikTok Shop requires specific image dimensions (usually 1:1 or 3:4) for product listings. While you can design these in Canva or Flair, you will need to manually ensure that no "safe zone" content (like text) is cut off by the TikTok UI overlay.
+Yes, but you must be careful with aspect ratios. TikTok Shop requires specific image dimensions (usually 1:1 or 3:4) for [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide). While you can design these in Canva or Flair, you will need to manually ensure that no "safe zone" content (like text) is cut off by the TikTok UI overlay.
 
 ### Is the $35 Flair AI Pro+ plan worth it?
 For most small sellers, no. The $10 Pro plan covers the needs of the vast majority of DTC brands. The $35 Pro+ plan is primarily for agencies or larger companies that need a formal commercial license for high-spend ad campaigns or those who want to integrate Flair’s AI into their own custom software via API.

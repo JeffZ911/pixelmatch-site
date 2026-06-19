@@ -51,7 +51,7 @@ Run your current product library against these technical benchmarks before attem
 ![Detailed Requirements](/img/tiktok-shop-symphony-digital-human-image-specs/inline-2.webp)
 
 
-TikTok Symphony Creative Studio requires high-quality product inputs to generate realistic digital humans (avatars) showcasing your items. To ensure your digital human looks like a professional spokesperson rather than a glitchy rendering, you must standardize your raw photography to meet the platform's 2026 processing standards.
+[TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) Creative Studio requires high-quality product inputs to generate realistic digital humans (avatars) showcasing your items. To ensure your digital human looks like a professional spokesperson rather than a glitchy rendering, you must standardize your raw photography to meet the platform's 2026 processing standards.
 
 ### Image Quality & Framing
 

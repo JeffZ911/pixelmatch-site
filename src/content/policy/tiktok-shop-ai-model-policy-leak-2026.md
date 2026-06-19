@@ -72,7 +72,7 @@ Sellers must use the built-in AI label for any image where the subject or the en
 
 As of June 2026, TikTok has moved to eliminate "low-effort" promotional content. AI voices and static-image content are now banned in promotional LIVEs. This means you cannot run a 24/7 livestream using a looped static image of your product and a synthetic voiceover to drive sales.
 
-These restrictions aim to prioritize human-led commerce. If you are caught using an AI avatar or a synthetic voice to host a shopping stream, the platform can terminate the stream instantly and issue violation points that impact your Creator Enforcement Policy standing. To stay compliant, ensure all promotional livestreams feature a real person or real-time, non-synthetic product demonstrations.
+These restrictions aim to prioritize human-led commerce. If you are caught using an [AI avatar](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) or a synthetic voice to host a shopping stream, the platform can terminate the stream instantly and issue violation points that impact your Creator Enforcement Policy standing. To stay compliant, ensure all promotional livestreams feature a real person or real-time, non-synthetic product demonstrations.
 
 ## Common Rejection Reasons
 

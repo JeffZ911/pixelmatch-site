@@ -26,7 +26,7 @@ inline_image_sections:
 
 High return rates and suppressed listings often stem from a disconnect between what Amazon’s AI assistant, Rufus, "thinks" your product is and what your images actually show. If your visual assets fail to communicate semantic context, you lose the "Buy Box" of the generative AI era.
 
-Amazon Rufus Image Semantic Tagging Guide: 2026 Seller Requirements
+[Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) Image Semantic Tagging Guide: 2026 Seller Requirements
 
 **Quick Answer:** Amazon Rufus uses Visual Label Tagging to map product images to customer intent. Sellers must meet the [1600x1600 pixel minimum](https://sellercentral.amazon.com/help/hub/reference/G1881) for primary images and use clear lifestyle contexts to improve AI semantic confidence.
 

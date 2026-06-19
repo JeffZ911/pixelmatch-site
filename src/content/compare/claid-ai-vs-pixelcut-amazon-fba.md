@@ -152,7 +152,7 @@ The "best" tool depends entirely on your scale and your technical comfort level.
 Amazon requires main images to be at least 1000 pixels on the longest side, but [1600 pixels is the minimum required to enable zoom](https://sellercentral.amazon.com/help/hub/reference/G1881). For the best results on high-resolution mobile screens, many sellers now use 2000x2000 px square images.
 
 ### Can I use AI-generated backgrounds for my Amazon main image?
-No, Amazon's main image must be a [professional photo of the actual product on a pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881). You can, however, use AI to generate lifestyle backgrounds for your "Other Images" (the 2nd through 7th slots) and your A+ Content descriptions.
+No, Amazon's [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) must be a [professional photo of the actual product on a pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881). You can, however, use AI to generate lifestyle backgrounds for your "Other Images" (the 2nd through 7th slots) and your A+ Content descriptions.
 
 ### Why was my Amazon image rejected even though the background is white?
 Amazon requires "Pure White," which is specifically [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881). If your background is 254, 255, 255 (a very slight off-white), their automated system may still flag it. Tools like Claid AI and PixelMatch are designed to force the background to absolute 255 white.

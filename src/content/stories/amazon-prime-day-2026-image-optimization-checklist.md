@@ -101,7 +101,7 @@ By automating the [Prime Day 2026 image](/blog/stories/amazon-prime-day-2026-ima
 
 The seller also utilized the time saved to focus on bulk background removal for their secondary lifestyle images, creating high-converting "In-Use" shots for their A+ Content without hiring a lifestyle photographer.
 
-**Actionable Step:** Review your "Unit Session Percentage" in Seller Central two weeks after updating your images. A 1-2% lift in this metric during Prime Day can result in thousands of dollars in incremental profit for mid-market sellers.
+**Actionable Step:** Review your "Unit Session Percentage" in Seller Central two weeks after updating your images. A 1-2% lift in this metric during [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) can result in thousands of dollars in incremental profit for mid-market sellers.
 
 ## The Ultimate Amazon Prime Day 2026 Image Optimization Checklist
 

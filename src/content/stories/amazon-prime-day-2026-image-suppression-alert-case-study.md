@@ -91,7 +91,7 @@ Crucially, the seller followed the updated 2026 Amazon Acceptable Use Policy by 
 | **Resolution** | High (Native) | Variable | 2000px+ Upscaled |
 | **AI Disclosure** | N/A | Manual | Compliance-Ready Exports |
 
-**Actionable Step:** When uploading secondary images to Amazon, navigate to the "Images" tab in the "Edit Product" section and look for the "Content Disclosure" dropdown. Selecting "Contains AI-generated content" for lifestyle shots prevents future automated flags from the 2026 "Deepfake & Synthetic Media" filters.
+**Actionable Step:** When uploading secondary images to Amazon, navigate to the "Images" tab in the "Edit Product" section and look for the "[Content Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619)" dropdown. Selecting "Contains AI-generated content" for lifestyle shots prevents future automated flags from the 2026 "Deepfake & Synthetic Media" filters.
 
 ## Results (with Numbers)
 

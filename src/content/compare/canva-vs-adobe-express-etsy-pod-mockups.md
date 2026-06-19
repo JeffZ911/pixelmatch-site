@@ -26,7 +26,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-19._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-19._
 
 Scaling an Etsy Print-on-Demand (POD) shop feels like a race against the clock when you are stuck manually dragging designs onto individual mockups one by one. Choosing between Canva and Adobe Express determines whether you spend your weekend clicking through templates or launching a new 50-item collection in time for the holiday rush.
 

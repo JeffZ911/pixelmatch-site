@@ -131,7 +131,7 @@ While Photoroom’s background removal is world-class, its batch mode on the Pro
 Pebblely’s $19/mo tier is one of the most restrictive in the industry for the price. With only 200 images included, you cannot afford to "experiment." In the POD world, experimentation is key—you often need to see a design in five different rooms before finding the one that converts. Pebblely’s pricing model discourages this creative exploration.
 
 ### Canva Pro: The "Generalist" Gap
-Canva’s Magic Studio is a general-purpose AI. It isn't trained specifically on ecommerce conversion data. This means it might generate a background that looks beautiful but violates Amazon’s "Main Image" rules or distracts from the product itself. Furthermore, Canva lacks a true "Multi-Platform Export" button that takes one design and instantly spits out the 1:1, 4:5, and 16:9 versions needed for a modern multi-channel strategy.
+Canva’s Magic Studio is a general-purpose AI. It isn't trained specifically on ecommerce conversion data. This means it might generate a background that looks beautiful but violates Amazon’s "[Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)" rules or distracts from the product itself. Furthermore, Canva lacks a true "Multi-Platform Export" button that takes one design and instantly spits out the 1:1, 4:5, and 16:9 versions needed for a modern multi-channel strategy.
 
 ### Booth.AI: Accessibility Barriers
 Booth.AI has positioned itself toward larger brands and agencies. For the independent POD seller, the lack of transparent, self-service pricing as of May 19, 2026, makes it a difficult recommendation. When you are trying to move fast, you cannot wait for a sales call to start generating images.

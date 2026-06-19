@@ -54,7 +54,7 @@ Run a quick audit of your current creative assets against these baseline require
 ![Detailed Requirements](/img/tiktok-shop-image-quality-standards-2025/inline-2.webp)
 
 
-Configure your export settings in your photo editor to match these precise specifications. TikTok Shop’s algorithm prioritizes listings that meet the "Good" quality tier, which is heavily influenced by your image metadata and visual clarity. If you are migrating listings from Amazon or Shopify, do not assume your existing assets will pass; TikTok's background-detection AI is significantly more aggressive than other platforms.
+Configure your export settings in your photo editor to match these precise specifications. TikTok Shop’s algorithm prioritizes listings that meet the "Good" quality tier, which is heavily influenced by your [image metadata](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) and visual clarity. If you are migrating listings from Amazon or Shopify, do not assume your existing assets will pass; TikTok's background-detection AI is significantly more aggressive than other platforms.
 
 ### Main Image vs. Additional Images
 
@@ -153,7 +153,7 @@ As of early 2025, TikTok has expanded its [API support for WEBP and HEIC](https:
 ![Official Source Links](/img/tiktok-shop-image-quality-standards-2025/inline-5.webp)
 
 
-Stay updated on policy changes by frequently visiting these official documentation hubs. TikTok Shop policies can change with 24-hour notice, especially regarding AI-generated content and image metadata requirements.
+Stay updated on policy changes by frequently visiting these official documentation hubs. TikTok Shop policies can change with 24-hour notice, especially regarding AI-generated content and [image metadata requirements](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619).
 
 *   TikTok Shop Seller Center: Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616)
 *   TikTok Shop Academy: Improve Your Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)

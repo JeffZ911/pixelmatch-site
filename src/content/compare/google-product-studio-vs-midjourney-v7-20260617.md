@@ -36,7 +36,7 @@ Stop losing sales to competitors who have better lifestyle photography and faste
 *Related: [Midjourney v6.1 vs Flux: Best AI for Jewelry Photography (2026)](/blog/compare/midjourney-v6-1-vs-flux-jewelry-photography) · [Best AI Product Background Generator for Etsy Sellers](/blog/compare/best-ai-product-background-generator-etsy) · [SWE Bench Ecommerce AI Model Rankings: Top Tools Compared](/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615)*
 
 
-Check your Google Merchant Center Next status today to see if Product Studio is already active in your region; if it is, you have an immediate, zero-cost tool for basic feed cleanup. Google Product Studio is a utility-first platform built for speed and integration, allowing you to swap backgrounds and enhance resolution directly where your products are managed. It is the friction-free choice for sellers who need to "good-enough" their Google Shopping feed without learning a new interface.
+Check your [Google Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Next status today to see if Product Studio is already active in your region; if it is, you have an immediate, zero-cost tool for basic feed cleanup. Google Product Studio is a utility-first platform built for speed and integration, allowing you to swap backgrounds and enhance resolution directly where your products are managed. It is the friction-free choice for sellers who need to "good-enough" their Google Shopping feed without learning a new interface.
 
 Midjourney v7, however, is a creative powerhouse. Since becoming the default model in mid-2025, it has introduced features like Omni Reference and Personalization v2, which allow for a level of brand-specific aesthetic control that Google cannot match. It produces photorealistic lifestyle scenes that look like high-budget editorial shoots, but it demands a steep learning curve and lacks the native ecommerce guardrails required for marketplace compliance.
 
@@ -74,7 +74,7 @@ Midjourney v7 focuses on creative control. Its Personalization v2 and Omni Refer
 
 Calculate your monthly "cost per asset" to see if a per-image or per-GPU-hour model fits your volume, as high-volume sellers often find Midjourney's time-based billing more expensive than it initially appears.
 
-Google Product Studio is free for merchants using Google Merchant Center Next. This makes it the most cost-effective option for basic feed optimization. If you are already running Google Ads, there is no additional overhead to use these features.
+Google Product Studio is free for merchants using [Google Merchant](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Center Next. This makes it the most cost-effective option for basic feed optimization. If you are already running Google Ads, there is no additional overhead to use these features.
 
 Midjourney v7 has no free tier. Pricing starts at the Basic plan for $10/month, which provides roughly 3.3 fast GPU hours. For a working ecommerce store, this is rarely enough. Most brands will need the Standard plan at $30/month for 15 fast GPU hours, or the Pro plan at $60/month to access Stealth Mode. Stealth Mode is critical for keeping unreleased product designs private; without it, every image you generate is visible to the public in the Midjourney gallery.
 
@@ -130,7 +130,7 @@ Stop wasting hours on manual prompting and single-image edits. Use PixelMatch to
 No, not without post-processing. Amazon requires a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) for all main images. Midjourney often includes shadows or off-white tints that will trigger an automatic listing suppression. You must use a tool like PixelMatch or a background remover to ensure compliance.
 
 ### Does Google Product Studio own the rights to my images?
-According to Google's terms of service, you retain ownership of the original product images you upload, but Google uses the generated content to improve its machine learning models. Always review the latest Merchant Center Next agreement for specific commercial usage rights in your region.
+According to Google's terms of service, you retain ownership of the original product images you upload, but Google uses the generated content to improve its machine learning models. Always review the latest [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Next agreement for specific commercial usage rights in your region.
 
 ### How do I maintain brand consistency in Midjourney v7?
 You should use the `--sref` (Style Reference) and `--cref` (Character/Product Reference) parameters. By providing a URL to an existing brand photo after these tags, you can tell Midjourney v7 to mimic the lighting, color palette, and product details of your original asset across new generations.

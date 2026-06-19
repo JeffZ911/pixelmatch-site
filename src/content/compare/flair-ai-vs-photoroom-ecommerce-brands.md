@@ -34,7 +34,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-20._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-20._
 
 Your product images are either closing sales or triggering platform suppressions that halt your revenue. In the 2026 ecommerce landscape, choosing between Flair AI and Photoroom is no longer just about "better lighting"—it is a choice between lifestyle-driven conversion and high-volume platform compliance.
 
