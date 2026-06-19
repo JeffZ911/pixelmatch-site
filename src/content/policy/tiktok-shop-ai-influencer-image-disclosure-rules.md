@@ -65,7 +65,7 @@ If you use virtual influencers to batch-generate AI product images or videos for
 On TikTok Shop, this means:
 1. The AIGC toggle must be ON.
 2. The video description should include a hashtag like #VirtualInfluencer or #AI.
-3. If the AI avatar is giving a testimonial, a text overlay must state "Simulated person" or "AI-generated voice" for at least 3 seconds.
+3. If the [AI avatar](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) is giving a testimonial, a text overlay must state "Simulated person" or "AI-generated voice" for at least 3 seconds.
 
 ## Common Rejection Reasons
 

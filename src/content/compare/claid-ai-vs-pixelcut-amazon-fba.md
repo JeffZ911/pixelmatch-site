@@ -144,7 +144,7 @@ The "best" tool depends entirely on your scale and your technical comfort level.
 2.  **The Enterprise Choice:** If you are managing an enterprise-level catalog with tens of thousands of images and have a developer on staff, Claid AI’s API is the most robust solution for massive-scale upscaling and standardization.
 3.  **The Professional FBA Choice:** For the vast majority of private label Amazon FBA sellers, PixelMatch is the clear winner. It provides the high-resolution, [RGB 255, 255, 255 compliant main images](https://sellercentral.amazon.com/help/hub/reference/G1881) required by Amazon, while offering the batch-generation capabilities needed to create a full suite of A+ Content lifestyle shots in minutes.
 
-**Final Actionable Step:** Don't wait for a "Listing Suppressed" notification. Take your top-selling SKU today, run its main image through PixelMatch to ensure it hits the [2000x2000 px and pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881) benchmarks, and monitor your conversion rate for the next 7 days. Better images almost always lead to a lower ACOS (Advertising Cost of Sales).
+**Final Actionable Step:** Don't wait for a "Listing Suppressed" notification. Take your top-selling SKU today, run its [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) through PixelMatch to ensure it hits the [2000x2000 px and pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881) benchmarks, and monitor your conversion rate for the next 7 days. Better images almost always lead to a lower ACOS (Advertising Cost of Sales).
 
 ## Frequently Asked Questions
 

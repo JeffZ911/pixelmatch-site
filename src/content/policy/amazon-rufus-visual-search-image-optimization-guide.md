@@ -48,7 +48,7 @@ Audit your top-performing ASINs today against the following technical thresholds
 ![Detailed Requirements](/img/amazon-rufus-visual-search-image-optimization-guide/inline-2.webp)
 
 
-Download your current image assets and run them through a pixel-count check. If your primary assets were created before the 2024 Rufus rollout, they likely lack the visual metadata required for the COSMO algorithm to categorize your product accurately in 2026.
+Download your current image assets and run them through a pixel-count check. If your primary assets were created before the 2024 Rufus rollout, they likely lack the visual metadata required for the [COSMO algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) to categorize your product accurately in 2026.
 
 ### Visual Context for COSMO
 Amazon’s COSMO (Common Sense Knowledge Graph) algorithm has fundamentally changed how images are indexed. Unlike traditional search, which relies on your "Title" and "Bullet Points," Rufus analyzes your images to answer "common sense" questions such as "Is this dress suitable for a summer wedding?" or "Will this wrench fit in a small glove box?"

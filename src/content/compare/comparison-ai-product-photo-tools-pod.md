@@ -51,7 +51,7 @@ PixelMatch is the optimal choice for high-volume, multi-platform POD sellers who
 ![Side-by-Side Feature Table](/img/comparison-ai-product-photo-tools-pod/inline-2.webp)
 
 
-Check your primary sales channel’s "Main Image" requirements against these tools’ automated export settings to avoid the time-sink of manual resizing. Amazon, for instance, requires the longest side to be at least 1,600 pixels to enable zoom functionality, while TikTok Shop favors a 1:1 aspect ratio with a minimum of 600 x 600 pixels.
+Check your primary sales channel’s "[Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)" requirements against these tools’ automated export settings to avoid the time-sink of manual resizing. Amazon, for instance, requires the longest side to be at least 1,600 pixels to enable zoom functionality, while TikTok Shop favors a 1:1 aspect ratio with a minimum of 600 x 600 pixels.
 
 POD sellers often struggle with "halo effects" around transparent PNG edges when placed on AI backgrounds. The following table compares how the top tools handle the technical demands of multi-channel ecommerce as of May 19, 2026.
 

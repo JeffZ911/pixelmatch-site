@@ -97,7 +97,7 @@ By automating the [Prime Day 2026 image](/blog/stories/amazon-prime-day-2026-ima
 
 1.  **Eliminated Suppression Risk:** By using an AI that guarantees RGB 255, 255, 255, the seller had zero listings suppressed during the June 23rd kickoff. 
 2.  **Improved Mobile CTR:** The automated 85% frame fill ensured their products appeared larger than competitors' in the Amazon mobile app's "split-view" search results.
-3.  **Reclaimed Budget:** The $500+ previously spent on manual retouching was reallocated to Prime Day "Lightning Deals" and "7-Day Deals" fees, directly contributing to a 22% increase in year-over-year Prime Day sales.
+3.  **Reclaimed Budget:** The $500+ previously spent on manual retouching was reallocated to [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) "Lightning Deals" and "7-Day Deals" fees, directly contributing to a 22% increase in year-over-year Prime Day sales.
 
 The seller also utilized the time saved to focus on bulk background removal for their secondary lifestyle images, creating high-converting "In-Use" shots for their A+ Content without hiring a lifestyle photographer.
 

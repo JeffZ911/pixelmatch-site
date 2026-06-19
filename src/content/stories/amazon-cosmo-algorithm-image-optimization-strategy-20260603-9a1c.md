@@ -51,7 +51,7 @@ However, in early 2024, their organic rank began to slip. New competitors with l
 
 The culprit was the rollout of Amazon's new search architecture, powered by a behavioral Large Language Model (LLM) known as COSMO. Unlike the older A9 algorithm, which matches keywords to product titles, COSMO uses common-sense reasoning to analyze human intent. It asks: *Why* is the customer buying this? *Where* will they use it? If a customer searches for "desert hiking gear," COSMO prioritizes listings that visually and textually prove they belong in that specific environment.
 
-To regain visibility, the brand needed to pivot from a "one-size-fits-all" image set to an Amazon COSMO algorithm image optimization strategy. This required placing their products in highly specific, intent-driven contexts—such as the red sandstone of Zion National Park or the misty trails of the Pacific Northwest—rather than relying solely on generic studio settings.
+To regain visibility, the brand needed to pivot from a "one-size-fits-all" image set to an [Amazon COSMO algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) image optimization strategy. This required placing their products in highly specific, intent-driven contexts—such as the red sandstone of Zion National Park or the misty trails of the Pacific Northwest—rather than relying solely on generic studio settings.
 
 **Actionable Step for Sellers:** Audit your top 10 organic keywords today. Categorize them into "Object-Based" (e.g., *water bottle*) and "Intent-Based" (e.g., *bottle for hot weather hiking*). If your images only satisfy the "Object-Based" category, you are losing rank to COSMO.
 
@@ -93,7 +93,7 @@ This is where the COSMO strategy took shape. Instead of searching for "mountain 
 *   **Intent C (Gym/Fitness):** "Water bottle on a black rubber gym floor next to a kettlebell, dramatic gym lighting, sweat droplets on the bottle surface."
 
 ### Step 3: A/B Testing Visual Contexts at Scale
-Because PixelMatch does not penalize users with low batch caps, the brand generated 15 variations per ASIN. They used Amazon's "Manage Your Experiments" tool to run A/B tests on their secondary images. They found that for the query "hiking water bottle," the Zion National Park background outperformed the generic forest background by 22% in CTR. This data allowed them to refine their visual catalog based on what the COSMO algorithm was actually rewarding with traffic.
+Because PixelMatch does not penalize users with low batch caps, the brand generated 15 variations per ASIN. They used Amazon's "Manage Your Experiments" tool to run A/B tests on their secondary images. They found that for the query "hiking water bottle," the Zion National Park background outperformed the generic forest background by 22% in CTR. This data allowed them to refine their visual catalog based on what the [COSMO algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) was actually rewarding with traffic.
 
 **Actionable Step for Sellers:** Open your "Customers also ask" section on your top listing. If customers ask "Does this fit in a car cup holder?", your second lifestyle image should be a PixelMatch-generated shot of the product in a car cup holder.
 
@@ -148,7 +148,7 @@ Track your "Unit Session Percentage" and "Click-Through Rate" in Brand Analytics
 ![Caveats and Honest Limitations](/img/amazon-cosmo-algorithm-image-optimization-strategy-20260603-9a1c/inline-6.webp)
 
 
-While an Amazon COSMO algorithm image optimization strategy is powerful, it is not a magic bullet. Sellers should be aware of specific limitations:
+While an Amazon [COSMO algorithm image](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) optimization strategy is powerful, it is not a magic bullet. Sellers should be aware of specific limitations:
 
 *   **Reflective Surfaces:** Highly reflective or transparent products, such as polished chrome or clear glassware, are notoriously difficult for AI to render perfectly in complex backgrounds. While PixelMatch excels at lighting integration, these products may still require minor manual touch-ups to ensure reflections of the "new" environment look 100% natural.
 *   **SEO Synergy:** AI imagery cannot fix a fundamentally flawed product or poor text-based SEO. Your bullet points and A+ Content must explicitly state the features shown in your lifestyle images. If your image shows a bottle on a rugged cliffside, your text must mention "impact-resistant coating."
@@ -167,7 +167,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
-*   SellerApp: Amazon COSMO is Redefining Product Discovery
+*   SellerApp: [Amazon COSMO](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) is Redefining Product Discovery
 *   Photoroom Pricing and Plan Limits
 *   Jungle Scout: Amazon Algorithm Guide
 *   Marketplace Pulse: The Evolution of Amazon Search

@@ -51,7 +51,7 @@ However, the transition isn't seamless. While a human creator brings natural ski
 
 Watch any raw AI-generated video for more than five seconds, and the "plastic skin" effect becomes apparent. This happens because most AI video generators prioritize smooth motion over high-frequency texture detail. In the beauty niche, this is a fatal flaw. Customers look for "real" skin to judge the efficacy of a foundation or concealer. If the avatar's skin lacks pores, fine lines, or natural tonal variations, the viewer subconsciously flags the content as "fake," leading to high skip rates.
 
-The second major issue is clipping. TikTok Shop thrives on product demonstrations—the "hand-to-face" motion. When a Symphony avatar holds a physical product, the AI often struggles to define the boundary between the hand and the bottle. This results in "clipping," where fingers appear to melt into the packaging or edges of the product flicker and blur.
+The second major issue is clipping. TikTok Shop thrives on product demonstrations—the "hand-to-face" motion. When a [Symphony avatar](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-avatar-texture-mapping-error) holds a physical product, the AI often struggles to define the boundary between the hand and the bottle. This results in "clipping," where fingers appear to melt into the packaging or edges of the product flicker and blur.
 
 TikTok's own quality standards emphasize high-resolution clarity. The platform recommends 800x800 px or higher for product images within the shop interface, and video ads that appear "low quality" or "glitchy" can be flagged. If your AI avatar has visible artifacts, you risk falling under TikTok's "Low Quality Content" suppression, which limits your reach in the For You Feed (FYP).
 

@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Uploading a product image to TikTok Symphony only to see your beauty bottle warp, melt, or disappear into the avatar’s hand is a fast way to stall a high-growth campaign. If you are seeing jagged edges and distorted surfaces on your 3D assets, you are likely facing a texture mapping error—a common rendering failure where the AI cannot reconcile your 2D product photo with the avatar's 3D environment.
+Uploading a product image to [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) only to see your beauty bottle warp, melt, or disappear into the avatar’s hand is a fast way to stall a high-growth campaign. If you are seeing jagged edges and distorted surfaces on your 3D assets, you are likely facing a texture mapping error—a common rendering failure where the AI cannot reconcile your 2D product photo with the avatar's 3D environment.
 
 ## The Seller's Situation
 

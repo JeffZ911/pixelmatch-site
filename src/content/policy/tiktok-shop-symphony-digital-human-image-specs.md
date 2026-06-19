@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Scaling your TikTok Shop presence often hits a bottleneck when you realize you cannot film 50 high-converting videos a day with a human model. TikTok Symphony Creative Studio solves this by using digital humans to "wear" your products, but if your source images are off by even a few pixels, the AI mapping engine will distort your items or reject the upload entirely.
+Scaling your TikTok Shop presence often hits a bottleneck when you realize you cannot film 50 high-converting videos a day with a human model. [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) Creative Studio solves this by using digital humans to "wear" your products, but if your source images are off by even a few pixels, the AI mapping engine will distort your items or reject the upload entirely.
 
 ## Quick Reference Table
 
