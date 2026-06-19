@@ -154,7 +154,7 @@ While Amazon accepts PNG, TIFF, and GIF, they [explicitly prefer JPEG (.jpg)](ht
 Suppression often occurs if the product occupies less than [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881) or if there is "extra" white space at the top and bottom. Additionally, ensure there are no inset images, watermarks, or "[Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)" badges on the image itself, as these are prohibited on main images.
 
 ### Does PixelMatch have a limit on how many images I can process?
-Unlike tools like Photoroom, which limit Pro users to 500 exports, PixelMatch is designed for high-volume ecommerce sellers who need to process entire catalogs at once. This makes it better suited for the "batch-heavy" workflow required for major events like Prime Day.
+Unlike tools like Photoroom, which limit Pro users to 500 exports, PixelMatch is designed for high-volume ecommerce sellers who need to process entire catalogs at once. This makes it better suited for the "batch-heavy" workflow required for major events like [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy).
 
 
 <!-- pm-cta:foot -->

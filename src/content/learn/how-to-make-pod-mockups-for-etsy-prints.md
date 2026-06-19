@@ -24,7 +24,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-22._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-22._
 
 stop wasting hours manually warping PNGs onto static photos only to have Etsy's thumbnail crop ruin your composition. High-quality mockups are no longer a luxury; they are the baseline requirement for staying visible in a crowded 2026 marketplace.
 

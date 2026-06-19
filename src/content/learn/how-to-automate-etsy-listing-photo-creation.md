@@ -88,7 +88,7 @@ Configure your export settings to meet Etsy's 2026 limits. Automate the resizing
 Even with automation, small errors in your setup can lead to listing rejections or poor conversion rates.
 
 ### Failing to Compress Images
-Uploading files larger than 1MB is the most common technical error. While Etsy's uploader may sometimes accept larger files, it will forcefully compress them, often resulting in "artifacting" or pixelation. By using a tool that pre-compresses your images to undisclosed or a specific target size, you retain control over the final image quality.
+Uploading files larger than 1MB is the most common technical error. While Etsy's uploader may sometimes accept larger files, it will forcefully compress them, often resulting in "artifacting" or pixelation. By using a tool that pre-compresses your images to undisclosed or a specific target size, you retain control over the final [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix).
 
 ### Ignoring AI Policies
 As of May 23, 2026, Etsy’s policy on AI remains clear: transparency is key. If the *product* you are selling is AI-generated (like AI-generated digital art), you must disclose this in your listing description. However, using AI for photo editing—such as background removal or lifestyle staging—is permitted and does not require a specific disclosure tag, provided the physical item is accurately represented. 

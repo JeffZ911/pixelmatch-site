@@ -54,7 +54,7 @@ Check your "Product Optimizer" tab in the TikTok Seller Center to see which list
 
 ### Listing Quality Tiers
 
-TikTok Shop categorizes product listings into three quality tiers: Poor, Fair, and Good. To achieve a "Good" listing quality tier, TikTok requires sellers to upload at least 5 high-resolution images per product. Listings with fewer than 5 images or those missing category-specific details are automatically downgraded to a "Fair" or "Poor" quality tier, which significantly reduces their visibility in the "Shop" tab and search results.
+TikTok Shop categorizes [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) into three quality tiers: Poor, Fair, and Good. To achieve a "Good" listing quality tier, TikTok requires sellers to upload at least 5 high-resolution images per product. Listings with fewer than 5 images or those missing category-specific details are automatically downgraded to a "Fair" or "Poor" quality tier, which significantly reduces their visibility in the "Shop" tab and search results.
 
 The "Good" tier is not just a badge; it is a prerequisite for participating in certain platform-wide flash sales and promotional events. If your images are flagged as low quality, your listing may be suppressed, meaning it won't appear to potential buyers even if your SEO keywords are perfect.
 

@@ -108,7 +108,7 @@ Midjourney’s biggest weakness in 2026 remains its lack of an official, stable 
 
 Flux 2, while technically superior for realism, has a massive barrier to entry for the average seller. To run Flux 2 locally via ComfyUI (avoiding API fees), you need a workstation with at least 90GB of VRAM for the full-parameter model. Most consumer laptops have 8GB to 16GB. Even using the API requires a level of "prompt engineering" and technical knowledge that most business owners don't have time to learn. You have to specify CFG scales, sampler types, and denoise strengths just to get a clean background.
 
-Neither tool natively understands marketplace-specific rules. They won't automatically ensure your main image has a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G16881) as required by Amazon. You still need a post-processing step to ensure compliance.
+Neither tool natively understands marketplace-specific rules. They won't automatically ensure your [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) has a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G16881) as required by Amazon. You still need a post-processing step to ensure compliance.
 
 **Actionable Step:** Before investing in a local AI rig, benchmark your current computer. If you don't have a dedicated NVIDIA RTX 4090 or better, skip the local Flux 2 setup and use a cloud-based batch tool like PixelMatch to avoid the $2,000+ hardware cost.
 

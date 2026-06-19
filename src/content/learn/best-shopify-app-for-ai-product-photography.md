@@ -163,7 +163,7 @@ It depends on your volume. For high-volume multi-platform sellers, **PixelMatch*
 Shopify supports images up to 5000 x 5000 px and 20 MB. However, for the best performance, you should aim for **2048 x 2048 px** for square product photos and keep file sizes under **300 KB**.
 
 ### Does Shopify support WebP and AVIF images?
-Yes. As of 2026, Shopify’s CDN automatically serves WebP to almost all modern browsers. Uploading in WebP or AVIF directly is recommended to ensure you have maximum control over the compression levels and final image quality.
+Yes. As of 2026, Shopify’s CDN automatically serves WebP to almost all modern browsers. Uploading in WebP or AVIF directly is recommended to ensure you have maximum control over the compression levels and final [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix).
 
 ### Will AI images affect my SEO?
 Only if they are poorly optimized. Google’s 2026 search algorithms prioritize page speed (Core Web Vitals). Using AI to generate images is perfectly safe for SEO, provided you use descriptive **Alt Text** and keep your file sizes small enough to ensure a fast "Largest Contentful Paint."
