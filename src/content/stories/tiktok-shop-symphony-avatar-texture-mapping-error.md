@@ -59,7 +59,7 @@ The result is a digital artifact: a serum bottle that looks like it has a fuzzy 
 2.  **Photoroom:** The seller tested Photoroom’s Pro tier at $12.99 per month. While the quality was high, the 50-image batch processing limit became a friction point. When launching a new seasonal collection with 200+ SKUs and multiple angles per SKU, the manual effort to process batches of 50 slowed down their "Time-to-Live" (TTL) for new listings.
 3.  **Canva Pro:** At $120 per year, Canva is a staple for most sellers. However, it lacked the specialized bulk ecommerce export features needed for 3D mapping. Canva’s background remover often left "soft" edges on transparent glass bottles—a death sentence for Symphony’s 3D mapping engine, which requires a hard, clean alpha channel to understand where the product ends and the "air" begins.
 
-**Actionable Step:** Inspect your current PNG assets by placing them over a neon green or bright pink background in any editor. If you see a faint white or grey outline around the edges of your product, that "ghosting" will cause a texture mapping error in TikTok Symphony. These pixels must be 100% transparent.
+**Actionable Step:** Inspect your current PNG assets by placing them over a neon green or bright pink background in any editor. If you see a faint white or grey outline around the edges of your product, that "ghosting" will cause a texture mapping error in [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix). These pixels must be 100% transparent.
 
 ## The Workflow They Built
 

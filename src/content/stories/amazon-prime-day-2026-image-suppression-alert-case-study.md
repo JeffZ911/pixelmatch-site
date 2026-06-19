@@ -118,7 +118,7 @@ The brand successfully secured their inventory check-in ahead of the June 23 [Pr
 ![Steps to Replicate](/img/amazon-prime-day-2026-image-suppression-alert-case-study/inline-5.webp)
 
 
-If you are facing image-related suppression or simply want to optimize your catalog for Prime Day 2026, follow this exact workflow:
+If you are facing image-related suppression or simply want to optimize your catalog for [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) 2026, follow this exact workflow:
 
 1.  **Identify Flagged ASINs:** Navigate to **Inventory > Manage All Inventory** in Seller Central. Use the "Filters" sidebar to select "Search Suppressed." This will give you a definitive list of every product currently hidden from customers.
 2.  **Audit the "Fix Your Product" Page:** Click on the "Search Suppressed" link for a specific ASIN to see the exact reason. If it says "Main Image Quality," you likely have a background or framing issue.

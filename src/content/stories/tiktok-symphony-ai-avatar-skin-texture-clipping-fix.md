@@ -64,7 +64,7 @@ TikTok's own quality standards emphasize high-resolution clarity. The platform r
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Fixing these AI artifacts requires a bridge between the generative power of Symphony and the precision of a dedicated retouching tool like PixelMatch. You cannot simply "re-roll" the AI generation in Symphony and expect the clipping to disappear; the underlying model often repeats the same geometric errors. Instead, high-performing sellers use a post-production workflow to fix AI image artifacts and restore texture.
+Fixing these AI artifacts requires a bridge between the generative power of Symphony and the precision of a dedicated retouching tool like PixelMatch. You cannot simply "re-roll" the AI generation in Symphony and expect the clipping to disappear; the underlying model often repeats the same geometric errors. Instead, high-performing sellers use a post-production workflow to fix [AI image](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) artifacts and restore texture.
 
 ### Step 1: Export and Frame Extraction
 Generate your base video in TikTok Symphony Creative Studio. Once the lip-sync and movement are finalized, export the video in the standard 1080x1920 px (9:16) video spec. To fix specific clipping issues where the avatar holds the product, identify the 3-5 second window where the artifacts are most visible.

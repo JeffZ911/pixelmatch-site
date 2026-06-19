@@ -112,7 +112,7 @@ They standardized their exports to ensure maximum compatibility with Amazon's [1
 ![Results (with Numbers)](/img/optimizing-product-images-for-amazon-rufus-search/inline-4.webp)
 
 
-By aligning their visual content with the Cosmo algorithm's preference for intent-matching, the seller saw a significant reversal in their traffic trends.
+By aligning their visual content with the [Cosmo algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study)'s preference for intent-matching, the seller saw a significant reversal in their traffic trends.
 
 | Metric | Result | Source/Verification |
 | :--- | :--- | :--- |

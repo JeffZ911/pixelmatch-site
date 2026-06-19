@@ -138,7 +138,7 @@ While AI-driven automation significantly speeds up the [Prime Day](https://pixel
 
 *   **Transparency Challenges:** AI background removal can still struggle with highly transparent items common in the Home category, such as glassware, clear acrylic organizers, or fine window netting. These items often require a manual "refine" step to ensure the edges don't look jagged or "eaten" by the white background.
 *   **Main Image Purity:** Amazon's [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881) strictly forbid any text, logos, watermarks, or "unauthorized props" in the main image. While PixelMatch can generate beautiful lifestyle backgrounds for your secondary images, never use an AI-generated lifestyle scene as your primary search image.
-*   **Algorithm Sensitivity:** Amazon's suppression algorithm is more aggressive during high-traffic events like Prime Day. A single "soft rejection" (where your image stays live but loses the zoom feature) can hurt your conversion rate. 
+*   **Algorithm Sensitivity:** Amazon's suppression algorithm is more aggressive during high-traffic events like [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy). A single "soft rejection" (where your image stays live but loses the zoom feature) can hurt your conversion rate. 
 
 **Actionable Step:** Always perform a manual QA on 5% of your batch exports. Zoom into the edges of your product at 200% magnification to check for "halos" or artifacts left behind by the background removal process.
 

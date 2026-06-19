@@ -119,7 +119,7 @@ Both generators animate existing assets rather than creating perfect product sho
 
 Establish a "Batch-First" workflow by using PixelMatch to generate 50 clean, professional product-on-white and lifestyle shots before you even open a video generator. This ensures you have a deep library of assets to test in different video formats.
 
-1.  **Use Amazon AI Video Generator** if your goal is to launch a Sponsored Brands campaign today. It is the path of least resistance for FBA sellers and ensures your ads won't be rejected for technical spec violations.
+1.  **Use [Amazon AI](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Video Generator** if your goal is to launch a Sponsored Brands campaign today. It is the path of least resistance for FBA sellers and ensures your ads won't be rejected for technical spec violations.
 2.  **Use Canva Pro** if you are building a brand identity outside of Amazon. Use its 500 monthly credits to create experimental "lifestyle" clips for social media where a polished, non-corporate look is more effective.
 3.  **The Hybrid Workflow:** For the best results, use PixelMatch to batch-generate your base product photography. Take those high-res images and upload them to Amazon’s generator for your "hard-sell" ads, and use them in Canva to create your "brand-story" social clips.
 

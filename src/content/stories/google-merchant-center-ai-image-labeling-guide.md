@@ -147,9 +147,9 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Google Merchant Center: Product Image Requirements
-*   Google Merchant Center: AI-Generated Content Policy
-*   Google Merchant Center: Upcoming Image Size Enforcement (July 2026)
+*   [Google Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619): Product Image Requirements
+*   [Google Merchant](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Center: AI-Generated Content Policy
+*   Google [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619): Upcoming Image Size Enforcement (July 2026)
 *   IPTC Photo Metadata Standard: Digital Source Type
 *   Photoroom Pricing and Tiers
 *   Fash: Product Photography Cost Benchmarks
