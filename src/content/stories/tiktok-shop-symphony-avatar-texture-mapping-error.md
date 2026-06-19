@@ -167,7 +167,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   TikTok Symphony Creative AI Suite Announcement
+*   [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) Creative AI Suite Announcement
 *   TikTok Shop Help Center: Product Listing Requirements
 *   Remove.bg Official Pricing
 *   Photoroom Pro Pricing and Features

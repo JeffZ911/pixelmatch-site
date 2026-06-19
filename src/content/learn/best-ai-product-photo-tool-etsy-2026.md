@@ -41,7 +41,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-19._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-19._
 
 Your product photos are the only thing standing between a shopper’s scroll and a "Buy It Now" click. In 2026, failing to meet Etsy’s updated image resolution standards or tripping over AI disclosure policies doesn't just look unprofessional—it gets your listings suppressed by the algorithm.
 

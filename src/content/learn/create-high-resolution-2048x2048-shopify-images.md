@@ -40,7 +40,7 @@ Furthermore, inconsistent aspect ratios break collection page grid layouts. If o
 
 | Feature | Specification | Recommendation |
 | :--- | :--- | :--- |
-| **Recommended Dimensions** | 2048 x 2048 pixels | Use for all product listings |
+| **Recommended Dimensions** | 2048 x 2048 pixels | Use for all [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) |
 | **Minimum for Zoom** | 800 x 800 pixels | Avoid going lower than this |
 | **Maximum Dimensions** | 5000 x 5000 pixels | Only for extremely high-detail prints |
 | **Aspect Ratio** | 1:1 (Square) | Ensures grid uniformity |

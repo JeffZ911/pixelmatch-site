@@ -24,7 +24,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-23._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-23._
 
 Spending hours manually removing backgrounds and staging lifestyle scenes for every new SKU prevents you from scaling your Etsy shop and expanding to other platforms. Automating your product photography workflow allows you to move from a single "hero" shot to a complete, ten-image listing in minutes, ensuring your shop remains competitive as Etsy’s search algorithm increasingly prioritizes high-quality, diverse visual content.
 

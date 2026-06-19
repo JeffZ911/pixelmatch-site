@@ -138,7 +138,7 @@ Canva is the gold standard for adding text overlays, "Limited Time Offer" sticke
 
 
 **What is the best aspect ratio for TikTok Shop images in 2026?**
-For your standard product listings (the catalog itself), a 1:1 (square) ratio is required. However, for Shoppable Photos, Video Shopping Ads, and in-feed discovery, a 9:16 (vertical) ratio is essential to maximize screen real estate and avoid UI overlap [1.3.4].
+For your standard [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) (the catalog itself), a 1:1 (square) ratio is required. However, for Shoppable Photos, Video Shopping Ads, and in-feed discovery, a 9:16 (vertical) ratio is essential to maximize screen real estate and avoid UI overlap [1.3.4].
 
 **What are the file size limits for TikTok Shop?**
 All images must be under 5MB. They must be in JPG, JPEG, or PNG format. If your file is larger, use a lossless compressor or lower the DPI to 72, which is the standard for web and mobile display.

@@ -50,7 +50,7 @@ Cut hours from your listing workflow by automating the tedious task of resizing 
 ![Why This Matters for Sellers](/img/batch-resize-amazon-images-1000x1000/inline-1.webp)
 
 
-Check your "Image Quality" dashboard in Amazon [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) today to identify listings currently at risk of suppression due to sub-par resolution. In 2026, Amazon’s automated scanning system evaluates every uploaded image in real-time, and falling below the 1000-pixel threshold is a fast track to lost visibility.
+Check your "[Image Quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix)" dashboard in Amazon [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) today to identify listings currently at risk of suppression due to sub-par resolution. In 2026, Amazon’s automated scanning system evaluates every uploaded image in real-time, and falling below the 1000-pixel threshold is a fast track to lost visibility.
 
 ### Enabling the Zoom Feature
 Amazon requires a minimum of 1000 pixels on the longest side to enable the hover-to-zoom feature. This functionality is not just a "nice-to-have" detail; listings with zoom enabled see an average conversion rate increase of up to 20% compared to static images. When a shopper can inspect the stitching on a leather bag or the texture of a skincare cream, you bridge the "tactile gap" that usually prevents an online sale.

@@ -130,7 +130,7 @@ If you are facing image-related suppression or simply want to optimize your cata
 4.  **Bulk Upload to Seller Central:** Use the "Bulk Image Upload" tool under the **Inventory** menu. Name your files by ASIN (e.g., `B0XXXXXXXX.MAIN.jpg`) to ensure Amazon's system maps them correctly.
 5.  **Disclose AI Usage:** For any secondary lifestyle images (like a bottle sitting on a marble countertop) generated via AI, ensure you check the "AI-generated content" box in the image attribute section to remain compliant with the 2026 Acceptable Use Policy.
 
-**Actionable Step:** Set a recurring calendar invite for 30 days before every major shopping event (Prime Day, Black Friday, Spring Sale) to run this "Suppression Audit." Amazon often updates its automated bot filters right before high-traffic periods.
+**Actionable Step:** Set a recurring calendar invite for 30 days before every major shopping event ([Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy), Black Friday, Spring Sale) to run this "Suppression Audit." Amazon often updates its automated bot filters right before high-traffic periods.
 
 ## Caveats and Honest Limitations
 

@@ -79,7 +79,7 @@ Set your camera or AI generation tool to export in the sRGB color space. Using C
 ### Non-White Backgrounds
 Amazon’s automated "Imaging Compliance" bots are stricter than ever in 2026. Your main image must be [pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881). Even an off-white or light gray background (e.g., RGB 253, 253, 253) can trigger a "Search Suppressed" status. 
 
-Rufus specifically relies on the pure white background to separate the product "object" from the background "noise." If there is a shadow that is too dark or a reflection that extends to the edge of the frame, the AI may fail to identify the product's silhouette, leading to poor visual search ranking.
+Rufus specifically relies on the pure white background to separate the product "object" from the background "noise." If there is a shadow that is too dark or a reflection that extends to the edge of the frame, the AI may fail to identify the product's silhouette, leading to poor [visual search](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-visual-search-optimization) ranking.
 
 ### Blurry Zoom
 If your images are under [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881), Amazon disables the "Zoom" feature. This is a critical failure for Rufus optimization. When a user asks Rufus to "Show me the texture of this leather bag," the AI attempts to pull high-resolution crops of your image. If the resolution isn't there, Rufus cannot confirm the quality of the material, and your product will be ranked lower than competitors with [1600+ pixel images](https://sellercentral.amazon.com/help/hub/reference/G1881).

@@ -105,7 +105,7 @@ PixelMatch is best for multi-platform sellers who need to **batch-process hundre
 ![Where Each Falls Short](/img/midjourney-v6-1-vs-flux-jewelry-photography/inline-5.webp)
 
 
-Implement a "Main Image" QA checklist to ensure your AI outputs don't get your listings suppressed. Amazon and Walmart are increasingly strict about AI artifacts in jewelry categories.
+Implement a "[Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)" QA checklist to ensure your AI outputs don't get your listings suppressed. Amazon and Walmart are increasingly strict about AI artifacts in jewelry categories.
 
 *   **Midjourney v6.1 Hallucinations:** Midjourney often prioritizes beauty over accuracy. It may add an extra prong to a diamond ring or merge the links of a Cuban chain in a way that looks "cool" but doesn't exist in reality. It also lacks a native batch-processing API, meaning you must generate images one by one in Discord.
 *   **Flux.1 Technical Barrier:** Flux.1 [pro] has a steep learning curve. To get the highest quality, you often need to use ComfyUI (a node-based interface) or write custom Python scripts for the API. It is not a "plug-and-play" tool for the average Etsy seller.

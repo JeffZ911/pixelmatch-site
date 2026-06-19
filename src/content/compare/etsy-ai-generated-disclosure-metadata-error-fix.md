@@ -129,7 +129,7 @@ PixelMatch is not a "fun" design tool. You won't find birthday card templates or
 
 Update your Etsy production partners and disclosure settings immediately to resolve any existing metadata mismatches.
 
-If you are currently struggling with the "Etsy AI generated disclosure metadata error fix," follow these three steps to secure your shop:
+If you are currently struggling with the "Etsy [AI generated](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) disclosure metadata error fix," follow these three steps to secure your shop:
 
 1.  **Manual Disclosure Fix:** Go to your Etsy Listing Manager. For every listing using AI-generated or AI-enhanced images, scroll to the "About this listing" section. Ensure "Who made it" is set to "I did" (or your shop), and "What is it" is "A finished product." Under the "Core details" or "Settings" section, find the checkbox that says **"I used AI-generative technology"** and ensure it is checked.
 2.  **Production Attribution:** In accordance with Etsy's Creativity Standards, clearly state in your description or production partner section that the item was "Designed by the seller" with the assistance of AI tools. This prevents customers from feeling misled, which reduces the risk of "Item Not as Described" cases that carry a high cost in fees.

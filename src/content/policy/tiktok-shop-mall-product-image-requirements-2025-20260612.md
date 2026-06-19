@@ -133,7 +133,7 @@ Run a weekly check for:
 ## Frequently Asked Questions
 
 ### Can I use a lifestyle image as my main photo on TikTok Shop Mall?
-No, TikTok Shop Mall requires the primary image to have a pure white background. While standard TikTok Shop listings are sometimes more lenient, Mall listings are held to a higher professional standard to ensure a consistent, clean look across the premium "Mall" tab. You should save your lifestyle images for the 2nd through 9th image slots.
+No, [TikTok Shop Mall](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) requires the primary image to have a pure white background. While standard TikTok Shop listings are sometimes more lenient, Mall listings are held to a higher professional standard to ensure a consistent, clean look across the premium "Mall" tab. You should save your lifestyle images for the 2nd through 9th image slots.
 
 ### What happens if my product is white and the background must be white?
 To prevent a white product from "disappearing" into a pure white background, you should use subtle professional shadowing. TikTok's Listing Quality Guidelines allow for natural shadows that define the product's shape, provided the background itself remains #FFFFFF. Tools like PixelMatch can automatically inject these "contact shadows" to maintain compliance while ensuring the product remains visible.

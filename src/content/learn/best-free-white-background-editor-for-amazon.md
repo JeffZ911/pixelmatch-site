@@ -144,7 +144,7 @@ PixelMatch is better suited for multi-platform sellers who need to batch-generat
 Yes, Amazon accepts PNG (.png) files, but they are not recommended for main images. The primary reason is that PNGs support transparency, and if your "white" background is actually transparent, it may render as black or gray on different devices. JPEG is the preferred format because it forces a solid background and offers better compression for faster page loads.
 
 ### Can I use Canva for free to remove backgrounds?
-No. As of May 21, 2026, the background removal tool is strictly a Canva Pro feature. While there are "workaround" methods involving third-party free sites, they often degrade image quality, leading to blurry listings that fail Amazon's quality checks.
+No. As of May 21, 2026, the background removal tool is strictly a Canva Pro feature. While there are "workaround" methods involving third-party free sites, they often degrade [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix), leading to blurry listings that fail Amazon's quality checks.
 
 ### What happens if my background isn't pure white?
 Your listing will likely be "Search Suppressed." This means your product will not appear in customer search results, though it may still be accessible via a direct link or through your "Storefront." Amazon uses automated computer vision to scan images; if any pixel in the background is not RGB 255, 255, 255, the system can trigger a flag.

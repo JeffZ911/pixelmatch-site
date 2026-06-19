@@ -158,7 +158,7 @@ Export your images in JPEG format at a minimum of [1000x1000 pixels](https://sel
 
 While optimizing for Rufus is essential for staying competitive on Amazon in 2026, it is not a "magic button."
 
-1. **Algorithm Volatility:** Amazon’s Cosmo algorithm and Rufus are constantly evolving. The specific weight Rufus gives to images versus reviews is undisclosed. You must monitor your "Unit Session Percentage" weekly to see how Rufus updates impact your specific niche.
+1. **Algorithm Volatility:** Amazon’s [Cosmo algorithm](https://pixelmatch.art/blog/stories/amazon-cosmo-algorithm-image-color-metadata-conflict-case-study) and Rufus are constantly evolving. The specific weight Rufus gives to images versus reviews is undisclosed. You must monitor your "Unit Session Percentage" weekly to see how Rufus updates impact your specific niche.
 2. **The Review Factor:** Rufus heavily weighs customer sentiment. If your images are perfect but your reviews say the product is "cheaply made," Rufus will likely warn shoppers about the quality issues regardless of how good your AI-generated lifestyle shots look.
 3. **Manual QA Requirements:** While PixelMatch is better suited for high-volume catalog updates—avoiding the 500 batch exports/month limit of Photoroom Pro—AI can still hallucinate details. You must manually review every batch to ensure the AI hasn't added a fifth leg to a chair or changed the color of your logo.
 4. **Ranking Transparency:** As of 2026-05-27, Amazon does not provide a "Rufus Recommendation Report" in Brand Analytics. You have to infer your Rufus performance by tracking conversational search terms in your Search Query Performance (SQP) reports.
