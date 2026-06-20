@@ -103,7 +103,7 @@ If you don't have access to high-end video AI, use PixelMatch to generate consis
 
 ### Correcting Aspect Ratio and Framing
 
-Use generative fill to expand 1:1 square images into 16:9 canvases. Many sellers make the mistake of "stretching" their 1:1 images to fit 16:9, which results in distortion. Amazon's <a href="https://www.amazon.com/s?k=policy+on+image+quality&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">policy on image quality</a> prohibits any distorted or "squashed" visuals.
+Use generative fill to expand 1:1 square images into 16:9 canvases. Many sellers make the mistake of "stretching" their 1:1 images to fit 16:9, which results in distortion. Amazon's <a href="https://www.amazon.com/s?k=policy+on+image+quality&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">policy on [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix)</a> prohibits any distorted or "squashed" visuals.
 
 Instead, use an AI expansion tool (like those found in Adobe Express or Photoroom's Pro tier at $12.99/mo) to "outpaint" the background. This creates a native 1920x1080 frame where the product remains at the correct scale. 
 

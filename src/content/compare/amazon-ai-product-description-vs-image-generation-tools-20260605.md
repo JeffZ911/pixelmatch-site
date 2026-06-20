@@ -128,7 +128,7 @@ Set a batch-generation schedule for your upcoming seasonal updates today. If you
 
 To maximize your Amazon FBA and multi-channel ROI in 2026, follow this hierarchy of implementation:
 
-1.  **Fix the [Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) First:** Use PixelMatch to ensure every product in your catalog has a [high-resolution (2000px recommended)](https://sellercentral.amazon.com/help/hub/reference/G1881), pure white background main image. This is the single most important factor for your CTR.
+1.  **Fix the [Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) First:** Use PixelMatch to ensure every product in your catalog has a [high-resolution (2000px recommended)](https://sellercentral.amazon.com/help/hub/reference/G1881), pure [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background) main image. This is the single most important factor for your CTR.
 2.  **Generate Lifestyle Secondary Images:** Use AI to create 3-4 lifestyle scenes per product. This replaces the need for expensive location shoots and helps the customer visualize the product in their home.
 3.  **Automate SEO Text with Caution:** Use a tool like Helium 10 to identify high-opportunity keywords, but always have a human review the output to ensure it doesn't sound like a bot.
 4.  **Scale Across Platforms:** Once your Amazon assets are solid, use PixelMatch to batch-resize and re-style those images for the more "aesthetic" requirements of Shopify and Etsy.

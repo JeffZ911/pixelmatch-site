@@ -28,7 +28,7 @@ inline_image_sections:
 
 Photographing a 2mm diamond pavé ring shouldn't require a $5,000 macro lens and a four-hour lighting setup. For multi-platform ecommerce sellers, the choice between [Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1 and Flux.1 determines whether your jewelry looks like a high-end luxury piece or a flat, AI-generated plastic toy.
 
-**Quick Answer:** For jewelry photography, Flux.1 [pro] wins on prompt accuracy and realistic reflections, while Midjourney v6.1 excels at artistic lighting. However, sellers scaling to [Amazon's recommended 1600×1600 px size](https://sellercentral.amazon.com/help/hub/reference/G1881) often prefer batch-generation tools like PixelMatch.
+**Quick Answer:** For jewelry photography, Flux.1 [pro] wins on prompt accuracy and realistic reflections, while [Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1 excels at artistic lighting. However, sellers scaling to [Amazon's recommended 1600×1600 px size](https://sellercentral.amazon.com/help/hub/reference/G1881) often prefer batch-generation tools like PixelMatch.
 
 ## TL;DR Verdict
 

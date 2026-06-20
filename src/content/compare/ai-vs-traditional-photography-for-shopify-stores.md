@@ -88,7 +88,7 @@ The pricing landscape has shifted significantly as of 2026. Traditional studios 
 
 ### The True Cost of Traditional Shoots
 A standard professional product shoot in 2026 is no longer just the photographer's fee. You must account for:
-*   **Per-Image Rate:** $25 – $75 for basic white background shots.
+*   **Per-Image Rate:** $25 – $75 for basic [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background) shots.
 *   **Styled Lifestyle Shots:** $100 – $500 per setup.
 *   **Studio Rental:** $150 – $400 per day (if not included in the per-image rate).
 *   **Shipping & Logistics:** $50 – $200 depending on inventory volume and insurance.

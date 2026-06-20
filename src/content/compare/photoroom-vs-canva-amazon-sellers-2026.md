@@ -28,7 +28,7 @@ inline_image_sections:
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-19._
 
-Stop losing sales to "Search Suppressed" listings because your main image background is RGB 254, 254, 254 instead of a pure white 255, 255, 255. Your Amazon click-through rate (CTR) lives and dies by the technical precision of your gallery, and choosing the wrong editing tool can lead to thousands of dollars in lost organic ranking.
+Stop losing sales to "Search Suppressed" listings because your [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) background is RGB 254, 254, 254 instead of a pure white 255, 255, 255. Your Amazon click-through rate (CTR) lives and dies by the technical precision of your gallery, and choosing the wrong editing tool can lead to thousands of dollars in lost organic ranking.
 
 ## TL;DR Verdict
 
@@ -46,7 +46,7 @@ Open your [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-sel
 ![Side-by-Side Feature Table](/img/photoroom-vs-canva-amazon-sellers-2026/inline-2.webp)
 
 
-Upload a test image with a complex edge—like a glass bottle, a mesh sneaker, or a product with fine hair—to both tools simultaneously to compare how they handle transparency. You will notice Photoroom's background removal is significantly more "aware" of product depth than Canva's general-purpose tool.
+Upload a test image with a complex edge—like a glass bottle, a mesh sneaker, or a product with fine hair—to both tools simultaneously to compare how they handle transparency. You will notice Photoroom's background removal is significantly more "aware" of [product depth](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) than Canva's general-purpose tool.
 
 | Feature | Photoroom Pro (2026) | Canva Pro (2026) | PixelMatch |
 | :--- | :--- | :--- | :--- |

@@ -82,7 +82,7 @@ Resize the final output to exactly 800x800 pixels. Use a 1:1 square aspect ratio
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Audit your existing listings for the AIGC (AI-Generated Content) label immediately. TikTok's 2026 policy requires this label for any image that has been "significantly altered" by AI. Failing to toggle this switch during upload is one of the fastest ways to receive a policy violation.
+Audit your existing listings for the AIGC (AI-[Generated Content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619)) label immediately. TikTok's 2026 policy requires this label for any image that has been "significantly altered" by AI. Failing to toggle this switch during upload is one of the fastest ways to receive a policy violation.
 
 *   **Exaggerating Product Results:** Never use AI to show "instant" results that the product cannot actually achieve. Examples include using AI to show skin clearing, teeth whitening, or weight loss. These violate TikTok’s misleading content policy [1.2.1] and can lead to permanent shop bans.
 *   **Insufficient Image Count:** Many sellers upload only one or two images. TikTok automatically downgrades these listings. You must upload at least 5 images to reach the "Good" tier. Use AI to generate 3-4 different lifestyle variations to fill these slots without needing multiple photo shoots.

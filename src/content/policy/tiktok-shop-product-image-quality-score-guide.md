@@ -54,7 +54,7 @@ Download this checklist and apply it to your export settings before uploading an
 ![Detailed Requirements](/img/tiktok-shop-product-image-quality-score-guide/inline-2.webp)
 
 
-TikTok categorizes product listings into three quality tiers: Poor, Fair, and Good. Falling into the "Poor" or "Fair" category doesn't just look bad; it actively throttles your organic reach. TikTok's algorithm prioritizes "Good" listings in search results and the Shop tab because they provide a better user experience and higher conversion rates.
+TikTok categorizes [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) into three quality tiers: Poor, Fair, and Good. Falling into the "Poor" or "Fair" category doesn't just look bad; it actively throttles your organic reach. TikTok's algorithm prioritizes "Good" listings in search results and the Shop tab because they provide a better user experience and higher conversion rates.
 
 ### Listing Quality Tiers Explained
 

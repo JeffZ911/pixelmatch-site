@@ -55,7 +55,7 @@ Flux Pro (via API) requires manual prompt engineering for every single variation
 
 When exporting for marketplaces, manual workflows require secondary upscaling to meet [Amazon's 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement. Most raw Flux Pro generations occur at 1024x1024 or 1344x768 pixels. To get these to a high-quality 2000px or 3000px output for zoom-capable listings, you must add an ESRGAN or SwinIR upscaling node to your workflow, which increases generation time and cost.
 
-PixelMatch automatically formats outputs to meet marketplace specs, including [Amazon's strict pure white RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) main image rule. While Flux Pro is excellent for lifestyle scenes, it often struggles to produce a "perfect" hex #FFFFFF white background without specialized LoRAs or post-processing; PixelMatch integrates this step into the batch export.
+PixelMatch automatically formats outputs to meet marketplace specs, including [Amazon's strict pure white RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) rule. While Flux Pro is excellent for lifestyle scenes, it often struggles to produce a "perfect" hex #FFFFFF white background without specialized LoRAs or post-processing; PixelMatch integrates this step into the batch export.
 
 | Feature | Flux Pro Manual (ComfyUI/API) | PixelMatch Batch SaaS |
 | :--- | :--- | :--- |
@@ -158,6 +158,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   [Etsy Help: Requirements for Listing Photos](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)
 *   TikTok Shop Academy: Product Listing Guidelines
-*   Replicate: Flux 1.1 Pro Pricing
+*   Replicate: [Flux 1](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow).1 Pro Pricing
 *   Fal.ai: Flux Pro Model Pricing
 *   Photoroom: Pricing and Pro Features

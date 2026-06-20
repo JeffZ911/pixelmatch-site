@@ -35,7 +35,7 @@ To use the Shopify Magic media editor, open any image in your Shopify admin file
 
 Audit your current media library against the 1 megapixel (MP) threshold to identify which images will break hover-to-zoom on your storefront. Shopify Magic is an accessible entry point for basic edits, but multi-platform sellers must account for the resolution gap between the AI output and the requirements of marketplaces like Amazon and Etsy.
 
-| Feature | Shopify Magic AI Output | Shopify Recommended Standard | Amazon FBA Requirement |
+| Feature | [Shopify Magic AI](https://pixelmatch.art/blog/compare/shopify-magic-ai-image-expansion-edge-blurring-fix) Output | Shopify Recommended Standard | Amazon FBA Requirement |
 | :--- | :--- | :--- | :--- |
 | **Max Resolution** | [1 Megapixel (approx. 1024 x 1024 px)](https://help.shopify.com/en/manual/shopify-magic/media-generation) | [2048 x 2048 px](https://help.shopify.com/en/manual/products/product-media/image-sizes) | [1600 px (longest side for zoom)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) |
 | **File Formats** | JPEG, PNG | JPEG, PNG, WEBP, HEIC | JPEG, TIFF, PNG, GIF |

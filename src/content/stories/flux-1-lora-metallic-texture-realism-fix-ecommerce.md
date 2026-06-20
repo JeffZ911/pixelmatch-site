@@ -108,7 +108,7 @@ Previously, the brand paid a specialized jewelry photographer $150 per listing. 
 ### Conversion Metrics
 The most significant impact was on the Amazon search results page. In the jewelry category, the "Main Image" is the only thing that earns the click. 
 
-| Metric | Before (Standard AI/Basic Photos) | After (Flux 1 LoRA Fix) |
+| Metric | Before (Standard AI/Basic Photos) | After ([Flux 1 LoRA](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) Fix) |
 | :--- | :--- | :--- |
 | **Amazon Click-Through Rate (CTR)** | 1.2% | 3.4% |
 | **Conversion Rate (CvR)** | 2.1% | 2.8% |
@@ -130,7 +130,7 @@ You can replicate this workflow to fix your own metallic textures without needin
 Don't use a "flat" AI-generated image as your starting point. Take a real photo of your product. Use a smartphone on a tripod. Ensure the jewelry is clean; while the LoRA fixes texture, it cannot always "clean" a dirty diamond. Aim for a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) for your source photo to make background replacement easier.
 
 ### 2. Configure the PixelMatch Studio
-Upload your raw photo to the PixelMatch dashboard. Select the **Flux 1 LoRA Metallic Texture Realism Fix** from the model library. This model is specifically tuned to recognize the difference between the "specular" reflection of silver and the "diffuse" reflection of a white plastic pearl.
+Upload your raw photo to the PixelMatch dashboard. Select the **[Flux 1](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) LoRA Metallic Texture Realism Fix** from the model library. This model is specifically tuned to recognize the difference between the "specular" reflection of silver and the "diffuse" reflection of a white plastic pearl.
 
 ### 3. Define the Environment
 Use a "Scene Prompt" to place your jewelry. For Etsy, try: *"Resting on a linen cloth, soft morning sunlight, bokeh background."* For Shopify hero images, try: *"On a reflective black acrylic surface, dramatic rim lighting, minimalist aesthetic."*
@@ -148,7 +148,7 @@ Before uploading, zoom in to 100% on the final export. Check the "prongs" and "b
 ![Caveats and Honest Limitations](/img/flux-1-lora-metallic-texture-realism-fix-ecommerce/inline-6.webp)
 
 
-While the Flux 1 LoRA fix is a massive leap forward, it is not a "magic button" that replaces all human oversight. 
+While the Flux [1 LoRA](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) fix is a massive leap forward, it is not a "magic button" that replaces all human oversight. 
 
 **Input Quality Matters:** If your source photo has a massive, blown-out glare from a cheap flash, the LoRA may interpret that glare as a physical "hole" or a white gemstone. You must start with a well-lit, evenly exposed photo.
 

@@ -35,7 +35,7 @@ Shopify Sidekick's [AI image](https://pixelmatch.art/blog/stories/google-merchan
 
 Open your Shopify Admin and navigate to **Content > Files** to check the dimensions of your existing assets before you begin any AI generation workflow. Knowing your baseline resolution prevents you from accidentally overwriting high-res photography with lower-quality AI renders.
 
-The following table compares the capabilities of standard Shopify manual uploads against the limitations of the built-in Sidekick/Magic AI generation tools.
+The following table compares the capabilities of standard Shopify manual uploads against the limitations of the built-in Sidekick/[Magic AI](https://pixelmatch.art/blog/compare/shopify-magic-ai-image-expansion-edge-blurring-fix) generation tools.
 
 | Feature | Standard Shopify Uploads | Shopify Sidekick/Magic AI Generation |
 | :--- | :--- | :--- |

@@ -82,7 +82,7 @@ The most common visual failure occurs when the product’s internal shadows conf
 Sellers frequently attempt to use the Product Avatar tool for apparel. TikTok is explicit: clothing accessories such as shoes, hats, and sunglasses are not supported. If you upload a hat, the AI will often fail to generate the video, or the avatar will "hold" the hat in a physically impossible way. For these items, use the "Stock Avatar" or "Custom Avatar" (available to managed accounts) without the specific "Product Avatar" holding-interaction.
 
 ### 3. Resolution and Mapping Errors
-TikTok Shop product images must be at least 800 x 800 pixels. If you upload a low-resolution thumbnail (e.g., 400x400), the Symphony AI cannot identify the fine details of the product’s edges. This leads to "hand-clipping," where the avatar's fingers disappear into the product or appear to be floating behind it.
+TikTok Shop product images must be at least 800 x 800 pixels. If you upload a low-resolution thumbnail (e.g., 400x400), the [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) cannot identify the fine details of the product’s edges. This leads to "hand-clipping," where the avatar's fingers disappear into the product or appear to be floating behind it.
 
 ### 4. Background Artifacts
 If you use a basic background remover that leaves a 1-pixel white border around your product, that border will glow when placed in the Symphony studio. This is a common issue with standard mobile apps. Professional-grade cutouts are required to ensure the "blending" phase of the Symphony workflow doesn't pick up stray pixels.
@@ -120,7 +120,7 @@ Refer to these official TikTok documentation pages to stay updated on feature ch
 
 *   How to create avatar videos with Symphony Creative Studio – Official guide on the Product Avatar module.
 *   About Symphony Creative Studio – Overview of the AI creative suite.
-*   TikTok Shop Image Specifications – Technical requirements for product listings.
+*   TikTok Shop Image Specifications – Technical requirements for [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide).
 *   TikTok Ads Image Specs – Standard dimensions for ad creatives (1200x628 and 1080x1080).
 
 ## Frequently Asked Questions

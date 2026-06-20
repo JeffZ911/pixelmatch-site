@@ -28,7 +28,7 @@ Your listings are invisible if they fail Amazon’s visual AI filters, leading t
 
 # Amazon Shop by Style & AI Search Guide: 2026 Image Requirements
 
-Amazon's Shop by Style and AI search require main images on a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) filling 85% of the frame, with a minimum of 1000px on the longest side. AI lifestyle backgrounds are allowed for secondary images, but sellers shipping to the EU must ensure AI-generated content includes machine-readable C2PA metadata to comply with the EU AI Act.
+Amazon's Shop by Style and AI search require main images on a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) filling 85% of the frame, with a minimum of 1000px on the longest side. AI lifestyle backgrounds are allowed for secondary images, but sellers shipping to the EU must ensure AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) includes machine-readable C2PA metadata to comply with the EU AI Act.
 
 ## Quick Reference Table
 

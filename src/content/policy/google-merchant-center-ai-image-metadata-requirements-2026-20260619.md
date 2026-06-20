@@ -97,7 +97,7 @@ Most sellers do not intentionally hide AI usage; rather, their software stack "b
 
 ### Stripped Metadata by Ecommerce Platforms
 
-This is the most common reason for rejection among Shopify and BigCommerce sellers. When you upload a perfectly compliant AI image to your store, your platform's Content Delivery Network (CDN) often "optimizes" the file. In this process, the CDN may strip EXIF and IPTC metadata to reduce the file size by a few kilobytes. 
+This is the most common reason for rejection among Shopify and BigCommerce sellers. When you upload a perfectly compliant [AI image](https://pixelmatch.art/blog/compare/shopify-magic-ai-image-expansion-edge-blurring-fix) to your store, your platform's Content Delivery Network (CDN) often "optimizes" the file. In this process, the CDN may strip EXIF and IPTC metadata to reduce the file size by a few kilobytes. 
 
 When Google’s bot crawls your `image_link` (e.g., `cdn.shopify.com/s/files/.../image.jpg`), it sees the optimized version without the `trainedAlgorithmicMedia` tag. Google then compares the visual "fingerprint" of the image to known AI patterns. If it matches AI but lacks the tag, the item is disapproved.
 
