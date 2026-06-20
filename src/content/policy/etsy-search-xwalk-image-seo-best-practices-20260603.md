@@ -78,7 +78,7 @@ Always export your product photos using the sRGB [color profile](https://pixelma
 ![Common Rejection Reasons](/img/etsy-search-xwalk-image-seo-best-practices-20260603/inline-3.webp)
 
 
-Audit your "Draft" and "Inactive" folders for listings that may have been suppressed due to image quality issues. Etsy rarely "rejects" a photo in the sense of a hard error message (unless the file is corrupted), but XWalk will effectively shadow-ban listings that do not meet engagement-optimized specs.
+Audit your "Draft" and "Inactive" folders for listings that may have been suppressed due to [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) issues. Etsy rarely "rejects" a photo in the sense of a hard error message (unless the file is corrupted), but XWalk will effectively shadow-ban listings that do not meet engagement-optimized specs.
 
 ### Low-Resolution and Engagement Drops
 

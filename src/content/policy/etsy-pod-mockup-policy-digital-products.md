@@ -24,7 +24,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-21._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-21._
 
 Stop losing sales to listing deactivations by aligning your shop with the updated 2026 [Etsy Creativity](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) Standards. Failing to distinguish between a digital file and a physical product in your mockups triggers immediate policy strikes under the current enforcement protocols.
 

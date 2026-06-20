@@ -40,7 +40,7 @@ Photographing a 2mm diamond pavé ring shouldn't require a $5,000 macro lens and
 
 Run a calibration shoot using a "5-prong solitaire engagement ring" prompt on both models before committing your entire catalog's budget to one platform. [Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1 remains the gold standard for lifestyle "mood" shots, but its tendency to hallucinate physical structures makes it risky for technical jewelry listings. Flux.1, specifically the 12B parameter Pro model, is the superior choice for sellers who need the AI to respect the exact anatomy of a piece of jewelry.
 
-*   **Midjourney v6.1** is the king of aesthetic, moody jewelry shots but struggles with precise prompt adherence for specific gemstone placements.
+*   **[Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1** is the king of aesthetic, moody jewelry shots but struggles with precise prompt adherence for specific gemstone placements.
 *   **Flux.1 [pro]** delivers superior photorealism, realistic metal reflections, and exact prompt adherence, making it easier to match your physical inventory.
 *   **Neither tool** is built natively for ecommerce batch workflows; sellers must manually upscale outputs to meet [Shopify's 2048×2048 px recommendation](https://help.shopify.com/en/manual/products/product-media/product-media-types) or Etsy's preference for [2000px minimum image sizes](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos).
 
