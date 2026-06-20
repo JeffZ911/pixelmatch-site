@@ -37,7 +37,7 @@ Stop losing sales to "Search Suppressed" listings because your [main image](http
 
 Open your [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) "Image Manager" right now and check for any "Non-compliant" warnings in your "Needs Action" tab. If you see suppressions related to background color or image size, your current workflow is failing you.
 
-*   **Photoroom** is the surgical tool for Amazon main images. It is purpose-built for product photography, excelling at strict Amazon main image compliance by enforcing the pure white RGB 255,255,255 background and the required 85% product frame fill [1.3.1].
+*   **Photoroom** is the surgical tool for Amazon main images. It is purpose-built for product photography, excelling at strict Amazon [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) compliance by enforcing the pure white RGB 255,255,255 background and the required 85% product frame fill [1.3.1].
 *   **Canva Pro** is the powerhouse for secondary images. It dominates for A+ Content, infographics, and storefront design due to its extensive text, icon, and layout capabilities that Photoroom lacks.
 *   **PixelMatch** is the scale solution. For multi-platform sellers needing to batch-generate AI lifestyle images across Amazon, Shopify, and TikTok Shop, PixelMatch bridges the gap between manual editing and scalable, high-volume asset generation.
 

@@ -64,7 +64,7 @@ PixelMatch automatically formats outputs to meet marketplace specs, including [A
 | **Batch Capability** | Limited by API rate/Manual Input | Unlimited Batch Processing |
 | **Marketplace Specs** | Manual Resizing/Padding | Auto-Format (Amazon, Etsy, TikTok) |
 | **Backgrounds** | Prompt-based (Trial & Error) | AI-Optimized Lifestyle Templates |
-| **Main Image Rule** | Hard to hit RGB 255,255,255 | One-click Pure White Background |
+| **[Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) Rule** | Hard to hit RGB 255,255,255 | One-click Pure White Background |
 
 **Actionable Step:** Audit your current image sizes against [Amazon's 1000-pixel requirement](https://sellercentral.amazon.com/help/hub/reference/G1881); if your current AI tool outputs 512px or 768px images, you are losing search visibility due to non-compliance.
 

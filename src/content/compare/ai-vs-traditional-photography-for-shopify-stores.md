@@ -157,7 +157,7 @@ AI is not a "set it and forget it" solution. It has distinct limitations:
 ![Recommendation](/img/ai-vs-traditional-photography-for-shopify-stores/inline-6.webp)
 
 
-Create one "Master White Background" shot per SKU to serve as your AI seed image. This ensures the physical product remains 100% accurate while the AI handles the "environment."
+Create one "Master [White Background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background)" shot per SKU to serve as your AI seed image. This ensures the physical product remains 100% accurate while the AI handles the "environment."
 
 The most profitable Shopify stores in 2026 have abandoned the "either/or" debate. They use a **Hybrid Photography Workflow**. This approach maximizes visual fidelity while minimizing costs and turnaround time.
 

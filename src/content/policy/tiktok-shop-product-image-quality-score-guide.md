@@ -104,7 +104,7 @@ TikTok wants the Shop tab to look like a clean, professional catalog. Text-heavy
 
 ### Incorrect File Format and Resolution
 
-Uploading WebP files will fail immediately, as TikTok Shop strictly enforces the JPG and PNG only rule. While WebP is great for Shopify or custom web stores, TikTok's backend is not currently optimized to process it for product listings.
+Uploading WebP files will fail immediately, as TikTok Shop strictly enforces the JPG and PNG only rule. While WebP is great for Shopify or custom web stores, TikTok's backend is not currently optimized to process it for [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide).
 
 Furthermore, images falling under the 600x600 pixel minimum or appearing pixelated are flagged for poor quality. If you are dropshipping or using supplier images, these photos are often compressed multiple times before they reach you. Uploading a 400x400px image and trying to "stretch" it to 600px will result in a blurriness rejection.
 

@@ -37,7 +37,7 @@ Open your Shopify Admin and navigate to **Content > Files** to check the dimensi
 
 The following table compares the capabilities of standard Shopify manual uploads against the limitations of the built-in Sidekick/[Magic AI](https://pixelmatch.art/blog/compare/shopify-magic-ai-image-expansion-edge-blurring-fix) generation tools.
 
-| Feature | Standard Shopify Uploads | Shopify Sidekick/Magic AI Generation |
+| Feature | Standard Shopify Uploads | Shopify Sidekick/[Magic AI](https://pixelmatch.art/blog/compare/shopify-magic-ai-image-expansion-edge-blurring-fix) Generation |
 | :--- | :--- | :--- |
 | **Max Resolution** | [5000 x 5000 px](https://help.shopify.com/en/manual/products/product-media/product-media-types) | [1 Megapixel (approx. 1024 x 1024 px)](https://help.shopify.com/en/manual/shopify-magic/media-generation) |
 | **File Size Limit** | [20 MB](https://help.shopify.com/en/manual/products/product-media/product-media-types) | Automatically optimized for web |

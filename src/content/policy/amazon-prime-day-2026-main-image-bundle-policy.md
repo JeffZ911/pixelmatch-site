@@ -50,7 +50,7 @@ Audit your current bundle listings against the following technical specification
 | **File Formats** | JPEG (.jpg), TIFF (.tif), or GIF (.gif) | [Amazon Accepted Formats](https://sellercentral.amazon.com/gp/help/external/1881) |
 | **Bundle Content** | [Only the items included in the bundle](https://sellercentral.amazon.com/gp/help/external/200442350) | No Props Allowed |
 
-**Actionable Step:** Open your Amazon Seller Central "Manage Inventory" tab and export your "Listing Quality Report." Filter for "Image Quality" issues to identify which bundles currently fall below the [1000×1000 pixel](https://sellercentral.amazon.com/gp/help/external/1881) threshold before the Prime Day 2026 inventory cutoff.
+**Actionable Step:** Open your Amazon Seller Central "Manage Inventory" tab and export your "Listing Quality Report." Filter for "[Image Quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix)" issues to identify which bundles currently fall below the [1000×1000 pixel](https://sellercentral.amazon.com/gp/help/external/1881) threshold before the Prime Day 2026 inventory cutoff.
 
 ## Detailed Requirements
 

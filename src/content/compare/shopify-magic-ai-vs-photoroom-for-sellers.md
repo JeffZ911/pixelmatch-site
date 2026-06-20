@@ -54,7 +54,7 @@ Check your Shopify admin "Files" section today to see if your current product im
 
 Audit your current image resolution against marketplace minimums before choosing a tool. If your source files are low-quality, Shopify Magic will not upmarket them, whereas dedicated tools often include AI upscaling to ensure your "zoom-in" features function correctly on mobile devices.
 
-| Feature | Shopify Magic AI | Photoroom (Pro) | PixelMatch |
+| Feature | [Shopify Magic AI](https://pixelmatch.art/blog/compare/shopify-magic-ai-image-expansion-edge-blurring-fix) | Photoroom (Pro) | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Price** | [Free (Included)](https://help.shopify.com/en/manual/shopify-magic/media-generation) | $12.99/mo or $89.99/yr | Enterprise-Grade Batching |
 | **Max Resolution** | [1 Megapixel (1024x1024)](https://help.shopify.com/en/manual/shopify-magic/media-generation) | High Definition (2K+) | High Definition (4K+) |
@@ -76,7 +76,7 @@ Resolution is a critical differentiator for professional sellers. Shopify Magic 
 
 Calculate your cost-per-image by dividing your monthly subscription by your average SKU update volume. For a seller updating 100 products a month, Photoroom Pro costs roughly $0.13 per product, while Shopify Magic remains $0.00. However, the "hidden cost" of Shopify Magic is the labor time required to edit each image individually.
 
-Shopify Magic AI is included at [no additional cost](https://help.shopify.com/en/manual/shopify-magic/media-generation) on all standard and Plus Shopify plans. This makes it the default choice for budget-conscious starters. Photoroom offers a more complex pricing structure. They provide a limited free tier capped at 250 exports/month with watermarks, which is generally unusable for professional storefronts.
+Shopify [Magic AI](https://pixelmatch.art/blog/compare/shopify-magic-ai-image-expansion-edge-blurring-fix) is included at [no additional cost](https://help.shopify.com/en/manual/shopify-magic/media-generation) on all standard and Plus Shopify plans. This makes it the default choice for budget-conscious starters. Photoroom offers a more complex pricing structure. They provide a limited free tier capped at 250 exports/month with watermarks, which is generally unusable for professional storefronts.
 
 Photoroom's Pro plan costs $12.99/month or $89.99/year and removes watermarks while unlocking higher generation limits and batch exports. Sellers should be aware that Photoroom also offers a weekly billing option at $4.99/week, which many users select by mistake, leading to a much higher effective monthly cost of nearly $20. Furthermore, Photoroom charges separately for API access, which can unexpectedly inflate costs for sellers trying to automate their catalog updates via third-party integrations.
 

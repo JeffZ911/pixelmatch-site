@@ -63,7 +63,7 @@ Audit your current image library for high-contrast product shots that provide th
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Review your annual Canva subscription to see if you are effectively utilizing the 500 monthly Magic Media credits or if you are paying for a redundant tool when Amazon provides a similar service for free. For high-volume sellers, the "cost" is often measured in time spent formatting rather than the subscription fee itself.

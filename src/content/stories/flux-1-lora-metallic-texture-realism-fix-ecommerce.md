@@ -152,7 +152,7 @@ While the Flux [1 LoRA](https://pixelmatch.art/blog/stories/flux-1-lora-product-
 
 **Input Quality Matters:** If your source photo has a massive, blown-out glare from a cheap flash, the LoRA may interpret that glare as a physical "hole" or a white gemstone. You must start with a well-lit, evenly exposed photo.
 
-**Structural Integrity:** AI models, including Flux 1, can sometimes "hallucinate" small changes to jewelry. It might slightly round off a sharp edge or change the shape of a clasp. As a seller, you are legally responsible for ensuring your images accurately represent the product. Always perform a side-by-side comparison between the final [AI image](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) and the physical product before listing it on Amazon to avoid [suspension for deceptive practices](https://sellercentral.amazon.com/help/hub/reference/G200390640).
+**Structural Integrity:** AI models, including [Flux 1](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow), can sometimes "hallucinate" small changes to jewelry. It might slightly round off a sharp edge or change the shape of a clasp. As a seller, you are legally responsible for ensuring your images accurately represent the product. Always perform a side-by-side comparison between the final [AI image](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) and the physical product before listing it on Amazon to avoid [suspension for deceptive practices](https://sellercentral.amazon.com/help/hub/reference/G200390640).
 
 **Pricing Variability:** While the cost per listing is significantly lower than traditional photography, enterprise-level sellers doing thousands of SKUs should note that exact pricing for high-volume API usage varies by plan and isn't published as a flat rate. You should monitor your credit usage in your dashboard to avoid unexpected overages during large catalog refreshes.
 
@@ -161,7 +161,7 @@ While the Flux [1 LoRA](https://pixelmatch.art/blog/stories/flux-1-lora-product-
 ## Frequently Asked Questions
 
 ### Why does my gold jewelry look like yellow plastic in standard AI?
-Standard AI models are trained on billions of images, most of which are not high-end jewelry. They learn that "gold" is a color rather than a material with specific reflective properties. A Flux 1 LoRA fix provides the model with a specialized dataset of high-end photography, teaching it how light should realistically bounce off a metallic surface.
+Standard AI models are trained on billions of images, most of which are not high-end jewelry. They learn that "gold" is a color rather than a material with specific reflective properties. A [Flux 1 LoRA](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) fix provides the model with a specialized dataset of high-end photography, teaching it how light should realistically bounce off a metallic surface.
 
 ### Does Amazon allow AI-generated product images?
 Yes, Amazon allows AI-generated images as long as they are an [accurate representation of the product](https://sellercentral.amazon.com/help/hub/reference/G200390640). The key is using your real product as the "base" or "reference" image rather than letting the AI generate the jewelry from scratch.

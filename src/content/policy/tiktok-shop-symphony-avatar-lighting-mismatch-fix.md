@@ -126,7 +126,7 @@ Refer to these official TikTok documentation pages to stay updated on feature ch
 ## Frequently Asked Questions
 
 ### Why does my product look like it’s floating in the TikTok Avatar’s hand?
-This is typically caused by a lighting mismatch or a "dirty" background cutout. If the product image has shadows that don't match the avatar's environment, the human eye perceives it as "floating." To fix this, use a neutralized PNG with a transparent background so the Symphony AI can apply its own environmental shadows.
+This is typically caused by a lighting mismatch or a "dirty" background cutout. If the product image has shadows that don't match the avatar's environment, the human eye perceives it as "floating." To fix this, use a neutralized PNG with a transparent background so the [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) can apply its own environmental shadows.
 
 ### Can I use TikTok Symphony for clothing like t-shirts or dresses?
 Symphony's "Product Avatar" feature is not currently designed for wearable apparel. It is optimized for handheld objects like skincare bottles, electronics, or boxed goods. For clothing, it is better to use a standard avatar as a "presenter" while showing the clothing in a separate video overlay or using a static image alongside the avatar.
