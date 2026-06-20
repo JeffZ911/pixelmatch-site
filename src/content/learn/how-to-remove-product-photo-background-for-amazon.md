@@ -147,7 +147,7 @@ Remove.bg offers some of the most precise edge detection in the industry, making
 No. Amazon requires a pure white background (RGB 255, 255, 255) for all main images. Transparent backgrounds (PNGs) can often glitch during the upload process or be displayed with a black background on certain mobile devices or browser dark modes. Always export your final file as a JPEG with a solid white background layer.
 
 ### What is the best image format for Amazon?
-JPEG (.jpg) is the preferred format because it provides the best balance between high image quality and small file size. While Amazon accepts TIFF and PNG, JPEGs load faster for customers on limited data connections, which can marginally improve your mobile conversion rates.
+JPEG (.jpg) is the preferred format because it provides the best balance between high [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) and small file size. While Amazon accepts TIFF and PNG, JPEGs load faster for customers on limited data connections, which can marginally improve your mobile conversion rates.
 
 ### Do secondary images need a white background?
 No. Only the main (hero) image must have a pure white background. Secondary images should be used for lifestyle shots, "in-use" photos, size charts, and infographics. These images are where you can use colored backgrounds, text, and props to explain your product’s value proposition.

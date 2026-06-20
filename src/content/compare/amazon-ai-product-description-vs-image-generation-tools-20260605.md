@@ -68,7 +68,7 @@ On the other hand, [AI image](https://pixelmatch.art/blog/policy/shopify-sidekic
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your "Cost Per Asset" by dividing your monthly subscription by the total number of SKUs you update each month to determine which tool offers the highest ROI for your specific inventory size. If you are managing a 500-SKU catalog, a tool that charges per image will quickly become a liability compared to a flat-rate subscription.

@@ -55,7 +55,7 @@ To choose the right tool, you must match the AI's output capabilities to the str
 | :--- | :--- | :--- |
 | **Max Resolution** | 2048 x 2048 px (2K HD) | Up to 4-Megapixel (approx. 2048 x 2048+) |
 | **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Improved, but still prone to "letter soup" on small labels | High accuracy via 32B-parameter Mistral-3 vision model |
-| **Product Consistency** | Character/Style Reference (limited to 1-2 images) | Multi-Reference (up to 10 images) |
+| **[Product Consistency](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow)** | Character/Style Reference (limited to 1-2 images) | Multi-Reference (up to 10 images) |
 | **Workflow** | Discord or Web Alpha (no official API) | API, ComfyUI, or PixelMatch Batching |
 | **Best For** | Lifestyle "Mood" shots and Social Media | Hero images, A+ Content, and Shopify listings |
 | **Image Format** | .png, .jpg, .webp | .png, .jpg, .webp, .exr |
@@ -123,7 +123,7 @@ However, do not try to build a Flux 2 pipeline from scratch unless you are a dev
 
 Use PixelMatch to bridge the gap. By leveraging the Flux 2 engine within a dedicated ecommerce interface, PixelMatch allows you to:
 1.  Upload your 10 reference images once.
-2.  Select "Amazon Main Image," "Shopify Lifestyle," or "TikTok Ad" presets.
+2.  Select "Amazon [Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)," "Shopify Lifestyle," or "TikTok Ad" presets.
 3.  Batch-generate hundreds of images that are automatically sized and formatted to platform specs.
 
 This workflow gives you Flux 2's 4-megapixel realism without the 90GB VRAM headache.

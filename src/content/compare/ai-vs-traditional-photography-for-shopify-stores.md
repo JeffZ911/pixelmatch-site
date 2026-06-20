@@ -79,7 +79,7 @@ AI batch generation utilizes a "parallel" workflow. Once you have a single high-
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your "Cost Per Listing" (CPL) by dividing your total annual photography spend by the number of unique sales channels you use. If your CPL is higher than $150 per SKU, you are overpaying for content that has a shelf life of less than six months.

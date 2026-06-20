@@ -33,7 +33,7 @@ Scaling a TikTok Shop catalog often hits a wall when the platform flags your lis
 ![Why This Matters for Sellers](/img/tiktok-shop-product-cover-image-resizer-tool-20260524/inline-1.webp)
 
 
-Audit your current TikTok Shop Seller Center "Product Diagnostic" tab today to identify how many listings are currently suppressed in the "Fair" or "Poor" categories due to image quality. TikTok Shop uses a rigid algorithmic grading system that directly impacts your organic reach. Listings categorized in the "Good" tier receive priority in the "Shop" tab and the "For You" feed (FYP) compared to those with lower scores.
+Audit your current TikTok Shop Seller Center "Product Diagnostic" tab today to identify how many listings are currently suppressed in the "Fair" or "Poor" categories due to [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix). TikTok Shop uses a rigid algorithmic grading system that directly impacts your organic reach. Listings categorized in the "Good" tier receive priority in the "Shop" tab and the "For You" feed (FYP) compared to those with lower scores.
 
 To move a listing from "Fair" to "Good," you must meet a specific threshold of visual data. TikTok Shop requires a minimum of 5 high-resolution images per product. If you upload only one or two images, the platform assumes the listing is incomplete or untrustworthy, resulting in a lower conversion rate and reduced visibility. The primary cover image—the very first photo customers see—must adhere to strict 2026 technical specifications to pass the automated compliance bot.
 

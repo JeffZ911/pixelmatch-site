@@ -113,7 +113,7 @@ The reduction in cost per listing from $45.00 to $4.50 reflects the elimination 
 You can replicate this workflow to eliminate rendering errors in your own TikTok Shop videos. Follow these technical steps to ensure your assets are "Symphony-ready."
 
 ### Step 1: Execute a Calibration Shoot
-Take photos of your product against a high-contrast background. If your product is white, use a dark grey background. If it is dark, use a light background. This contrast helps the AI's initial edge-detection pass. Ensure the lighting is "flat" (even lighting with minimal deep shadows), as the Symphony avatar engine will apply its own digital lighting to the product once it is mapped.
+Take photos of your product against a high-contrast background. If your product is white, use a dark grey background. If it is dark, use a light background. This contrast helps the AI's initial edge-detection pass. Ensure the lighting is "flat" (even lighting with minimal deep shadows), as the [Symphony avatar](https://pixelmatch.art/blog/policy/tiktok-shop-symphony-avatar-lighting-mismatch-fix) engine will apply its own digital lighting to the product once it is mapped.
 
 ### Step 2: Bulk Process in PixelMatch
 Upload your raw files to PixelMatch. Use the bulk background removal feature to isolate the products. Ensure you select the "upscale" option to reach at least 600x600 pixels, though 800x800 is preferred for 3D mapping.

@@ -64,7 +64,7 @@ Before finding PixelMatch, the brand experimented with several popular AI tools,
 
 The seller initially tried Photoroom, but the costs and workflow friction mounted quickly. Photoroom's Pro tier at $12.99/mo (on monthly billing) had batch limits of 50 images per session. For a brand trying to update a catalog of 200 items with 5-10 lifestyle angles each, this created a massive bottleneck. They also explored Canva’s "Magic Media" features, but the AI-generated backgrounds often looked overly smoothed or "uncanny," failing Etsy’s zoom test. When a buyer zooms in on a decor item and the background looks like a blurry painting, it hurts buyer trust and lowers conversion rates.
 
-The core problem was "lighting mismatch." Most generic AI tools would place a product into a background without adjusting the shadows or highlights on the product itself. This made the items look like they were floating, a "Photoshopped" look that sophisticated Etsy buyers reject.
+The core problem was "[lighting mismatch](https://pixelmatch.art/blog/policy/tiktok-shop-symphony-avatar-lighting-mismatch-fix)." Most generic AI tools would place a product into a background without adjusting the shadows or highlights on the product itself. This made the items look like they were floating, a "Photoshopped" look that sophisticated Etsy buyers reject.
 
 **Actionable Step for Sellers:** Run a "Zoom Test" on your current mobile-generated AI images. Open your listing on a desktop browser, hover over the image to trigger the zoom, and check if the edges of your product look jagged or if the background texture disappears. If it does, you are likely losing sales to "low-quality" perception.
 

@@ -166,7 +166,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   PCMag: Amazon's Ultimate Summer Sale and Prime Day 2026 Dates
+*   PCMag: Amazon's Ultimate Summer Sale and [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) 2026 Dates
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   Photoroom: Pricing and Plan Features
 *   Stripe: Standard Payment Processing Fees

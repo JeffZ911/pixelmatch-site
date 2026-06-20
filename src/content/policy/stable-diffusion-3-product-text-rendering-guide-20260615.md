@@ -142,7 +142,7 @@ Blurry text is usually a result of low output resolution or "token confusion" in
 TikTok Shop allows AI-generated images as long as they do not contain watermarks, heavy filters, or misleading information. TikTok's algorithm prioritizes "authentic" looking content, so use SD3 to create realistic lifestyle settings rather than overly "perfect" or CGI-looking renders.
 
 ### What is the best aspect ratio for TikTok Shop images?
-TikTok Shop requires images to be in a 1:1, 3:4, or 4:3 aspect ratio. Do not use the 9:16 vertical ratio commonly used for videos; this is reserved for TikTok ads and organic video content. For product listings, stick to square (1:1) for maximum compatibility across all devices.
+TikTok Shop requires images to be in a 1:1, 3:4, or 4:3 aspect ratio. Do not use the 9:16 vertical ratio commonly used for videos; this is reserved for TikTok ads and organic video content. For [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide), stick to square (1:1) for maximum compatibility across all devices.
 
 
 <!-- pm-cta:foot -->

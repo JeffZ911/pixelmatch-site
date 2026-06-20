@@ -60,7 +60,7 @@ The core issues they faced included:
 2.  **Geometric Hallucinations:** Basic AI models often added extra prongs to diamond settings or warped the circular band of a ring, violating [Amazon's Product Detail Page rules](https://sellercentral.amazon.com/help/hub/reference/G200390640) which require images to be accurate representations of the product.
 3.  **Inconsistent Lighting:** Using tools like Canva's "Magic Edit" often resulted in the jewelry being lit from the left while the AI-generated background was lit from the right, creating an uncanny valley effect that killed buyer trust.
 
-They needed a "flux 1 lora metallic texture realism fix"—a way to tell the AI exactly how light should bounce off a 14k gold surface without redesigning the product itself.
+They needed a "[flux 1 lora](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) metallic texture realism fix"—a way to tell the AI exactly how light should bounce off a 14k gold surface without redesigning the product itself.
 
 **Actionable Step for Sellers:** Check your AI-generated images for "hallucinated" details. If your AI tool is adding a fifth prong to a four-prong setting, you risk "Item Not as Described" returns and potential account suspension on marketplaces like Amazon or Etsy.
 
@@ -86,7 +86,7 @@ The "fix" involved applying a custom LoRA (Low-Rank Adaptation). Think of a LoRA
 
 By using this workflow, the AI no longer "invented" the ring; it simply "re-lit" the existing ring photo into a high-end lifestyle scene while maintaining the metallic integrity.
 
-| Feature | Standard AI (Canva/Photoroom) | PixelMatch + Flux 1 LoRA Fix |
+| Feature | Standard AI (Canva/Photoroom) | PixelMatch + [Flux 1](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) LoRA Fix |
 | :--- | :--- | :--- |
 | **Metal Texture** | Matte, plastic-like | Reflective, high-luster |
 | **Geometric Accuracy** | High risk of warping | Preserved from source photo |
@@ -100,7 +100,7 @@ By using this workflow, the AI no longer "invented" the ring; it simply "re-lit"
 ![Results (with Numbers)](/img/flux-1-lora-metallic-texture-realism-fix-ecommerce/inline-4.webp)
 
 
-The transition from traditional photography and basic AI to the Flux 1 LoRA workflow produced immediate, measurable ROI for the brand.
+The transition from traditional photography and basic AI to the Flux [1 LoRA](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) workflow produced immediate, measurable ROI for the brand.
 
 ### Cost Reduction
 Previously, the brand paid a specialized jewelry photographer $150 per listing. This included the shoot, the specialized "focus stacking" required for small items, and high-end retouching to remove dust and fingerprints. By switching to the PixelMatch workflow, their cost dropped to approximately $12 per listing (covering the cost of the software subscription and generation credits). This represents an **80% reduction in content creation costs** when factoring in the time saved on back-and-forth revisions with a human retoucher.

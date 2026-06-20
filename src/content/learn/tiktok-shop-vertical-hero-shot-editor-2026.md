@@ -26,7 +26,7 @@ inline_image_sections:
 Stop losing sales to "Poor" quality listing scores because your Amazon-optimized square photos look like amateur crop-jobs in a TikTok feed. Scaling a multi-platform store in 2026 means you can't afford to waste time on manual reshoots or expensive photographers for every new "Shoppable Photo" trend.
 
 # The Complete Guide to Using a TikTok Shop Vertical Hero Shot Editor in 2026
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-23._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-23._
 
 
 ## Why This Matters for Sellers

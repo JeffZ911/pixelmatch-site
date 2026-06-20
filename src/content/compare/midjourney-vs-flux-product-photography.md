@@ -132,7 +132,7 @@ Midjourney is a closed ecosystem. There is no official way to connect it to your
 Raw Flux is not user-friendly. Unless you are comfortable using API documentation, ComfyUI, or Python, you cannot easily access its full power. While the Flux.2 Pro pricing is low, the cost of building a custom interface to use it can be thousands of dollars. 
 
 ### The Workflow Gap
-Neither Midjourney nor Flux natively understands "Marketplace Compliance." They don't know that an Amazon main image cannot have a shadow that touches the edge of the frame, or that a TikTok Shop image needs a specific "safe zone" for UI overlays.
+Neither Midjourney nor Flux natively understands "Marketplace Compliance." They don't know that an Amazon [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) cannot have a shadow that touches the edge of the frame, or that a TikTok Shop image needs a specific "safe zone" for UI overlays.
 
 ## Recommendation
 

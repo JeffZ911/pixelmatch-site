@@ -60,7 +60,7 @@ When you take a photo with a single strong light source from the left, your prod
 To prevent this, you must provide assets with "flat" lighting. In photography terms, this means using multiple light sources to fill in all shadows, or using a light box to create an omnidirectional glow. If you are using existing catalog images, you must use a tool like PixelMatch to neutralize these highlights and shadows before the AI processes the video.
 
 ### Background and Edge Clarity
-The Symphony AI uses the edges of your product to determine where the avatar’s fingers should overlap the image. If your background removal is "fuzzy" or contains "feathered" edges from a messy cutout, the AI will struggle to create a clean grip. 
+The [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) uses the edges of your product to determine where the avatar’s fingers should overlap the image. If your background removal is "fuzzy" or contains "feathered" edges from a messy cutout, the AI will struggle to create a clean grip. 
 
 While Adobe Express offers a free background remover for individual images, batch-processing your entire TikTok Shop catalog requires a more automated approach. Ensure your final export is a clean PNG with a transparent background. Any remaining pixels from the original background will appear as "noise" or "fringe" around the product in the final video.
 
@@ -92,7 +92,7 @@ If you use a basic background remover that leaves a 1-pixel white border around 
 ![How to Fix Each Issue](/img/tiktok-shop-symphony-avatar-lighting-mismatch-fix/inline-4.webp)
 
 
-Follow these steps to normalize your product catalog for high-performance TikTok Symphony ads.
+Follow these steps to normalize your product catalog for high-performance [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) ads.
 
 ### Fixing Shadows with PixelMatch
 Instead of re-shooting your entire inventory in a professional studio, use a relighting workflow. While Photoroom's Pro tier at $12.99/mo allows for individual lighting adjustments, PixelMatch is designed for the multi-platform seller who needs to fix hundreds of images at once.
@@ -106,7 +106,7 @@ Instead of re-shooting your entire inventory in a professional studio, use a rel
 If you sell shoes, hats, or jewelry, you cannot use the "Product Avatar" (holding) feature. To fix this:
 *   **Use the "Green Screen" Method:** Instead of having the avatar hold the product, use a standard Symphony Avatar and place your product image in the background or as a "Picture-in-Picture" (PiP) overlay.
 *   **Custom Avatars:** If you have a managed account or a specific invite, you can request Custom Avatars where a digital twin of your own spokesperson can be filmed holding the specific accessory. This bypasses the generative "holding" logic entirely.
-*   **Video-to-Video:** Use the Symphony "Refinement" tools to overlay text and stickers on raw footage of a real human holding the product, rather than relying on the AI avatar to hold a static image.
+*   **Video-to-Video:** Use the Symphony "Refinement" tools to overlay text and stickers on raw footage of a real human holding the product, rather than relying on the [AI avatar](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) to hold a static image.
 
 ### Standardizing Your Assets
 For sellers running "hook" tests—where you test 10 different avatars with the same product—consistency is vital. If your product image changes lighting or size between videos, TikTok’s algorithm may struggle to optimize the creative. Use a single, perfectly neutralized source image for all Symphony variations to ensure that the only variable you are testing is the avatar's performance.

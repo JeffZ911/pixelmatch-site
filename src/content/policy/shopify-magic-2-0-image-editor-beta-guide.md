@@ -117,7 +117,7 @@ Implement an upscaling workflow or switch to a batch-generate AI backgrounds too
 
 ### Upscaling Low-Res Outputs
 
-If the [1 megapixel](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/file-uploads/media-generation) output from Shopify Magic isn't sharp enough for your premium product listings or doesn't meet the [2000px requirement for Etsy](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), you have two primary solutions:
+If the [1 megapixel](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/file-uploads/media-generation) output from Shopify Magic isn't sharp enough for your premium [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) or doesn't meet the [2000px requirement for Etsy](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), you have two primary solutions:
 
 1.  **Use a Dedicated AI Upscaler:** After generating your background in Shopify, download the image and run it through a tool like Adobe Express (which offers a Premium tier for $9.99/mo) to increase the pixel density without losing clarity.
 2.  **Switch to High-Res Native AI Tools:** Platforms like Pebblely or PixelMatch allow for higher resolution exports from the start. For example, Pebblely Pro at $39/mo supports 4MP exports, which more than triples the resolution of the standard Shopify Magic output.
