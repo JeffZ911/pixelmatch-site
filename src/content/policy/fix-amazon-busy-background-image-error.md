@@ -24,7 +24,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-21._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-21._
 
 Waking up to a "Search Suppressed" status on your best-selling SKU is a direct hit to your daily revenue. When Amazon flags your listing with a "busy background" error, your product effectively vanishes from search results, handing your market share to competitors while you scramble to diagnose the technical failure.
 

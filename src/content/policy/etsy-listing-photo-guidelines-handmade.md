@@ -96,7 +96,7 @@ As mentioned, the "Black Background" issue occurs when a seller uses a backgroun
 
 If your image is too small (under 1000px), Etsy will still allow the upload, but it will flag the listing internally. Smaller images are harder to see on high-density mobile screens (Retina displays). Consequently, Etsy's search algorithm may prioritize listings with high-resolution photos that allow for a high-quality zoom experience. If you notice your traffic dropping despite having a great product, check your pixel dimensions.
 
-**Actionable Step:** Inspect your "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)" in your shop dashboard. If Etsy flags "Image Quality" as a suggestion, it is a direct signal that your resolution or aspect ratio is hindering your **ranking lower in search**.
+**Actionable Step:** Inspect your "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)" in your shop dashboard. If Etsy flags "[Image Quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix)" as a suggestion, it is a direct signal that your resolution or aspect ratio is hindering your **ranking lower in search**.
 
 ## How to Fix Each Issue
 

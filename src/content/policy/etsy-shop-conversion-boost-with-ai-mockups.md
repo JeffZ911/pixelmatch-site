@@ -77,7 +77,7 @@ Audit your current listings for "placeholder" text immediately. One of the faste
 *   **The "Your Text Here" Trap:** Using a blank shirt or mug with a digital font overlay as your primary image violates the [Listing Image Requirements](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop). Buyers want to see the physical texture of the customization.
 *   **Missing Disclosures:** Failing to mention AI-assisted staging in your description or on the images themselves. This can lead to "Item Not As Described" cases if a buyer feels the lifestyle setting (e.g., a luxury mansion) was used to misrepresent the product's value.
 *   **Scale Misrepresentation:** Using AI to place a product in a room where the proportions are wrong. If your AI-generated lifestyle images make a 5x7 print look like a 24x36 poster, you will face high return rates and negative reviews.
-*   **Low Resolution Demotion:** Uploading images [smaller than 635 pixels wide](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop). Etsy’s search engine uses image quality as a ranking signal; blurry or pixelated photos are pushed to the back pages of search results.
+*   **Low Resolution Demotion:** Uploading images [smaller than 635 pixels wide](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop). Etsy’s search engine uses [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) as a ranking signal; blurry or pixelated photos are pushed to the back pages of search results.
 
 ## How to Fix Each Issue
 

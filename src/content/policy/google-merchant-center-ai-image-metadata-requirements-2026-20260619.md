@@ -166,7 +166,7 @@ While this guide focuses on Google, other platforms are following suit. TikTok S
 ![Official Source Links](/img/google-merchant-center-ai-image-metadata-requirements-2026-20260619/inline-5.webp)
 
 
-*   Google Merchant Center: AI-Generated Content Policy
+*   Google Merchant Center: AI-[Generated Content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Policy
 *   Google Merchant Center: Image Link Specification
 *   Google Merchant Center: 2026 Product Data Specification Update
 *   IPTC Photo Metadata Standard: DigitalSourceType

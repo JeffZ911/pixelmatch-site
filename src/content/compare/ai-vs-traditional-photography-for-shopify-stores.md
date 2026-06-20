@@ -164,7 +164,7 @@ The most profitable Shopify stores in 2026 have abandoned the "either/or" debate
 ### The 2026 Hybrid Workflow
 1.  **The Studio Master:** Hire a professional photographer to take a single, high-resolution (4000px+) shot of each product on a clean [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background). This ensures the textures, colors, and labels are 100% physically accurate.
 2.  **The AI Seed:** Upload these "Master Shots" into PixelMatch.
-3.  **Batch Generation:** Use PixelMatch to remove the white background and place the product into 20+ different lifestyle scenes (e.g., "Kitchen Counter," "Outdoor Patio," "Office Desk").
+3.  **Batch Generation:** Use PixelMatch to remove the [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background) and place the product into 20+ different lifestyle scenes (e.g., "Kitchen Counter," "Outdoor Patio," "Office Desk").
 4.  **Platform Optimization:** Use the batch-export settings to generate:
     *   **Shopify:** 2048x2048 px (1:1) WebP files.
     *   **TikTok Shop:** 1080x1920 px (9:16) background-expanded files.
