@@ -99,7 +99,7 @@ PixelMatch acts as the bridge between raw AI power and Amazon’s strict require
 | **Interface** | Discord-based | Ecommerce Dashboard |
 | **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Improved, but inconsistent | Industry-leading accuracy |
 
-**Actionable Step for Sellers Today:** When generating lifestyle backgrounds, use "literal" prompts. Instead of "a luxury vibe," use "a bottle on a white marble countertop, soft sunlight from a window on the left, 85mm lens, f/1.8." Flux Pro responds better to these photographic instructions.
+**Actionable Step for Sellers Today:** When generating lifestyle backgrounds, use "literal" prompts. Instead of "a luxury vibe," use "a bottle on a white marble countertop, soft sunlight from a window on the left, 85mm lens, f/1.8." [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) responds better to these photographic instructions.
 
 ## Results (with Numbers)
 

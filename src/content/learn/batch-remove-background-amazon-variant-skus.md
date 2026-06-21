@@ -96,7 +96,7 @@ Many sellers use "lifestyle" photography and attempt to simply "brighten" the ba
 If you photograph a small item, like a piece of jewelry or a watch, and leave too much "negative space" around it, Amazon will suppress the image. The product must be the hero of the frame. 
 
 ### Prohibited Elements in Main Images
-Amazon’s primary image policy (specifically for the `.MAIN` file) strictly prohibits the following:
+Amazon’s primary [image policy](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) (specifically for the `.MAIN` file) strictly prohibits the following:
 *   **Props:** If you are selling a coffee mug, the main image cannot show a spoon or a saucer unless they are part of the SKU.
 *   **Packaging:** Do not show the box or shipping materials unless they are a core part of the product.
 *   **Text Overlays:** "Best Seller" badges, "Organic" logos, or "2-Pack" text will result in an immediate flag.

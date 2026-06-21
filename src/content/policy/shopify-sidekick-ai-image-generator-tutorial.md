@@ -155,4 +155,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Adobe Express. "Pricing and Plans." https://www.adobe.com/express/pricing
 *   Photoroom. "Pricing." https://www.photoroom.com/pricing
 *   Pebblely. "Pricing." https://pebblely.com/pricing/
-*   TikTok Shop Academy. "AI-generated Content Policy."
+*   TikTok Shop Academy. "AI-[generated Content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Policy."

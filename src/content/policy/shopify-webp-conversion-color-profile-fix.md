@@ -36,7 +36,7 @@ Shopify automatically converts images to WebP and strips embedded color profiles
 *Related: [TikTok Shop Listing Policy Crackdown 2026: Image Rules & Fixes](/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616) · [Amazon Climate Pledge Friendly Image Requirements (2026)](/blog/policy/amazon-climate-pledge-friendly-image-requirements) · [Etsy AI Image Disclosure Requirements 2026: Seller Guide](/blog/policy/etsy-ai-image-disclosure-requirements-2026)*
 
 
-Run a quick audit of your current assets against these Shopify technical standards. If your files exceed these limits or use the wrong color space, the platform's compression algorithm will aggressively degrade your image quality.
+Run a quick audit of your current assets against these Shopify technical standards. If your files exceed these limits or use the wrong color space, the platform's compression algorithm will aggressively degrade your [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix).
 
 | Specification | Requirement/Limit | Source |
 | :--- | :--- | :--- |

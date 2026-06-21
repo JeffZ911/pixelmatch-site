@@ -144,7 +144,7 @@ Etsy recommends a minimum of [2000 pixels on the shortest side](https://help.ets
 The law, effective June 9, 2026, requires disclosures if AI is used to create realistic human models or deceptive environments in advertising. To stay safe, Etsy sellers should avoid using AI-generated models to "wear" jewelry or clothing without a clear disclosure badge, and should mention when backgrounds are digitally rendered.
 
 ### What happens if I don't disclose AI-generated products on Etsy?
-Under the 2026 Creativity Standards, failing to disclose that a product is AI-generated can lead to the permanent suspension of your shop. Etsy uses automated image recognition to flag potential AI content, so honesty in the listing process is mandatory to avoid being caught in a sweep.
+Under the 2026 Creativity Standards, failing to disclose that a product is AI-generated can lead to the permanent suspension of your shop. Etsy uses automated image recognition to flag potential [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-label-policy-2026), so honesty in the listing process is mandatory to avoid being caught in a sweep.
 
 
 <!-- pm-cta:foot -->

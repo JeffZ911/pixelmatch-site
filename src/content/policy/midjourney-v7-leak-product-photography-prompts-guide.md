@@ -90,7 +90,7 @@ The biggest risk with the [Midjourney v7](https://pixelmatch.art/blog/compare/go
 Etsy thumbnails often cut off critical product details if sellers use the old 4:3 ratio instead of the [2000x2000 pixel square format](https://help.etsy.com/hc/en-us/articles/115015663347). If your product is positioned at the edge of a Midjourney-generated frame, the Etsy "auto-crop" will likely remove it from the search view, effectively killing your conversion rate.
 
 ### Actionable Step: Check Your "Suppressed Listings" Report
-Go to [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) > Inventory > Manage All Inventory > Listing Quality Dashboard. Filter by "Suppressed." If any SKUs appear, check the "Image Quality" tab. If the reason is "Non-white background," do not try to re-upload the same Midjourney output. You must use a dedicated background removal tool to force the RGB values to 255, 255, 255.
+Go to [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) > Inventory > Manage All Inventory > Listing Quality Dashboard. Filter by "Suppressed." If any SKUs appear, check the "[Image Quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix)" tab. If the reason is "Non-white background," do not try to re-upload the same Midjourney output. You must use a dedicated background removal tool to force the RGB values to 255, 255, 255.
 
 ## How to Fix Each Issue and Scale Your Workflow
 

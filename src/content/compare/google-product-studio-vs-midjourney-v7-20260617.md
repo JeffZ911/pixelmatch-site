@@ -101,7 +101,7 @@ PixelMatch is best for multi-platform sellers who need to generate hundreds of c
 ![Where Each Falls Short](/img/google-product-studio-vs-midjourney-v7-20260617/inline-5.webp)
 
 
-Run a "logo integrity test" by zooming in 400% on any AI-generated image before uploading to Amazon, as many generative tools still struggle with fine text and brand marks.
+Run a "logo integrity test" by zooming in 400% on any AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) before uploading to Amazon, as many generative tools still struggle with fine text and brand marks.
 
 Google Product Studio lacks advanced prompt control. You cannot dictate specific lighting setups, camera lenses (like a 50mm f/1.8 for bokeh), or nuanced brand aesthetics. You are limited to the templates and basic text descriptions Google provides. For a brand trying to establish a unique visual identity, Google’s outputs can feel generic and "templated."
 

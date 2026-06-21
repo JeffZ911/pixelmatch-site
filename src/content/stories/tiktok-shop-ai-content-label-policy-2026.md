@@ -120,7 +120,7 @@ You do not need a DSLR, but you do need clean data. Shoot your beauty products o
 Upload your images to PixelMatch and use the batch background removal tool. It is vital to keep the product completely unaltered. In the beauty niche, TikTok's Commerce Content Policy strictly prohibits "exaggerating the effects of a product." If your AI tool "beautifies" the product bottle or makes the serum look more iridescent than it is in real life, you risk a permanent ban.
 
 ### 3. Generate Compliant Lifestyle Contexts
-Select a "Beauty" or "Skincare" preset within PixelMatch. This ensures the lighting environment matches the typical aesthetics of the TikTok Shop "For You" page. Before hitting export, verify that the AI Disclosure Label is active. This label should be placed in a corner where it doesn't obscure the product but remains clearly legible to the consumer.
+Select a "Beauty" or "Skincare" preset within PixelMatch. This ensures the lighting environment matches the typical aesthetics of the TikTok Shop "For You" page. Before hitting export, verify that the AI [Disclosure Label](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) is active. This label should be placed in a corner where it doesn't obscure the product but remains clearly legible to the consumer.
 
 ### 4. Optimize for the TikTok Feed
 Export your images at 800x800 pixels. While TikTok accepts 600x600, the 800px standard ensures that when users pinch-to-zoom on a mobile device, the ingredient list and branding remain sharp. Keep your file sizes under 5MB to ensure fast loading times on cellular data.

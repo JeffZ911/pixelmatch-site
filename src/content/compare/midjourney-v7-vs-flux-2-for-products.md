@@ -93,7 +93,7 @@ Match your [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosur
 ![Where Each Falls Short](/img/midjourney-v7-vs-flux-2-for-products/inline-5.webp)
 
 
-Implement a human-in-the-loop QA process for every AI-generated image. Even in 2026, these models can fail in ways that are invisible at a glance but obvious to a disappointed customer.
+Implement a human-in-the-loop QA process for every AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621). Even in 2026, these models can fail in ways that are invisible at a glance but obvious to a disappointed customer.
 
 *   **Midjourney’s "Randomness" Factor:** [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) is an artist, not a scientist. If you ask for a "blue sports bottle," it might give you three different shades of blue across four images. For a seller, this is a nightmare for listing consistency. You will often find yourself "re-rolling" prompts 10+ times just to get the product to look like the actual inventory sitting in your warehouse.
 *   **[Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism)’s "Clinical" Aesthetic:** While Flux 2 is accurate, its default outputs can feel a bit "flat" or "stock-photo-ish." It lacks the default cinematic flair of Midjourney. To get a truly high-end lifestyle look in Flux 2, you have to be much more descriptive with your lighting prompts (e.g., "Golden hour, 35mm f/1.8, soft bokeh, volumetric lighting").

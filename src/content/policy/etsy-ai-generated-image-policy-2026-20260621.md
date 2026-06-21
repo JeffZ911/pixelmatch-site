@@ -138,7 +138,7 @@ Yes, you can use AI-generated backgrounds, but the actual product must be a real
 Standard photo editing, such as removing a background, color correction, or cropping, does not typically require an AI disclosure. The disclosure requirement is specifically for items where the design itself was created using AI or where the image contains significant synthetic elements (like AI models).
 
 ### Is there a penalty for not disclosing AI use on Etsy?
-Yes, failing to disclose AI usage can lead to listing removal or shop suspension. Etsy's automated systems are designed to detect AI-generated content; listings that lack the required disclosure are often flagged for manual review by the Trust & Safety team.
+Yes, failing to disclose AI usage can lead to listing removal or shop suspension. Etsy's automated systems are designed to detect AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619); listings that lack the required disclosure are often flagged for manual review by the Trust & Safety team.
 
 ### Can I sell AI-generated digital art on Etsy in 2026?
 Yes, you can sell AI-generated digital art as long as you disclose the use of AI in the listing and have had a significant creative role in its production. You cannot sell raw AI outputs that you did not prompt or refine, as these do not meet the "Designed by" criteria.

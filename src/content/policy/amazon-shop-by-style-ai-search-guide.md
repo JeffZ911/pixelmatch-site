@@ -95,7 +95,7 @@ Amazon’s automated "Imaging Services" bots are more aggressive in 2026. They n
 *   **Text on Main Image:** Sellers often try to sneak in "BPA Free" or "Made in USA" badges. This is a violation of the [Main Image standards](https://sellercentral.amazon.com/help/hub/reference/external/G1881) and will result in the image being removed.
 *   **Missing C2PA Metadata:** Under the EU AI Act, AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) must be identifiable. If you sell in the European Union and your AI images do not have embedded digital signatures (C2PA), you risk legal non-compliance and platform-wide blocks.
 
-**Actionable Step:** Check your "Account Health" dashboard under "Policy Compliance" daily. Amazon now lists "Image Policy Violations" as a specific sub-category that can impact your overall seller rating.
+**Actionable Step:** Check your "Account Health" dashboard under "Policy Compliance" daily. Amazon now lists "[Image Policy](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) Violations" as a specific sub-category that can impact your overall seller rating.
 
 ## How to Fix Each Issue
 

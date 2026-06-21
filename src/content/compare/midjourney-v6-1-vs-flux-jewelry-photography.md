@@ -64,7 +64,7 @@ Verify your current catalog's highest-selling SKU's resolution before choosing a
 
 *   **Prompt Adherence:** Flux.1 wins due to its advanced architecture, handling complex jewelry descriptions (like exact prong counts or specific baguette-cut side stones) more reliably than Midjourney.
 *   **Accessibility:** Midjourney operates primarily via Discord or its alpha/beta web interface, whereas Flux.1 [pro] requires API access or local ComfyUI installation for the best results.
-*   **Output Resolution:** Midjourney v6.1 outputs at 1024×1024 natively. Flux.1 can generate up to 2.0 megapixels natively, which is closer to the [2048×2048 px recommendation for Shopify](https://help.shopify.com/en/manual/products/product-media/product-media-types).
+*   **Output Resolution:** [Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1 outputs at 1024×1024 natively. Flux.1 can generate up to 2.0 megapixels natively, which is closer to the [2048×2048 px recommendation for Shopify](https://help.shopify.com/en/manual/products/product-media/product-media-types).
 
 [IMAGE SPEC: A feature comparison table graphic highlighting prompt adherence, resolution, and ease of use between Midjourney, Flux, and PixelMatch. Aspect Ratio: 16:9]
 
