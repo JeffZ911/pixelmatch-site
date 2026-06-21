@@ -62,7 +62,7 @@ Google’s 2026 requirements focus on "provenance"—knowing exactly where an im
 
 ### IPTC DigitalSourceType Tags Explained
 
-The International Press Telecommunications Council (IPTC) defines the metadata standards that Google uses to identify AI content. When you use a tool like PixelMatch, Photoroom, or Adobe Express to generate a background or a full product scene, the software must embed a specific string of code into the image header.
+The International Press Telecommunications Council (IPTC) defines the metadata standards that Google uses to identify [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-label-policy-2026). When you use a tool like PixelMatch, Photoroom, or Adobe Express to generate a background or a full product scene, the software must embed a specific string of code into the image header.
 
 Google recognizes two primary tags under the DigitalSourceType property:
 1.  **trainedAlgorithmicMedia:** Use this for images that are almost entirely AI-generated, such as a product placed into a completely synthetic lifestyle scene.
@@ -72,7 +72,7 @@ This mandate applies to all image-related attributes in your feed, including `im
 
 ### 2026 Resolution Enforcement Updates
 
-Google is currently in a transition period regarding image quality. According to the 2026 Product Data Specification Update, Google began issuing warnings for low-resolution images on April 14, 2026. While your products might still show today with smaller images, strict enforcement begins on January 31, 2027.
+Google is currently in a transition period regarding [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix). According to the 2026 Product Data Specification Update, Google began issuing warnings for low-resolution images on April 14, 2026. While your products might still show today with smaller images, strict enforcement begins on January 31, 2027.
 
 To future-proof your store, you must move away from the bare minimum 500 x 500 pixel requirement. Google now explicitly recommends 1500 x 1500 pixels for optimal performance across high-density displays. If you are using AI to upscale old assets, ensure the upscaler preserves the IPTC tags mentioned above, as many "free" upscalers strip metadata to save file space.
 

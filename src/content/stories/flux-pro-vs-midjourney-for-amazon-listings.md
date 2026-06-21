@@ -91,7 +91,7 @@ PixelMatch acts as the bridge between raw AI power and Amazon’s strict require
 3.  **[Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) Scene Generation:** Instead of the AI "generating" a product, it generates a "world" *around* the product. The seller uses Flux Pro to describe a "high-end spa bathroom with eucalyptus leaves and soft bokeh lighting."
 4.  **Cost Efficiency:** Because the official [Flux 1](https://pixelmatch.art/blog/stories/flux-1-pro-ecommerce-product-photography).[1 Pro](https://pixelmatch.art/blog/stories/flux-1-pro-ecommerce-product-photography) API costs approximately $0.04 per image, the seller can generate 100 variations for the price of a single cup of coffee.
 
-| Feature | Midjourney (Pro) | Flux Pro (via PixelMatch) |
+| Feature | Midjourney (Pro) | [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) (via PixelMatch) |
 | :--- | :--- | :--- |
 | **Monthly Base Cost** | $60.00 | Variable (Usage-based) |
 | **Product Integrity** | Low (Alters shapes/text) | High (Maintains original object) |

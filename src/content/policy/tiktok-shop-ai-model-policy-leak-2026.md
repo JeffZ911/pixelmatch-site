@@ -110,7 +110,7 @@ Switch to a non-destructive AI tool that preserves your original product pixels 
 
 ### Properly Labeling AIGC
 
-Always toggle the AI-generated content label in TikTok Shop’s posting settings. This toggle is located in the "More Options" section during the final stage of uploading a video or image gallery. 
+Always toggle the AI-generated [content label](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-label-policy-2026) in TikTok Shop’s posting settings. This toggle is located in the "More Options" section during the final stage of uploading a video or image gallery. 
 
 1. Upload your media.
 2. Navigate to the post settings.

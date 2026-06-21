@@ -50,7 +50,7 @@ Audit your current image folder against these technical specifications before st
 ![Detailed Requirements](/img/fix-tiktok-shop-low-quality-image-alert/inline-2.webp)
 
 
-Check your "Product Optimizer" tab in the TikTok Seller Center to see which listings are currently flagged as "Fair" or "Poor" due to image quality issues. TikTok’s algorithm does not just look at whether an image exists; it evaluates the metadata and visual clarity to determine if the listing provides a "Good" user experience.
+Check your "Product Optimizer" tab in the TikTok Seller Center to see which listings are currently flagged as "Fair" or "Poor" due to [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) issues. TikTok’s algorithm does not just look at whether an image exists; it evaluates the metadata and visual clarity to determine if the listing provides a "Good" user experience.
 
 ### Listing Quality Tiers
 

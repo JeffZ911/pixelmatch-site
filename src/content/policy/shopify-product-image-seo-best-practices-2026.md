@@ -24,7 +24,7 @@ inline_image_sections:
 ---
 
 
-> ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-20._
+> ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-20._
 
 Every millisecond of latency on your Shopify store reduces conversion rates by 7%, and in 2026, unoptimized images remain the primary cause of "Page Speed" failures in Google Search Console. Stop treating your product photography as a creative choice and start treating it as a technical SEO asset that dictates your visibility in Google Images and the Shopify Shop App.
 

@@ -53,7 +53,7 @@ Run a calibration shoot using a "5-prong solitaire engagement ring" prompt on bo
 
 Verify your current catalog's highest-selling SKU's resolution before choosing a model; if you are currently running 1024px images, you are likely missing out on [Amazon's zoom functionality](https://sellercentral.amazon.com/help/hub/reference/G1881), which requires at least 1000px on the longest side.
 
-| Feature | Midjourney v6.1 | Flux.1 [pro] | PixelMatch |
+| Feature | [Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1 | Flux.1 [pro] | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Prompt Adherence** | High (Aesthetic) | Very High (Technical) | Automated (Visual) |
 | **Native Resolution** | 1024×1024 px | Up to 2.0 Megapixels | Up to 4K Upscaled |

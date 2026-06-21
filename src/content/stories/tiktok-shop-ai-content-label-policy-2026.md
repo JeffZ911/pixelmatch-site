@@ -59,7 +59,7 @@ The seller initially turned to Photoroom, utilizing their Pro tier at $12.99/mo.
 
 In 2026, TikTok Shop's enforcement of AI-generated content became fully automated. Beauty is classified as a "restricted category" because of the potential for misleading claims. The seller found that general AI tools often "hallucinated" details on the product itself—smoothing out the texture of a cream or sharpening the edges of a bottle—which triggered TikTok's misleading content filters.
 
-Furthermore, the mandatory AI-generated disclosure label became a logistical nightmare. TikTok requires a visible, clear watermark on any image where the core elements are synthesized. Manually adding this label in Photoshop for every variation of a lifestyle background was prone to human error. Under TikTok's "three strikes" account health policy, missing these labels on three separate listings could result in a permanent suspension of selling privileges.
+Furthermore, the mandatory AI-generated [disclosure label](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) became a logistical nightmare. TikTok requires a visible, clear watermark on any image where the core elements are synthesized. Manually adding this label in Photoshop for every variation of a lifestyle background was prone to human error. Under TikTok's "three strikes" account health policy, missing these labels on three separate listings could result in a permanent suspension of selling privileges.
 
 ## The Workflow They Built
 
@@ -83,7 +83,7 @@ The most critical part of the 2026 workflow was the automated disclosure engine.
 ### Step 3: Scene Generation for the Beauty Niche
 Instead of buying expensive props, the seller used text-to-image prompts to place their products in high-conversion environments:
 *   **Skincare:** "Placed on a wet marble vanity with soft morning sunlight and eucalyptus leaves."
-*   **Lip Tints:** "Held by a hand with natural skin texture against a blurred pastel studio background."
+*   **Lip Tints:** "Held by a hand with natural [skin texture](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) against a blurred pastel studio background."
 
 Because the AI was instructed to keep the product pixels "locked," the resulting images passed the TikTok Shop restricted category audit, as the product itself was a real photo, only the background was synthetic.
 

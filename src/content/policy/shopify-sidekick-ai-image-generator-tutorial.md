@@ -126,7 +126,7 @@ By specifying the direction of the light, you force the AI to calculate shadows 
 
 To avoid DMCA takedowns, never use another brand's name in your prompt (e.g., "Product in a Starbucks cafe"). Instead, describe the *vibe* of the location ("Product in a modern, minimalist coffee shop with concrete walls and warm Edison bulbs").
 
-If you are a multi-platform seller, you should also be aware of the "AI-generated content" disclosure policies. While Shopify does not currently mandate a visible "AI-generated" tag on images, platforms like TikTok Shop and [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center have strict guidelines about disclosing AI-manipulated media in advertising. Using AI for the *background* is generally accepted as "editing," but using AI to generate the *product itself* is a violation of most marketplace "Item as Described" policies.
+If you are a multi-platform seller, you should also be aware of the "AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619)" disclosure policies. While Shopify does not currently mandate a visible "AI-generated" tag on images, platforms like TikTok Shop and [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center have strict guidelines about disclosing AI-manipulated media in advertising. Using AI for the *background* is generally accepted as "editing," but using AI to generate the *product itself* is a violation of most marketplace "Item as Described" policies.
 
 ## Official Source Links
 

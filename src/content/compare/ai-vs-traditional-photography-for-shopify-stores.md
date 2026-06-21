@@ -168,7 +168,7 @@ The most profitable Shopify stores in 2026 have abandoned the "either/or" debate
 4.  **Platform Optimization:** Use the batch-export settings to generate:
     *   **Shopify:** 2048x2048 px (1:1) WebP files.
     *   **TikTok Shop:** 1080x1920 px (9:16) background-expanded files.
-    *   **Amazon:** 2000x2000 px (1:1) pure white background (RGB 255, 255, 255) files.
+    *   **Amazon:** 2000x2000 px (1:1) pure [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background) (RGB 255, 255, 255) files.
 5.  **Seasonal Refresh:** Every 90 days, re-run your Master Shots through PixelMatch with new prompts (e.g., "Christmas Decorations," "Spring Garden") to keep your store looking fresh without ever shipping another box to a studio.
 
 This hybrid model reduces your visual content budget by up to 80% and slashes your time-to-market from weeks to minutes. By using traditional photography for the "Product" and AI for the "Context," you provide the level of trust shoppers demand and the variety the algorithms crave.
