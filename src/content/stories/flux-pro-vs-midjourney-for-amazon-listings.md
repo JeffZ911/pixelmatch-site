@@ -138,7 +138,7 @@ Capture your product using a modern smartphone (iPhone 13 or newer / Samsung S22
 Import your photo into PixelMatch. Use the background removal tool to set the background to [Pure White (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881). Ensure the product occupies at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881) to comply with Amazon's "Main Image" standards. Export this as your primary image.
 
 ### Step 3: Configure the Flux Pro Engine
-Switch to the lifestyle generation tab within PixelMatch and select the Flux Pro model. Input a descriptive prompt for your secondary images. 
+Switch to the lifestyle generation tab within PixelMatch and select the [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) model. Input a descriptive prompt for your secondary images. 
 *   *Example Prompt:* "A product bottle sitting on a wet stone in a rainforest, water droplets on the surface, soft morning mist, hyper-realistic, 8k resolution."
 *   *Adjustment:* If the lighting on the bottle doesn't match the background, use the "Relighting" toggle in PixelMatch to harmonize the scene.
 

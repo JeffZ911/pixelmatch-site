@@ -131,7 +131,7 @@ By focusing on the quality of your input images first, you eliminate the risk of
 Yes, you can download your generated videos from the Creative Assets library in [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix). However, be aware that these videos often include Amazon-specific layouts or fonts that may not align with the native "lo-fi" aesthetic of TikTok or Instagram Reels.
 
 ### How many videos can I make per month with Canva's free version?
-Canva's free tier is extremely limited for AI video, usually offering only [5 lifetime credits](https://www.canva.com/help/magic-media/) for Magic Media video generation. If you plan to use AI video for an active ecommerce store, you will almost certainly need the Canva Pro plan which provides 500 monthly credits.
+Canva's free tier is extremely limited for [AI video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements), usually offering only [5 lifetime credits](https://www.canva.com/help/magic-media/) for Magic Media video generation. If you plan to use AI video for an active ecommerce store, you will almost certainly need the Canva Pro plan which provides 500 monthly credits.
 
 ### Does Amazon's AI Video Generator work for all product categories?
 No, Amazon restricts certain categories from using automated creative tools, particularly those in "sensitive" niches like healthcare or adult products. Most standard consumer categories (Electronics, Home, Beauty, Apparel) are fully supported, provided you have <a href="https://www.amazon.com/s?k=Brand+Registry&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Brand Registry</a>.

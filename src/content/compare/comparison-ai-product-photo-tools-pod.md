@@ -67,7 +67,7 @@ POD sellers often struggle with "halo effects" around transparent PNG edges when
 ### Technical Spec Requirements for 2026
 When evaluating these tools, ensure they can output the following minimum specifications for your target platforms:
 *   **Shopify:** 2048 x 2048 pixels for high-resolution zoom.
-*   **Amazon:** 1600 pixels on the longest side; pure white background (RGB 255, 255, 255) for main images.
+*   **Amazon:** 1600 pixels on the longest side; pure [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background) (RGB 255, 255, 255) for main images.
 *   **Etsy:** 2000 pixels wide minimum for the primary image.
 *   **TikTok Shop:** 1:1 aspect ratio; file size under 5MB; formats: JPG, JPEG, or PNG.
 
