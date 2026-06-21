@@ -141,7 +141,7 @@ While this workflow significantly lowers the barrier to video production, it is 
 3.  **Source Quality Matters:** PixelMatch is powerful, but it cannot "hallucinate" details that aren't there. If your source photo is extremely blurry or out of focus, the upscaling process will only make the blurriness more apparent. High-quality input is the prerequisite for high-quality AI output.
 4.  **Platform Policy Compliance:** Ensure your generated videos comply with TikTok's Branded Content policies. Even if the video renders perfectly, it can still be flagged if the AI-generated script makes unsubstantiated medical claims or violates community standards.
 
-State the limitations of your AI content directly in your marketing strategy. Balance your feed with a 70/30 mix: 70% AI-assisted content for volume and 30% "lo-fi" organic UGC for trust-building.
+State the limitations of your [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-label-policy-2026) directly in your marketing strategy. Balance your feed with a 70/30 mix: 70% AI-assisted content for volume and 30% "lo-fi" organic UGC for trust-building.
 
 ## Frequently Asked Questions
 

@@ -88,7 +88,7 @@ When factoring in your margins, remember that Etsy takes a 6.5% transaction fee 
 Match your tool choice to your specific operational scale. A hobbyist selling five vintage spoons a month has vastly different needs than a print-on-demand (POD) mogul launching 20 new t-shirt designs weekly.
 
 ### High-Volume Multi-Platform Sellers
-If you sell on Etsy but also maintain a Shopify store and an Amazon Handmade presence, **PixelMatch** is the superior choice. It allows you to upload a single product photo and generate a 2000×2000 px square for Etsy, a 1200×1200 px image for Shopify, and a pure white background 1600 px image for Amazon in one click. This eliminates the need to manually resize or re-generate backgrounds for every different marketplace requirement.
+If you sell on Etsy but also maintain a Shopify store and an Amazon Handmade presence, **PixelMatch** is the superior choice. It allows you to upload a single product photo and generate a 2000×2000 px square for Etsy, a 1200×1200 px image for Shopify, and a pure [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background) 1600 px image for Amazon in one click. This eliminates the need to manually resize or re-generate backgrounds for every different marketplace requirement.
 
 ### Solo Crafters and Hobbyists
 For the artisan who spends 40 hours a week creating and only 2 hours a week listing, **Canva Pro** or **Photoroom** are the most logical steps. Use Canva Pro’s "Magic Edit" to swap out seasonal backgrounds—like adding a sprig of holly for Christmas or dried lavender for spring—without needing a new photoshoot. Use a 1:1 aspect ratio for your primary Etsy thumbnail to ensure it remains centered in the search results grid.

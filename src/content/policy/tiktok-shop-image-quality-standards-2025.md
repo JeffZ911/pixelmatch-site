@@ -28,7 +28,7 @@ Failing TikTok Shop moderation costs you prime "For You" feed placement and kill
 
 # TikTok Shop Image Quality Standards for 2025: Complete Seller Guide
 
-To meet TikTok Shop image quality standards for 2025, sellers must upload up to 9 square (1:1) images with a minimum resolution of 600x600 pixels. The main image must feature a pure white background with no watermarks or promotional text.
+To meet TikTok Shop [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) standards for 2025, sellers must upload up to 9 square (1:1) images with a minimum resolution of 600x600 pixels. The main image must feature a pure white background with no watermarks or promotional text.
 
 ## Quick Reference Table
 

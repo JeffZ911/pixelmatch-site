@@ -47,7 +47,7 @@ Run a manual audit of your top 10 best-selling SKUs against these 2026 standards
 | **Maximum File Size** | 16 MB | Hard limit for GMC uploads |
 | **Product Fill Area** | 75% to 90% of the frame | [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center Requirement |
 | **Supported Formats** | JPEG, PNG, WebP, GIF, BMP, TIFF | [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) [Image Specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) |
-| **Background Color** | Solid white or transparent | Clean image policy |
+| **Background Color** | Solid white or transparent | Clean [image policy](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) |
 
 ## Detailed Requirements
 

@@ -106,7 +106,7 @@ Multi-platform sellers with large catalogs should look toward batch-generation t
 ![Where Each Falls Short](/img/midjourney-vs-flair-ai-ecommerce-product-photography/inline-5.webp)
 
 
-Check for "AI artifacts" on every generated image—specifically looking at the edges where the product meets the background and any text on the packaging.
+Check for "AI artifacts" on every [generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621)—specifically looking at the edges where the product meets the background and any text on the packaging.
 
 ### Midjourney’s Hallucination Problem
 Midjourney’s biggest flaw for ecommerce is hallucination: it will alter text on labels, change the shape of bottles, and modify fabric textures, making the image unusable for a strict product listing. If your product has a specific logo, Midjourney will likely rewrite it into a "dream-logic" version of that logo. Using the `--cref` (Character Reference) or `--sref` (Style Reference) parameters helps, but it is still not a "What You See Is What You Get" (WYSIWYG) tool for physical products.

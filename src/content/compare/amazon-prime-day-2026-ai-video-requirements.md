@@ -67,7 +67,7 @@ Amazon requires all Sponsored Brands videos to meet specific technical threshold
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your "Cost Per Video Asset" (CPVA) by dividing your monthly tool subscription by the number of unique ASINs you need to promote; this helps you determine if a credit-based system like Runway or a flat-rate system like Canva Pro fits your 2026 marketing budget.

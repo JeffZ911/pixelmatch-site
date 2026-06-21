@@ -109,7 +109,7 @@ PixelMatch acts as the bridge between raw AI power and Amazon’s strict require
 By moving away from traditional studio photography and the limitations of Midjourney, Lumina Skin saw a measurable impact on both their balance sheet and their listing performance.
 
 ### 90% Cost Reduction
-The traditional cost for a high-end beauty listing (1 hero image + 6 lifestyle/infographic shots) averaged $450. This included shipping samples to a studio, the photographer’s day rate, and professional retouching. With PixelMatch and Flux Pro, the cost per listing dropped to approximately $45. This includes the subscription cost and the minor time investment from an in-house virtual assistant.
+The traditional cost for a high-end beauty listing (1 hero image + 6 lifestyle/infographic shots) averaged $450. This included shipping samples to a studio, the photographer’s day rate, and professional retouching. With PixelMatch and [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide), the cost per listing dropped to approximately $45. This includes the subscription cost and the minor time investment from an in-house virtual assistant.
 
 ### Conversion and CTR Growth
 The ability to generate lifestyle images at a high frequency allowed the brand to run Amazon Experiments (A/B testing). They tested three different Flux-generated lifestyle backgrounds for their main night cream. 
