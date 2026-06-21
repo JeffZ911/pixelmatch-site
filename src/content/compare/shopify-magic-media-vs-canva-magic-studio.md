@@ -120,7 +120,7 @@ The biggest drawback is the [1 megapixel resolution limit](https://help.shopify.
 Canva is not a database; it is a canvas. To process a catalog, you must create a new page for every product, upload the image, apply the AI effect, and download it. This workflow is fine for a social media post, but it is a productivity killer for a seller with 50+ SKUs. It also lacks automated compliance checks. Canva won't tell you if your image is [Amazon-compliant](https://sellercentral.amazon.com/help/hub/reference/1881); it will just give you what you asked for.
 
 ### The Multi-Platform Gap
-Neither Shopify nor Canva understands that an image for TikTok Shop needs different framing than an image for an Etsy carousel. They are "image generators," not "ecommerce compliance engines." Sellers often find themselves resizing and re-exporting the same AI-generated image three different times to satisfy different platform robots.
+Neither Shopify nor Canva understands that an image for TikTok Shop needs different framing than an image for an Etsy carousel. They are "image generators," not "ecommerce compliance engines." Sellers often find themselves resizing and re-exporting the same AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) three different times to satisfy different platform robots.
 
 ## Recommendation
 

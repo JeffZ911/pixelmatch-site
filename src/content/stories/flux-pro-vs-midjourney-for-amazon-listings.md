@@ -115,7 +115,7 @@ The traditional cost for a high-end beauty listing (1 hero image + 6 lifestyle/i
 The ability to generate lifestyle images at a high frequency allowed the brand to run Amazon Experiments (A/B testing). They tested three different Flux-generated lifestyle backgrounds for their main night cream. 
 
 *   **Original Image (Basic studio shot):** 1.2% Click-Through Rate (CTR)
-*   **Flux Pro Image (Luxury spa setting):** 3.4% Click-Through Rate (CTR)
+*   **[Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) Image (Luxury spa setting):** 3.4% Click-Through Rate (CTR)
 
 This 183% increase in CTR directly lowered their Customer Acquisition Cost (CAC) on Amazon PPC, as their ads became significantly more relevant and visually appealing to shoppers.
 

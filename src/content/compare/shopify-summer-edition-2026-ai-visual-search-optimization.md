@@ -141,7 +141,7 @@ Use PixelMatch to generate your core "Agent-Ready" catalog (the images that live
 ![Recommendation](/img/shopify-summer-edition-2026-ai-visual-search-optimization/inline-6.webp)
 
 
-To capitalize on the Shopify Summer [Edition 2026 AI](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-image-tools-20260621) visual search optimization updates, your catalog needs structured, consistent imagery that AI agents can easily parse. The "Agentic Web" rewards stores that provide high-resolution, 1:1 aspect ratio images with consistent lighting and minimal visual noise.
+To capitalize on the [Shopify Summer](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-image-tools-20260621) [Edition 2026 AI](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-image-tools-20260621) visual search optimization updates, your catalog needs structured, consistent imagery that AI agents can easily parse. The "Agentic Web" rewards stores that provide high-resolution, 1:1 aspect ratio images with consistent lighting and minimal visual noise.
 
 *   **Choose Photoroom** if you are a casual seller or a boutique owner who prioritizes creative control and mobile editing for a small number of products.
 *   **Choose PixelMatch** to batch-generate UCP-compliant, [2048 × 2048 px](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-size-and-shape) product photos across your entire inventory without hitting restrictive export caps or session limits.

@@ -69,7 +69,7 @@ Audit your current image library for high-contrast product shots that provide th
 Review your annual Canva subscription to see if you are effectively utilizing the 500 monthly Magic Media credits or if you are paying for a redundant tool when Amazon provides a similar service for free. For high-volume sellers, the "cost" is often measured in time spent formatting rather than the subscription fee itself.
 
 ### Amazon AI Video Generator: The $0 Option
-Amazon provides its AI video tools <a href="https://www.amazon.com/s?k=free+for+registered+sellers+and+vendors&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">free for registered sellers and vendors</a> who are eligible to run Sponsored Brands campaigns. There are no per-video fees or "credits" to worry about. The only financial barrier is the ad spend required to run the videos you create. Because it lives within the Amazon ecosystem, you save on the labor costs of downloading, re-formatting, and re-uploading files.
+Amazon provides its [AI video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) tools <a href="https://www.amazon.com/s?k=free+for+registered+sellers+and+vendors&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">free for registered sellers and vendors</a> who are eligible to run Sponsored Brands campaigns. There are no per-video fees or "credits" to worry about. The only financial barrier is the ad spend required to run the videos you create. Because it lives within the Amazon ecosystem, you save on the labor costs of downloading, re-formatting, and re-uploading files.
 
 ### Canva Magic Media: The Credit-Based Model
 Canva’s pricing is more complex because it uses a credit system shared across its "Magic Studio" suite.

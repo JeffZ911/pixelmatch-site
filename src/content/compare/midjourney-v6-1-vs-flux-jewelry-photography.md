@@ -107,7 +107,7 @@ PixelMatch is best for multi-platform sellers who need to **batch-process hundre
 
 Implement a "[Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)" QA checklist to ensure your AI outputs don't get your listings suppressed. Amazon and Walmart are increasingly strict about AI artifacts in jewelry categories.
 
-*   **Midjourney v6.1 Hallucinations:** Midjourney often prioritizes beauty over accuracy. It may add an extra prong to a diamond ring or merge the links of a Cuban chain in a way that looks "cool" but doesn't exist in reality. It also lacks a native batch-processing API, meaning you must generate images one by one in Discord.
+*   **[Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1 Hallucinations:** Midjourney often prioritizes beauty over accuracy. It may add an extra prong to a diamond ring or merge the links of a Cuban chain in a way that looks "cool" but doesn't exist in reality. It also lacks a native batch-processing API, meaning you must generate images one by one in Discord.
 *   **Flux.1 Technical Barrier:** Flux.1 [pro] has a steep learning curve. To get the highest quality, you often need to use ComfyUI (a node-based interface) or write custom Python scripts for the API. It is not a "plug-and-play" tool for the average Etsy seller.
 *   **Compliance Gaps:** Neither tool automatically formats images to the **pure white RGB 255,255,255 background** required for Amazon's main listing. Furthermore, they don't ensure the product occupies [85% or more of the image frame](https://sellercentral.amazon.com/help/hub/reference/G1881), a common cause for listing suppression.
 

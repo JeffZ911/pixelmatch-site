@@ -152,7 +152,7 @@ This usually happens when the source image lacks sufficient resolution or has "s
 Yes, but jewelry is the most prone to texture mapping errors because of its intricate "negative space" (holes in links or earrings). To succeed, you must use an isolation tool that can handle "internal" background removal—removing the background visible through the holes of the product. PixelMatch's specialized ecommerce engine is designed for these high-complexity paths.
 
 ### Does TikTok Shop penalize AI-generated videos?
-TikTok does not penalize AI content as long as it provides value and adheres to community guidelines. In fact, TikTok is actively encouraging the use of Symphony to help sellers create more content. However, you should use the "AI-generated" label if the tool doesn't automatically apply it, as transparency is a key part of TikTok's platform integrity.
+TikTok does not penalize [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-label-policy-2026) as long as it provides value and adheres to community guidelines. In fact, TikTok is actively encouraging the use of Symphony to help sellers create more content. However, you should use the "AI-generated" label if the tool doesn't automatically apply it, as transparency is a key part of TikTok's platform integrity.
 
 ### What is the maximum number of images I can process at once for TikTok Shop?
 While TikTok Shop allows up to 9 images per listing, your internal workflow should be able to handle hundreds. PixelMatch allows for bulk processing of entire catalogs, which is essential if you are trying to sync your TikTok Shop inventory with a large Shopify or Amazon store.

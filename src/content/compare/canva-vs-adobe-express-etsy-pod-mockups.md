@@ -79,7 +79,7 @@ However, a major pain point for Etsy sellers is the 1MB file size recommendation
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your "cost per mockup" by dividing your monthly subscription fee by the number of listings you launch each month. If you launch 10 listings with 5 mockups each (50 total), Canva Pro costs you $0.30 per mockup, while Adobe Express costs $0.20.
