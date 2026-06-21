@@ -90,7 +90,7 @@ Amazon supports [JPEG (.jpg or .jpeg), TIFF (.tif or .tiff), PNG (.png), or GIF 
 *   **Color Mode:** sRGB (to ensure colors appear consistent across different smartphone screens)
 
 ### Step 3: AI Scene Generation for Secondary Images
-Amazon’s main image policy is strict, but secondary images (the 6 additional slots) allow for lifestyle scenes. The brand used PixelMatch to generate AI product photography lifestyle scenes by placing their serum bottles in realistic environments:
+Amazon’s main [image policy](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) is strict, but secondary images (the 6 additional slots) allow for lifestyle scenes. The brand used PixelMatch to generate AI product photography lifestyle scenes by placing their serum bottles in realistic environments:
 *   A marble bathroom vanity with soft morning sunlight.
 *   A spa-like setting with eucalyptus leaves and smooth stones.
 *   A "texture shot" showing the serum drop on a glass surface.

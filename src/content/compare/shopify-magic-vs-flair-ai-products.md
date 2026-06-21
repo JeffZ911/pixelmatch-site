@@ -137,7 +137,7 @@ Select your tool based on your primary sales channel and daily image volume. Run
 | **Multi-Platform Growth** | **PixelMatch** | It automates the generation of high-res, compliant images for hundreds of SKUs at once. |
 
 ### Summary of Actionable Steps
-1.  **Check your current specs:** Download a generated image from Shopify Magic. If it is 1024x1024, it is likely too small for your Amazon Hero image.
+1.  **Check your current specs:** Download a [generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) from Shopify Magic. If it is 1024x1024, it is likely too small for your Amazon Hero image.
 2.  **Test the Flair Canvas:** Sign up for the Free tier of Flair and try to generate one "On Model" fashion shot. Compare the time spent versus the quality of the output.
 3.  **Audit your SKU count:** If you have more than 50 products, skip the manual editors. Use PixelMatch to batch-generate your entire catalog. This ensures your brand looks consistent across Shopify, Amazon, and Etsy without requiring a full-time design team.
 

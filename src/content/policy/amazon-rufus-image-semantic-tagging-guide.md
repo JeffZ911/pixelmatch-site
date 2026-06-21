@@ -159,7 +159,7 @@ Monitoring these sources is vital because platform requirements are not static. 
 ## Frequently Asked Questions
 
 ### Does Amazon Rufus prioritize AI-generated images?
-Amazon does not explicitly prioritize AI-generated images, but it does prioritize images that meet its high-resolution and semantic context standards. If an AI-generated image provides better visual data for Rufus to "read" than a low-quality traditional photograph, the AI-generated image will likely result in better search performance.
+Amazon does not explicitly prioritize AI-generated images, but it does prioritize images that meet its high-resolution and semantic context standards. If an AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) provides better visual data for Rufus to "read" than a low-quality traditional photograph, the AI-generated image will likely result in better search performance.
 
 ### What happens if my main image isn't exactly 255, 255, 255 RGB?
 If the background is even slightly off-white, your listing may be suppressed from search results or lose its "Premium Beauty" or "Brand Registry" badges. Amazon's automated systems are designed to detect any pixel variance from the pure white standard to maintain a uniform look across the marketplace.

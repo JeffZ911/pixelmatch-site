@@ -119,7 +119,7 @@ Implement a "[Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-20
 Select your tool based on your current SKU volume and technical comfort level.
 
 1.  **For 1–10 Hero Images:** If you only need a few high-impact hero images and have the time to tweak prompts for hours, **Flux.1 [pro]** offers the best photorealism for jewelry. Use it via Replicate to avoid hardware costs.
-2.  **For Social Media Content:** If you want artistic, moody lifestyle shots for your brand's "story," stick with **Midjourney v6.1**. Its "stylize" parameter allows for beautiful, high-contrast jewelry photography that grabs attention in feeds.
+2.  **For Social Media Content:** If you want artistic, moody lifestyle shots for your brand's "story," stick with **[Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1**. Its "stylize" parameter allows for beautiful, high-contrast jewelry photography that grabs attention in feeds.
 3.  **For Scaling a Catalog:** For ecommerce sellers who need to scale their jewelry catalog across Amazon, Shopify, and Etsy, use **PixelMatch**. It automates the background removal, AI scene generation, and upscaling workflows. This ensures your images meet [Etsy's 2000px recommendation](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos) and Amazon's white background rules in one click, without the manual labor of prompt engineering.
 
 ## Frequently Asked Questions

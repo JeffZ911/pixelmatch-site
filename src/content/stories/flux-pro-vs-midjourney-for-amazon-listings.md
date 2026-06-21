@@ -120,7 +120,7 @@ The ability to generate lifestyle images at a high frequency allowed the brand t
 This 183% increase in CTR directly lowered their Customer Acquisition Cost (CAC) on Amazon PPC, as their ads became significantly more relevant and visually appealing to shoppers.
 
 ### Turnaround Time
-The "Idea to Live" cycle was slashed. Previously, launching a new SKU took 21 days for photography. Now, a seller can take a photo at 9:00 AM, process it through PixelMatch using the Flux Pro engine, and have a fully compliant, 7-image gallery uploaded to Seller Central by 11:00 AM the same day.
+The "Idea to Live" cycle was slashed. Previously, launching a new SKU took 21 days for photography. Now, a seller can take a photo at 9:00 AM, process it through PixelMatch using the [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) engine, and have a fully compliant, 7-image gallery uploaded to Seller Central by 11:00 AM the same day.
 
 **Actionable Step for Sellers Today:** Calculate your "Time to Market" cost. If a product launch is delayed by 14 days due to photography, and that product typically generates $200/day in profit, that delay has cost you $2,800 in lost opportunity.
 
