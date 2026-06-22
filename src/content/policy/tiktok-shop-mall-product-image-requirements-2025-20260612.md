@@ -36,7 +36,7 @@ TikTok [Shop Mall](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitati
 *Related: [TikTok Shop AI Model Policy Leak 2026: Seller Guide](/blog/policy/tiktok-shop-ai-model-policy-leak-2026) · [Amazon Rufus Visual Search Image Optimization Guide (2026)](/blog/policy/amazon-rufus-visual-search-image-optimization-guide) · [Shopify Magic 2.0 Image Editor Beta Guide: Specs & Rules](/blog/policy/shopify-magic-2-0-image-editor-beta-guide)*
 
 
-Run a resolution audit on your current creative assets before attempting a bulk upload to the TikTok Seller Center. The platform's automated moderation AI scans for specific metadata and visual markers; if your file is even one pixel off the 1:1 ratio, the system may flag the listing for "Image Quality Issues."
+Run a resolution audit on your current creative assets before attempting a bulk upload to the TikTok Seller Center. The platform's automated moderation AI scans for specific metadata and visual markers; if your file is even one pixel off the 1:1 ratio, the system may flag the listing for "[Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) Issues."
 
 | Requirement | Specification | Mandatory for Mall? |
 | :--- | :--- | :--- |

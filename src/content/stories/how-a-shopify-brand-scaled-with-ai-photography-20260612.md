@@ -85,7 +85,7 @@ Using PixelMatch, the brand uploaded these base images and applied custom brand 
 ### Step 3: Shopify Spec Optimization
 Shopify has specific recommendations for optimal site performance. The platform suggests a [2048 x 2048 pixel](https://help.shopify.com/en/manual/online-store/images/theme-images) square format (1:1 aspect ratio) to ensure that the "zoom" functionality on product pages is crisp and professional. 
 
-PixelMatch allowed the brand to set these export parameters once. Every generated image was automatically upscaled to 2048 x 2048 pixels while staying well under Shopify's [20 MB file size limit](https://help.shopify.com/en/manual/online-store/images/theme-images).
+PixelMatch allowed the brand to set these export parameters once. Every [generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) was automatically upscaled to 2048 x 2048 pixels while staying well under Shopify's [20 MB file size limit](https://help.shopify.com/en/manual/online-store/images/theme-images).
 
 **Actionable Step:** In your [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) settings, lock your export resolution to exactly 2048 x 2048 pixels. This ensures that when a customer hovers over your product on a desktop, they see a high-resolution texture rather than a blurry, pixelated mess.
 

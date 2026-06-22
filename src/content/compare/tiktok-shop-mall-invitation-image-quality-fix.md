@@ -112,7 +112,7 @@ Review the Photoroom 500-export limit or Canva’s manual steps to ensure your b
 
 Export your final assets in JPG or PNG format and verify each file is under the 5MB limit. TikTok's system can be sensitive to file types; using a standard JPG with a white background is the safest path to approval.
 
-If you are applying for the TikTok Shop Mall and need to overhaul your entire catalog's image quality quickly, use **PixelMatch**. The ability to process hundreds of SKUs with consistent AI-driven lighting and resolution ensures that your storefront looks uniform—a key metric for the "Mall" invitation.
+If you are applying for the TikTok Shop Mall and need to overhaul your entire catalog's [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) quickly, use **PixelMatch**. The ability to process hundreds of SKUs with consistent AI-driven lighting and resolution ensures that your storefront looks uniform—a key metric for the "Mall" invitation.
 
 If you only have a few products and need to design promotional banners or TikTok-specific creative assets alongside your product photos, **Canva Pro** is sufficient. Its versatility makes it a better value for sellers who are just starting to build their brand identity.
 

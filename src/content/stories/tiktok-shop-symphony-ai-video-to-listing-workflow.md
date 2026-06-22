@@ -127,7 +127,7 @@ Additionally, sellers must remember that TikTok Shop guidelines recommend the fi
 ## Frequently Asked Questions
 
 ### Can I use frames from a 720p video for my TikTok Shop listing?
-While you can technically extract frames from a 720p video, the resulting images will likely fall below TikTok's quality standards once cropped to a 1:1 ratio. It is highly recommended to use 1080p (1080x1920) source files to ensure the upscaled images remain sharp and professional.
+While you can technically extract frames from a 720p video, the resulting images will likely fall below TikTok's [quality standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) once cropped to a 1:1 ratio. It is highly recommended to use 1080p (1080x1920) source files to ensure the upscaled images remain sharp and professional.
 
 ### Does TikTok Shop allow AI-generated backgrounds in product images?
 Yes, TikTok Shop allows AI-generated backgrounds, provided they do not mislead the customer about the product itself. However, your main listing image should typically be a clean, high-resolution shot on a solid background to meet the platform's primary search requirements.

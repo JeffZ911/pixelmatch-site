@@ -53,7 +53,7 @@ Watch any raw AI-generated video for more than five seconds, and the "plastic sk
 
 The second major issue is clipping. TikTok Shop thrives on product demonstrations—the "hand-to-face" motion. When a [Symphony avatar](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-avatar-texture-mapping-error) holds a physical product, the AI often struggles to define the boundary between the hand and the bottle. This results in "clipping," where fingers appear to melt into the packaging or edges of the product flicker and blur.
 
-TikTok's own quality standards emphasize high-resolution clarity. The platform recommends 800x800 px or higher for product images within the shop interface, and video ads that appear "low quality" or "glitchy" can be flagged. If your AI avatar has visible artifacts, you risk falling under TikTok's "Low Quality Content" suppression, which limits your reach in the For You Feed (FYP).
+TikTok's own [quality standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) emphasize high-resolution clarity. The platform recommends 800x800 px or higher for product images within the shop interface, and video ads that appear "low quality" or "glitchy" can be flagged. If your AI avatar has visible artifacts, you risk falling under TikTok's "Low Quality Content" suppression, which limits your reach in the For You Feed (FYP).
 
 ## Execute a Frame-by-Frame Retouching Workflow to Reclaim Visual Fidelity
 
