@@ -145,7 +145,7 @@ Switch to the lifestyle generation tab within PixelMatch and select the [Flux Pr
 ### Step 4: Upscale and Export
 Amazon's hover-to-zoom feature works best at 1600 pixels or higher. Use the built-in AI upscaler to ensure your final exports meet or exceed the [1000 x 1000 pixel minimum](https://sellercentral.amazon.com/help/hub/reference/1881). Check for any "AI artifacts" (strange blurs or warped lines) before saving.
 
-**Actionable Step for Sellers Today:** When you upload your new images, use Amazon's "Manage Your Experiments" tool (available to Brand Registered sellers) to test your new Flux Pro lifestyle image against your old one for 4 weeks.
+**Actionable Step for Sellers Today:** When you upload your new images, use Amazon's "Manage Your Experiments" tool (available to Brand Registered sellers) to test your new [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) lifestyle image against your old one for 4 weeks.
 
 ## Caveats and Honest Limitations
 

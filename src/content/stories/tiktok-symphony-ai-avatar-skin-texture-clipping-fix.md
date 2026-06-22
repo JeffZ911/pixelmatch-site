@@ -85,7 +85,7 @@ After the frames are retouched, they are compiled back into the video sequence. 
 
 The difference between a raw AI avatar and a retouched version is most visible in the Click-Through Rate (CTR). In a test conducted by our composite beauty seller, the raw Symphony ads were frequently skipped within the first 1.5 seconds. Once the PixelMatch retouching was applied—specifically fixing the "plastic" skin and the product clipping—the ads maintained viewers' attention longer, as they were indistinguishable from standard UGC.
 
-| Metric | Raw Symphony AI | PixelMatch Retouched | Human UGC (Average) |
+| Metric | Raw [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) | PixelMatch Retouched | Human UGC (Average) |
 | :--- | :--- | :--- | :--- |
 | **Cost per Video** | ~$0 (Metered) | $12 (Labor + Software) | $150.00 |
 | **CTR (Average)** | 0.8% | 2.4% | 2.2% |

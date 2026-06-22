@@ -90,7 +90,7 @@ Compare your AI-generated lifestyle images against a raw "control" photo taken o
 ### The "Too Good to Be True" Violation
 One of the most frequent reasons for listing rejection on TikTok Shop is the use of AI to create exaggerated effects. This is particularly common in the health, beauty, and cleaning categories. For example, using AI to show a floor becoming perfectly white in one swipe or a face becoming wrinkle-free instantly is a violation. 
 
-TikTok’s Content Policy explicitly forbids "instant-effect visuals" that cannot be replicated by the average user in real-time. If your AI-generated image suggests a performance level that the physical product cannot meet, your listing will be removed for "Deceptive Claims."
+TikTok’s Content Policy explicitly forbids "instant-effect visuals" that cannot be replicated by the average user in real-time. If your AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) suggests a performance level that the physical product cannot meet, your listing will be removed for "Deceptive Claims."
 
 ### Impersonation and Fake Experts
 As of 2026, TikTok has implemented a zero-tolerance policy for AI-generated "experts." Sellers often attempt to use AI avatars to act as doctors, dermatologists, or engineers to add authority to their product claims. TikTok strictly prohibits using AI to impersonate experts. If your product listing or associated "shoppable video" uses a synthetic voice or avatar making medical or professional claims, the content will be removed, and your seller points will be deducted.

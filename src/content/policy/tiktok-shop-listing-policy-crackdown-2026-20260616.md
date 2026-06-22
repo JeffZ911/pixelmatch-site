@@ -26,7 +26,7 @@ inline_image_sections:
 
 Your TikTok Shop dashboard just flagged 50 listings as "Frozen," and your daily revenue is plummeting while you wait for a manual review that may never come. In 2026, TikTok Shop has moved away from manual spot-checks to an aggressive, AI-driven enforcement model that penalizes any listing failing to meet strict "Listing Quality" thresholds.
 
-TikTok Shop Listing Policy Crackdown 2026: Image Rules & Fixes
+[TikTok Shop Listing](https://pixelmatch.art/blog/stories/tiktok-shop-shadowban-fix-case-study) Policy Crackdown 2026: Image Rules & Fixes
 
 In 2026, TikTok Shop is strictly enforcing listing quality tiers using AI risk scoring. To avoid frozen listings, ensure your main image is at least 600×600 px, features a pure white background, and contains no watermarks or promotional text.
 

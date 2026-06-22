@@ -92,7 +92,7 @@ TikTok Shop follows a similar path but focuses on "cleanliness." TikTok will sup
 
 A common issue with SD3 is "background leakage," where the model renders the label correctly but then adds gibberish text to the background (e.g., fake newspapers, blurred store signs, or nonsensical posters). If SD3 hallucinates background text, platforms may flag it as misleading product information or simply as a low-quality image. 
 
-TikTok Shop's algorithm specifically looks for "heavy filters" or "unclear backgrounds", and garbled text in the environment is a primary trigger for an automatic listing shadowban. Always audit the "negative space" around your product to ensure no stray characters have appeared.
+TikTok Shop's algorithm specifically looks for "heavy filters" or "unclear backgrounds", and garbled text in the environment is a primary trigger for an automatic [listing shadowban](https://pixelmatch.art/blog/stories/tiktok-shop-shadowban-fix-case-study). Always audit the "negative space" around your product to ensure no stray characters have appeared.
 
 ## How to Fix Each Issue
 

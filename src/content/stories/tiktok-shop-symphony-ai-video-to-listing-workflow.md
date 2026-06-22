@@ -53,7 +53,7 @@ Check your TikTok Shop Seller Center "Growth Center" for image quality flags; if
 
 TikTok Shop requires product images to be a minimum of 600x600 pixels, with a recommended 1:1 aspect ratio. When the seller pulled a frame from a vertical video, the horizontal "crop" often fell below this resolution threshold once the product was centered. Furthermore, motion blur—a natural part of engaging video—rendered most screenshots unusable for a professional listing.
 
-The brand also experimented with basic background removal tools. Using Remove.bg's subscription credits or Canva Pro's background remover, they attempted to isolate the product from the video frames. This left the products floating on stark white backgrounds, which felt disconnected from the dynamic, engaging aesthetic of their Symphony AI video ads. With the standard 6% US referral fee (noting that fees can vary by category and seasonal promotions) already impacting margins, hiring a professional photographer for every minor product update or "limited edition" bundle was financially unviable.
+The brand also experimented with basic background removal tools. Using Remove.bg's subscription credits or Canva Pro's background remover, they attempted to isolate the product from the video frames. This left the products floating on stark white backgrounds, which felt disconnected from the dynamic, engaging aesthetic of their Symphony [AI video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) ads. With the standard 6% US referral fee (noting that fees can vary by category and seasonal promotions) already impacting margins, hiring a professional photographer for every minor product update or "limited edition" bundle was financially unviable.
 
 ## The Workflow They Built
 
@@ -64,7 +64,7 @@ The brand also experimented with basic background removal tools. Using Remove.bg
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Set your export resolution in Symphony Creative Studio to 1080p or higher before beginning the extraction process to ensure the AI has enough data to work with. The seller implemented a dedicated TikTok Shop Symphony AI video-to-listing workflow using PixelMatch to bridge the gap between ad creative and storefront. This allowed them to treat their video assets as the "source of truth" for all visual media.
+Set your export resolution in Symphony Creative Studio to 1080p or higher before beginning the extraction process to ensure the AI has enough data to work with. The seller implemented a dedicated [TikTok Shop Symphony](https://pixelmatch.art/blog/policy/tiktok-shop-symphony-avatar-lighting-mismatch-fix) AI video-to-listing workflow using PixelMatch to bridge the gap between ad creative and storefront. This allowed them to treat their video assets as the "source of truth" for all visual media.
 
 The workflow follows a streamlined four-step process:
 

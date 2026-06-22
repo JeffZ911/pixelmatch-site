@@ -150,7 +150,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+Sponsored+Brands+Video+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: Sponsored Brands Video Specs</a>
-*   <a href="https://www.amazon.com/s?k=Amazon+Ads%3A+AI+Video+Generator+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Ads: AI Video Generator Overview</a>
+*   <a href="https://www.amazon.com/s?k=Amazon+Ads%3A+AI+Video+Generator+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Ads: [AI Video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) Generator Overview</a>
 *   [Canva Help Center: Magic Media Credits and Limits](https://www.canva.com/help/magic-media/)
 *   Canva Official Pricing Page
 *   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central: Creative Assets Management

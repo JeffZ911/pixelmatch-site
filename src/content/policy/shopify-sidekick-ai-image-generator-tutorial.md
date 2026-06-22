@@ -78,7 +78,7 @@ To maintain professional standards, sellers often use the built-in Shopify tool 
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Upload a generated image to a draft product and hover over it with the zoom tool to check for pixelation before pushing the listing live. Many sellers find that AI-generated backgrounds look acceptable in a thumbnail but fall apart under the scrutiny of a customer looking at product details.
+Upload a [generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) to a draft product and hover over it with the zoom tool to check for pixelation before pushing the listing live. Many sellers find that AI-generated backgrounds look acceptable in a thumbnail but fall apart under the scrutiny of a customer looking at product details.
 
 ### Intellectual Property Takedowns
 

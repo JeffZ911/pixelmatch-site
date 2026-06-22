@@ -58,7 +58,7 @@ The June 9, 2026 effective date for the synthetic performer mandate applies to a
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Navigate the intersection of platform-level rules and state-level laws by updating your listing workflow. Etsy’s internal policies focus on buyer transparency regarding the "maker," while the New York Synthetic Performer Law focuses on the "performer" (the model) depicted in the media.
+Navigate the intersection of platform-level rules and state-level laws by updating your [listing workflow](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow). Etsy’s internal policies focus on buyer transparency regarding the "maker," while the New York Synthetic Performer Law focuses on the "performer" (the model) depicted in the media.
 
 ### Etsy's Creativity Standards for AI
 Etsy updated its [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) to ensure buyers know when AI played a role in the creation of an item. When you create or edit a listing, you must tick the "I used AI-generative technology" checkbox. This is located in the "About this listing" section of the editor.

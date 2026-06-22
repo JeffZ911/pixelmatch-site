@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Seeing your TikTok Shop listing status flip to "Rejected" because of "Style Inconsistency" is a frustrating bottleneck that halts your sales momentum. You need to strip away every non-compliant element and standardize your visual assets to satisfy the platform's strict algorithmic quality checks.
+Seeing your [TikTok Shop listing](https://pixelmatch.art/blog/stories/tiktok-shop-shadowban-fix-case-study) status flip to "Rejected" because of "Style Inconsistency" is a frustrating bottleneck that halts your sales momentum. You need to strip away every non-compliant element and standardize your visual assets to satisfy the platform's strict algorithmic quality checks.
 
 # How to Fix TikTok Shop Image Style Inconsistency Rejections
 
@@ -120,7 +120,7 @@ Before re-uploading, ensure every file is a JPG or PNG under 5 MB. If your files
 
 
 *   TikTok Shop Product Listing Policy
-*   TikTok Shop Listing Quality Guidelines
+*   TikTok [Shop Listing](https://pixelmatch.art/blog/stories/tiktok-shop-shadowban-fix-case-study) Quality Guidelines
 *   TikTok Shop Avoid Misleading Content Guide
 
 ## Frequently Asked Questions
