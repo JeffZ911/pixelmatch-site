@@ -46,7 +46,7 @@ The brand needed a way to place their products in high-end lifestyle contexts, s
 ![What Wasn't Working](/img/how-to-use-midjourney-for-amazon-lifestyle/inline-2.webp)
 
 
-Before finding a stable AI workflow, Lumina Skin attempted several "shortcuts" that ultimately failed to meet Amazon’s strict quality standards.
+Before finding a stable AI workflow, Lumina Skin attempted several "shortcuts" that ultimately failed to meet Amazon’s strict [quality standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622).
 
 First, they tried using Midjourney alone. While Midjourney is world-class at generating aesthetic scenes, it cannot accurately render a specific, branded product. When prompted to create a "Lumina Skin Serum bottle on a bathroom counter," the AI would hallucinate the text, change the bottle shape, and alter the brand logo. Amazon customers are highly sensitive to "bait and switch" visuals; if the product in the lifestyle photo looks even slightly different from the one in the box, return rates spike.
 

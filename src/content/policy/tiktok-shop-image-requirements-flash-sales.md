@@ -91,7 +91,7 @@ Upscaling low-resolution images to meet the 600x600 pixel requirement often resu
 
 Watermarks or unauthorized brand logos lead to immediate rejection. You cannot include a logo unless you have submitted and received approval for Brand Qualification in the Seller Center. Even with a qualified brand, the logo should be on the product or packaging itself, not floating as a digital watermark over the image.
 
-**Actionable Step:** Review your "Failed" listings in the Seller Center. Look for the "Suspended" status and click "View Details" to see the specific reason. If it mentions "Image Quality" or "Inappropriate Content," check your primary image for text overlays or watermarks immediately.
+**Actionable Step:** Review your "Failed" listings in the Seller Center. Look for the "Suspended" status and click "View Details" to see the specific reason. If it mentions "[Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)" or "Inappropriate Content," check your primary image for text overlays or watermarks immediately.
 
 ## How to Fix Each Issue
 

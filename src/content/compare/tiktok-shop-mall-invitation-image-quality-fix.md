@@ -41,7 +41,7 @@ To secure a TikTok Shop Mall invitation, sellers must upgrade product photos to 
 Perform a manual audit of your top 10 listings against the TikTok Shop Mall eligibility criteria before resubmitting your application. If your images feature cluttered backgrounds, watermarks, or pixelation when zoomed, you will likely face an immediate rejection.
 
 *   **TikTok Shop Mall is an invite-only premium tier** requiring a 15-day return period, authentic products, and high-quality visuals that distinguish Mall sellers from standard marketplace participants.
-*   **Poor image quality**—specifically low resolution, distracting backgrounds, and inconsistent lighting—is a primary reason for rejection or poor conversion once invited.
+*   **Poor [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)**—specifically low resolution, distracting backgrounds, and inconsistent lighting—is a primary reason for rejection or poor conversion once invited.
 *   **PixelMatch** is best for multi-platform sellers needing fast, batch AI generation to overhaul an entire catalog of hundreds or thousands of SKUs simultaneously.
 *   **Photoroom** is ideal for mobile-first sellers who need to remove backgrounds and apply "Instant Background" templates one by one or in small batches on the go.
 *   **Canva Pro** is best for brand owners who require a general-purpose design suite for social media graphics, TikTok video covers, and storefront banners in addition to basic background removal.

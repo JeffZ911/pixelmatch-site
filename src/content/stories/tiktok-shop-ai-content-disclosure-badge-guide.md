@@ -56,7 +56,7 @@ Navigate to your TikTok Shop Seller Center "Account Health" tab immediately to c
 
 The result was a series of shadowbans and listing suppressions. While the exact percentage of reach lost varies by account, failing to disclose [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-label-policy-2026) typically leads to a significant drop in impressions as the platform's algorithm flags the content as "low quality" or "deceptive." According to TikTok's current AIGC policy, sellers must disclose synthetic or manipulated media that shows realistic scenes.
 
-The seller also experimented with tools like Photoroom, which offers a Pro tier at $12.99/mo. While effective for basic background removal, the brand struggled to maintain a consistent, compliant workflow. They were often "guessing" whether a background was realistic enough to trigger a penalty. They needed a system that integrated bulk ai background removal with a standardized compliance checklist to ensure every image met the 8% commission-level quality standards expected of top-tier sellers.
+The seller also experimented with tools like Photoroom, which offers a Pro tier at $12.99/mo. While effective for basic background removal, the brand struggled to maintain a consistent, compliant workflow. They were often "guessing" whether a background was realistic enough to trigger a penalty. They needed a system that integrated bulk ai background removal with a standardized compliance checklist to ensure every image met the 8% commission-level [quality standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) expected of top-tier sellers.
 
 ## The Workflow They Built
 

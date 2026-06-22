@@ -127,7 +127,7 @@ The 3.4% CTR was a direct result of the metallic realism. Shoppers scrolling thr
 You can replicate this workflow to fix your own metallic textures without needing a degree in prompt engineering. Follow these steps to ensure your silver and gold products look authentic.
 
 ### 1. Prepare the Input Photo
-Don't use a "flat" AI-generated image as your starting point. Take a real photo of your product. Use a smartphone on a tripod. Ensure the jewelry is clean; while the LoRA fixes texture, it cannot always "clean" a dirty diamond. Aim for a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) for your source photo to make background replacement easier.
+Don't use a "flat" AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) as your starting point. Take a real photo of your product. Use a smartphone on a tripod. Ensure the jewelry is clean; while the LoRA fixes texture, it cannot always "clean" a dirty diamond. Aim for a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) for your source photo to make background replacement easier.
 
 ### 2. Configure the PixelMatch Studio
 Upload your raw photo to the PixelMatch dashboard. Select the **[Flux 1](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) LoRA Metallic Texture Realism Fix** from the model library. This model is specifically tuned to recognize the difference between the "specular" reflection of silver and the "diffuse" reflection of a white plastic pearl.
