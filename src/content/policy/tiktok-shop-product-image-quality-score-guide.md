@@ -85,7 +85,7 @@ Secondary images (images 2 through 9) offer more creative freedom. This is where
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-TikTok Shop uses a combination of machine learning and human review to police image quality. Because the volume of listings is so high, the initial "gatekeeper" is almost always an AI. This AI is programmed to be highly sensitive, often resulting in "false positive" rejections for minor infractions.
+TikTok Shop uses a combination of machine learning and human review to police [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622). Because the volume of listings is so high, the initial "gatekeeper" is almost always an AI. This AI is programmed to be highly sensitive, often resulting in "false positive" rejections for minor infractions.
 
 ### Automated AI Background Rejections
 

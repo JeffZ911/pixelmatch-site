@@ -69,7 +69,7 @@ Aim for the "Good" listing tier to unlock maximum algorithmic priority in the Sh
 
 1.  **Quantity:** Upload at least 5 high-resolution images. Listings with only 1 or 2 images are capped at the "Fair" tier.
 2.  **Resolution:** Every image must exceed 600 x 600 pixels. For the high-density displays common in 2026, TikTok's internal documentation strongly suggests 1000 x 1000 pixels to ensure the "Zoom" feature remains crisp.
-3.  **Clarity:** Use the TikTok "Product Optimizer" tool to check for "Image Quality" flags. Images with high compression artifacts or AI-generated "hallucinations" in the background will be flagged as Poor.
+3.  **Clarity:** Use the TikTok "Product Optimizer" tool to check for "[Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)" flags. Images with high compression artifacts or AI-generated "hallucinations" in the background will be flagged as Poor.
 
 ### Main Image vs. Variant Images
 
