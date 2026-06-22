@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop wasting your ad spend on Symphony videos where your product looks like a poorly cropped sticker floating in front of an avatar. If your TikTok Shop Symphony Avatar videos show a visible "halo" or inconsistent shadows, your source image is fighting the AI’s environmental blending.
+Stop wasting your ad spend on Symphony videos where your product looks like a poorly cropped sticker floating in front of an avatar. If your [TikTok Shop Symphony](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) Avatar videos show a visible "halo" or inconsistent shadows, your source image is fighting the AI’s environmental blending.
 
 **Quick Answer:** To fix a Symphony Product Avatar lighting mismatch, ensure your uploaded product image uses flat, neutral, and diffused lighting. TikTok’s AI attempts to apply its own shadows to match the avatar’s studio; if your image has hard, "baked-in" directional shadows, the composite will fail. Additionally, clothing accessories like shoes, hats, and bracelets are currently unsupported and will cause generation errors regardless of lighting.
 

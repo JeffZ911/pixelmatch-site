@@ -147,7 +147,7 @@ Take a clear, well-lit photo of your product with your smartphone. Upload it to 
 For each product, generate 3-4 lifestyle scenes. Use prompts that describe the *environment*, not the product. For example: "Resting on a wooden bedside table with a glass of water and a lamp, soft warm lighting." PixelMatch will keep your product's proportions and labels exact while building the world around it.
 
 ### 4. A/B Test Using "Manage Your Experiments"
-Do not swap all your images at once. Use the [Amazon Manage Your Experiments (MYE) tool](https://sellercentral.amazon.com/help/hub/reference/G69A28F8Z3SG99L8) to run an A/B test. Upload your old main image as Version A and your new AI-generated image as Version B. Run the test for 4–10 weeks to see which version produces a higher conversion rate and more sales.
+Do not swap all your images at once. Use the [Amazon Manage Your Experiments (MYE) tool](https://sellercentral.amazon.com/help/hub/reference/G69A28F8Z3SG99L8) to run an A/B test. Upload your old main image as Version A and your new AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) as Version B. Run the test for 4–10 weeks to see which version produces a higher conversion rate and more sales.
 
 ## Caveats and Honest Limitations
 

@@ -153,7 +153,7 @@ Export the entire batch. PixelMatch allows you to download all variations (White
 ![Caveats and Honest Limitations](/img/best-ai-photo-extender-ecommerce-hero-images-case-study-20260604/inline-6.webp)
 
 
-Implement a 3-point Quality Control (QC) checklist for every AI-generated image before it goes live. While AI photo extenders are transformative, they are not infallible.
+Implement a 3-point Quality Control (QC) checklist for every AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) before it goes live. While AI photo extenders are transformative, they are not infallible.
 
 First, AI occasionally struggles with highly complex, repeating geometric patterns. If your product is sitting on a very specific Moroccan tile or an intricate Persian rug, the extended portion of the background might show slight "seams" or pattern breaks. 
 

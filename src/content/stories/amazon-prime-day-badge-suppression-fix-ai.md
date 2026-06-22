@@ -77,7 +77,7 @@ The manual back-and-forth of downloading, checking pixel dimensions, and re-uplo
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-To resolve the badge suppression before the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) deadline, the seller integrated PixelMatch into their listing workflow. This shifted the process from "artistic editing" to "algorithmic compliance."
+To resolve the badge suppression before the [Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-optimization-checklist) deadline, the seller integrated PixelMatch into their [listing workflow](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow). This shifted the process from "artistic editing" to "algorithmic compliance."
 
 ### Step 1: Batch Upload Raw Assets
 Instead of manually checking RGB values for every individual file, the seller uploaded their entire raw product photo library directly into PixelMatch. This included photos taken on mobile phones in the warehouse and professional shots with lingering shadows.

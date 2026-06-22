@@ -152,7 +152,7 @@ Amazon's hover-to-zoom feature works best at 1600 pixels or higher. Use the buil
 ![Caveats and Honest Limitations](/img/flux-pro-vs-midjourney-for-amazon-listings/inline-6.webp)
 
 
-While the Flux Pro and PixelMatch workflow is a massive leap forward, it is not a "magic button." Professional sellers must be aware of the current limitations of AI.
+While the [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) and PixelMatch workflow is a massive leap forward, it is not a "magic button." Professional sellers must be aware of the current limitations of AI.
 
 ### Transparency and Refraction
 AI still struggles with complex transparent materials. If your beauty product is a clear glass bottle filled with a translucent liquid, the AI may have difficulty perfectly rendering the way light bends through the glass. In these cases, you may need to do a "partial mask" where you keep the original glass reflections from your smartphone photo.

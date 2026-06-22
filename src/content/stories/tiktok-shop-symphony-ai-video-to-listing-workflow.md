@@ -64,7 +64,7 @@ The brand also experimented with basic background removal tools. Using Remove.bg
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Set your export resolution in Symphony Creative Studio to 1080p or higher before beginning the extraction process to ensure the AI has enough data to work with. The seller implemented a dedicated [TikTok Shop Symphony](https://pixelmatch.art/blog/policy/tiktok-shop-symphony-avatar-lighting-mismatch-fix) AI video-to-listing workflow using PixelMatch to bridge the gap between ad creative and storefront. This allowed them to treat their video assets as the "source of truth" for all visual media.
+Set your export resolution in Symphony Creative Studio to 1080p or higher before beginning the extraction process to ensure the AI has enough data to work with. The seller implemented a dedicated [TikTok Shop Symphony](https://pixelmatch.art/blog/policy/tiktok-shop-symphony-avatar-lighting-mismatch-fix) [AI video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements)-to-listing workflow using PixelMatch to bridge the gap between ad creative and storefront. This allowed them to treat their video assets as the "source of truth" for all visual media.
 
 The workflow follows a streamlined four-step process:
 
