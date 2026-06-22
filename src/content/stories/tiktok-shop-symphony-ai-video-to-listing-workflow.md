@@ -133,7 +133,7 @@ While you can technically extract frames from a 720p video, the resulting images
 Yes, TikTok Shop allows AI-generated backgrounds, provided they do not mislead the customer about the product itself. However, your main listing image should typically be a clean, high-resolution shot on a solid background to meet the platform's primary search requirements.
 
 ### How many images should I have on my TikTok Shop listing?
-TikTok Shop allows up to 9 images per listing. Successful sellers typically use at least 5-6 images, including a main product shot, detail/texture shots, and 2-3 lifestyle images that show the product in use, all of which can be extracted from a single Symphony AI video using PixelMatch.
+TikTok Shop allows up to 9 images per listing. Successful sellers typically use at least 5-6 images, including a main product shot, detail/texture shots, and 2-3 lifestyle images that show the product in use, all of which can be extracted from a single Symphony [AI video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) using PixelMatch.
 
 
 <!-- pm-cta:foot -->

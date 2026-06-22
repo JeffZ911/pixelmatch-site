@@ -85,7 +85,7 @@ Adding "50% OFF," "Limited Time," or "Flash Sale" banners to the main image is t
 
 ### Blurry or Pixelated Uploads
 
-Upscaling low-resolution images to meet the 600x600 pixel requirement often results in "soft" edges or visible pixelation. TikTok’s quality standards are designed to protect the user experience. If your image looks blurry on a standard smartphone screen, it will fail the catalog review process. Using mosaics or filters (like high contrast or blurring) that obscure the product details will also trigger an automatic failure.
+Upscaling low-resolution images to meet the 600x600 pixel requirement often results in "soft" edges or visible pixelation. TikTok’s [quality standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) are designed to protect the user experience. If your image looks blurry on a standard smartphone screen, it will fail the catalog review process. Using mosaics or filters (like high contrast or blurring) that obscure the product details will also trigger an automatic failure.
 
 ### Unauthorized Watermarks and Logos
 
@@ -126,7 +126,7 @@ Stay updated on policy changes by frequently visiting the following official Tik
 *   TikTok Shop Seller Center: Product Listing Guidelines
 *   TikTok Shop Seller Center: Promotional Content Policy
 *   TikTok Shop Seller Center: Seller Flash Sale Overview
-*   TikTok Shop Seller Center: Image Quality Standards
+*   TikTok Shop Seller Center: [Image Quality Standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)
 
 
 <!-- pm-cta:foot -->

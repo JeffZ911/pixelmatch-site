@@ -142,7 +142,7 @@ When investing in tools to fix your imagery, you must keep your overhead low. Ti
 To stay updated on the latest policy shifts, bookmark these official TikTok Shop resources. As of 2026-05-23, these are the primary authorities on listing compliance:
 
 1.  **TikTok Shop Seller Center:** https://seller.tiktok.com - The main dashboard for managing rejections and viewing specific "Reason Codes."
-2.  **TikTok Shop Academy:** https://seller-us.tiktok.com/university - Detailed guides on "Brand Qualification" and "Image Quality Standards."
+2.  **TikTok Shop Academy:** https://seller-us.tiktok.com/university - Detailed guides on "Brand Qualification" and "[Image Quality Standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)."
 3.  **TikTok Shop Intellectual Property Policy:** https://tos.tiktok.com/legal/v2/ip-policy - Essential reading for avoiding rejections related to brand logos and unauthorized assets.
 4.  **TikTok Shop Referral Fee Schedule (2026):** undisclosed - Check your specific Seller Center "Finance" tab for the most current rate applicable to your category.
 

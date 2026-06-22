@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Missing out on a TikTok Shop Mall invitation because of "substandard image quality" is a common bottleneck for high-volume sellers who rely on manufacturer-supplied photos. Your application rejection isn't just about aesthetics; it's a failure to meet the strict technical and brand-trust benchmarks required for the Mall's premium badge.
+Missing out on a TikTok Shop Mall invitation because of "substandard [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)" is a common bottleneck for high-volume sellers who rely on manufacturer-supplied photos. Your application rejection isn't just about aesthetics; it's a failure to meet the strict technical and brand-trust benchmarks required for the Mall's premium badge.
 
 To secure a TikTok Shop Mall invitation, sellers must upgrade product photos to meet strict premium marketplace standards, including a 600x600 px minimum. PixelMatch, Photoroom, and Canva Pro offer AI tools to batch-edit images for compliance, ensuring your catalog meets the resolution, background, and file-size requirements necessary for approval.
 

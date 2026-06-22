@@ -58,7 +58,7 @@ Configure your export settings in your photo editor to match these precise speci
 
 ### Main Image vs. Additional Images
 
-Your primary image (the first slot in your listing) acts as the gatekeeper for your store's health. TikTok requires a pure white background (#FFFFFF) for this specific slot. Off-white, light gray, or even slightly textured backgrounds will trigger an automated "Image Quality Issue" notification. This image must show the product clearly without any watermarks, borders, placeholders, or promotional text. Avoid adding "Best Seller" badges or "Free Shipping" icons directly onto the image; TikTok provides dynamic overlays for these features that do not violate policy.
+Your primary image (the first slot in your listing) acts as the gatekeeper for your store's health. TikTok requires a pure white background (#FFFFFF) for this specific slot. Off-white, light gray, or even slightly textured backgrounds will trigger an automated "[Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) Issue" notification. This image must show the product clearly without any watermarks, borders, placeholders, or promotional text. Avoid adding "Best Seller" badges or "Free Shipping" icons directly onto the image; TikTok provides dynamic overlays for these features that do not violate policy.
 
 Additional images (slots 2 through 9) allow for more creative freedom. Use these slots for lifestyle shots, infographics, and size charts. While the background rule is relaxed for these slots, the 1:1 aspect ratio remains mandatory. If you upload a 4:5 portrait image, TikTok will automatically crop it, potentially cutting off vital product information or your brand logo.
 
