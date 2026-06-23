@@ -154,7 +154,7 @@ Amazon requires a main image with a [pure white background (RGB 255, 255, 255)](
 Identify the suppressed ASIN in Seller Central, upload a new image that meets the RGB 255 background and 85% frame fill requirements, and wait up to 24 hours for the system to refresh. Using a dedicated tool like PixelMatch ensures these technical specs are met automatically during the export process.
 
 ### Does Amazon penalize AI-generated product images?
-Amazon does not penalize AI images as long as they are accurate representations of the product and follow the [Main Image requirements](https://sellercentral.amazon.com/help/hub/reference/G1881). However, per the 2026 guidelines, you must disclose if an image is "synthetic or AI-generated" in the product's image attributes, especially for lifestyle scenes.
+Amazon does not penalize [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) as long as they are accurate representations of the product and follow the [Main Image requirements](https://sellercentral.amazon.com/help/hub/reference/G1881). However, per the 2026 guidelines, you must disclose if an image is "synthetic or AI-generated" in the product's image attributes, especially for lifestyle scenes.
 
 ### What is the best resolution for Amazon product photos?
 While the minimum is 1000x1000 pixels, the recommended resolution is 2000x2000 pixels. This provides the best balance between file size and zoom capability, ensuring that customers can see fine details (like ingredients or textures) without the image becoming pixelated.

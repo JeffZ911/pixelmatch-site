@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Losing a potential sale because your product photo looks blurry on a mobile screen or fails to load entirely is a technical failure you can prevent. As Etsy’s algorithm becomes increasingly reliant on visual AI to rank listings, meeting the exact pixel and metadata standards for 2026 is no longer optional for sellers who want to maintain search visibility.
+Losing a potential sale because your product photo looks blurry on a mobile screen or fails to load entirely is a technical failure you can prevent. As Etsy’s algorithm becomes increasingly reliant on visual AI to rank listings, meeting the exact pixel and metadata standards for 2026 is no longer optional for sellers who want to maintain [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623).
 
 # Etsy Shop Image Requirements for 2025 SEO
 
