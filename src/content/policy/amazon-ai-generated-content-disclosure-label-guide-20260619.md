@@ -88,7 +88,7 @@ Using AI to generate a synthetic product render or a non-white background for th
 Amazon's algorithm and manual reviewers look for "material' differences. Using AI to smooth out physical defects (like scratches on a metal surface), alter the scale of the product relative to props, or invent features that don't exist on the physical unit is a violation of the [Selling Partner Acceptable Use Policy](https://sellercentral.amazon.com/help/hub/reference/G200386250). For example, if you use AI to add a "leather texture" to a plastic phone case, the disclosure label will not protect you from a "Product Not as Described" claim or a permanent suspension.
 
 ### 4. Resolution and Aspect Ratio Failures
-Submitting AI-generated images that fall below the [1600x1600 px minimum](https://sellercentral.amazon.com/help/hub/reference/G1881) required by the Spring 2026 update will result in an automatic upload error. Many basic AI generators output images at 1024x1024 px by default. If you don't upscale these images to meet Amazon's zoom-capable requirements, the listing quality score will drop, reducing your organic search visibility.
+Submitting AI-generated images that fall below the [1600x1600 px minimum](https://sellercentral.amazon.com/help/hub/reference/G1881) required by the Spring 2026 update will result in an automatic upload error. Many basic AI generators output images at 1024x1024 px by default. If you don't upscale these images to meet Amazon's zoom-capable requirements, the listing quality score will drop, reducing your organic [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623).
 
 ## How to Fix Each Issue
 

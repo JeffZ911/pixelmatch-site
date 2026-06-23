@@ -160,7 +160,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Etsy Help: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop)
-*   Etsy Legal: Creativity Standards
+*   Etsy Legal: [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy)
 *   Etsy Legal: Fees & Payments Policy
 *   Photoroom Pricing and Features
 *   Photoroom Batch Editor Limits

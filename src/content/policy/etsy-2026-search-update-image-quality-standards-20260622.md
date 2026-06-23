@@ -46,7 +46,7 @@ Audit your current shop inventory against these technical thresholds. If your to
 | **File Format** | .jpg, .gif, .png, .svg, or .heic | [.jpg or .png (non-transparent)](https://help.etsy.com/hc/en-us/articles/115015663347) |
 | **Color Profile** | sRGB | [sRGB](https://help.etsy.com/hc/en-us/articles/115015663347) |
 
-**Actionable Step:** Open your Etsy Shop Manager, navigate to "Listings," and look for the yellow warning triangle on any thumbnail. This icon often indicates an image that is below the [2000-pixel recommendation](https://help.etsy.com/hc/en-us/articles/115015663347), signaling an immediate need for an upscaled replacement to maintain search visibility.
+**Actionable Step:** Open your Etsy Shop Manager, navigate to "Listings," and look for the yellow warning triangle on any thumbnail. This icon often indicates an image that is below the [2000-pixel recommendation](https://help.etsy.com/hc/en-us/articles/115015663347), signaling an immediate need for an upscaled replacement to maintain [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623).
 
 ## Detailed Requirements
 

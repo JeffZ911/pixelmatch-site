@@ -103,7 +103,7 @@ When Google’s bot crawls your `image_link` (e.g., `cdn.shopify.com/s/files/...
 
 ### Missing or Incorrect IPTC Tags
 
-Not all AI tools are built for ecommerce compliance. Generic AI generators or older versions of popular tools may generate high-quality visuals but fail to write the DigitalSourceType property into the file. If you are using a tool that doesn't explicitly mention "Google Merchant Center Compliance" or "IPTC preservation," you are likely uploading "naked" AI images that Google will eventually flag.
+Not all AI tools are built for ecommerce compliance. Generic AI generators or older versions of popular tools may generate high-quality visuals but fail to write the DigitalSourceType property into the file. If you are using a tool that doesn't explicitly mention "Google Merchant Center Compliance" or "IPTC preservation," you are likely uploading "naked" [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) that Google will eventually flag.
 
 ### Low Resolution (2026 Update)
 

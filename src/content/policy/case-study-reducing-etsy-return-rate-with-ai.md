@@ -108,7 +108,7 @@ If you use AI-generated human models for apparel or jewelry, transparency is you
 
 To stay ahead of 2026 [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) disclosure regulations, use Canva Pro at $120/year to add a small, tasteful "[AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) used for context" badge to the bottom corner of your secondary images. This builds trust by showing you are an honest seller. 
 
-Always follow the "Primary Photo Rule": use an unedited, well-lit photo of the physical product on a plain, neutral background as your primary image (the first slot in your Etsy listing). Reserve your AI lifestyle mockups for the secondary slots (images 2 through 10). This ensures that the first thing a buyer sees is the 100% accurate physical item, while the AI images provide the "vibe" and lifestyle context needed to close the sale. This balanced approach significantly reduces INAD cases because the buyer's primary expectation is set by a real photograph.
+Always follow the "Primary Photo Rule": use an unedited, well-lit photo of the physical product on a plain, neutral background as your primary image (the first slot in your Etsy listing). Reserve your AI lifestyle mockups for the secondary slots (images 2 through 10). This ensures that the first thing a buyer sees is the 100% accurate physical item, while the [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) provide the "vibe" and lifestyle context needed to close the sale. This balanced approach significantly reduces INAD cases because the buyer's primary expectation is set by a real photograph.
 
 ## Official Source Links
 

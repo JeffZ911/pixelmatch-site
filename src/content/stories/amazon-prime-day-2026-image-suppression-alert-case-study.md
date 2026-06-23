@@ -121,7 +121,7 @@ The brand successfully secured their inventory check-in ahead of the June 23 [Pr
 If you are facing image-related suppression or simply want to optimize your catalog for [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) 2026, follow this exact workflow:
 
 1.  **Identify Flagged ASINs:** Navigate to **Inventory > Manage All Inventory** in Seller Central. Use the "Filters" sidebar to select "Search Suppressed." This will give you a definitive list of every product currently hidden from customers.
-2.  **Audit the "Fix Your Product" Page:** Click on the "Search Suppressed" link for a specific ASIN to see the exact reason. If it says "Main Image Quality," you likely have a background or framing issue.
+2.  **Audit the "Fix Your Product" Page:** Click on the "Search Suppressed" link for a specific ASIN to see the exact reason. If it says "Main [Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)," you likely have a background or framing issue.
 3.  **Process with PixelMatch:**
     *   Upload your raw product photos (even those taken on a phone).
     *   Select the **"Amazon Main Image"** preset. This automatically applies the RGB 255, 255, 255 background and ensures the product fills 85-90% of the canvas.

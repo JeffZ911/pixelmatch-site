@@ -156,7 +156,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Etsy Creativity Standards (Official)
+*   [Etsy Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) (Official)
 *   Etsy Seller Policy: AI-Generated Content
 *   Etsy Fee Schedule (Listing, Transaction, and Offsite Ads)
 *   [Etsy Help Center: Requirements for Listing Photos](https://help.etsy.com/hc/en-us/articles/115015663347)

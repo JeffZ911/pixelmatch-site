@@ -78,7 +78,7 @@ Relying on standard, older AI models often resulted in warped product dimensions
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-The seller transitioned to using PixelMatch powered by Flux.1 Pro for its superior prompt adherence and photorealistic lighting. Flux.1 Pro, developed by Black Forest Labs, represents a significant leap over previous models because it understands complex spatial relationships. If you prompt for "a cutting board on a kitchen island with soft morning light hitting from the left," Flux.1 Pro actually calculates how that light should wrap around the specific geometry of your uploaded product.
+The seller transitioned to using PixelMatch powered by Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) for its superior prompt adherence and photorealistic lighting. Flux.1 Pro, developed by Black Forest Labs, represents a significant leap over previous models because it understands complex spatial relationships. If you prompt for "a cutting board on a kitchen island with soft morning light hitting from the left," Flux.1 Pro actually calculates how that light should wrap around the specific geometry of your uploaded product.
 
 For Amazon main images, the workflow enforced a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/G1881) with the product filling at least 85% of the frame. The seller used PixelMatch to batch-process raw smartphone photos, stripping the background and instantly centering the product to meet Amazon’s strict framing requirements. 
 
