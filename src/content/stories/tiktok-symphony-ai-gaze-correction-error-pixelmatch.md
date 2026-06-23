@@ -40,7 +40,7 @@ Scaling a TikTok Shop beauty brand requires high-velocity creative, but the "unc
 
 Audit your current creative margins before committing to a video-only strategy. The subject of this case study, a mid-market beauty and skincare brand, was scaling aggressively on TikTok Shop while managing a growing Shopify storefront. They were hitting a hard ceiling on profitability due to the rising costs of User-Generated Content (UGC). Between shipping product samples, paying creator fees, and managing the standard Stripe fees of 2.9% + 30¢ per transaction on their Shopify backend, their customer acquisition costs were becoming unsustainable.
 
-To reclaim their margins, the brand integrated TikTok’s Symphony AI suite into their workflow. They specifically focused on using Symphony Digital Avatars to generate talking-head video ads. By using AI models to explain product benefits, they hoped to bypass the $150–$500 per video cost of human creators. The primary goal was to maintain a "human" connection with the audience, which led them to experiment with external eye-tracking and gaze-fixing tools to ensure the avatars looked directly at the camera—a critical factor for building trust in the beauty niche.
+To reclaim their margins, the brand integrated TikTok’s [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) suite into their workflow. They specifically focused on using Symphony Digital Avatars to generate talking-head video ads. By using AI models to explain product benefits, they hoped to bypass the $150–$500 per video cost of human creators. The primary goal was to maintain a "human" connection with the audience, which led them to experiment with external eye-tracking and gaze-fixing tools to ensure the avatars looked directly at the camera—a critical factor for building trust in the beauty niche.
 
 ## What Wasn't Working: The Uncanny Valley
 
@@ -53,7 +53,7 @@ The results were disastrous. The gaze correction software struggled to map onto 
 
 1.  **Audience Rejection:** TikTok’s user base is famously sensitive to inauthenticity. Viewers identified the glitchy AI gaze within the first three seconds, leading to a "scroll-away" rate that sent their Click-Through Rate (CTR) crashing to 0.8%.
 2.  **Policy Violations:** The artifacts created by the gaze correction error—such as flickering pupils or warped eyelids—made the videos appear like low-quality deepfakes. This led to multiple ads being flagged under TikTok's synthetic media policies, which require clear labeling and prohibit deceptive AI-generated content.
-3.  **Ad Spend Waste:** With a Cost Per Acquisition (CPA) of $18.50, the brand was losing money on every sale. The algorithm stopped pushing the glitchy videos, and the brand realized that forcing a broken AI video workflow was more expensive than the UGC they were trying to replace.
+3.  **Ad Spend Waste:** With a Cost Per Acquisition (CPA) of $18.50, the brand was losing money on every sale. The algorithm stopped pushing the glitchy videos, and the brand realized that forcing a broken [AI video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) workflow was more expensive than the UGC they were trying to replace.
 
 ## The Workflow They Built: Pivoting to PixelMatch Carousels
 

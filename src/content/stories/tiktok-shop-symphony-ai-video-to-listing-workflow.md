@@ -147,7 +147,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   TikTok Shop Product Image Guidelines
 *   TikTok Ads Help: Video Ad Specifications
-*   TikTok Symphony Creative Studio Official Blog
+*   [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-gaze-correction-error-pixelmatch) Creative Studio Official Blog
 *   TikTok Shop US Referral Fee Schedule
 *   TikTok Ads Help: Smart+ Campaigns
 *   Photoroom Pro Pricing
