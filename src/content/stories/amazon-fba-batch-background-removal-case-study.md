@@ -39,7 +39,7 @@ Managing a growing catalog of 500+ home organization SKUs requires a level of op
 
 To maintain "Active" status and avoid suppressed listings, the seller had to adhere to [Amazon's Main Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881). These rules are rigid: the background must be pure white (RGB 255, 255, 255), the product must fill 85% of the frame, and no promotional text or watermarks are allowed. Furthermore, to enable the "hover-to-zoom" feature that drives conversions in the Home & Kitchen category, images must be at least [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881), though 1600 to 2000 pixels is the industry standard for high-resolution displays.
 
-**Actionable Step:** Use a digital color picker tool (like the one built into Chrome DevTools) to audit your current live listings. If your background reads as 254, 255, 254 or any variation other than 255, 255, 255, your listing is at risk of being suppressed by Amazon’s automated "image quality" bots.
+**Actionable Step:** Use a digital color picker tool (like the one built into Chrome DevTools) to audit your current live listings. If your background reads as 254, 255, 254 or any variation other than 255, 255, 255, your listing is at risk of being suppressed by Amazon’s automated "[image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)" bots.
 
 ## What Wasn't Working
 

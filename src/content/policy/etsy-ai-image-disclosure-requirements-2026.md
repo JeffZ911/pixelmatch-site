@@ -103,7 +103,7 @@ Review your primary listing photos to ensure the product itself is not an AI-gen
 Use a bulk editing tool or Etsy’s native bulk editor to append a standard disclosure statement to all listings categorized under "Designed by a seller." Taking proactive steps now prevents the "Listing Deactivated" emails that can cripple your seasonal sales.
 
 ### Step 1: Audit and Update Descriptions
-Run a search within your own Shop Manager for keywords like "digital," "art," or "print." For every listing that utilized AI in the creation process, add a sentence: "Created with the assistance of AI and refined by [Your Shop Name]." This satisfies the Etsy Creativity Standards.
+Run a search within your own Shop Manager for keywords like "digital," "art," or "print." For every listing that utilized AI in the creation process, add a sentence: "Created with the assistance of AI and refined by [Your Shop Name]." This satisfies the [Etsy Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy).
 
 ### Step 2: Apply Visual Badges to AI Models
 For any lifestyle images featuring AI-generated people, use an image editor to overlay a text badge. Ensure the text is high-contrast. If you are using Photoroom's Pro tier at $12.99/mo or Adobe Express's Premium plan at $9.99/mo, you can create a standard template with this badge and apply it to your entire 2026 catalog in minutes.

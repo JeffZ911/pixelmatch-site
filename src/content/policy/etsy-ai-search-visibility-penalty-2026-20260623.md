@@ -150,7 +150,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Etsy Creativity Standards: https://www.etsy.com/legal/policy/creativity-standards/
+*   [Etsy Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy): https://www.etsy.com/legal/policy/creativity-standards/
 *   Etsy Seller Handbook: https://www.etsy.com/seller-handbook
 *   Etsy Listing Image Requirements: https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos
 *   Etsy Fees and Payments Policy: https://www.etsy.com/legal/fees/

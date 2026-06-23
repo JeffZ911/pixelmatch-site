@@ -40,7 +40,7 @@ Using a Flux Pro product depth map with ControlNet gives you pixel-perfect contr
 
 Building a manual workflow using a Flux Pro product depth map ControlNet guide gives you unmatched precision over product lighting and 3D geometry. By using a depth preprocessor, you create a grayscale map where white pixels represent surfaces closest to the camera and black pixels represent the background. This ensures that when Flux Pro generates a new scene, your product's dimensions remain identical to the physical item, preventing the "AI hallucinations" that often warp logos or proportions.
 
-However, running Flux.1 Pro requires managing API keys and complex ComfyUI node setups, making it difficult to scale across a large catalog. You have to manually configure the `ControlNetApply` node, select the correct depth model, and balance the "strength" parameter to ensure the background blends without bleeding into the product edges. This process often takes 15–30 minutes per SKU to perfect.
+However, running Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) requires managing API keys and complex ComfyUI node setups, making it difficult to scale across a large catalog. You have to manually configure the `ControlNetApply` node, select the correct depth model, and balance the "strength" parameter to ensure the background blends without bleeding into the product edges. This process often takes 15–30 minutes per SKU to perfect.
 
 PixelMatch abstracts the depth map and ControlNet technology into a seamless SaaS interface, allowing sellers to batch-generate compliance-ready images without the technical overhead. Instead of wiring nodes in a visual editor, you upload your product catalog and let the system handle the depth extraction and Flux Pro rendering in the background.
 
@@ -66,7 +66,7 @@ PixelMatch automatically formats outputs to meet marketplace specs, including [A
 | **Backgrounds** | Prompt-based (Trial & Error) | AI-Optimized Lifestyle Templates |
 | **[Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) Rule** | Hard to hit RGB 255,255,255 | One-click Pure White Background |
 
-**Actionable Step:** Audit your current image sizes against [Amazon's 1000-pixel requirement](https://sellercentral.amazon.com/help/hub/reference/G1881); if your current AI tool outputs 512px or 768px images, you are losing search visibility due to non-compliance.
+**Actionable Step:** Audit your current image sizes against [Amazon's 1000-pixel requirement](https://sellercentral.amazon.com/help/hub/reference/G1881); if your current AI tool outputs 512px or 768px images, you are losing [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) due to non-compliance.
 
 ## Pricing Comparison
 

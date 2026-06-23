@@ -151,7 +151,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   TikTok Symphony vs Meta Advantage:
+*   [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-gaze-correction-error-pixelmatch) vs Meta Advantage:
 *   TikTok Shop Product Photography Guide 2026:
 *   TikTok Image and Video Sizes 2026:
 *   Social Media File Size Limits 2026:

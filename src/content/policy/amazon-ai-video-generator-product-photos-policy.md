@@ -97,7 +97,7 @@ Apply dynamic "Camera Pan" or "Zoom" effects in your AI generator to bypass the 
 
 ### Fixing Slideshow Rejections
 
-If your video was rejected for being a "slideshow," you need to increase the temporal consistency of your AI generation. Instead of stitching together five different AI images, use a video-first AI tool like Sora or Kling (or Amazon's native generator) that treats the product as a 3D object in space.
+If your video was rejected for being a "slideshow," you need to increase the temporal consistency of your AI generation. Instead of stitching together five different [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy), use a video-first AI tool like Sora or Kling (or Amazon's native generator) that treats the product as a 3D object in space.
 
 If you don't have access to high-end video AI, use PixelMatch to generate consistent product angles. By having the exact same lighting and product position across multiple images, you can create a "stop-motion" effect that looks intentional and professional rather than a cheap slideshow. Ensure the product takes up <a href="https://www.amazon.com/s?k=at+least+50%25+of+the+frame&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">at least 50% of the frame</a> throughout these transitions.
 

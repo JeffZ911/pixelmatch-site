@@ -32,7 +32,7 @@ Scaling a 150+ SKU catalog on Amazon and Etsy shouldn't drain your quarterly pro
 
 # Case Study: Scaling Ecommerce Product Photography with Flux.1 Pro
 
-| Metric | Before Flux.1 Pro (Studio) | After Flux.1 Pro (PixelMatch) |
+| Metric | Before Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) (Studio) | After Flux.1 Pro (PixelMatch) |
 | :--- | :--- | :--- |
 | **Cost Per Listing** | $150.00 | $3.50 |
 | **Average CTR** | 1.2% | 3.4% |

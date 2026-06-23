@@ -114,7 +114,7 @@ Even with the best AI tools, simple technical errors can ruin your store's user 
 The "best" app depends on your specific workflow. If you are a high-volume seller across Shopify, Amazon, and TikTok, your needs differ from a hobbyist editing one photo at a time on a phone.
 
 ### PixelMatch
-PixelMatch is designed specifically for multi-platform ecommerce sellers who need to manage large catalogs. Unlike general-purpose editors, PixelMatch focuses on batch-generating AI images tailored to specific marketplace specifications.
+PixelMatch is designed specifically for multi-platform ecommerce sellers who need to manage large catalogs. Unlike general-purpose editors, PixelMatch focuses on batch-generating [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) tailored to specific marketplace specifications.
 
 *   **Best For:** Sellers needing to maintain perfect visual consistency across hundreds of SKUs while simultaneously meeting different specs for Shopify (2048px square) and Amazon (pure white background, 85% product coverage).
 *   **Key Workflow Advantage:** It allows you to set "Brand Guardrails"—fixed lighting and background templates—so that every image generated over a six-month period looks like it came from the same photoshoot.

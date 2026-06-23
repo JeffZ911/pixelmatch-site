@@ -121,7 +121,7 @@ If you currently use tools like Photoroom, which offers a Pro tier at $12.99/mo,
 
 Since collages are penalized, you need a different way to show "product in use" context. Replace your main collage with a high-resolution lifestyle image. This is where PixelMatch provides a significant advantage for multi-platform sellers. 
 
-Rather than setting up a physical photoshoot for every new background, you can take one high-quality, [2000-pixel-plus](https://help.etsy.com/hc/en-us/articles/115015663347) photo of your product on a plain surface. Then, use PixelMatch to batch-generate compliant, high-resolution lifestyle backgrounds. This ensures your main image is a single, clear subject (meeting Etsy's preference) while still providing the "vibe" that drives clicks. This workflow satisfies the Creativity Standards because the product itself remains an original photograph of your actual inventory.
+Rather than setting up a physical photoshoot for every new background, you can take one high-quality, [2000-pixel-plus](https://help.etsy.com/hc/en-us/articles/115015663347) photo of your product on a plain surface. Then, use PixelMatch to batch-generate compliant, high-resolution lifestyle backgrounds. This ensures your main image is a single, clear subject (meeting Etsy's preference) while still providing the "vibe" that drives clicks. This workflow satisfies the [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) because the product itself remains an original photograph of your actual inventory.
 
 ### Appealing a Listing Removal
 

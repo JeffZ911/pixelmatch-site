@@ -146,7 +146,7 @@ Do not use the same image for desktop and mobile. Use PixelMatch to generate sep
 If you are still using Standard A+ (970 x 600 px) and cannot yet access Premium, you must design for the "Safe Zone." Keep all embedded text at a minimum 20pt equivalent when viewed on a standard monitor. Strictly avoid placing any text, logos, or crucial product features within 50 pixels of the left or right edges to prevent the mobile cutoff bug from hiding your message.
 
 ### Step 4: Technical Specs Check
-Before uploading, run your final files through a quick checklist to ensure they aren't flagged by Amazon’s automated "Image Quality" bot. All files must be:
+Before uploading, run your final files through a quick checklist to ensure they aren't flagged by Amazon’s automated "[Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)" bot. All files must be:
 *   [Under 2 MB in size](https://sellercentral.amazon.com/help/hub/reference/G202102950).
 *   Saved in the **RGB colorspace** (CMYK files will often show distorted, neon-like colors on mobile screens).
 *   Saved as .jpg or .png (Amazon's A+ builder does not support .webp or .heic formats).

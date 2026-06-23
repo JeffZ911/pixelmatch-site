@@ -64,7 +64,7 @@ The results were disastrous. The gaze correction software struggled to map onto 
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Standardize your product assets at 1000×1000 pixels to ensure high-resolution rendering across both mobile and desktop views. Realizing that the tiktok symphony ai gaze correction error was a structural limitation of current video AI, the seller pivoted to a "static-first" strategy using TikTok Shop image carousels. 
+Standardize your product assets at 1000×1000 pixels to ensure high-resolution rendering across both mobile and desktop views. Realizing that the tiktok [symphony ai](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) gaze correction error was a structural limitation of current video AI, the seller pivoted to a "static-first" strategy using TikTok Shop image carousels. 
 
 While video is the dominant format on TikTok, high-quality carousels—which allow up to 35 images in an ad format, though product listings are typically capped at 9—often drive higher dwell time as users swipe through at their own pace. The brand used PixelMatch to build an automated image pipeline that bypassed the need for a studio.
 
@@ -88,7 +88,7 @@ The seller replaced their buggy video production with a four-step image workflow
 ![Results: Lower CPA and Zero Glitches](/img/tiktok-symphony-ai-gaze-correction-error-pixelmatch/inline-4.webp)
 
 
-Analyze your dwell time metrics to confirm that users are actually engaging with your carousel slides. Within two weeks of abandoning the glitchy AI video avatars, the brand's performance metrics underwent a massive shift. By focusing on high-resolution, AI-enhanced photography rather than struggling with the tiktok symphony ai gaze correction error, they achieved the following:
+Analyze your dwell time metrics to confirm that users are actually engaging with your carousel slides. Within two weeks of abandoning the glitchy [AI video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) avatars, the brand's performance metrics underwent a massive shift. By focusing on high-resolution, AI-enhanced photography rather than struggling with the tiktok symphony ai gaze correction error, they achieved the following:
 
 *   **60% Reduction in CPA:** The Cost Per Acquisition dropped from $18.50 to $7.20. The TikTok algorithm rewarded the carousels because users were spending more time swiping through the slides than they were watching the first two seconds of a glitchy video.
 *   **Tripled CTR:** The Click-Through Rate surged to 3.4%. Shoppers responded to the clarity of the product textures—rendered perfectly by PixelMatch—rather than being distracted by the "dead eyes" of an AI avatar.
