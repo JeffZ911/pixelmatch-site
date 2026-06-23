@@ -148,7 +148,7 @@ While AI-driven automation significantly speeds up the [Prime Day](https://pixel
 Based on early industry reports, [Amazon Prime Day](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-suppression-alert-case-study) 2026 is scheduled for June 23-26, 2026. Sellers should have all inventory in FBA warehouses and all listing optimizations completed at least four weeks prior to this window.
 
 ### Can I use PNG images for my Amazon listings?
-While Amazon accepts PNG, TIFF, and GIF, they [explicitly prefer JPEG (.jpg)](https://sellercentral.amazon.com/help/hub/reference/G1881) because it offers the best balance of image quality and fast loading speeds. Using JPEG ensures your listing loads quickly for mobile shoppers on cellular data.
+While Amazon accepts PNG, TIFF, and GIF, they [explicitly prefer JPEG (.jpg)](https://sellercentral.amazon.com/help/hub/reference/G1881) because it offers the best balance of [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) and fast loading speeds. Using JPEG ensures your listing loads quickly for mobile shoppers on cellular data.
 
 ### Why is my Amazon main image suppressed even though the background is white?
 Suppression often occurs if the product occupies less than [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881) or if there is "extra" white space at the top and bottom. Additionally, ensure there are no inset images, watermarks, or "[Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)" badges on the image itself, as these are prohibited on main images.

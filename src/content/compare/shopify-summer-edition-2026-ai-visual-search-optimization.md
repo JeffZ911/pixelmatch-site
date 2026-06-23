@@ -29,7 +29,7 @@ inline_image_sections:
 
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-19._
 
-Updating a multi-platform catalog for Shopify’s 2026 agentic commerce standards often turns into a manual bottleneck that delays your seasonal launches and kills your search visibility. If your product images lack the structural consistency required by the new Universal Commerce Protocol (UCP), AI shopping agents will bypass your store in favor of competitors with cleaner, more "parsable" visual data.
+Updating a multi-platform catalog for Shopify’s 2026 agentic commerce standards often turns into a manual bottleneck that delays your seasonal launches and kills your [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623). If your product images lack the structural consistency required by the new Universal Commerce Protocol (UCP), AI shopping agents will bypass your store in favor of competitors with cleaner, more "parsable" visual data.
 
 ## TL;DR Verdict
 

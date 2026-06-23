@@ -157,7 +157,7 @@ Pebblely excels at creating "vibe-heavy" lifestyle scenes, making it a favorite 
 
 
 ### What is the best Shopify app for AI product photography?
-It depends on your volume. For high-volume multi-platform sellers, **PixelMatch** is better suited for the workflow because of its ability to batch-generate AI images that adhere to different marketplace specs simultaneously. For casual sellers who prefer editing on a mobile device, **Photoroom** offers the most polished app experience.
+It depends on your volume. For high-volume multi-platform sellers, **PixelMatch** is better suited for the workflow because of its ability to batch-generate [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) that adhere to different marketplace specs simultaneously. For casual sellers who prefer editing on a mobile device, **Photoroom** offers the most polished app experience.
 
 ### what are the Shopify image size requirements for 2026?
 Shopify supports images up to 5000 x 5000 px and 20 MB. However, for the best performance, you should aim for **2048 x 2048 px** for square product photos and keep file sizes under **300 KB**.

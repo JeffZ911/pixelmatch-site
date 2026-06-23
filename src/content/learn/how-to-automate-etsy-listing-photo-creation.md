@@ -37,7 +37,7 @@ Quality product photography stands as the single most influential factor in an E
 
 Manual photo editing creates a severe bottleneck. If you spend 20 minutes per product on retouching, background removal, and scene staging, a 50-item catalog update consumes over 16 hours of labor. Automating this process ensures consistent branding across your entire shop and strict adherence to Etsy's latest image requirements without requiring a professional studio or a degree in Photoshop.
 
-**Actionable Step:** Audit your current listing photos against Etsy’s 2026 technical requirements. Open your most recent listing and check the file size and dimensions. If your images are under 2000 pixels on the shortest side or larger than 1MB, you are likely losing search visibility or suffering from slow page load times.
+**Actionable Step:** Audit your current listing photos against Etsy’s 2026 technical requirements. Open your most recent listing and check the file size and dimensions. If your images are under 2000 pixels on the shortest side or larger than 1MB, you are likely losing [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) or suffering from slow page load times.
 
 ### Current Etsy Image Specifications (May 2026)
 

@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Staging a high-volume vintage shop often requires more hours behind a camera lens than sourcing inventory, leaving multi-platform sellers vulnerable to burnout and evolving marketplace transparency requirements. As Etsy tightens its policies, maintaining a high SKU count while adhering to the etsy creativity standards [ai image disclosure](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) 2026 rules has become the primary operational challenge for mid-to-large scale sellers.
+Staging a high-volume vintage shop often requires more hours behind a camera lens than sourcing inventory, leaving multi-platform sellers vulnerable to burnout and evolving marketplace transparency requirements. As Etsy tightens its policies, maintaining a high SKU count while adhering to the [etsy creativity standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) [ai image disclosure](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) 2026 rules has become the primary operational challenge for mid-to-large scale sellers.
 
 ## The Seller's Situation: High SKU Volume Meets New Compliance Rules
 
@@ -57,7 +57,7 @@ Next, they tried Photoroom’s Pro tier at $12.99/mo. While the quality was high
 
 They also evaluated Pebblely’s Basic plan at $19/mo, but the 200-image monthly limit was insufficient. A single vintage item usually requires multiple angles—front, back, detail, and lifestyle. At 10 images per listing, the Pebblely Basic plan would only cover 20 products per month, leaving the seller 120 products short of their monthly goal.
 
-Beyond the tools, the seller was paralyzed by the etsy creativity standards ai [image disclosure](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) 2026 requirements. They were unsure if a real product placed in an AI background required the "AI-generated" disclosure tag in the Etsy listing manager. Misapplying this tag can lead to items being hidden from search or miscategorized as digital art, which is a death sentence for a vintage physical goods shop.
+Beyond the tools, the seller was paralyzed by the [etsy creativity](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) standards ai [image disclosure](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) 2026 requirements. They were unsure if a real product placed in an AI background required the "AI-generated" disclosure tag in the Etsy listing manager. Misapplying this tag can lead to items being hidden from search or miscategorized as digital art, which is a death sentence for a vintage physical goods shop.
 
 ## The Workflow They Built: PixelMatch + Proper Etsy Disclosure
 

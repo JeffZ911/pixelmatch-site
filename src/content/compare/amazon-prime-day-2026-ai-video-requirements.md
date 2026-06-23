@@ -117,7 +117,7 @@ When designing your videos, ensure they avoid prohibited elements. Amazon <a hre
 The most efficient 2026 workflow for a professional seller is:
 1.  **Batch-generate** 50+ high-quality lifestyle images using PixelMatch to find the "hero" look that resonates with your target audience.
 2.  **Filter** the top 5 images that best represent your brand's Prime Day deals.
-3.  **Feed** these images into Amazon's Native AI Video Generator for a frictionless, compliant Sponsored Brands video.
+3.  **Feed** these images into Amazon's Native [AI Video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) Generator for a frictionless, compliant Sponsored Brands video.
 4.  **Repurpose** the same PixelMatch images in Canva Pro to create vertical 9:16 videos for TikTok and Instagram to drive external traffic to your Amazon listings.
 
 ## Frequently Asked Questions

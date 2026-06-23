@@ -61,7 +61,7 @@ The seller needed a way to scale production without sacrificing the photorealism
 ![What Wasn't Working](/img/flux-1-pro-ecommerce-product-photography/inline-2.webp)
 
 
-Before adopting Flux.1 Pro via PixelMatch, the seller attempted to bridge the gap with entry-level AI tools and manual editing. The results were inconsistent at best. Basic background removal tools often left products looking flat and artificially "pasted" into scenes. While these tools could strip away a messy warehouse background, they failed to generate the complex global illumination—the way light bounces off a floor and onto the underside of a product—that makes a photo look "real."
+Before adopting Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) via PixelMatch, the seller attempted to bridge the gap with entry-level AI tools and manual editing. The results were inconsistent at best. Basic background removal tools often left products looking flat and artificially "pasted" into scenes. While these tools could strip away a messy warehouse background, they failed to generate the complex global illumination—the way light bounces off a floor and onto the underside of a product—that makes a photo look "real."
 
 Competitor tools like Photoroom's Pro tier at $12.99/mo were tested, but the seller hit workflow friction with batch processing limits and needed higher-fidelity outputs for complex textures. While excellent for social media posts or simple fashion items, these tools often struggled with the intricate reflections found in home goods. The seller found that high-gloss surfaces, like polished wood or glass, would often "bleed" into the AI-generated background, creating blurry edges that looked unprofessional.
 

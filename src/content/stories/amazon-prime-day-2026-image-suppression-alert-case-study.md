@@ -44,7 +44,7 @@ To make matters worse, Amazon's automated bots began flagging their catalog unde
 
 The seller needed to rapidly replace non-compliant main images and update secondary lifestyle shots without blowing their Q2 profit margins on emergency studio reshoots. Traditional photography for 12 bundles would have cost upwards of $1,800 and taken two weeks for editing—time they simply did not have.
 
-**Actionable Step:** Open your [Amazon Seller Central dashboard](https://sellercentral.amazon.com/) today, navigate to the "Inventory" tab, and select "Listing Quality Dashboard" to see if any of your upcoming [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) SKUs have "missing attribute" or "image quality" warnings that could trigger suppression during peak traffic.
+**Actionable Step:** Open your [Amazon Seller Central dashboard](https://sellercentral.amazon.com/) today, navigate to the "Inventory" tab, and select "Listing Quality Dashboard" to see if any of your upcoming [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) SKUs have "missing attribute" or "[image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)" warnings that could trigger suppression during peak traffic.
 
 ## What Wasn't Working
 

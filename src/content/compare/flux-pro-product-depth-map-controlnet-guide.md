@@ -158,6 +158,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   [Etsy Help: Requirements for Listing Photos](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)
 *   TikTok Shop Academy: Product Listing Guidelines
-*   Replicate: [Flux 1](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow).1 Pro Pricing
+*   Replicate: [Flux 1](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) Pricing
 *   Fal.ai: Flux Pro Model Pricing
 *   Photoroom: Pricing and Pro Features

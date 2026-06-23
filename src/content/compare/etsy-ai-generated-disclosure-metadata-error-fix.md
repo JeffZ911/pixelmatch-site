@@ -138,7 +138,7 @@ If you are currently struggling with the "Etsy [AI generated](https://pixelmatch
 ## Frequently Asked Questions
 
 ### Does Etsy ban sellers for using AI images?
-No, Etsy does not ban sellers for using AI-generated images, provided they follow the Creativity Standards. You must disclose the use of AI by checking the "I used AI-generative technology" box and ensure the final product is either made or designed by you.
+No, Etsy does not ban sellers for using AI-generated images, provided they follow the [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy). You must disclose the use of AI by checking the "I used AI-generative technology" box and ensure the final product is either made or designed by you.
 
 ### How do I fix the AI disclosure error on Etsy?
 The most effective fix is to bulk-edit your listings to include the mandatory AI disclosure. Navigate to your Shop Manager, select the affected listings, and update the "I used AI-generative technology" setting. This aligns your listing data with any hidden C2PA metadata in your image files.
