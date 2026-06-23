@@ -57,7 +57,7 @@ Update your listing descriptions immediately if you utilize generative AI for pr
 
 ### Creativity Standards Updates
 
-Etsy's Creativity Standards categorize items into four buckets: Made by a seller, Designed by a seller, Sourced by a seller, or Handpicked by a seller. AI-generated products fall under "Designed by a seller." To qualify, you must be the one providing the creative input (the prompts and iterative edits). 
+Etsy's [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) categorize items into four buckets: Made by a seller, Designed by a seller, Sourced by a seller, or Handpicked by a seller. AI-generated products fall under "Designed by a seller." To qualify, you must be the one providing the creative input (the prompts and iterative edits). 
 
 The 2026 enforcement clarifies that simply selling a raw output from a generator without significant human intervention or physical manifestation (like a print or a physical craft) may lead to a "Low-Quality/Spam" flag. If you use AI to create digital art, you must disclose this in the listing description. A standard disclosure phrase like "This artwork was created with the assistance of generative AI and refined by the seller" is typically sufficient to satisfy the transparency requirement.
 

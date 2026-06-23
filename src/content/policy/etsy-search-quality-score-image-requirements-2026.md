@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop losing search visibility to competitors who have mastered the 2026 Etsy algorithm's visual preferences. If your conversion rate is dipping despite high-quality keywords, your Listing Quality Score (LQS) is likely suffering from suboptimal image assets.
+Stop losing [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) to competitors who have mastered the 2026 Etsy algorithm's visual preferences. If your conversion rate is dipping despite high-quality keywords, your Listing Quality Score (LQS) is likely suffering from suboptimal image assets.
 
 # Etsy Image Requirements & Search Quality Score Guide (2026)
 

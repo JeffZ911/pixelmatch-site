@@ -145,7 +145,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+Video+Creative+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: Video Creative Specs</a>
-*   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+AI+Video+Generator+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: AI Video Generator Overview</a>
+*   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+AI+Video+Generator+Overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: [AI Video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) Generator Overview</a>
 *   Runway ML: Pricing and Credit System
 *   Canva: Pro Pricing and Magic Studio Features
 *   Forbes: Retail Trends and Prime Day Projections

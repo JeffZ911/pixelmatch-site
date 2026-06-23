@@ -112,7 +112,7 @@ This eliminated the need to bounce between Removebg for transparency, Canva for 
 ![Results (with Numbers)](/img/best-ai-photo-extender-ecommerce-hero-images-case-study-20260604/inline-4.webp)
 
 
-Monitor your "Unit Session Percentage" (Amazon's version of conversion rate) for 30 days after updating your images. This seller saw an immediate correlation between image quality and sales velocity. By using an AI photo extender to keep the product high-resolution while filling the frame, they unlocked the "Zoom" feature for the first time on 80% of their catalog.
+Monitor your "Unit Session Percentage" (Amazon's version of conversion rate) for 30 days after updating your images. This seller saw an immediate correlation between [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) and sales velocity. By using an AI photo extender to keep the product high-resolution while filling the frame, they unlocked the "Zoom" feature for the first time on 80% of their catalog.
 
 The CTR increase from 1.2% to 3.4% on Amazon search results wasn't just luck. It was the result of the product appearing larger and clearer in the search results compared to competitors who were using low-res, tightly cropped photos. 
 

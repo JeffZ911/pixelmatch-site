@@ -48,7 +48,7 @@ Audit your shop's inventory against the following compliance matrix to determine
 ![Detailed Requirements](/img/etsy-handmade-policy-ai-assisted-product-photos/inline-2.webp)
 
 
-Verify your image assets against Etsy’s technical and ethical benchmarks to maintain high search visibility. Etsy’s algorithm prioritizes listings that meet their strict resolution and authenticity standards, as deceptive imagery leads to high return rates and "Not as Described" cases that can tank your shop's ODR (Order Defect Rate).
+Verify your image assets against Etsy’s technical and ethical benchmarks to maintain high [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623). Etsy’s algorithm prioritizes listings that meet their strict resolution and authenticity standards, as deceptive imagery leads to high return rates and "Not as Described" cases that can tank your shop's ODR (Order Defect Rate).
 
 ### Physical Handmade Items vs. Digital Goods
 

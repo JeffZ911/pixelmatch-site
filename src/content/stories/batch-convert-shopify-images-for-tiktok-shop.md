@@ -41,7 +41,7 @@ When you attempt to capitalize on TikTok’s viral organic reach, you encounter 
 
 Beyond technical specs, TikTok uses a Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) to determine which products get pushed into the "Shop" tab and which are buried. To achieve the "Good" listing quality tier, your primary image must have a pure white background, no watermarks, and no promotional text overlays. If your Shopify images are primarily lifestyle shots—showing a bottle on a marble countertop or held in a hand—TikTok’s algorithm may flag your listings as "Poor," severely limiting your visibility in the TikTok Shop marketplace.
 
-**Actionable Step for Your Store:** Open your TikTok Seller Center and navigate to "Manage Products." Check the "Optimization Center" tab today. If you see products flagged for "Image Quality," you are likely missing the 1:1 ratio or white background requirement, which is actively suppressing your impressions.
+**Actionable Step for Your Store:** Open your TikTok Seller Center and navigate to "Manage Products." Check the "Optimization Center" tab today. If you see products flagged for "[Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)," you are likely missing the 1:1 ratio or white background requirement, which is actively suppressing your impressions.
 
 ## What Wasn't Working: Manual Edits and Expensive VAs
 

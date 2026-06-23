@@ -130,7 +130,7 @@ If your ecommerce platform (like Shopify) strips metadata, you have two options:
 
 ### Batch-Applying IPTC Tags
 
-If you have thousands of existing AI images that lack the required tags, do not recreate them. Use a tool like **ExifTool** (a free, command-line application) to bulk-apply the tags. 
+If you have thousands of existing [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) that lack the required tags, do not recreate them. Use a tool like **ExifTool** (a free, command-line application) to bulk-apply the tags. 
 
 You can run a command like this to fix an entire folder of images:
 `exiftool -DigitalSourceType="trainedAlgorithmicMedia" /path/to/images/`

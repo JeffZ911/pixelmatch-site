@@ -93,7 +93,7 @@ A common mistake is using AI to generate a product image from a text prompt rath
 TikTok is currently rolling out advanced watermarking (based on the C2PA standard) that identifies [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) even if you don't use the toggle. If the system detects synthetic content that you have not labeled, you will receive Violation Points. Accumulating 12-24 points can lead to a temporary suspension of your selling privileges.
 
 ### Unrealistic Lifestyle Contexts
-While "floating" products in space or surreal environments are popular on Instagram, TikTok Shop prefers "shoppability." AI images that make the product's size impossible to determine—such as a small portable speaker appearing the size of a car in an AI-generated landscape—are flagged for "Size Misrepresentation."
+While "floating" products in space or surreal environments are popular on Instagram, TikTok Shop prefers "shoppability." [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) that make the product's size impossible to determine—such as a small portable speaker appearing the size of a car in an AI-generated landscape—are flagged for "Size Misrepresentation."
 
 ### Actionable Step: Run a "Physical vs. Digital" Audit
 Take your top 10 listings and place the physical product next to your screen showing the [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial). If the color saturation, texture, or scale differs by more than 10%, delete the image and re-generate it using a tool that prioritizes color accuracy.
