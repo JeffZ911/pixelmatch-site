@@ -124,7 +124,7 @@ Bookmark these official resources to stay updated on policy shifts that occur th
 
 | Source Name | URL | Purpose |
 | :--- | :--- | :--- |
-| **Etsy Creativity Standards** | etsy.com/legal/policy/creativity-standards | Core AI disclosure rules |
+| **[Etsy Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy)** | etsy.com/legal/policy/creativity-standards | Core AI disclosure rules |
 | **Etsy Image Requirements** | [help.etsy.com/.../115015663347](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Pixel specs and file sizes |
 | **Etsy Seller Policy** | etsy.com/legal/sellers | General shop conduct |
 | **Etsy Prohibited Items** | etsy.com/legal/prohibited-items | Rules on prompt bundles |
@@ -152,7 +152,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 **Start free →**
 
 ## Sources
-*   Etsy Creativity Standards Policy
+*   [Etsy Creativity](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) Standards Policy
 *   [Etsy Help Center: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop)
 *   Etsy Seller Policy
 *   Etsy Community: Announcement on AI Creations

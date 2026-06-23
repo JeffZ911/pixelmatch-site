@@ -68,7 +68,7 @@ They also attempted to redesign their assets using Canva. While Canva Pro costs 
 To create a single "clean" mobile banner without text overlays, they were quoted $45.00 per lifestyle image from their local photography studio. Multiplying this across a 50-ASIN catalog meant a $2,250 investment just for a single round of mobile optimization. Furthermore, the turnaround time for professional reshoots was three weeks—far too slow for a brand trying to fix a conversion leak in real-time.
 
 ### The Resolution Paradox
-The brand eventually realized that uploading the exact recommended resolution—no more, no less—fixed the compression artifacts. However, this created a new problem: at the standard 970px width, any text large enough to be readable on mobile took up so much "real estate" that it obscured the product itself. They were stuck in a loop of sacrificing image quality for readability, or vice versa.
+The brand eventually realized that uploading the exact recommended resolution—no more, no less—fixed the compression artifacts. However, this created a new problem: at the standard 970px width, any text large enough to be readable on mobile took up so much "real estate" that it obscured the product itself. They were stuck in a loop of sacrificing [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) for readability, or vice versa.
 
 ## The Workflow They Built
 

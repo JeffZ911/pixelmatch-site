@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Your Etsy shop’s organic traffic is stalling, but your SEO keywords are optimized and your conversion rates were healthy just weeks ago. The culprit isn't your product—it’s likely an undisclosed AI image triggering a search visibility penalty under Etsy’s 2026 enforcement guidelines.
+Your Etsy shop’s organic traffic is stalling, but your SEO keywords are optimized and your conversion rates were healthy just weeks ago. The culprit isn't your product—it’s likely an undisclosed [AI image](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-image-tools-20260621) triggering a search visibility penalty under Etsy’s 2026 enforcement guidelines.
 
 As of June 2026, Etsy penalizes listings with undisclosed AI-generated images by reducing their search visibility. Sellers must use the AI disclosure metadata flag and avoid the "Photography" category for AI-generated art to maintain their rankings.
 
@@ -45,7 +45,7 @@ Audit your top 10 most visited listings today to ensure the "AI-generated" attri
 | **Synthetic Human Models** | Restricted (Legal disclosure required) | Yes (Mandatory badge/flag) | High risk of suppression |
 | **AI-Upscaled Photos** | Allowed (Minor retouching) | No (Standard editing) | None |
 
-The regulatory landscape for ecommerce has shifted significantly this year. Key dates include the implementation of new AI image disclosure standards on June 9, 2026, which directly impact how synthetic models are used in ecommerce mockups. These standards require platforms like Etsy to enforce transparency, ensuring buyers can distinguish between a physical photograph and a computer-generated representation.
+The regulatory landscape for ecommerce has shifted significantly this year. Key dates include the implementation of new [AI image disclosure](https://pixelmatch.art/blog/policy/amazon-ai-image-disclosure-penalty-20260623) standards on June 9, 2026, which directly impact how synthetic models are used in ecommerce mockups. These standards require platforms like Etsy to enforce transparency, ensuring buyers can distinguish between a physical photograph and a computer-generated representation.
 
 ## Detailed Requirements
 

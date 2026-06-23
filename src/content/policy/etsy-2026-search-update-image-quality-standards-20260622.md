@@ -88,7 +88,7 @@ Understanding why Etsy's automated systems flag or bury a listing can save you h
 
 ### Stock Photos and Renderings
 
-Etsy's "Creativity Standards," updated [July 15, 2025](https://help.etsy.com/hc/en-us/articles/115015663347), explicitly forbid using stock photos as your primary image. If you are selling a physical item, the first photo must be a photograph of the physical item you possess. Using a 3D rendering (common in jewelry or furniture) as the primary image is a high-risk move that can lead to [listing removal](https://help.etsy.com/hc/en-us/articles/115015663347). 
+Etsy's "[Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy)," updated [July 15, 2025](https://help.etsy.com/hc/en-us/articles/115015663347), explicitly forbid using stock photos as your primary image. If you are selling a physical item, the first photo must be a photograph of the physical item you possess. Using a 3D rendering (common in jewelry or furniture) as the primary image is a high-risk move that can lead to [listing removal](https://help.etsy.com/hc/en-us/articles/115015663347). 
 
 ### Collages as Main Images
 

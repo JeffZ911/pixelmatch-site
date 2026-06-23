@@ -56,7 +56,7 @@ Canva Magic Studio operates as a broad marketing suite; it is the industry stand
 
 Evaluating these tools requires looking past the marketing "magic" and into the actual output quality for ecommerce. Canva’s Magic Studio is an umbrella of tools including Magic Edit, Magic Expand, and Dream Lab. While Dream Lab produces high-quality artistic imagery, it frequently hallucinates details on the product itself—a major risk for sellers who must maintain [accurate product representation](https://sellercentral.amazon.com/help/hub/reference/G200390640) to avoid "Item Not as Described" returns.
 
-Flair AI takes a different architectural approach. Instead of just generating an image from a prompt, you place your product on a digital canvas and "build" the world around it. This allows for significantly better control over shadows and reflections, which are the two biggest "tells" of low-quality AI images.
+Flair AI takes a different architectural approach. Instead of just generating an image from a prompt, you place your product on a digital canvas and "build" the world around it. This allows for significantly better control over shadows and reflections, which are the two biggest "tells" of low-quality [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy).
 
 | Capability | Canva Magic Studio | Flair AI |
 | :--- | :--- | :--- |

@@ -63,7 +63,7 @@ Beyond composition, technical rejections became a bottleneck. Amazon enforces a 
 
 The seller experimented with general AI tools like Canva and Photoroom. While Photoroom offers a Pro tier at $12.99/mo that handles background removal well, it struggled with the specific environmental lighting required for luxury cosmetics. Glass bottles looked "pasted on" rather than naturally reflecting the environment, and the tools lacked a dedicated "Amazon Brand Story" preset that could batch-generate the specific 5:1 ratio across dozens of products simultaneously.
 
-**Actionable Step for Sellers:** Check your "Submission Status" in the A+ Content Manager. If you see rejections labeled "Image Quality," it is often because you are upscaling a small image to hit the 3000px width requirement. Never upscale; always generate or shoot at the target resolution.
+**Actionable Step for Sellers:** Check your "Submission Status" in the A+ Content Manager. If you see rejections labeled "[Image Quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)," it is often because you are upscaling a small image to hit the 3000px width requirement. Never upscale; always generate or shoot at the target resolution.
 
 ## The Workflow They Built with PixelMatch
 

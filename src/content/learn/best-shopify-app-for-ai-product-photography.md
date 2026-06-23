@@ -86,7 +86,7 @@ Maintaining visual consistency is the hardest part of ecommerce. If one product 
 ### Step 5: Export and Optimize
 Export your images in WebP format. While Shopify allows up to 20 MB, your goal is a file size between 200 KB and 300 KB. This range provides the best balance between visual fidelity and the "Largest Contentful Paint" (LCP) speed scores that Google uses to rank your store.
 
-**Actionable Step:** Before a major upload, run one image through the [Shopify Online Store Speed](https://help.shopify.com/en/manual/reports-and-analytics/store-speed-report) tool. If your "Image Optimization" score is low, re-export your AI images at 80% quality rather than 100%—the visual difference is negligible, but the file size savings are massive.
+**Actionable Step:** Before a major upload, run one image through the [Shopify Online Store Speed](https://help.shopify.com/en/manual/reports-and-analytics/store-speed-report) tool. If your "Image Optimization" score is low, re-export your [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) at 80% quality rather than 100%—the visual difference is negligible, but the file size savings are massive.
 
 ## Common Mistakes to Avoid
 

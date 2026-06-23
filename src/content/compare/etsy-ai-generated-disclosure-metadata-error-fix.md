@@ -104,7 +104,7 @@ If you are a vintage seller or a "thrifter" who shoots items on a smartphone, Ph
 PixelMatch is designed for the seller who views ecommerce as a data and systems game. If you sell on Etsy, Shopify, and Amazon, you cannot afford to have different metadata policies for every platform. PixelMatch is best for brands that need to:
 1. **Batch-generate** hundreds of lifestyle images from a single studio product shot.
 2. **Maintain clean metadata** to avoid "Made with AI" labels on platforms where they aren't required.
-3. **Ensure compliance** with Etsy's Creativity Standards by strictly adhering to the "Designed by a seller" workflow.
+3. **Ensure compliance** with Etsy's [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) by strictly adhering to the "Designed by a seller" workflow.
 
 ## Where Each Falls Short
 

@@ -105,7 +105,7 @@ Count your total active SKUs and multiply by four (Hero shot, Back, Detail, Life
 Choose your tool based on whether you prioritize mobile-first creative editing or high-volume, API-driven catalog syncing for the new UCP standard.
 
 ### Best for Multi-Platform Sellers: PixelMatch
-If you sell on Shopify but also maintain active listings on Amazon and Etsy, PixelMatch is the superior choice. Amazon requires [pure white backgrounds (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) for main images, while Shopify’s 2026 Edition encourages "Contextual AI Backgrounds" for agentic discovery. PixelMatch allows you to generate both versions from a single upload, ensuring your Shopify store is optimized for AI search while your Amazon listings remain compliant with Seller Central policies.
+If you sell on Shopify but also maintain active listings on Amazon and Etsy, PixelMatch is the superior choice. Amazon requires [pure white backgrounds (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) for main images, while Shopify’s 2026 Edition encourages "Contextual AI Backgrounds" for agentic discovery. PixelMatch allows you to generate both versions from a single upload, ensuring your Shopify store is optimized for [AI search](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) while your Amazon listings remain compliant with Seller Central policies.
 
 PixelMatch is best for:
 *   Sellers with 50+ SKUs.

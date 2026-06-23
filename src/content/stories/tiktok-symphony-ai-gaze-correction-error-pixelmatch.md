@@ -47,7 +47,7 @@ To reclaim their margins, the brand integrated TikTok’s [Symphony AI](https://
 ![What Wasn't Working: The Uncanny Valley](/img/tiktok-symphony-ai-gaze-correction-error-pixelmatch/inline-2.webp)
 
 
-Verify your synthetic media compliance regularly to avoid shadowbanning or ad rejections. The brand’s strategy hit a wall when they encountered the tiktok symphony ai gaze correction error. Because TikTok Symphony’s native avatars do not currently feature a built-in eye-contact adjustment toggle, the seller used third-party AI "eye contact" software to post-process the video files. 
+Verify your synthetic media compliance regularly to avoid shadowbanning or ad rejections. The brand’s strategy hit a wall when they encountered the tiktok [symphony ai](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) gaze correction error. Because TikTok Symphony’s native avatars do not currently feature a built-in eye-contact adjustment toggle, the seller used third-party AI "eye contact" software to post-process the video files. 
 
 The results were disastrous. The gaze correction software struggled to map onto the already-synthetic movements of the Symphony avatars. The eyes would frequently snap unnaturally during transitions, glitch during blinks, or produce a "dead" stare that felt robotic. This technical friction triggered several issues:
 
@@ -75,7 +75,7 @@ The seller replaced their buggy video production with a four-step image workflow
 *   **Scene Generation:** They used AI to place the products on contextual backgrounds, such as marble bathroom counters and bamboo mats, ensuring the lighting on the product matched the generated scene.
 *   **Spec Optimization:** Every image was exported to meet TikTok Shop's official requirements: a minimum of 600×600 pixels and a file size under 5MB. They opted for 1000×1000 px (1:1) to maintain crispness on high-density smartphone screens.
 
-| Metric | AI Video (Symphony + Gaze Fix) | PixelMatch Static Carousels |
+| Metric | [AI Video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) (Symphony + Gaze Fix) | PixelMatch Static Carousels |
 | :--- | :--- | :--- |
 | **CPA** | $18.50 | $7.20 |
 | **CTR** | 0.8% | 3.4% |
