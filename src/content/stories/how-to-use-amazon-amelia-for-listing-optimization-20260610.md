@@ -54,7 +54,7 @@ Before adopting an AI-integrated workflow, the seller was paying an internal cos
 
 Amazon requires a [pure white background with RGB values of 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881). Manual editors often leave "gray" artifacts or shadows that result in listing suppression. Furthermore, the seller struggled with the [85% frame fill requirement](https://sellercentral.amazon.com/help/hub/reference/G1881), often leaving too much dead space around the serum bottles, which made the product look small in search results.
 
-The seller attempted to use Photoroom’s Pro tier at $9.99/mo to handle background removal. While effective for single shots, the workflow was disconnected from their broader optimization strategy. They found it difficult to maintain consistent lighting and scaling across a 20-SKU catalog using a mobile-first tool. They needed a solution that could batch-process images to match the speed at which Amazon Amelia could generate text.
+The seller attempted to use Photoroom’s Pro tier at $9.99/mo to handle background removal. While effective for single shots, the workflow was disconnected from their broader optimization strategy. They found it difficult to maintain consistent lighting and scaling across a 20-SKU catalog using a mobile-first tool. They needed a solution that could batch-process images to match the speed at which [Amazon Amelia](https://pixelmatch.art/blog/compare/amazon-amelia-ai-vs-rufus-for-sellers) could generate text.
 
 ## The Workflow They Built
 

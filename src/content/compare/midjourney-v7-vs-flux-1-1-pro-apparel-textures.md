@@ -51,7 +51,7 @@ Capturing high-fidelity fabric textures like the weave of a heavy linen or the s
 
 Choosing between these models requires balancing raw image quality against the technical requirements of your ecommerce stack. Amazon requires a minimum of [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/external/G181) to enable the zoom functionality, though [1600 pixels or higher](https://sellercentral.amazon.com/help/hub/reference/external/G181) is the recommended best practice for a crisp customer experience. Meanwhile, Shopify recommends images be [2048 x 2048 pixels](https://help.shopify.com/en/manual/products/product-definitions/product-images) for high-resolution displays.
 
-| Feature | Midjourney v7 | Flux 1.1 Pro |
+| Feature | Midjourney v7 | [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) |
 | :--- | :--- | :--- |
 | **Max Resolution** | ~2048 x 2048 (via internal upscaler) | Up to 4 megapixels (Ultra version) |
 | **Workflow** | Discord / Web Alpha Interface | API (Replicate, Fal.ai) |

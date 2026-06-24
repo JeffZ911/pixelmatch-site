@@ -131,7 +131,7 @@ While Shopify Magic is excellent for drafting initial copy, the AI-generated tex
 
 Generating lifestyle backgrounds requires careful prompting. If you place a product in an AI-generated scene where the sun is coming from the left, but your raw product photo has shadows on the left, the composite will look artificial. You must match the "lighting direction" of your raw photo to your AI prompt.
 
-Finally, Amazon's listing suppression is unforgiving. Even if an AI tool claims to produce a white background, you must manually verify that the background is a true [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/external/G1881). An "off-white" or light grey background can trigger a "Non-Compliant Image" warning in Seller Central, leading to lost search visibility.
+Finally, Amazon's listing suppression is unforgiving. Even if an AI tool claims to produce a white background, you must manually verify that the background is a true [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/external/G1881). An "off-white" or light grey background can trigger a "Non-Compliant Image" warning in Seller Central, leading to lost [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623).
 
 **Actionable Step:** Use a free "Eyedropper" browser extension or Photoshop's Info panel to sample the background of your Amazon main images. If the RGB values are anything other than 255, 255, 255, the image is not compliant and must be re-processed.
 

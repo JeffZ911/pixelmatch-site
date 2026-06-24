@@ -112,7 +112,7 @@ Canva’s biggest weakness for Amazon sellers is its lack of realistic AI shadow
 Photoroom is an [image editor](https://pixelmatch.art/blog/policy/shopify-magic-2-0-image-editor-beta-guide), not a design suite. Its text layout capabilities are weak. If you try to create an Amazon infographic—such as a "What's in the Box" image—you will find the text alignment tools and font selections frustratingly limited. It is almost impossible to create a high-converting A+ Content banner in Photoroom because you cannot easily manage multiple layers of text and icons.
 
 ### The Scaling Problem
-Neither tool is optimized for batch-generating *unique* AI lifestyle scenes across an entire catalog. In Photoroom, you have to select a background for each SKU or batch. In Canva, you have to manually prompt the "Magic Media" tool for every image. For a seller with 100 SKUs, creating 5 lifestyle images per SKU (500 total images) would take a week of manual labor in these tools. This is the specific workflow where PixelMatch automates the process, generating thousands of unique, high-fidelity scenes in minutes.
+Neither tool is optimized for batch-generating *unique* AI lifestyle scenes across an entire catalog. In Photoroom, you have to select a background for each SKU or batch. In Canva, you have to manually prompt the "[Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial)" tool for every image. For a seller with 100 SKUs, creating 5 lifestyle images per SKU (500 total images) would take a week of manual labor in these tools. This is the specific workflow where PixelMatch automates the process, generating thousands of unique, high-fidelity scenes in minutes.
 
 ## Recommendation
 

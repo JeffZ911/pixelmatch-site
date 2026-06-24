@@ -49,7 +49,7 @@ For the multi-platform seller, neither tool solves the "scale problem" alone. Mi
 
 Audit your current asset resolution against platform minimums before choosing a tool, as low-resolution vendor photos may require Google’s upscaling before they are even usable in Midjourney.
 
-| Feature | Google Product Studio | Midjourney v7 | PixelMatch |
+| Feature | Google Product Studio | [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Feed optimization & background removal | High-end lifestyle & creative hero shots | Batch-generating compliant catalog images |
 | **Ease of Use** | High (No prompting required) | Low (Requires complex prompt engineering) | High (Template-driven) |

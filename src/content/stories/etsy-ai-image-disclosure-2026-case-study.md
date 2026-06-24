@@ -128,7 +128,7 @@ If your shop sells to customers in New York, ensure you are compliant with the J
 
 Reject any AI-generated background that creates "hallucinated" shadows or reflections that do not match your product's original light source. While PixelMatch is a powerful tool for scaling, it is not a substitute for basic photographic principles. If your original phone photo is blurry or out of focus, no amount of AI background generation will make the listing look professional. High-quality input is the only way to get high-quality output.
 
-Furthermore, Etsy’s enforcement of its Creativity Standards is increasingly automated. If you are selling a "Handpicked" vintage item, but the AI background is so heavy-handed that it alters the color or texture of the item itself, you risk a "Not as Described" case from a buyer. Always perform a final human check to ensure the product in the photo matches the product in your hand.
+Furthermore, Etsy’s enforcement of its [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) is increasingly automated. If you are selling a "Handpicked" vintage item, but the AI background is so heavy-handed that it alters the color or texture of the item itself, you risk a "Not as Described" case from a buyer. Always perform a final human check to ensure the product in the photo matches the product in your hand.
 
 Finally, remember that while AI photography saves money on production, it does not eliminate the need for active shop management. You must still account for the mandatory 12% Offsite Ads fee if your shop exceeds the $10,000 annual revenue threshold. Efficiency in photography should be viewed as a way to reclaim the margin that these marketplace fees consume.
 
