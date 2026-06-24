@@ -102,7 +102,7 @@ Set a calendar reminder to export and backup all AI-generated assets to a local 
 
 *   **Amazon Native AI**: You cannot export the generated video for use on Shopify or social media. If you spend three hours perfecting a video for a Sponsored Brands ad, you cannot repurpose that same file for a Facebook ad or an Instagram Reel.
 *   **Runway**: Credits burn incredibly fast. A 10-second Gen-4.5 clip costs approximately 250 credits, which eats through a massive portion of the Standard plan's 625 monthly credits in just two or three "takes." For a large catalog, this becomes expensive quickly.
-*   **Canva Pro**: While its "Magic Media" feature is improving, Canva excels at transitions and text overlays rather than true text-to-video physics. If you need a realistic video of a person using your product, Canva will often produce "uncanny valley" results compared to Runway.
+*   **Canva Pro**: While its "[Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial)" feature is improving, Canva excels at transitions and text overlays rather than true text-to-video physics. If you need a realistic video of a person using your product, Canva will often produce "uncanny valley" results compared to Runway.
 *   **PixelMatch**: PixelMatch is strictly an [image generator](https://pixelmatch.art/blog/compare/shopify-magic-vs-amazon-ai-image-generator). While it solves the hardest part of the process—getting your product to look real in a batch of 100 different environments—you must export your batch-created images into a secondary tool like Canva or Runway to render the final MP4 video.
 
 ## Recommendation

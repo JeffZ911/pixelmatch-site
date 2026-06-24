@@ -87,7 +87,7 @@ The most frequent reason for listing suppression is leaving the AI disclosure me
 
 Another common pitfall is failing to add a visible label such as ["AI-enhanced image"](https://sellercentral.amazon.com/help/hub/reference/G1881) directly on the asset for lifestyle mockups. While sellers often worry that a watermark will lower conversion, the alternative is a hard suppression of the image gallery. 
 
-[IMAGE PLACEHOLDER: Side-by-side comparison of a rejected AI lifestyle image without a disclosure label and a compliant image with the 'AI-enhanced image' watermark. Aspect Ratio: 16:9]
+[IMAGE PLACEHOLDER: Side-by-side comparison of a rejected AI lifestyle image without a [disclosure label](https://pixelmatch.art/blog/stories/tiktok-shop-ai-thumbnail-disclosure-label-bug) and a compliant image with the 'AI-enhanced image' watermark. Aspect Ratio: 16:9]
 
 Furthermore, submitting fully synthetic product photography—where no real product reference was used and the item was "hallucinated" by a prompt—without labeling it as [fully synthetic](https://sellercentral.amazon.com/help/hub/reference/G1881) is considered a major violation. This often happens when sellers try to save money on samples by generating the product itself. Amazon’s policy is clear: the customer must receive exactly what is pictured. If the AI adds a button or a texture that isn't on the physical item, it is a violation of the [Selling Partner Acceptable Use Policy](https://sellercentral.amazon.com/help/hub/reference/G1791).
 

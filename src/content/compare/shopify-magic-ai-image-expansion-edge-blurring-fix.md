@@ -73,7 +73,7 @@ To see the problem in real-time, upload a 4000x4000 px photo to Shopify Magic an
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Estimate how many minutes you spend per product manually clicking "Generate" and "Save" inside the Shopify Media editor. If you have 100 products and spend 5 minutes each, that is over 8 hours of manual labor. Compare that against the subscription costs of tools that automate this process.
+Estimate how many minutes you spend per product manually clicking "Generate" and "Save" inside the Shopify [Media editor](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial). If you have 100 products and spend 5 minutes each, that is over 8 hours of manual labor. Compare that against the subscription costs of tools that automate this process.
 
 *   **Shopify Magic Pricing:** This tool is included in your Shopify subscription. Whether you are on the Basic plan at $39/mo, the Shopify plan at $105/mo, or the Advanced plan at $399/mo, the AI features do not cost extra. However, the "cost" is hidden in the manual workflow and the potential loss of sales due to low-resolution images.
 *   **PixelMatch Pricing:** Pricing follows a tiered subscription model based on the number of images you need to generate. High-volume sellers typically find the cost-per-image significantly lower than hiring a retoucher or spending hours on manual AI generation. Most plans include a free tier to verify that the edge-blurring fix works for your specific products.

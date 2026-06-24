@@ -117,7 +117,7 @@ If you use an AI tool as a significant part of your workflow, consider listing t
 ## Frequently Asked Questions
 
 ### Do I need to disclose if I only used AI to remove a background?
-No, using AI for basic photo editing like background removal or color correction does not require a disclosure under Etsy's current Creativity Standards. These are considered standard post-processing tools, similar to using Photoshop filters. However, if you use AI to generate an entirely new lifestyle scene or a human model, you must follow the disclosure rules.
+No, using AI for basic photo editing like background removal or color correction does not require a disclosure under Etsy's current [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy). These are considered standard post-processing tools, similar to using Photoshop filters. However, if you use AI to generate an entirely new lifestyle scene or a human model, you must follow the disclosure rules.
 
 ### What happens if I ignore the New York AI Transparency Act?
 If you sell to customers in New York, failing to disclose AI-generated human models can lead to fines from state regulatory bodies and potential class-action lawsuits for deceptive advertising. On the platform side, Etsy may deactivate listings that receive legal complaints or violate regional laws to protect the marketplace from liability.

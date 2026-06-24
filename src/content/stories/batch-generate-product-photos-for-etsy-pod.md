@@ -81,7 +81,7 @@ To fix this, the seller tried several industry-standard tools, each presenting a
 
 The seller integrated PixelMatch into their production line to solve the "volume vs. quality" trade-off. Instead of treating each product photo as a separate graphic design project, they treated photo generation as a data-processing task.
 
-The seller exported their designs as high-resolution transparent PNGs (300 DPI, typically 4500x5400px for shirts). They then utilized PixelMatch's batch generator to map these designs onto AI-generated lifestyle models. Unlike traditional mockups, these AI images are unique to the seller. No other shop on Etsy has the exact same model in the exact same lighting, which immediately signals "original brand" to the Etsy algorithm and the shopper.
+The seller exported their designs as high-resolution transparent PNGs (300 DPI, typically 4500x5400px for shirts). They then utilized PixelMatch's batch generator to map these designs onto AI-generated lifestyle models. Unlike traditional mockups, these [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) are unique to the seller. No other shop on Etsy has the exact same model in the exact same lighting, which immediately signals "original brand" to the Etsy algorithm and the shopper.
 
 PixelMatch is better suited for this specific workflow because it removes the 50-image batch cap found in consumer-grade apps. It allows the seller to upload 200 designs at once, select a "target product" (e.g., a woman wearing a hoodie in a mountain setting), and generate all 200 finished mockups in a single cloud-computing run.
 

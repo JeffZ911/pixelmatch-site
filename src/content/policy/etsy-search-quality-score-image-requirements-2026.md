@@ -77,7 +77,7 @@ If you place your product too close to the edge of the frame, the mobile app’s
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Etsy rarely "rejects" an image in the sense of a hard upload block, but it will "soft-reject" your listing by tanking its search visibility. If you aren't meeting the [635-pixel minimum](https://help.etsy.com/hc/en-us/articles/115015663347), you will see a warning in your Shop Manager, and your listing will be filtered out of many competitive search results.
+Etsy rarely "rejects" an image in the sense of a hard upload block, but it will "soft-reject" your listing by tanking its [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623). If you aren't meeting the [635-pixel minimum](https://help.etsy.com/hc/en-us/articles/115015663347), you will see a warning in your Shop Manager, and your listing will be filtered out of many competitive search results.
 
 One of the most frustrating technical hurdles for sellers is the "Black Box" effect. This happens when you upload a transparent PNG. Because Etsy’s web architecture does not support transparency in listing thumbnails, it renders the transparent area as solid black. This can make a professional logo or a product on a transparent background look like a broken file, instantly killing your CTR.
 

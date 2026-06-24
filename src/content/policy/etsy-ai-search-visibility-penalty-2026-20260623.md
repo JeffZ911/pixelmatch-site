@@ -52,7 +52,7 @@ The regulatory landscape for ecommerce has shifted significantly this year. Key 
 ![Detailed Requirements](/img/etsy-ai-search-visibility-penalty-2026-20260623/inline-2.webp)
 
 
-Switch your AI-generated prints to the "Digital Art" category immediately if they are currently listed under "Photography" to avoid a taxonomy mismatch penalty. Etsy’s updated Creativity Standards require explicit disclosure when product photos involve artificial intelligence in their creation or enhancement. This policy is designed to preserve the "human-made" ethos of the marketplace while acknowledging the role of modern tools.
+Switch your AI-generated prints to the "Digital Art" category immediately if they are currently listed under "Photography" to avoid a taxonomy mismatch penalty. Etsy’s updated [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) require explicit disclosure when product photos involve artificial intelligence in their creation or enhancement. This policy is designed to preserve the "human-made" ethos of the marketplace while acknowledging the role of modern tools.
 
 ### Category Restrictions for AI Art
 Under the 2026 taxonomy update, AI-generated images can no longer be filed under the "Photography" subcategory. This category is strictly reserved for images captured via a physical camera. If you are selling AI-generated art or digital downloads, they must be listed under categories such as "Digital Art," "Prints," or "Drawing & Illustration." Listing a synthetic image as a "Photograph" is now classified as a "Misleading Listing" violation, which triggers an automatic drop in search relevancy.

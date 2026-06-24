@@ -104,7 +104,7 @@ By moving away from the error-prone Project Amelia workflow and adopting a dedic
 | **Image Resolution** | 1000x1000 px | 2000x2000 px | 2x Detail for Zoom |
 | **Error Rate** | 40% (Amelia Rejections) | <1% (Preset Compliance) | Near-Zero Friction |
 
-The increase in CTR from 1.2% to 3.4% was the most significant driver of revenue. By ensuring that the main images were perfectly scaled to the [85% fill requirement](https://sellercentral.amazon.com/help/hub/reference/G1881) and utilized the full 2000px resolution for zoom, the listings appeared more professional than competitors who were still using low-resolution or poorly cropped AI images.
+The increase in CTR from 1.2% to 3.4% was the most significant driver of revenue. By ensuring that the main images were perfectly scaled to the [85% fill requirement](https://sellercentral.amazon.com/help/hub/reference/G1881) and utilized the full 2000px resolution for zoom, the listings appeared more professional than competitors who were still using low-resolution or poorly cropped [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy).
 
 Furthermore, the cost reduction allowed the brand to reinvest their creative budget into Amazon PPC, further compounding their growth. Instead of paying for a single photoshoot every six months, they can now refresh their lifestyle imagery every month to match seasonal trends.
 

@@ -27,7 +27,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop wasting thousands of dollars on video production agencies for Sponsored Brands ads that may or may not convert. If you are managing a multi-platform catalog in 2026, the choice between Amazon’s native [AI Video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) Generator and Canva’s Magic Media determines whether you spend your afternoon tweaking keyframes or scaling your actual sales volume.
+Stop wasting thousands of dollars on video production agencies for Sponsored Brands ads that may or may not convert. If you are managing a multi-platform catalog in 2026, the choice between Amazon’s native [AI Video](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-ai-video-requirements) Generator and Canva’s [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial) determines whether you spend your afternoon tweaking keyframes or scaling your actual sales volume.
 
 ## TL;DR Verdict
 

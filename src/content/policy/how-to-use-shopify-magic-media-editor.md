@@ -26,7 +26,7 @@ inline_image_sections:
 
 Low-resolution product images kill conversion rates and trigger silent rejections from high-end Shopify themes that require hover-to-zoom functionality. If your AI-generated backgrounds look crisp on a phone but pixelated on a desktop, you are likely hitting the technical ceiling of Shopify’s native tools.
 
-To use the Shopify Magic media editor, open any image in your Shopify admin file editor and select Generate or Color background. Note that AI-generated images are capped at [1 megapixel](https://help.shopify.com/en/manual/shopify-magic/media-generation), which may limit zoom functionality.
+To use the Shopify [Magic media editor](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial), open any image in your Shopify admin file editor and select Generate or Color background. Note that AI-generated images are capped at [1 megapixel](https://help.shopify.com/en/manual/shopify-magic/media-generation), which may limit zoom functionality.
 
 ## Quick Reference Table: Shopify Magic vs. Platform Standards
 
@@ -50,7 +50,7 @@ While Shopify Magic is convenient for a quick background swap, it is not designe
 ![Detailed Requirements for Shopify Magic](/img/how-to-use-shopify-magic-media-editor/inline-2.webp)
 
 
-Open your Shopify Admin, navigate to **Content > Files**, and select an image to test the "Extend" or "Generate" features. The Shopify Magic media editor is a browser-based tool, meaning you do not need to download external software like Photoshop to perform basic generative AI tasks. However, the tool has strict input and output behaviors that dictate the final quality of your listing.
+Open your Shopify Admin, navigate to **Content > Files**, and select an image to test the "Extend" or "Generate" features. The Shopify Magic [media editor](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial) is a browser-based tool, meaning you do not need to download external software like Photoshop to perform basic generative AI tasks. However, the tool has strict input and output behaviors that dictate the final quality of your listing.
 
 ### Accessing the Editor
 You can access the AI tools through two primary paths:

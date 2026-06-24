@@ -42,7 +42,7 @@ Audit your current ad-to-listing conversion path to identify where visual "drop-
 
 The brand's primary pain point was a "velocity gap." Their 9:16 vertical video pipeline was highly optimized, producing fresh content every 48 hours to combat creative fatigue. However, their actual TikTok Shop product detail pages (PDPs) were lagging weeks behind. While the ads featured dynamic lighting and professional AI avatars, the listing images were often recycled from their Shopify store or, worse, were low-quality stills taken from older video shoots.
 
-TikTok Shop's algorithm and user behavior heavily favor listings with multiple high-quality images that mirror the "vibe" of the video content that brought the user there. The seller lacked the budget for constant, high-end photoshoots to support every new product variation or seasonal kit they launched via Symphony AI. They needed a way to make their storefront as agile as their ad account without tripling their creative overhead.
+TikTok Shop's algorithm and user behavior heavily favor listings with multiple high-quality images that mirror the "vibe" of the video content that brought the user there. The seller lacked the budget for constant, high-end photoshoots to support every new product variation or seasonal kit they launched via [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-gaze-correction-error-pixelmatch). They needed a way to make their storefront as agile as their ad account without tripling their creative overhead.
 
 ## What Wasn't Working
 
