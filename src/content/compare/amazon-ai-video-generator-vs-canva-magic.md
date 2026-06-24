@@ -47,7 +47,7 @@ Run a 7-day A/B test in your Sponsored Brands dashboard comparing a static lifes
 
 Audit your current image library for high-contrast product shots that provide the best "anchor" for AI motion before selecting your primary video tool. If your source images are blurry or have cluttered backgrounds, both AI tools will produce "hallucinations" (distorted pixels or floating objects) that can lead to ad rejection.
 
-| Feature | [Amazon AI](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Video Generator | Canva Magic Media |
+| Feature | [Amazon AI](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Video Generator | Canva [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial) |
 | :--- | :--- | :--- |
 | **Primary Access** | [Amazon Seller Central](https://sellercentral.amazon.com/) | Canva Web/Desktop App |
 | **Max Video Length** | <a href="https://www.amazon.com/s?k=Up+to+45+seconds&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Up to 45 seconds</a> | 4-second clips (can be stitched) |

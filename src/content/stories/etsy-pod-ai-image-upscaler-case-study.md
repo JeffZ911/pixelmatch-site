@@ -110,7 +110,7 @@ Sarah eliminated her $149/year Topaz subscription and her $9.00/month Remove.bg 
 
 ### Quality and Compliance Metrics
 *   **DPI Optimization:** Every file uploaded to Printify now sits at a native 300 DPI. Sarah no longer receives the "Low Resolution" warning in the Printify design editor, which previously forced her to manually resize and re-upload files.
-*   **Etsy Search Visibility:** By consistently meeting the [2000px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), her listings maintain a higher "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)." Her click-through rate (CTR) increased by an estimated 14% because her primary search thumbnails appeared crisper than competitors who were still using 72 DPI raw AI outputs.
+*   **Etsy [Search Visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623):** By consistently meeting the [2000px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), her listings maintain a higher "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)." Her click-through rate (CTR) increased by an estimated 14% because her primary search thumbnails appeared crisper than competitors who were still using 72 DPI raw AI outputs.
 *   **Refund Reduction:** In the three months following the switch, Sarah’s refund rate due to "print quality issues" dropped from 4% to 0.5%.
 
 ### Operational Efficiency

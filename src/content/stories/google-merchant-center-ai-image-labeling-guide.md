@@ -75,7 +75,7 @@ The team switched to PixelMatch for their lifestyle generation. Unlike general-p
 Instead of uploading the AI-generated exports to the Shopify "Files" or "Products" section, they hosted the images on an external AWS S3 bucket. Unlike ecommerce platform CDNs, a properly configured S3 bucket (or a dedicated image host like Cloudinary) allows you to serve the raw file exactly as it was exported, preserving the IPTC `DigitalSourceType` tag.
 
 ### Step 3: The Supplemental Feed Workaround
-The seller created a Google Sheet to serve as a Supplemental Feed in Google [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619). This feed contained two columns: `id` (matching their Shopify SKUs) and `image_link`. They populated the `image_link` column with the direct AWS URLs of their metadata-labeled AI images.
+The seller created a Google Sheet to serve as a Supplemental Feed in Google [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619). This feed contained two columns: `id` (matching their Shopify SKUs) and `image_link`. They populated the `image_link` column with the direct AWS URLs of their metadata-labeled [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy).
 
 When GMC processed the feeds, the Supplemental Feed "overwrote" the default Shopify image URL. When Google's crawler visited the AWS link, it found the IPTC tags perfectly intact.
 

@@ -39,7 +39,7 @@ Capturing high-fidelity fabric textures like the weave of a heavy linen or the s
 
 
 *   Midjourney v7, released April 3, 2025, dominates in artistic realism and complex fabric rendering (wool, silk, denim) using its new Retexture and Omni Reference features.
-*   Flux 1.1 Pro excels at strict prompt adherence and typography, making it ideal for graphic tees and precise structural clothing.
+*   [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) excels at strict prompt adherence and typography, making it ideal for graphic tees and precise structural clothing.
 *   Ecommerce sellers scaling across Shopify and Amazon should consider API-friendly models like Flux, or use PixelMatch to batch-process lifestyle aesthetics without manual prompting.
 
 **Actionable Step:** Run a "Texture Stress Test" by prompting both models for a "macro close-up of a charcoal grey cable-knit wool sweater with soft morning sunlight." This reveals which model captures the "fuzz" and depth of your specific inventory.

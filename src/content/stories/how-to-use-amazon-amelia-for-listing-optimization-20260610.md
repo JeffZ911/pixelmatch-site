@@ -41,7 +41,7 @@ Calculate your current CTR by SKU within Seller Central under the "Business Repo
 
 The brand's internal data showed a consistent 0.8% CTR on their primary search terms. In the beauty category, where competitors use professional retouching and aggressive SEO, a 0.8% CTR indicates that the listing is either invisible to the A9 algorithm or visually unappealing to the human eye. The seller was trapped in a cycle of high PPC spend to compensate for low organic visibility, which ate into their margins.
 
-They recognized the need for a total listing overhaul but faced a bottleneck: speed. Traditional optimization workflows—hiring a copywriter for SEO and a photographer for new assets—took three to four weeks per SKU. They turned to Amazon Amelia to accelerate the data analysis and text generation, but quickly realized that even the best AI-generated title cannot save a listing if the main image is suppressed or blurry.
+They recognized the need for a total listing overhaul but faced a bottleneck: speed. Traditional optimization workflows—hiring a copywriter for SEO and a photographer for new assets—took three to four weeks per SKU. They turned to [Amazon Amelia](https://pixelmatch.art/blog/compare/amazon-amelia-ai-vs-rufus-for-sellers) to accelerate the data analysis and text generation, but quickly realized that even the best AI-generated title cannot save a listing if the main image is suppressed or blurry.
 
 ## What Wasn't Working
 

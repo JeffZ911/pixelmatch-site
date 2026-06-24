@@ -78,7 +78,7 @@ Reddit-sourced feedback on [Flux 2](https://pixelmatch.art/blog/compare/midjourn
 The brand transitioned to a sophisticated pipeline that utilized **[flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism).0 product photography prompt parameters reddit** experts suggested to achieve "studio-grade" realism. This workflow replaced the expensive photographer with a combination of precise prompt engineering and PixelMatch for final automated processing.
 
 ### The Flux 2.0 Parameter Stack
-To solve the "uncanny valley" look of AI images, the brand used specific technical parameters in their prompts. Instead of simply asking for "a photo of a serum bottle," they used camera-specific language:
+To solve the "uncanny valley" look of [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy), the brand used specific technical parameters in their prompts. Instead of simply asking for "a photo of a serum bottle," they used camera-specific language:
 *   **Lens Parameters:** `85mm focal length, f/2.8 aperture` to ensure a shallow depth of field that makes the product "pop" against the background.
 *   **Lighting Parameters:** `Softbox lighting, 45-degree angle, subtle rim light` to define the edges of glass bottles.
 *   **Material Parameters:** `Subsurface scattering, caustic reflections` to accurately depict how light travels through skincare oils and gels.

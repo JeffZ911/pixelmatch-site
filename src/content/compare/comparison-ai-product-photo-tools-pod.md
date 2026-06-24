@@ -94,7 +94,7 @@ Most tools offer a "freemium" entry point, but these are rarely sufficient for a
 *   **Photoroom Max ($34.99/mo):** Increases the limit to 1,500 batch exports. While powerful, the $420 annual cost must be weighed against the automation features provided.
 *   **Pebblely Basic ($19/mo):** Limits you to 200 images. For a POD seller, this is often exhausted in the first week of a new niche rollout.
 *   **Pebblely Pro ($39/mo):** Offers 500 images and the "Custom Theme" feature, allowing you to maintain brand consistency across your catalog.
-*   **Canva Pro ($14.99/mo):** Provides unlimited downloads, but the time cost of manually placing products into "Magic Media" generated scenes is high.
+*   **Canva Pro ($14.99/mo):** Provides unlimited downloads, but the time cost of manually placing products into "[Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial)" generated scenes is high.
 *   **Booth.AI:** undisclosed. Historically, this tool has focused on enterprise-level pricing, often starting at several hundred dollars per month, making it less accessible for independent POD sellers.
 *   **PixelMatch:** Designed for the "unlimited" mindset. By offering competitive pricing that doesn't penalize you for testing 20 different backgrounds for a single t-shirt design, PixelMatch provides the highest ROI for sellers who prioritize "speed to market."
 

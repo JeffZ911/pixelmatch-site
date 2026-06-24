@@ -120,7 +120,7 @@ Export the batch and upload it directly to the TikTok Shop Seller Center. Ensure
 
 Verify the focal point of your AI avatars before committing to a video-to-listing workflow; if the avatar's face is the only sharp element, the product frames may require additional AI "inpainting." While PixelMatch is highly effective at upscaling and background generation, it cannot magically fix a source video where the product is entirely out of focus or obscured by heavy text overlays.
 
-Symphony AI avatar videos that focus heavily on the speaker's face rather than the product may not yield usable product frames. If the product only appears as a small, blurry object in the background, no amount of AI upscaling will make it look professional. Sellers should aim for "b-roll" style shots within their Symphony videos specifically for the purpose of frame extraction.
+[Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-gaze-correction-error-pixelmatch) avatar videos that focus heavily on the speaker's face rather than the product may not yield usable product frames. If the product only appears as a small, blurry object in the background, no amount of AI upscaling will make it look professional. Sellers should aim for "b-roll" style shots within their Symphony videos specifically for the purpose of frame extraction.
 
 Additionally, sellers must remember that TikTok Shop guidelines recommend the first product image have a clean, solid background (usually white or light gray). You should reserve the AI-generated lifestyle backgrounds for the secondary images in your carousel. Use PixelMatch to create a "White Background" version for your main image and "Lifestyle" versions for the rest of the stack to ensure full compliance and maximum conversion.
 
