@@ -89,7 +89,7 @@ Calculate your photography cost per SKU (total spend divided by number of unique
 | **Photography Cost** | $150 - $500 per photoshoot | $0 (Repurposed video assets) |
 | **Visual Consistency** | High (Ad) vs. Low (Listing) | Unified "Symphony" aesthetic |
 
-By repurposing existing video assets, the seller effectively eliminated the need for separate product photography shoots for new variations. The automated extraction and upscaling ensured that every uploaded image met TikTok's strict quality guidelines, eliminating listing suppressions caused by low-resolution media. Creating visual consistency between the top-of-funnel Symphony AI ads and the bottom-of-funnel product detail page helped maintain buyer trust and reduce drop-off. When a customer clicks a video featuring a specific aesthetic, seeing that same aesthetic in the listing images reinforces the brand's legitimacy.
+By repurposing existing video assets, the seller effectively eliminated the need for separate product photography shoots for new variations. The automated extraction and upscaling ensured that every uploaded image met TikTok's strict quality guidelines, eliminating listing suppressions caused by low-resolution media. Creating visual consistency between the top-of-funnel [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-gaze-correction-error-pixelmatch) ads and the bottom-of-funnel product detail page helped maintain buyer trust and reduce drop-off. When a customer clicks a video featuring a specific aesthetic, seeing that same aesthetic in the listing images reinforces the brand's legitimacy.
 
 ## Steps to Replicate
 

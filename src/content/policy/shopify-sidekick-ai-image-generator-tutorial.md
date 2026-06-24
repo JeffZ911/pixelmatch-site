@@ -63,7 +63,7 @@ Multi-platform sellers should note that while these tools are "free" within the 
 
 ### Resolution and Downscaling Rules
 
-When you use the "Generate Background" feature in the Shopify media editor, the system takes your original product photo and attempts to blend it into a new AI-generated scene. The most critical technical constraint is that any image larger than 1 megapixel is [automatically scaled down](https://help.shopify.com/en/manual/shopify-magic/media-generation) by the AI tool.
+When you use the "Generate Background" feature in the Shopify [media editor](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial), the system takes your original product photo and attempts to blend it into a new AI-generated scene. The most critical technical constraint is that any image larger than 1 megapixel is [automatically scaled down](https://help.shopify.com/en/manual/shopify-magic/media-generation) by the AI tool.
 
 This downscaling is permanent for the generated version of the file. If you upload a 4000 x 4000 px professional photograph and use Sidekick to change the background to a "beach setting," your resulting image will be crushed down to roughly 1024 x 1024 px. This results in a loss of nearly 75% of the original pixel data, making the image unsuitable for large-format displays or high-density "Retina" screens.
 

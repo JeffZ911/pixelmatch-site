@@ -121,7 +121,7 @@ Refer to these official documents to stay updated on the evolving landscape of A
 
 | Resource | Purpose |
 | :--- | :--- |
-| Etsy's Creativity Standards | Official rules on what can be sold and how it must be disclosed. |
+| Etsy's [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) | Official rules on what can be sold and how it must be disclosed. |
 | [Etsy Seller Handbook](https://www.etsy.com/seller-handbook) | Best practices for SEO, photography, and category selection. |
 | Etsy Fees & Payments Policy | Current listing fees ($0.20 per listing) and transaction costs. |
 | [Etsy Help: Listing Image Requirements](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos) | Technical specs for pixels, file size, and aspect ratios. |

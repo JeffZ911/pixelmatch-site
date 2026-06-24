@@ -139,7 +139,7 @@ No, [TikTok Shop Mall](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invi
 To prevent a white product from "disappearing" into a pure white background, you should use subtle professional shadowing. TikTok's Listing Quality Guidelines allow for natural shadows that define the product's shape, provided the background itself remains #FFFFFF. Tools like PixelMatch can automatically inject these "contact shadows" to maintain compliance while ensuring the product remains visible.
 
 ### Is there a limit to how many images I can upload per product?
-TikTok Shop allows a maximum of 9 images per product listing. To reach the "Good" quality tier, which can improve your search visibility and eligibility for Mall promotions, you must upload at least 5 images. Each image must be under 5MB.
+TikTok Shop allows a maximum of 9 images per product listing. To reach the "Good" quality tier, which can improve your [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) and eligibility for Mall promotions, you must upload at least 5 images. Each image must be under 5MB.
 
 ### Does TikTok Shop Mall allow text overlays for sales or discounts?
 No, text overlays like "50% Off" or "Limited Time Offer" are strictly prohibited on product images according to the TikTok Shop Product [Listing Policy](https://pixelmatch.art/blog/policy/tiktok-shop-listing-policy-crackdown-2026-20260616). Including such text can lead to your listing being suppressed or your Mall status being reviewed. All promotional information should be handled through the "Promotions" tool in the Seller Center, which adds a compliant badge to your listing automatically.

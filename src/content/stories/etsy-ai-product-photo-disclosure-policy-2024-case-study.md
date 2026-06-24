@@ -89,7 +89,7 @@ After migrating to an AI-driven workflow, the seller tracked their performance o
 | **Monthly Batch Limit** | N/A (Manual) | Unlimited (PixelMatch) | Scalable |
 | **Policy Compliance Status** | Low Risk | High Transparency | Verified |
 
-By strictly following the [Etsy AI](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) disclosure expectations, the seller avoided the shadow-banning issues that some sellers reported on community forums after using "stealth" AI images without disclosure.
+By strictly following the [Etsy AI](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) disclosure expectations, the seller avoided the shadow-banning issues that some sellers reported on community forums after using "stealth" [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) without disclosure.
 
 ## Follow This 5-Step Checklist for AI Policy Compliance
 

@@ -30,7 +30,7 @@ inline_image_sections:
 
 Stop wasting thousands of dollars on manual studio photography and generic keyword research that fails to move the needle on your click-through rate. If your beauty brand is stuck at a sub-1% CTR, you are likely losing the "search results war" before a customer even reads your first bullet point.
 
-This case study examines a mid-sized Amazon FBA beauty brand generating $40,000 in monthly revenue. Despite having a high-quality product, their listings suffered from a 0.8% CTR and astronomical content creation costs. By integrating Amazon Amelia for data-driven copywriting and PixelMatch for automated, high-resolution imagery, they tripled their CTR to 2.4% while slashing production costs by over 90%.
+This case study examines a mid-sized Amazon FBA beauty brand generating $40,000 in monthly revenue. Despite having a high-quality product, their listings suffered from a 0.8% CTR and astronomical content creation costs. By integrating [Amazon Amelia](https://pixelmatch.art/blog/compare/amazon-amelia-ai-vs-rufus-for-sellers) for data-driven copywriting and PixelMatch for automated, high-resolution imagery, they tripled their CTR to 2.4% while slashing production costs by over 90%.
 
 ## The Seller's Situation
 

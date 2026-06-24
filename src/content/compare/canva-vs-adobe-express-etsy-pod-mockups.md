@@ -118,7 +118,7 @@ When you move beyond 50 listings, or when you decide to sync your Etsy catalog t
 Identify the "manual click" bottleneck in your current workflow by timing how long it takes to create 5 sets of mockups (50 total images). If it takes longer than 30 minutes, you are losing money on labor costs that could be spent on SEO or product research.
 
 ### Canva's Limitations
-*   **Generic AI Output:** Canva’s Magic Media can sometimes produce "uncanny valley" results, especially with human hands or complex text within the background.
+*   **Generic AI Output:** Canva’s [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial) can sometimes produce "uncanny valley" results, especially with human hands or complex text within the background.
 *   **Lack of Real Batching:** While Canva has a "Bulk Create" feature using CSV files, it is primarily for text and simple image swaps. It does not intelligently adjust your POD design to fit the contours of a 3D object in a batch process. You still have to manually check every single page to ensure the design isn't overlapping a collar or a sleeve.
 *   **Price Increases:** Canva has historically increased prices as they add [AI features](https://pixelmatch.art/blog/stories/shopify-summer-edition-2026-ai-features-case-study). As of 2026-05-19, the $15/month price point is higher than competitors like Adobe Express or Photoroom.
 

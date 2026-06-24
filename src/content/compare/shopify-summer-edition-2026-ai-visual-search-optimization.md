@@ -72,7 +72,7 @@ The [Shopify Summer Edition](https://pixelmatch.art/blog/compare/shopify-summer-
 | **Background Removal** | Instant AI-edge detection for UCP | Industry-standard background removal |
 | **File Format Optimization** | Auto-exports to WebP for faster Shopify loading | JPG, PNG, or WebP options |
 | **Workflow Focus** | Multi-platform inventory syncing | Mobile-first content creation |
-| **AI Visual Search Prep** | Auto-tags and formats for vector search | Focuses on aesthetic "vibe" generation |
+| **AI [Visual Search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) Prep** | Auto-tags and formats for vector search | Focuses on aesthetic "vibe" generation |
 
 ### Actionable Step: Standardize Your Aspect Ratio
 Run a batch conversion of your raw files into 1:1 square format before uploading to Shopify. AI agents prioritize square images for mobile-first interfaces. If you are using Photoroom, ensure you select the Shopify-specific template to avoid white-space padding that can confuse visual search algorithms.
