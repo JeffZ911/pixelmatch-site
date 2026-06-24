@@ -61,7 +61,7 @@ The stakes for this bug are higher than just low engagement. As of June 2026, Ti
 
 The seller's previous attempts to fix the issue failed:
 *   **Renaming files:** Changing "image_ai.jpg" to "real_photo.jpg" does nothing because the C2PA data is embedded in the file's binary structure.
-*   **Screenshots:** Taking a screenshot of the AI-edited thumbnail to "strip" metadata often resulted in poor image quality below TikTok's 600x600px minimum, leading to listing rejections for "Low Quality Content."
+*   **Screenshots:** Taking a screenshot of the AI-edited thumbnail to "strip" metadata often resulted in poor [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) below TikTok's 600x600px minimum, leading to listing rejections for "Low Quality Content."
 *   **Appeals:** TikTok's appeal process for AI labels is notoriously slow, often taking 5-7 business days, during which the video has already lost its "viral" window.
 
 ## The Workflow They Built

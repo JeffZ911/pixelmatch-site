@@ -39,7 +39,7 @@ Updating a multi-platform catalog for Shopify’s 2026 agentic commerce standard
 *Related: [Etsy AI Generated Disclosure Metadata Error Fix: Tool Comparison](/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix) · [Google Product Studio vs Midjourney v7: 2026 Comparison](/blog/compare/google-product-studio-vs-midjourney-v7-20260617) · [Midjourney v6.1 vs Flux: Best AI for Jewelry Photography (2026)](/blog/compare/midjourney-v6-1-vs-flux-jewelry-photography)*
 
 
-Shopify's Spring/Summer '26 Edition, released June 17, 2026, marks a definitive shift toward agentic commerce through the Universal Commerce Protocol (UCP) and Catalog API. AI agents—autonomous software that shops on behalf of consumers—now rely on visual search and high-density structured data to identify, compare, and recommend products. To remain discoverable, your images must be high-resolution, visually uniform, and optimized for vector-based search.
+Shopify's Spring/Summer '26 Edition, released June 17, 2026, marks a definitive shift toward agentic commerce through the Universal Commerce Protocol (UCP) and Catalog API. AI agents—autonomous software that shops on behalf of consumers—now rely on [visual search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) and high-density structured data to identify, compare, and recommend products. To remain discoverable, your images must be high-resolution, visually uniform, and optimized for vector-based search.
 
 Audit your current image library against the Shopify-recommended [2048 × 2048 pixel standard](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-size-and-shape) to ensure your SKUs are eligible for high-intent AI discovery.
 

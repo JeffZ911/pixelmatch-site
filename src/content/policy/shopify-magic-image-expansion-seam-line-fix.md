@@ -147,7 +147,7 @@ This is a result of the AI's "masking" process. If the original photo has a slig
 The 1:1 square ratio remains the standard for Shopify because it is the most versatile for mobile "swipe" galleries and grid views. However, many modern themes now support 2:3 (Portrait) for fashion. Regardless of the ratio, ensure your product occupies at least 85% of the frame to maintain detail on mobile screens.
 
 ### Can I use Shopify Magic to batch-edit 100 images at once?
-No, as of June 2026, Shopify Magic’s image expansion and background replacement features are manual processes performed within the individual product's media editor. For batch processing, you must use a third-party SaaS like PixelMatch or Photoroom that supports bulk uploads and consistent scene application.
+No, as of June 2026, Shopify Magic’s image expansion and background replacement features are manual processes performed within the individual product's [media editor](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial). For batch processing, you must use a third-party SaaS like PixelMatch or Photoroom that supports bulk uploads and consistent scene application.
 
 ### Does Shopify charge for using Shopify Magic image expansion?
 Shopify Magic features are currently included in your standard Shopify subscription plan. There is no "per-image" fee for using the built-in AI editor, though the time cost of manual editing often outweighs the "free" software cost for growing brands.

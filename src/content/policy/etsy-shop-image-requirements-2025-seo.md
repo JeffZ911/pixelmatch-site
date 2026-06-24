@@ -78,7 +78,7 @@ Check your browser console if an upload fails; usually, the culprit is a file si
 
 Another frequent issue is the "Black Background Glitch." As noted, this occurs when a seller uploads a PNG with a transparent background. To fix this, you must flatten the image against a solid white or lifestyle background before uploading. 
 
-Search visibility penalties are harder to spot because they don't result in an "error" message. However, if your primary listing photo is [under 635 pixels wide](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), Etsy’s system cannot generate the zoom-in feature for customers. This lack of detail often results in lower conversion rates and a gradual drop in search rankings.
+[Search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) penalties are harder to spot because they don't result in an "error" message. However, if your primary listing photo is [under 635 pixels wide](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop), Etsy’s system cannot generate the zoom-in feature for customers. This lack of detail often results in lower conversion rates and a gradual drop in search rankings.
 
 Finally, be wary of using stock photos. Etsy’s Listing Image Requirements explicitly state that for handmade items, the photos must be of the actual item you made or a representative example of the item the buyer will receive. Using generic stock photos or unedited manufacturer renderings for non-supply items can lead to shop suspension or listing deactivation.
 

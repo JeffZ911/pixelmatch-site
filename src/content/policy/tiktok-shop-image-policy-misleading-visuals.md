@@ -112,7 +112,7 @@ While not strictly "misleading," technical failures often trigger the same rejec
 Audit your catalog today by checking the "Product Diagnostic" tab in the TikTok Seller Center. If you see "Listing Quality" warnings, follow these steps to remediate the images and restore your listing visibility.
 
 ### Generating Compliant Lifestyle Backgrounds
-For lifestyle images (images 2-9), you need to create context without breaking the "Misleading Visuals" rule. Many sellers use Photoroom or PhotoAI to generate backgrounds, but these can sometimes "hallucinate" parts of the product, such as adding a handle to a mug or changing the texture of a fabric. This leads to a "Product Mismatch" rejection.
+For lifestyle images (images 2-9), you need to create context without breaking the "Misleading Visuals" rule. Many sellers use Photoroom or PhotoAI to generate backgrounds, but these can sometimes "hallucinate" parts of the product, such as adding a handle to a mug or changing the texture of a fabric. This leads to a "[Product Mismatch](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix)" rejection.
 
 PixelMatch is better suited for this workflow because it strictly preserves the original product's dimensions, colors, and lighting. When you batch-generate AI backgrounds in PixelMatch, the software locks the "Product Layer," ensuring that the AI only builds a scene *around* the item rather than *altering* the item itself. 
 

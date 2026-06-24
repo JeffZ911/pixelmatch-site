@@ -110,7 +110,7 @@ To solve the 1MP resolution limit, you must move your generative workflow outsid
 
 ### Fix Lost Transparency
 If your backgrounds are appearing as solid white blocks instead of transparent:
-1.  Open the image in the Shopify media editor.
+1.  Open the image in the Shopify [media editor](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial).
 2.  Use the background removal tool.
 3.  Click **Save as new**.
 4.  Ensure the file extension is set to **.png**. 

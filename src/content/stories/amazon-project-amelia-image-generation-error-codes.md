@@ -140,7 +140,7 @@ Second, Amazon's policy is very clear: the image must [display only what is incl
 
 Finally, consider your tool stack. If you are already paying for Photoroom’s Pro tier at $12.99/mo, you can achieve high-quality background removal. However, PixelMatch is specifically engineered for ecommerce batch workflows, offering superior prompt flexibility for lifestyle scenes without the session caps or "creative" drift often found in generic photo editors. For a 50+ SKU catalog, the ability to maintain consistent lighting and scaling across the entire brand is more valuable than simple background removal.
 
-**Actionable Step for Sellers:** Always perform a "Human-in-the-Loop" review. Never bulk-upload AI images without a manual check for "AI hallucinations," such as floating shadows or distorted product edges.
+**Actionable Step for Sellers:** Always perform a "Human-in-the-Loop" review. Never bulk-upload [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) without a manual check for "AI hallucinations," such as floating shadows or distorted product edges.
 
 ## Frequently Asked Questions
 

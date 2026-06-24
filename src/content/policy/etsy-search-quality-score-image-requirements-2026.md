@@ -105,7 +105,7 @@ If you prefer a manual approach for a smaller catalog, Photoroom offers a Pro ti
 
 ### Recovering Your Listing Quality Score
 
-If your LQS has already tanked, you can recover it, but it takes time and data. Start by identifying your "laggard" listings in the Etsy Shop Manager’s search visibility tab. Replace the primary thumbnail with a high-resolution, 2000px image that uses a 1:1 aspect ratio. 
+If your LQS has already tanked, you can recover it, but it takes time and data. Start by identifying your "laggard" listings in the Etsy Shop Manager’s [search visibility](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) tab. Replace the primary thumbnail with a high-resolution, 2000px image that uses a 1:1 aspect ratio. 
 
 Monitor the listing for 14 days. If the CTR improves, Etsy will gradually increase the listing's "authority" in search results. To further boost the LQS, ensure you are utilizing the [Etsy video feature](https://help.etsy.com/hc/en-us/articles/115015663347). A 10-second video showing the product in use can increase the "market experience" portion of your score by reducing buyer hesitation and decreasing return rates.
 

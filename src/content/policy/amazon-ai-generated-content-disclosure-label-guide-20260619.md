@@ -127,7 +127,7 @@ The disclosure is typically managed through the "Image Provenance" metadata fiel
 Current seller data from the first half of 2026 suggests that transparency does not significantly hurt conversion for lifestyle images, provided the product itself looks accurate. However, failing to disclose and getting your listing suppressed will have a 100% negative impact on your sales.
 
 ### Can I use AI to fix a blurry photo of my product?
-Yes, AI upscaling and sharpening are considered "minor edits" under [Amazon's 2026 guidelines](https://sellercentral.amazon.com/help/hub/reference/G1881). These edits do not require an AI disclosure label as long as they do not alter the physical features, color, or scale of the product.
+Yes, AI upscaling and sharpening are considered "minor edits" under [Amazon's 2026 guidelines](https://sellercentral.amazon.com/help/hub/reference/G1881). These edits do not require an AI [disclosure label](https://pixelmatch.art/blog/stories/tiktok-shop-ai-thumbnail-disclosure-label-bug) as long as they do not alter the physical features, color, or scale of the product.
 
 ## Official Source Links
 
