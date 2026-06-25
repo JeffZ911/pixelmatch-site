@@ -110,7 +110,7 @@ If your source photography is in 4:3 or 16:9, do not simply stretch the image to
 
 ### Ensuring Pricing and Policy Compliance
 
-Image compliance is only half the battle for flash sales. You must also verify your pricing compliance: Flash Deal prices must be less than or equal to the lowest price paid in the past 30 days to be approved. If your pricing is compliant but your image is not, the deal will not go live. 
+[Image compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) is only half the battle for flash sales. You must also verify your pricing compliance: Flash Deal prices must be less than or equal to the lowest price paid in the past 30 days to be approved. If your pricing is compliant but your image is not, the deal will not go live. 
 
 For LIVE Flash Deals, remember that the pre-launch countdown is fixed at 5 minutes. Ensure your clean, compliant product images are loaded into the LIVE Shopping Bag before the timer starts. If the system detects a non-compliant image during the 5-minute countdown, it can pull the product from the live feed, wasting your airtime.
 

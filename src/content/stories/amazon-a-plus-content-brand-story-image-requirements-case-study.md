@@ -37,7 +37,7 @@ High-end beauty photography can drain your margins before a single unit ships, e
 | **Cost Per Lifestyle Image** | Traditional agency rates ($40+) | [Information not yet publicly available as of 2026-05-30] |
 | **CTR on Brand Story Modules** | [Information not yet publicly available as of 2026-05-30] | [Information not yet publicly available as of 2026-05-30] |
 | **Time to Update 40 ASINs** | 4–6 Weeks (Agency lead time) | < 7 Days |
-| **Image Compliance Rate** | 70% (Frequent cropping rejections) | 100% |
+| **[Image Compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) Rate** | 70% (Frequent cropping rejections) | 100% |
 
 ## The Seller's Situation: High Costs for Brand Story Assets
 

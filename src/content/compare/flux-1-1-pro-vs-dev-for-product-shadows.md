@@ -30,7 +30,7 @@ Stop losing sales to "floating" product images that look like cheap Photoshop cu
 
 # Flux 1.1 Pro vs Dev for Product Shadows: The Ultimate Ecommerce Comparison
 
-FLUX 1.1 Pro is the clear winner for ecommerce because it includes commercial usage rights and generates highly realistic product shadows out of the box at $0.04/image. FLUX.1 [dev] is strictly for non-commercial use unless licensed.
+[FLUX 1](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures).[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) is the clear winner for ecommerce because it includes commercial usage rights and generates highly realistic product shadows out of the box at $0.04/image. FLUX.1 [dev] is strictly for non-commercial use unless licensed.
 
 ## TL;DR Verdict
 

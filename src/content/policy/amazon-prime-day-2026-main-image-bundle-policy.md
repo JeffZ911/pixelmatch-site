@@ -57,7 +57,7 @@ Audit your current bundle listings against the following technical specification
 ![Detailed Requirements](/img/amazon-prime-day-2026-main-image-bundle-policy/inline-2.webp)
 
 
-The amazon prime day 2026 main image bundle policy exists to ensure customers understand exactly what they are purchasing. In a bundle, the "product" is the entire collection of items sold under a single ASIN. If your main image shows three items but the customer only receives two, you face an immediate "Product Not as Described" claim, which is lethal to your seller health during high-velocity events.
+The amazon prime [day 2026 main](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) image bundle policy exists to ensure customers understand exactly what they are purchasing. In a bundle, the "product" is the entire collection of items sold under a single ASIN. If your main image shows three items but the customer only receives two, you face an immediate "Product Not as Described" claim, which is lethal to your seller health during high-velocity events.
 
 ### Image Size and Formatting
 While the technical minimum to avoid a hard upload error is [500 pixels](https://sellercentral.amazon.com/gp/help/external/1881), aiming for the bare minimum is a strategic mistake for Prime Day. Amazon's systems favor listings that provide a high-quality customer experience. To enable the hover-to-zoom feature, which significantly increases conversion rates on mobile and desktop, your images must be at least [1000 pixels on the longest side](https://sellercentral.amazon.com/gp/help/external/1881). For the sharpest display on high-resolution Retina screens, Amazon recommends [1600 pixels](https://sellercentral.amazon.com/gp/help/external/1881).
