@@ -171,5 +171,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Photoroom Pricing and Features
 *   WizCommerce: Photoroom Pricing and Batch Limits
 *   Canva Pro Pricing
-*   Miami Herald: Amazon Rufus AI Shopping Assistant Launch
+*   Miami Herald: [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) AI Shopping Assistant Launch
 *   Squareshot: Amazon Product Photography Guide

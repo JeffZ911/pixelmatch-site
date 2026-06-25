@@ -81,8 +81,8 @@ Midjourney operates on a fixed-cost subscription model. This is predictable for 
 
 ### Flux 1.1 Pro API Costs
 [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) is built for developers and high-volume sellers who need to integrate AI generation into their own dashboards or third-party apps.
-*   **Replicate:** Typically costs $0.04 per output image for the 1.1 Pro model.
-*   **Fal.ai:** Charges $0.04 per megapixel for Flux 1.1 Pro, allowing for more granular control over cost vs. quality.
+*   **Replicate:** Typically costs $0.04 per output image for the 1.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) model.
+*   **Fal.ai:** Charges $0.04 per megapixel for [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).1 Pro, allowing for more granular control over cost vs. quality.
 *   **Flux 1.1 Pro Ultra:** Costs $0.06 per image on Replicate for higher resolution and increased detail.
 
 For high-volume sellers, API costs can add up quickly, making batch-generation tools like PixelMatch a more predictable investment for catalog-wide updates.
@@ -141,7 +141,7 @@ Your choice should align with your business model's scalability and the visual c
 ## Frequently Asked Questions
 
 ### Can I use AI-generated images as my Amazon Main Image?
-Amazon's policy requires the main image to be a professional photograph of the actual product on a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G181). While you can use AI to generate lifestyle or "in-use" images for your secondary slots and A+ Content, your main image must strictly follow Amazon’s technical requirements to avoid listing suppression.
+Amazon's policy requires the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) to be a professional photograph of the actual product on a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G181). While you can use AI to generate lifestyle or "in-use" images for your secondary slots and A+ Content, your main image must strictly follow Amazon’s technical requirements to avoid listing suppression.
 
 ### Does Midjourney v7 support transparent backgrounds?
 Midjourney does not natively generate transparent PNGs. You must generate the image with a solid background (usually white) and then use a background removal tool. Flux 1.1 Pro also generates solid backgrounds, though some API implementations offer an integrated "remove-background" post-process step for an additional fee.

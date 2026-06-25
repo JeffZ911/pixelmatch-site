@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Staging a high-volume vintage shop often requires more hours behind a camera lens than sourcing inventory, leaving multi-platform sellers vulnerable to burnout and evolving marketplace transparency requirements. As Etsy tightens its policies, maintaining a high SKU count while adhering to the [etsy creativity standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) [ai image disclosure](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) 2026 rules has become the primary operational challenge for mid-to-large scale sellers.
+Staging a high-volume vintage shop often requires more hours behind a camera lens than sourcing inventory, leaving multi-platform sellers vulnerable to burnout and evolving marketplace [transparency requirements](https://pixelmatch.art/blog/stories/tiktok-shop-image-metadata-transparency-requirements-2026). As Etsy tightens its policies, maintaining a high SKU count while adhering to the [etsy creativity standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) [ai image disclosure](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) 2026 rules has become the primary operational challenge for mid-to-large scale sellers.
 
 ## The Seller's Situation: High SKU Volume Meets New Compliance Rules
 

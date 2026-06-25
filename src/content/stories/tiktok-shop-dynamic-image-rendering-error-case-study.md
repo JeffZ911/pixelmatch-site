@@ -42,7 +42,7 @@ Fixing the TikTok Shop dynamic image [rendering error](https://pixelmatch.art/bl
 
 This case study follows a mid-sized beauty and cosmetics brand managing a catalog of over 400 SKUs. Like many multi-platform sellers, they built their original asset library for Shopify, where lifestyle-heavy [4:5 aspect ratios](https://help.shopify.com/en/manual/products/product-variant-images) and artistic, off-center compositions are the norm for conversion.
 
-When the brand attempted to expand to TikTok Shop using a multi-channel connector, the integration failed. During the initial catalog sync, 58% of their listings were flagged. The TikTok Seller Center displayed a "Dynamic image rendering error," preventing the products from appearing in the Shop Tab or being used in Dynamic Showcase Ads (DSA).
+When the brand attempted to expand to TikTok Shop using a multi-channel connector, the integration failed. During the initial catalog sync, 58% of their listings were flagged. The TikTok Seller Center displayed a "Dynamic image [rendering error](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix)," preventing the products from appearing in the Shop Tab or being used in Dynamic Showcase Ads (DSA).
 
 The root of the problem lay in TikTok Shop’s strict main image specifications:
 *   **Aspect Ratio:** A strict 1:1 square ratio is required for the primary product image.

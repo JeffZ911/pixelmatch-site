@@ -105,7 +105,7 @@ The tripling of the CTR from 0.8% to 2.4% had a compounding effect on the brand'
 
 Set up a dedicated "Raw Assets" folder on your desktop today to begin batch-processing your product photos for the PixelMatch pipeline. Follow these steps to mirror the success of the beauty brand:
 
-1.  **Query Amazon Amelia:** Access Amelia through the Seller Central console. Use the prompt: "Analyze my product [ASIN] and suggest three improvements for the title based on recent customer search trends."
+1.  **Query [Amazon Amelia](https://pixelmatch.art/blog/compare/amazon-amelia-ai-vs-rufus-for-sellers):** Access Amelia through the Seller Central console. Use the prompt: "Analyze my product [ASIN] and suggest three improvements for the title based on recent customer search trends."
 2.  **Refine the Copy:** Take Amelia’s suggestions and verify them. As industry experts suggest, you should double-check AI-generated text for accuracy to ensure it doesn't hallucinate features your product doesn't have.
 3.  **Capture Raw Photos:** You don't need a DSLR. A modern smartphone with decent lighting is sufficient. Capture your product from the front, side, and back.
 4.  **Batch Upload to PixelMatch:** Upload these raw files to the PixelMatch dashboard. 

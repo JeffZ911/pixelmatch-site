@@ -58,7 +58,7 @@ Test your current main images against the [Amazon pure white background requirem
 | Feature | Shopify Magic | Amazon AI Image Generator | PixelMatch (Multi-Platform) |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Product page lifestyle shots | Sponsored Brands/Display ads | Batch-generating multi-channel assets |
-| **Main Image Compliance** | No automated white-background check | Focuses on lifestyle (not Main Images) | Automated [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) |
+| **[Main Image Compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)** | No automated white-background check | Focuses on lifestyle (not Main Images) | Automated [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) |
 | **Recommended Resolution** | [2048 x 2048 px](https://help.shopify.com/en/manual/products/product-media/image-sizes) | [1600 px on longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) | Customizable (up to 4k) |
 | **Batch Processing** | One-by-one editing | One-by-one generation | Hundreds of SKUs simultaneously |
 | **Prompt Style** | Open text + Preset themes | Open text + Scene themes | Template-based + Prompting |
@@ -110,7 +110,7 @@ Brands selling on both platforms are better served by PixelMatch. It allows sell
 
 Use a browser extension or a digital color picker to check the RGB values of your generated backgrounds to avoid the "off-white" rejection loop common in AI-generated files.
 
-The primary limitation of Shopify Magic is its lack of marketplace-specific compliance. It does not automatically check for Amazon's strict main image compliance rules. If you generate a "white" background in Shopify Magic, it often includes subtle shadows or off-white gradients to look more "natural." While beautiful on a Shopify store, these images might be rejected by Amazon's automated scanning systems if the background isn't [perfectly pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881).
+The primary limitation of Shopify Magic is its lack of marketplace-specific compliance. It does not automatically check for Amazon's strict main [image compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) rules. If you generate a "white" background in Shopify Magic, it often includes subtle shadows or off-white gradients to look more "natural." While beautiful on a Shopify store, these images might be rejected by Amazon's automated scanning systems if the background isn't [perfectly pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881).
 
 Amazon's AI image generator suffers from a "walled garden" problem. It is currently locked inside the advertising console for Sponsored Brands and Sponsored Display. This makes it cumbersome to export those assets for use on a standalone Shopify store or social media. While you can download the files, they are often optimized for Amazon’s specific ad aspect ratios rather than the square [2048 x 2048 px](https://help.shopify.com/en/manual/products/product-media/image-sizes) format preferred by Shopify.
 

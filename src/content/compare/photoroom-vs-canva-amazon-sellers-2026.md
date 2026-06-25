@@ -90,7 +90,7 @@ Additionally, consider your payment rail fees. When paying for these SaaS subscr
 Audit your current "Lifestyle" images; if they look like flat cutouts on stock backgrounds, you are likely using the wrong tool for your specific seller profile.
 
 ### High-Volume Catalog Sellers: Photoroom
-If you are a wholesaler or a high-volume dropshipper, Photoroom is your primary tool. Use it to rapidly process hundreds of raw photos into compliant white-background main images. The "Batch" mode allows you to upload a folder of raw photos, apply the "Amazon Main Image" preset, and export 200+ compliant files while you grab a coffee.
+If you are a wholesaler or a high-volume dropshipper, Photoroom is your primary tool. Use it to rapidly process hundreds of raw photos into compliant white-background main images. The "Batch" mode allows you to upload a folder of raw photos, apply the "Amazon [Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)" preset, and export 200+ compliant files while you grab a coffee.
 
 ### Private Label Brand Builders: Canva
 If you are building a brand and need to tell a story through A+ Content, Canva is the winner. It is the best tool for designing lifestyle composites, dimension graphics (showing the height/width of your product), and comparison charts. Use Canva to build your "Brand Story" modules and your "Product Comparison" grids, which are essential for increasing your Average Order Value (AOV).

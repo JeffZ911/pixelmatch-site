@@ -64,7 +64,7 @@ The "Pure White" requirement is the most common point of failure for FBA sellers
 
 The product must occupy [at least 85% of the image frame](https://sellercentral.amazon.com/gp/help/external/1881). This means you should minimize "dead space" around the product. If your product is thin or long, rotate it diagonally to fill more of the square frame, provided it remains recognizable and professional. 
 
-**Actionable Step:** Use a batch ai product image generator to process your entire catalog. This ensures that every image is automatically centered and scaled to hit that 85% threshold while guaranteeing the background is set to the exact RGB 255, 255, 255 values required by Amazon.
+**Actionable Step:** Use a batch ai product [image generator](https://pixelmatch.art/blog/compare/shopify-magic-vs-amazon-ai-image-generator) to process your entire catalog. This ensures that every image is automatically centered and scaled to hit that 85% threshold while guaranteeing the background is set to the exact RGB 255, 255, 255 values required by Amazon.
 
 ### Resolution and File Types
 

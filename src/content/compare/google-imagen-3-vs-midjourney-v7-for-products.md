@@ -134,7 +134,7 @@ Google Imagen 3's best features are locked behind the Google Cloud Platform (GCP
 ### The Compliance Crisis
 Neither tool automatically resizes images to [Amazon's recommended 2000x2000 px zoom specs](https://sellercentral.amazon.com/help/hub/reference/G1881). Furthermore, getting a "true" RGB 255,255,255 white background in Midjourney is notoriously difficult—it often adds "artistic" shadows or off-white tints that lead to listing suppressions.
 
-**Actionable Step:** Always run your generated images through a "Compliance Check." Open the image in a basic editor and use the eyedropper tool on the background. If the RGB value isn't exactly 255, 255, 255, do not upload it as your Amazon [Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy).
+**Actionable Step:** Always run your generated images through a "[Compliance Check](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)." Open the image in a basic editor and use the eyedropper tool on the background. If the RGB value isn't exactly 255, 255, 255, do not upload it as your Amazon [Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy).
 
 ## Recommendation
 
