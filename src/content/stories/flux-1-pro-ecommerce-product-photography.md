@@ -146,7 +146,7 @@ While Midjourney produces artistic results, Flux.[1 Pro](https://pixelmatch.art/
 Etsy's algorithm prioritizes high-quality, high-resolution imagery that drives engagement. [Etsy recommends 2000px images](https://help.etsy.com/hc/en-us/articles/115015663347) because they allow for the zoom functionality that increases buyer confidence. Using Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) to create lifestyle scenes can actually improve your ranking by increasing your Click-Through Rate (CTR) and conversion rate, which are key signals to the Etsy search engine.
 
 ### Can I use Flux.1 Pro for products with reflective surfaces?
-Yes, this is one of Flux.1 Pro's strongest use cases. Unlike older models that struggle with "chroming" or glass, Flux.1 Pro can accurately simulate how a generated environment would reflect on a shiny surface. To get the best results, ensure your base photo is taken in a room with neutral lighting so the AI has a clean "canvas" to apply the new environmental reflections.
+Yes, this is one of Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows)'s strongest use cases. Unlike older models that struggle with "chroming" or glass, Flux.1 Pro can accurately simulate how a generated environment would reflect on a shiny surface. To get the best results, ensure your base photo is taken in a room with neutral lighting so the AI has a clean "canvas" to apply the new environmental reflections.
 
 
 <!-- pm-cta:foot -->

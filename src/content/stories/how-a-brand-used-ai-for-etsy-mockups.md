@@ -131,7 +131,7 @@ Always export at [3000 × 3000 pixels](https://help.etsy.com/hc/en-us/articles/1
 ### Step 4: Disclose AI Usage for Policy Compliance
 Under Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study), sellers must be honest about how their items are represented. In your listing description or the "About" section of your shop, mention that you use AI-assisted tools to create lifestyle mockups. This builds trust and protects your shop from potential platform penalties regarding "misleading" imagery.
 
-**Actionable Step for Sellers:** Create a "Style Guide" for your PixelMatch generations. Note down the specific prompt keywords or templates you use (e.g., "Muted Earth Tones," "Soft Morning Light") so that your entire Etsy shop has a cohesive visual identity rather than looking like a random collection of AI images.
+**Actionable Step for Sellers:** Create a "Style Guide" for your PixelMatch generations. Note down the specific prompt keywords or templates you use (e.g., "Muted Earth Tones," "Soft Morning Light") so that your entire Etsy shop has a cohesive visual identity rather than looking like a random collection of [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy).
 
 ## Caveats and Honest Limitations
 

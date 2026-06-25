@@ -121,7 +121,7 @@ Instead of generic prompts, use specific brand keywords. If your brand is "Luxur
 Take your winning AI generation and resize it for your primary channel. For Shopify, target [1920 × 1080 px](https://help.shopify.com/en/manual/online-store/images/theme-images). Use the "outpainting" or "generative fill" features in PixelMatch to expand the background if your original generation was a square, ensuring you don't lose the product's focus when moving to a wide 16:9 aspect ratio.
 
 ### 4. Optimize for PageSpeed
-High-resolution AI images can be heavy. Before uploading to Shopify, compress your images. Shopify supports [WebP](https://help.shopify.com/en/manual/online-store/images/theme-images), which offers superior compression compared to JPEG. Aim for a file size under 500 KB for hero banners to ensure your mobile "Largest Contentful Paint" (LCP) score remains in the green.
+High-resolution [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) can be heavy. Before uploading to Shopify, compress your images. Shopify supports [WebP](https://help.shopify.com/en/manual/online-store/images/theme-images), which offers superior compression compared to JPEG. Aim for a file size under 500 KB for hero banners to ensure your mobile "Largest Contentful Paint" (LCP) score remains in the green.
 
 ### 5. Deploy and Monitor
 Upload the banner to your Shopify "Image Banner" or "Slideshow" section. Monitor your "Online Store Conversion Rate" and "Bounce Rate" in the Shopify Analytics dashboard. If the bounce rate increases, your AI background might be too "busy" and distracting from the "Shop Now" call to action.

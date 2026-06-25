@@ -73,7 +73,7 @@ Amazon provides its [AI video](https://pixelmatch.art/blog/compare/amazon-prime-
 
 ### Canva Magic Media: The Credit-Based Model
 Canva’s pricing is more complex because it uses a credit system shared across its "Magic Studio" suite.
-*   **Free Tier:** Highly restricted. Users typically receive only [5 lifetime video generation credits](https://www.canva.com/help/magic-media/) for Magic Media.
+*   **Free Tier:** Highly restricted. Users typically receive only [5 lifetime video generation credits](https://www.canva.com/help/magic-media/) for [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial).
 *   **Canva Pro:** Costs $119.99 per year (or $14.99 monthly). Pro users receive [500 monthly credits](https://www.canva.com/help/magic-media/) for AI generations, which include both image and video creation.
 *   **Canva for Teams:** Costs $100 per year per person (minimum 3 people). This tier is better for larger ecommerce agencies but follows similar credit limits per user.
 

@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Your mobile conversion rate is cratering because Amazon’s mobile app is shrinking your lifestyle images into unclickable thumbnails, while the Rufus AI assistant is quietly filtering your products out of conversational search results. If your high-end beauty brand is seeing a sudden dip in Click-Through Rate (CTR) despite "high-quality" photography, you are likely a victim of the Amazon Rufus image carousel rendering error.
+Your mobile conversion rate is cratering because Amazon’s mobile app is shrinking your lifestyle images into unclickable thumbnails, while the Rufus AI assistant is quietly filtering your products out of conversational search results. If your high-end beauty brand is seeing a sudden dip in Click-Through Rate (CTR) despite "high-quality" photography, you are likely a victim of the [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) image carousel rendering error.
 
 ## Audit your mobile PDP for thumbnail shrinkage immediately
 
@@ -136,7 +136,7 @@ While AI-generated imagery can drastically improve your workflow, it is not a "s
 **The "Quality In, Quality Out" Rule**
 PixelMatch relies on the quality of your reference photo. If you upload a blurry, poorly lit cell phone picture with heavy shadows, the AI cannot magically invent high-resolution textures or correct the physics of the light perfectly. Always start with a clean, well-lit "hero" shot on a neutral background to give the AI the best possible foundation for generating lifestyle scenes.
 
-**Dynamic Image Selection**
+**[Dynamic Image](https://pixelmatch.art/blog/stories/tiktok-shop-dynamic-image-rendering-error-case-study) Selection**
 Amazon's search architecture updates frequently. Even with perfect images, you must routinely check the "Fix your products" tab in Seller Central. Amazon sometimes uses "Dynamic Image Selection," where it may swap your carefully chosen main image for a secondary lifestyle image if it believes that image will convert better for a specific search term [2.3.8]. If your secondary images aren't 1:1 square, this dynamic swap could accidentally trigger the mobile rendering error on your main search result, causing your CTR to tank again.
 
 **Policy Fluidity**

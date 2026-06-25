@@ -84,7 +84,7 @@ Audit your current listings for "placeholder" text immediately. One of the faste
 ![How to Fix Each Issue](/img/etsy-shop-conversion-boost-with-ai-mockups/inline-4.webp)
 
 
-Move your AI-generated lifestyle shots to slots 2 through 10 in your image carousel. This simple structural change ensures you get the Etsy shop conversion boost with AI mockups while remaining 100% compliant with platform rules. The primary slot (the one that appears in search) should always be a high-quality, real-world photograph of the item the customer will receive.
+Move your AI-generated lifestyle shots to slots 2 through 10 in your [image carousel](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix). This simple structural change ensures you get the Etsy shop conversion boost with AI mockups while remaining 100% compliant with platform rules. The primary slot (the one that appears in search) should always be a high-quality, real-world photograph of the item the customer will receive.
 
 ### Restructuring Your Image Carousel
 

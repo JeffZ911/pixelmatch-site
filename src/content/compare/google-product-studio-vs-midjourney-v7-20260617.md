@@ -61,7 +61,7 @@ Audit your current asset resolution against platform minimums before choosing a 
 
 Google Product Studio focuses on utility. It automatically syncs with your product feed and includes a one-click "Increase Resolution" toggle to upscale low-quality vendor assets. This is vital for meeting [Shopify's recommended 2048 x 2048 px](https://help.shopify.com/en/manual/products/product-media/product-media-types) limit when your original files are small.
 
-Midjourney v7 focuses on creative control. Its Personalization v2 and Omni Reference features allow art directors to maintain character and brand consistency across an entire ad campaign. However, Midjourney v7 requires manual resizing to hit specific pixel targets, whereas Google handles basic web optimization automatically. Unlike PixelMatch, neither Google Product Studio nor Midjourney v7 offers a dedicated workflow for applying a single lifestyle aesthetic across 50+ SKUs simultaneously.
+[Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) focuses on creative control. Its Personalization v2 and Omni Reference features allow art directors to maintain character and brand consistency across an entire ad campaign. However, Midjourney v7 requires manual resizing to hit specific pixel targets, whereas Google handles basic web optimization automatically. Unlike PixelMatch, neither Google Product Studio nor Midjourney v7 offers a dedicated workflow for applying a single lifestyle aesthetic across 50+ SKUs simultaneously.
 
 ## Pricing Comparison
 

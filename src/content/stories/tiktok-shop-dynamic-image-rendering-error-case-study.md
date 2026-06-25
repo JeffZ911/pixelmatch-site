@@ -30,7 +30,7 @@ inline_image_sections:
 
 Your catalog sync just hit a wall because TikTok Shop rejected half of your listings with a "Width and Length of the Product Image Issue." If you are migrating a high-SKU catalog from Shopify or Amazon to TikTok Shop, you are likely staring at a sea of "Failed" statuses in your TikTok Seller Center due to the platform's rigid image requirements.
 
-Fixing the TikTok Shop dynamic image rendering error requires moving beyond manual resizing and adopting a batch-automation workflow that aligns your existing Shopify assets with TikTok’s specific metadata and aspect ratio standards.
+Fixing the TikTok Shop dynamic image [rendering error](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix) requires moving beyond manual resizing and adopting a batch-automation workflow that aligns your existing Shopify assets with TikTok’s specific metadata and aspect ratio standards.
 
 ## The Seller's Situation
 

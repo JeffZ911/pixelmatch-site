@@ -80,7 +80,7 @@ Midjourney operates on a fixed-cost subscription model. This is predictable for 
 *   **Pro Plan:** $60/month for 30 hours of Fast GPU time and "Stealth Mode" to hide your images from the public gallery.
 
 ### Flux 1.1 Pro API Costs
-Flux 1.1 Pro is built for developers and high-volume sellers who need to integrate AI generation into their own dashboards or third-party apps.
+[Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) is built for developers and high-volume sellers who need to integrate AI generation into their own dashboards or third-party apps.
 *   **Replicate:** Typically costs $0.04 per output image for the 1.1 Pro model.
 *   **Fal.ai:** Charges $0.04 per megapixel for Flux 1.1 Pro, allowing for more granular control over cost vs. quality.
 *   **Flux 1.1 Pro Ultra:** Costs $0.06 per image on Replicate for higher resolution and increased detail.

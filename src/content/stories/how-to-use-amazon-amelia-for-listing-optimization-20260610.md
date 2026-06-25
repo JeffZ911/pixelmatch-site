@@ -65,7 +65,7 @@ The seller attempted to use Photoroom’s Pro tier at $9.99/mo to handle backgro
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Open your Seller Central dashboard and look for the Amazon Amelia icon (currently rolling out to US sellers) to begin analyzing your "Voice of the Customer" data. This seller built a three-stage workflow that bridged the gap between Amazon’s internal AI and external image automation.
+Open your Seller Central dashboard and look for the [Amazon Amelia](https://pixelmatch.art/blog/compare/amazon-amelia-ai-vs-rufus-for-sellers) icon (currently rolling out to US sellers) to begin analyzing your "Voice of the Customer" data. This seller built a three-stage workflow that bridged the gap between Amazon’s internal AI and external image automation.
 
 ### Step 1: Data Mining with Amazon Amelia
 The seller used [Project Amelia](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes), which is powered by Amazon Bedrock, to diagnose their performance. Instead of guessing which keywords to target, they asked Amelia specific questions: "Amelia, what are the top three reasons customers return my serum?" and "Which search terms are my competitors winning that I am losing?"

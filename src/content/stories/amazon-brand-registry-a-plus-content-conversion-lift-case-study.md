@@ -77,7 +77,7 @@ The seller transitioned to PixelMatch to automate the production of Amazon-compl
 Set your PixelMatch export profile to 72 DPI and RGB colorspace before you begin; this ensures your files bypass the common "Invalid File Format" or "Over-sized File" errors in Amazon Seller Central. The brand utilized the following three-stage workflow:
 
 ### 1. The "Pure White" Foundation
-For the "Standard Three Images & Text" module, Amazon requires clean, distraction-free imagery. The seller used PixelMatch’s batch editor to process all 45 hero bottles into perfect RGB 255, 255, 255 white backgrounds at exactly 300 x 300 px. This ensured that the three-image carousel looked uniform across every SKU in the brand's storefront.
+For the "Standard Three Images & Text" module, Amazon requires clean, distraction-free imagery. The seller used PixelMatch’s batch editor to process all 45 hero bottles into perfect RGB 255, 255, 255 white backgrounds at exactly 300 x 300 px. This ensured that the three-[image carousel](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix) looked uniform across every SKU in the brand's storefront.
 
 ### 2. AI Lifestyle Staging for Hero Banners
 The "Standard Image Header" (970 x 600 px) is the most valuable real estate in the A+ layout. Instead of hiring a set designer, the brand used PixelMatch to generate "Spa-themed" and "Botanical-themed" environments. Because PixelMatch understands product geometry, it placed the bottles on reflective surfaces with accurate drop shadows, mimicking a $500-per-day studio setup.

@@ -166,4 +166,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Batch Limits for AI Photo Editors
 *   TikTok AI Content Disclosure Policy (May 2026)
 *   Impact of Low-Quality AI Images on Cart Abandonment
-*   TikTok Shop AI Moderation Volume Statistics
+*   [TikTok Shop AI](https://pixelmatch.art/blog/stories/tiktok-shop-ai-thumbnail-disclosure-label-bug) Moderation Volume Statistics

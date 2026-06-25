@@ -97,7 +97,7 @@ Switch your background generation workflow to PixelMatch to ensure your hero ima
 Navigate to your "Active Listings" and use the bulk edit tool to add a standardized AI disclosure. A compliant disclosure should look like this:
 > "Created with AI assistance: The base of this artwork was generated using [Tool Name] and then digitally painted and color-corrected by our studio to ensure high-quality print results."
 
-By placing this in the first few lines of your description, you satisfy Etsy’s transparency requirements and build trust with your customers. Transparency often leads to higher conversion rates among the "conscious consumer" demographic that frequents Etsy.
+By placing this in the first few lines of your description, you satisfy Etsy’s [transparency requirements](https://pixelmatch.art/blog/stories/tiktok-shop-image-metadata-transparency-requirements-2026) and build trust with your customers. Transparency often leads to higher conversion rates among the "conscious consumer" demographic that frequents Etsy.
 
 ### Fixing Listing Images with PixelMatch
 If your shop currently relies on generic AI mockups for hero images, follow this three-step correction plan:
