@@ -34,7 +34,7 @@ Stop paying $50 per product shot just to have TikTok's algorithm bury your listi
 
 Run a calibration audit of your current photography workflow before you upload your next batch of beauty products to TikTok Shop. For multi-platform sellers moving $15,000 to $20,000 a month, the pressure to produce "lifestyle" content is relentless. TikTok Shop is not a "set it and forget it" marketplace; it is a visual-first platform where listing quality scores directly dictate your organic reach.
 
-This guide details how a composite beauty brand transitioned from expensive manual photoshoots to a high-speed AI workflow using PixelMatch, while strictly adhering to TikTok’s evolving transparency requirements.
+This guide details how a composite beauty brand transitioned from expensive manual photoshoots to a high-speed AI workflow using PixelMatch, while strictly adhering to TikTok’s evolving [transparency requirements](https://pixelmatch.art/blog/stories/tiktok-shop-image-metadata-transparency-requirements-2026).
 
 ## The Seller's Situation
 

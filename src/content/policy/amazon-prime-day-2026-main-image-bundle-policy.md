@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Missing a Prime Day deadline due to a suppressed listing is the fastest way to lose thousands in projected revenue. To stay active during the Amazon Prime Day 2026 rush, your listings must strictly adhere to the amazon prime day 2026 main image bundle policy, specifically regarding how grouped products are displayed against a white background.
+Missing a Prime Day deadline due to a suppressed listing is the fastest way to lose thousands in projected revenue. To stay active during the Amazon Prime Day 2026 rush, your listings must strictly adhere to the amazon prime [day 2026 main](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) image bundle policy, specifically regarding how grouped products are displayed against a white background.
 
 # Amazon Prime Day 2026 Main Image Bundle Policy: Complete Seller Guide
 

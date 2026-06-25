@@ -50,7 +50,7 @@ The root of the problem lay in TikTok Shop’s strict main image specifications:
 *   **Content:** No added text, promotional watermarks, or brand logos are permitted on the main image.
 *   **File Constraints:** Images must be at least 600 x 600 px and under 5MB in size.
 
-Because the brand’s Shopify images were a mix of lifestyle shots and graphics with text overlays (e.g., "Vegan" or "Cruelty-Free" badges), TikTok’s automated validation engine could not parse the files. The dynamic image rendering error specifically occurs when the platform's algorithm cannot identify the product boundaries to auto-crop or overlay price tags for ads.
+Because the brand’s Shopify images were a mix of lifestyle shots and graphics with text overlays (e.g., "Vegan" or "Cruelty-Free" badges), TikTok’s automated validation engine could not parse the files. The dynamic image [rendering error](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix) specifically occurs when the platform's algorithm cannot identify the product boundaries to auto-crop or overlay price tags for ads.
 
 ## What Wasn't Working
 

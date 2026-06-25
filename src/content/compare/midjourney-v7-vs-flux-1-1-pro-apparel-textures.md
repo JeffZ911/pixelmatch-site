@@ -82,8 +82,8 @@ Midjourney operates on a fixed-cost subscription model. This is predictable for 
 ### Flux 1.1 Pro API Costs
 [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) is built for developers and high-volume sellers who need to integrate AI generation into their own dashboards or third-party apps.
 *   **Replicate:** Typically costs $0.04 per output image for the 1.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) model.
-*   **Fal.ai:** Charges $0.04 per megapixel for [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).1 Pro, allowing for more granular control over cost vs. quality.
-*   **Flux 1.1 Pro Ultra:** Costs $0.06 per image on Replicate for higher resolution and increased detail.
+*   **Fal.ai:** Charges $0.04 per megapixel for [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows), allowing for more granular control over cost vs. quality.
+*   **[Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).1 Pro Ultra:** Costs $0.06 per image on Replicate for higher resolution and increased detail.
 
 For high-volume sellers, API costs can add up quickly, making batch-generation tools like PixelMatch a more predictable investment for catalog-wide updates.
 

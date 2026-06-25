@@ -109,7 +109,7 @@ Run your next product launch through this checklist to ensure your shop remains 
 ![Monitor Regulatory Updates to Protect Your Shop Assets](/img/etsy-ai-product-photo-disclosure-policy-2024-case-study/inline-6.webp)
 
 
-The rules surrounding AI in ecommerce are not static. While the current 2024 policy allows AI-assisted creations, sellers must stay updated on international regulations. For example, the EU AI Act, which begins taking full effect in August 2026, will introduce even stricter transparency requirements for "deepfake" or synthetic content.
+The rules surrounding AI in ecommerce are not static. While the current 2024 policy allows AI-assisted creations, sellers must stay updated on international regulations. For example, the EU AI Act, which begins taking full effect in August 2026, will introduce even stricter [transparency requirements](https://pixelmatch.art/blog/stories/tiktok-shop-image-metadata-transparency-requirements-2026) for "deepfake" or synthetic content.
 
 PixelMatch is built specifically for high-volume apparel and accessory sellers who need realistic human models and compliant workflows. While generalist tools like Canva might be sufficient for simple flat-lay graphics or social media posts, they often lack the batch-processing power and resolution controls required for a professional Etsy storefront.
 

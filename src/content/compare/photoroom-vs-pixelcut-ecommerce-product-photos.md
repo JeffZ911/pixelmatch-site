@@ -96,7 +96,7 @@ Verify your primary platform's specific image requirements before choosing a too
 
 ### Amazon & Marketplace Sellers
 **Winner: Photoroom**
-Amazon FBA sellers are subject to the [85% frame-fill rule](https://sellercentral.amazon.com/help/hub/reference/external/G1881), where the product must occupy the vast majority of the image against a pure white background. Photoroom’s "Assisted Cutout" and "Marketplace" templates are specifically engineered to meet these technical audits. If your main image is even slightly off-white (RGB 254 instead of 255), Amazon’s algorithm may suppress the listing. Photoroom’s precision ensures you pass these checks on the first try.
+Amazon FBA sellers are subject to the [85% frame-fill rule](https://sellercentral.amazon.com/help/hub/reference/external/G1881), where the product must occupy the vast majority of the image against a pure white background. Photoroom’s "Assisted Cutout" and "Marketplace" templates are specifically engineered to meet these technical audits. If your [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) is even slightly off-white (RGB 254 instead of 255), Amazon’s algorithm may suppress the listing. Photoroom’s precision ensures you pass these checks on the first try.
 
 ### Social Media Boutiques
 **Winner: Pixelcut**

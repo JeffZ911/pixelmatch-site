@@ -57,11 +57,11 @@ Set your export resolution to at least 800x800 px to exceed the TikTok Shop 600x
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Batch AI Product Photos | Mobile Photo Editing | General Graphic Design |
 | **Batch Capacity** | High-volume (100+ images) | Up to 500/mo (Pro) | Limited/Manual |
-| **AI Backgrounds** | Multi-platform optimized | Template-driven | Prompt-based (Magic Media) |
+| **AI Backgrounds** | Multi-platform optimized | Template-driven | Prompt-based ([Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial)) |
 | **Resolution Support** | Up to 4K / High DPI | High Res Export | [Customizable](https://www.canva.com/help/resize-designs/) |
 | **Platform Access** | Web Interface | Mobile App & Web | Mobile App & Web |
 | **API Access** | Available for Enterprise | Available for Developers | Limited via Apps SDK |
-| **Compliance Check** | Auto-scales to 600x600+ | Manual scaling | Manual scaling |
+| **[Compliance Check](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)** | Auto-scales to 600x600+ | Manual scaling | Manual scaling |
 
 ## Pricing Comparison
 
@@ -101,7 +101,7 @@ Canva Pro is best for brand owners who need an all-in-one design tool for [produ
 
 Review the Photoroom 500-export limit or Canva’s manual steps to ensure your bulk update won't be throttled or become a multi-day project. Rejection from TikTok Shop Mall often comes with a "cooldown period" before you can reapply, so your first overhaul must be comprehensive.
 
-*   **PixelMatch:** Focuses strictly on ecommerce product images. It lacks general graphic design tools like font libraries, social media templates, or video editing features. It is a specialized tool for image compliance rather than a broad creative suite.
+*   **PixelMatch:** Focuses strictly on ecommerce product images. It lacks general graphic design tools like font libraries, social media templates, or video editing features. It is a specialized tool for [image compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) rather than a broad creative suite.
 *   **Photoroom:** The Pro plan limits batch exports to 500 per month. For massive multi-platform sellers who need to refresh thousands of images across TikTok, Amazon, and eBay, this limit can be restrictive, forcing an upgrade to the more expensive Max or Enterprise tiers.
 *   **Canva Pro:** [AI image](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) generation and batch processing for product catalogs are less specialized. Canva’s background remover is excellent, but its ability to "relight" a product to match a new AI-generated background is less sophisticated than PixelMatch or Photoroom. This can sometimes result in images that look "flat" or obviously edited, which Mall curators may reject.
 
