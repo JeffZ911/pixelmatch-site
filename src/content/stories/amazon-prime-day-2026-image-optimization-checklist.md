@@ -83,7 +83,7 @@ The seller uploaded raw photos taken in their warehouse. PixelMatch's AI identif
 | :--- | :--- | :--- |
 | **Turnaround Time** | 48 - 72 Hours | < 5 Minutes |
 | **Cost per 100 Images** | ~$150.00 | Included in Base Subscription |
-| **Compliance Check** | Manual / Human Eye | Automated AI Preset |
+| **[Compliance Check](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)** | Manual / Human Eye | Automated AI Preset |
 | **Max Resolution** | Variable | Up to 10,000 px |
 
 **Actionable Step:** Create a "[Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) Main Image" preset in your editor with the following settings: 1600x1600 px resolution, JPEG format, and an 85% object-to-canvas ratio.

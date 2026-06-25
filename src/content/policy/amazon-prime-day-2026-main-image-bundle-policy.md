@@ -65,7 +65,7 @@ While the technical minimum to avoid a hard upload error is [500 pixels](https:/
 Batch-process your bundle images to ensure every file is exported as a JPEG with a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/gp/help/external/1881). Using PixelMatch allows you to maintain this consistency across hundreds of SKUs without manually adjusting the canvas size for each individual bundle configuration.
 
 ### Bundle-Specific Content Rules
-The most frequent violation of the amazon prime day 2026 main image bundle policy involves the inclusion of "lifestyle props." If you are selling a bundle of organic coffee beans and a ceramic mug, the main image must show only the beans (or their packaging) and the mug. You cannot include a spoon, a napkin, or a plate of cookies to "set the scene." 
+The most frequent violation of the amazon prime [day 2026 main](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) image bundle policy involves the inclusion of "lifestyle props." If you are selling a bundle of organic coffee beans and a ceramic mug, the main image must show only the beans (or their packaging) and the mug. You cannot include a spoon, a napkin, or a plate of cookies to "set the scene." 
 
 Amazon's [Product Bundling Policy](https://sellercentral.amazon.com/gp/help/external/200442350) is explicit: the main image must show the specific products in the bundle and nothing else. This rule extends to text and graphics. You are prohibited from adding:
 *   Borders or frames.

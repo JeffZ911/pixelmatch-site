@@ -87,7 +87,7 @@ Crucially, the seller followed the updated 2026 Amazon Acceptable Use Policy by 
 | :--- | :--- | :--- | :--- |
 | **Cost Per SKU** | $150+ | $26.99/mo (Subscription) | ~$12 (Pay-as-you-go/Batch) |
 | **Turnaround Time** | 7-14 Days | 4-6 Hours (Manual) | < 10 Minutes (Batch) |
-| **Compliance Check** | Manual | None | Automated (RGB 255/85% Fill) |
+| **[Compliance Check](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)** | Manual | None | Automated (RGB 255/85% Fill) |
 | **Resolution** | High (Native) | Variable | 2000px+ Upscaled |
 | **AI Disclosure** | N/A | Manual | Compliance-Ready Exports |
 
@@ -107,7 +107,7 @@ The impact on listing health was even more dramatic. The "Search Suppressed" ale
 | **Cost per listing set** | $150 | $12 | 92% Reduction |
 | **Suppression recovery** | 48+ Hours | < 2 Hours | 95% Faster |
 | **Batch processing limit** | None (Manual) | 1,000+ images | Unlimited workflow |
-| **Image compliance rate** | 70% (Manual errors) | 100% | 30% Increase |
+| **[Image compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) rate** | 70% (Manual errors) | 100% | 30% Increase |
 
 The brand successfully secured their inventory check-in ahead of the June 23 [Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) kickoff. By maintaining their organic rank and avoiding suppression, they captured the full wave of early-bird Prime Day traffic, resulting in a 22% increase in sales compared to the previous year's Prime Day event.
 

@@ -144,7 +144,7 @@ The biggest bottleneck for multi-platform sellers is the lack of batch processin
 ## Frequently Asked Questions
 
 ### Is Shopify Magic image generation really free?
-Yes, as of June 2026, Shopify Magic media generation is [included in all Shopify plans](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/file-uploads/media-generation) at no extra cost. This includes the Basic, Shopify, and Advanced tiers. However, it is currently in beta and some features may change as the tool evolves.
+Yes, as of June 2026, Shopify [Magic media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial) generation is [included in all Shopify plans](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/file-uploads/media-generation) at no extra cost. This includes the Basic, Shopify, and Advanced tiers. However, it is currently in beta and some features may change as the tool evolves.
 
 ### Can I use Shopify Magic images on Amazon or Etsy?
 Technically, yes, but you must be careful with resolution. Shopify Magic outputs images at [1 megapixel](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/file-uploads/media-generation). Since [Etsy recommends 2000px](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) and [Amazon recommends 1600px+ for zoom](https://sellercentral.amazon.com/help/hub/reference/external/G1881), the 1MP output (roughly 1024px) may be too low for optimal performance on those platforms.

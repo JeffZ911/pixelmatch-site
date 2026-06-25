@@ -101,7 +101,7 @@ Shopify Magic is the clear winner for lean D2C brands that want zero setup and n
 Amazon's native AI is perfect for sellers who struggle with ad creative and need to quickly generate lifestyle images for Sponsored Brands campaigns. If you do not have a standalone website and only care about Amazon Advertising performance, stay within the console. It allows you to select your product from your existing catalog and place it into scenes like "a cozy living room" or "an outdoor patio" without needing to re-upload the raw file.
 
 ### Multi-Platform Sellers
-Brands selling on both platforms are better served by PixelMatch. It allows sellers to take a single raw photo and automatically export a [2000 x 2000 px](https://sellercentral.amazon.com/help/hub/reference/G1881) Amazon-compliant main image alongside a stylized Shopify lifestyle shot. By using a centralized tool, you ensure that the color grading and lighting of your product remain consistent across every marketplace, which is critical for brand recognition.
+Brands selling on both platforms are better served by PixelMatch. It allows sellers to take a single raw photo and automatically export a [2000 x 2000 px](https://sellercentral.amazon.com/help/hub/reference/G1881) Amazon-compliant [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) alongside a stylized Shopify lifestyle shot. By using a centralized tool, you ensure that the color grading and lighting of your product remain consistent across every marketplace, which is critical for brand recognition.
 
 ## Where Each Falls Short
 
