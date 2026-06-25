@@ -100,7 +100,7 @@ Align your export settings with your primary sales channel's requirements; for e
 If you are just starting out or have a catalog of fewer than 10 products, Shopify Magic is your best bet. The Summer Edition 2026 tools allow you to remove a cluttered home background and replace it with a clean, professional aesthetic without leaving the Shopify admin. It’s perfect for testing new product ideas before investing in professional photography.
 
 ### Marketplace Sellers
-For those selling on Amazon, Etsy, or eBay, Photoroom is a powerhouse. These platforms have strict requirements for "Pure White" backgrounds on the main image. Photoroom’s Pro features include specific templates for these marketplaces, ensuring your images aren't rejected by platform algorithms. It is particularly useful for sellers who do their own photography using a smartphone.
+For those selling on Amazon, Etsy, or eBay, Photoroom is a powerhouse. These platforms have strict requirements for "Pure White" backgrounds on the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance). Photoroom’s Pro features include specific templates for these marketplaces, ensuring your images aren't rejected by platform algorithms. It is particularly useful for sellers who do their own photography using a smartphone.
 
 ### Multi-Platform Scalers
 If you manage a Shopify store while also pushing inventory to TikTok Shop and Amazon, PixelMatch is the superior choice. Multi-platform sellers face the unique challenge of differing image specs:

@@ -45,7 +45,7 @@ To modernize, the seller attempted to use <a href="https://www.amazon.com/s?k=Pr
 
 The immediate objective was to refresh the entire 50-SKU catalog for the 2026 season. However, the transition to Amazon's native AI tools immediately surfaced technical friction points that threatened to derail the project.
 
-**Actionable Step for Sellers:** Before committing your entire catalog to a new AI tool, run a "Calibration Batch" with your three best-selling SKUs to test for prompt-based error codes and image compliance.
+**Actionable Step for Sellers:** Before committing your entire catalog to a new AI tool, run a "Calibration Batch" with your three best-selling SKUs to test for prompt-based error codes and [image compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance).
 
 ## What Wasn't Working: Project Amelia Error Codes
 

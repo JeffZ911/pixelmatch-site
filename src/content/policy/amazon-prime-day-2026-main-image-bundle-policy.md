@@ -87,7 +87,7 @@ If you are a multi-platform seller dealing in consumables (grocery, beauty, heal
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Listing suppression often happens at the worst possible time—usually 48 hours before Prime Day starts when traffic begins to spike. Understanding why the amazon prime day 2026 main image bundle policy triggers a rejection can help you proactively audit your catalog.
+Listing suppression often happens at the worst possible time—usually 48 hours before Prime Day starts when traffic begins to spike. Understanding why the amazon prime [day 2026 main](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) image bundle policy triggers a rejection can help you proactively audit your catalog.
 
 ### Including Props or Excluded Items
 Sellers often try to show the product "in use" to drive clicks. For a bundle of camera lenses, you might be tempted to show the lenses attached to a camera body. However, unless the camera body is part of that specific ASIN bundle, its inclusion in the main image violates the [Product Image Requirements](https://sellercentral.amazon.com/gp/help/external/1881). This results in a "Main Image contains prohibited items" error in Seller Central. 

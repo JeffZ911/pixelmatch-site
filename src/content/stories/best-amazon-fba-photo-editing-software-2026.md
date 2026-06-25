@@ -75,7 +75,7 @@ For secondary images (slots 2-9), the seller uses AI background generation to cr
 | :--- | :--- | :--- | :--- |
 | **Cost per SKU** | $150 - $300 | $0.50 - $2.00 | < $0.30 |
 | **Turnaround Time** | 10 - 14 Days | 5 - 10 Minutes | < 60 Seconds (Batch) |
-| **Compliance Check** | Manual | Manual / Hit-or-Miss | Automated Amazon Preset |
+| **[Compliance Check](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)** | Manual | Manual / Hit-or-Miss | Automated Amazon Preset |
 | **Batch Capacity** | N/A (Per Photo) | Often limited to 50 | Unlimited Batch Processing |
 | **Lifestyle Scenes** | Physical Props Required | [AI Generated](https://pixelmatch.art/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix) | AI Generated + Brand Presets |
 
