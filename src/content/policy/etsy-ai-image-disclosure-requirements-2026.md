@@ -69,7 +69,7 @@ When writing your description, use clear language such as: "This digital artwork
 
 ### AI Models and Mockups
 
-The New York AI Transparency Act (Senate Bill S8420A), which went into effect on June 9, 2026, has significant implications for Etsy sellers who ship to or operate within New York. The law requires "conspicuous disclosure" when a "digitally created or altered" human likeness is used in an advertisement—which includes your Etsy listing photos.
+The New York [AI Transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) Act (Senate Bill S8420A), which went into effect on June 9, 2026, has significant implications for Etsy sellers who ship to or operate within New York. The law requires "conspicuous disclosure" when a "digitally created or altered" human likeness is used in an advertisement—which includes your Etsy listing photos.
 
 If you use AI-generated models to showcase apparel, jewelry, or accessories, you must add a visible label to the image. A small, legible badge stating "[AI model](https://pixelmatch.art/blog/compare/swe-bench-ecommerce-ai-model-rankings-20260615) used" or "Digitally generated person" is necessary to remain compliant. Failing to do so could result in legal scrutiny under consumer protection statutes designed to prevent deceptive advertising.
 

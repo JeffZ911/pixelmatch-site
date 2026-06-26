@@ -141,7 +141,7 @@ No, there are currently no user-accessible settings to increase the output resol
 No. Amazon's current requirement for primary images is a [minimum of 1600 pixels](https://sellercentral.amazon.com/help/hub/reference/G1881) on the longest side. Using Shopify Magic's 1024x1024 output will result in your images being flagged as "low quality," and you will not be able to use the "Zoom" feature, which is proven to increase conversion rates.
 
 ### How does PixelMatch avoid the edge-blurring issue?
-PixelMatch processes images at their native resolution and uses higher-fidelity diffusion models that are not capped by the 1MP limit. By generating the AI background at 4K resolution, the tool ensures that the transition between the product edge and the new background remains sharp and professional, even when viewed on large screens.
+PixelMatch processes images at their native resolution and uses higher-fidelity diffusion models that are not capped by the 1MP limit. By generating the [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) at 4K resolution, the tool ensures that the transition between the product edge and the new background remains sharp and professional, even when viewed on large screens.
 
 
 <!-- pm-cta:foot -->

@@ -57,7 +57,7 @@ When exporting for marketplaces, manual workflows require secondary upscaling to
 
 PixelMatch automatically formats outputs to meet marketplace specs, including [Amazon's strict pure white RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) rule. While [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) is excellent for lifestyle scenes, it often struggles to produce a "perfect" hex #FFFFFF white background without specialized LoRAs or post-processing; PixelMatch integrates this step into the batch export.
 
-| Feature | Flux Pro Manual (ComfyUI/API) | PixelMatch Batch SaaS |
+| Feature | [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) Manual (ComfyUI/API) | PixelMatch Batch SaaS |
 | :--- | :--- | :--- |
 | **Setup Time** | 2–4 hours (Node configuration) | < 5 minutes (Account setup) |
 | **Control Mechanism** | Manual Depth Map / ControlNet nodes | Automated Depth-Aware Generation |

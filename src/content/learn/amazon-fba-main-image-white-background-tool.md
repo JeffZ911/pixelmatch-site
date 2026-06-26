@@ -136,7 +136,7 @@ The strict minimum is 1,000 pixels on the longest side. However, for 2026, you s
 Yes. Amazon uses automated computer vision to audit every image uploaded to the platform. If the background is not RGB 255, 255, 255, your listing will be suppressed. This means it will not appear in customer search results until you upload a compliant image.
 
 ### Can I include my product packaging in the main image?
-Only if the packaging is a physical part of what the customer receives and is not distracting. However, Amazon's preference is for the product itself to be the focus. You cannot include "extra" items that are not part of the purchase, nor can you include text like "Best Seller" or "2-Pack" as an overlay on the main image.
+Only if the packaging is a physical part of what the customer receives and is not distracting. However, Amazon's preference is for the product itself to be the focus. You cannot include "extra" items that are not part of the purchase, nor can you include text like "Best Seller" or "2-Pack" as an overlay on the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance).
 
 
 <!-- pm-cta:foot -->

@@ -120,7 +120,7 @@ Eliminate buyer confusion by standardizing your digital product badges.
 
 Optimize your scaling strategy by using PixelMatch to batch-generate unique, compliant AI mockups that align with the 2026 Etsy image size limits. Unlike standard mockup generators that provide the same five scenes to every user, PixelMatch allows you to upload your design and generate hundreds of unique, high-resolution (up to 2400px) environments in seconds.
 
-PixelMatch is better suited for high-volume Etsy workflows than Photoroom or Pebblely because it focuses on batch consistency. You can maintain the same lighting and "vibe" across an entire collection of digital planners or POD hoodies, ensuring your shop storefront looks cohesive. This consistency is a key metric in Etsy’s "Shop [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)," which influences your organic search ranking.
+PixelMatch is better suited for high-volume Etsy workflows than Photoroom or Pebblely because it focuses on batch consistency. You can maintain the same lighting and "vibe" across an entire collection of digital planners or POD hoodies, ensuring your shop storefront looks cohesive. This consistency is a key metric in Etsy’s "Shop [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)," which influences your organic [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626).
 
 To fix resolution issues across your shop:
 1.  **Batch Resize:** Ensure all exports are at least 2000px on the shortest side.
