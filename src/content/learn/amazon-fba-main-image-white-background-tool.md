@@ -124,7 +124,7 @@ Calculate your "Cost Per Image" by dividing the monthly tool subscription by the
 
 
 ### What is the exact color code for Amazon white background?
-The only acceptable color for an Amazon main image background is Pure White. This is defined as RGB 255, 255, 255 or Hex code #FFFFFF. Any other variation, such as "Off-White" or "Cream," can lead to listing suppression.
+The only acceptable color for an Amazon [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) background is Pure White. This is defined as RGB 255, 255, 255 or Hex code #FFFFFF. Any other variation, such as "Off-White" or "Cream," can lead to listing suppression.
 
 ### Can I use a transparent background for Amazon FBA?
 No. While many sellers believe a PNG with transparency is "white," Amazon's system requires a solid color file. Transparent PNGs often default to a black or gray background when processed by Amazon’s servers, which will cause your listing to be removed from search results.

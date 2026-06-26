@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Your Etsy search ranking now depends on the technical health of your image files as much as your keyword tags. If your main listing photos fail to meet the updated 2026 quality benchmarks, your products will drift toward the bottom of search results regardless of your conversion rate.
+Your Etsy [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) now depends on the technical health of your image files as much as your keyword tags. If your main listing photos fail to meet the updated 2026 quality benchmarks, your products will drift toward the bottom of search results regardless of your conversion rate.
 
 Etsy recommends listing photos be at least [2000 pixels or more](https://help.etsy.com/hc/en-us/articles/115015663347) in width and height, with the first photo at least 635px wide. Blurry or dark images can now lower your search ranking.
 

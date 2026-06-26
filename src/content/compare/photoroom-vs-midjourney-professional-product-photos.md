@@ -54,7 +54,7 @@ Scaling a multi-platform store requires understanding the technical constraints 
 | **Exact Product Preservation** | High (uses your original photo) | Low (often "hallucinates" or alters product details) |
 | **Batch Processing** | Yes (available in Pro and Business tiers) | No (requires 3rd-party API or manual generation) |
 | **Export Resolution** | Up to [2048 x 2048 px](https://help.shopify.com/en/manual/products/product-media/image-sizes) (Shopify Optimized) | Variable (up to ~1024px, requires upscaling) |
-| **Background Removal** | Native, 1-click AI Background Remover | None (requires external tools) |
+| **Background Removal** | Native, 1-click [AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) Remover | None (requires external tools) |
 | **Learning Curve** | Low (Mobile & Web App) | High (Discord-based or Web Alpha, Prompt Engineering) |
 | **Marketplace Compliance** | Built-in presets for Amazon, eBay, and Etsy | Manual (requires careful prompting for white backgrounds) |
 

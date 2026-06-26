@@ -53,7 +53,7 @@ Run your current catalog through this technical checklist to ensure your images 
 ![Detailed Requirements](/img/amazon-rufus-visual-search-product-mismatch-fix/inline-2.webp)
 
 
-Amazon Rufus and the underlying Cosmo algorithm represent a shift from keyword-only indexing to multimodal AI evaluation. Rufus doesn't just read your bullet points; it "sees" your images to verify if the product matches the shopper’s intent. If your text says "matte finish" but the image shows a high-gloss reflection, the AI detects a conflict, potentially resulting in a product mismatch error or lower ranking in conversational queries.
+[Amazon Rufus](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix) and the underlying Cosmo algorithm represent a shift from keyword-only indexing to multimodal AI evaluation. Rufus doesn't just read your bullet points; it "sees" your images to verify if the product matches the shopper’s intent. If your text says "matte finish" but the image shows a high-gloss reflection, the AI detects a conflict, potentially resulting in a product mismatch error or lower ranking in conversational queries.
 
 ### Main Image Technical Specs
 
