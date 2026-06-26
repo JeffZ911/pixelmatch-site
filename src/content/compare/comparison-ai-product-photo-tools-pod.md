@@ -60,7 +60,7 @@ POD sellers often struggle with "halo effects" around transparent PNG edges when
 | **Batch Generation** | Native (Unlimited) | Up to 1,500 (Max) | Up to 500 (Pro) | Manual / Bulk Create |
 | **Multi-Platform Resizing** | Auto (1:1, 4:5, 16:9) | Manual / Preset | Limited Presets | Manual Resize |
 | **API Access** | Yes | Yes (Extra Cost) | No | Limited |
-| **AI Background Realism** | High (Product-Focused) | High | Very High (Creative) | Moderate |
+| **[AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) Realism** | High (Product-Focused) | High | Very High (Creative) | Moderate |
 | **Amazon Compliance Mode** | Yes (Pure White) | Yes | No | No |
 | **Background Removal** | Included | Included | Included | Included |
 

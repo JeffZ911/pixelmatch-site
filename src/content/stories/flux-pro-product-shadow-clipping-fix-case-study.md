@@ -117,7 +117,7 @@ You can implement this exact workflow for your own multi-platform store. Whether
 Start with the highest resolution photo you have. Even if it is a "cell phone shot" taken in a light box, ensure the product is in focus. Upload this into the PixelMatch interface. Do not worry if the crop is tight or if the shadow is currently cut off by the frame.
 
 ### Step 2: Select the Flux Pro Shadow Fix
-Choose the workflow powered by Black Forest Labs' Flux.1 Pro. This model is specifically designed to handle complex lighting and spatial reasoning. In the settings, ensure the "Outpaint" or "Expand Canvas" option is enabled.
+Choose the workflow powered by Black Forest Labs' Flux.[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures). This model is specifically designed to handle complex lighting and spatial reasoning. In the settings, ensure the "Outpaint" or "Expand Canvas" option is enabled.
 
 ### Step 3: Configure Technical Specs
 Set your target output to 1600x1600 px. This exceeds the [Amazon 1000px minimum](https://sellercentral.amazon.com/help/hub/reference/1881) and stays well within the [Shopify 5000x5000 px limit](https://help.shopify.com/en/manual/products/product-media/product-media-types). Ensure the background color is hard-coded to #FFFFFF (RGB 255, 255, 255).

@@ -42,7 +42,7 @@ Building a manual workflow using a [Flux Pro](https://pixelmatch.art/blog/storie
 
 However, running Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) requires managing API keys and complex ComfyUI node setups, making it difficult to scale across a large catalog. You have to manually configure the `ControlNetApply` node, select the correct depth model, and balance the "strength" parameter to ensure the background blends without bleeding into the product edges. This process often takes 15–30 minutes per SKU to perfect.
 
-PixelMatch abstracts the depth map and ControlNet technology into a seamless SaaS interface, allowing sellers to batch-generate compliance-ready images without the technical overhead. Instead of wiring nodes in a visual editor, you upload your product catalog and let the system handle the depth extraction and Flux Pro rendering in the background.
+PixelMatch abstracts the depth map and ControlNet technology into a seamless SaaS interface, allowing sellers to batch-generate compliance-ready images without the technical overhead. Instead of wiring nodes in a visual editor, you upload your product catalog and let the system handle the depth extraction and [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) rendering in the background.
 
 **Actionable Step:** Run a depth map extraction test on your highest-margin product by uploading it to a depth preprocessor tool; if the resulting grayscale map shows "holes" or fuzzy edges around your product's silhouette, your manual ControlNet workflow will require custom masking to avoid image rejection.
 
@@ -92,7 +92,7 @@ PixelMatch offers flat-rate subscription pricing, eliminating the unpredictable 
 ![Best For (By Seller Profile)](/img/flux-pro-product-depth-map-controlnet-guide/inline-4.webp)
 
 
-The choice between a manual Flux Pro product depth map ControlNet guide and an automated tool depends entirely on your SKU count and technical comfort level.
+The choice between a manual [Flux Pro product](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) depth map ControlNet guide and an automated tool depends entirely on your SKU count and technical comfort level.
 
 ### Boutique Brands
 Manual Flux Pro ControlNet workflows are best for single-SKU brands that need one perfect, highly customized hero shot for a landing page. If you sell a premium watch or a bespoke piece of furniture, you likely need a specific type of "rim lighting" or a very particular shadow fall-off that only a manual node setup in ComfyUI can provide. Since you are only managing one or two products, spending three hours perfecting a single image is a justifiable investment in your brand's visual identity.
@@ -123,7 +123,7 @@ Understanding the limitations of these technologies is as important as knowing t
 ![Recommendation](/img/flux-pro-product-depth-map-controlnet-guide/inline-6.webp)
 
 
-If you are an AI hobbyist or a brand with a single flagship product, following a Flux Pro product depth map ControlNet guide to build a custom ComfyUI workflow is worth the effort. The depth of control allows you to treat the AI like a virtual photography studio, adjusting "virtual" lights and camera lenses with extreme precision.
+If you are an AI hobbyist or a brand with a single flagship product, following a Flux [Pro product](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) depth map ControlNet guide to build a custom ComfyUI workflow is worth the effort. The depth of control allows you to treat the AI like a virtual photography studio, adjusting "virtual" lights and camera lenses with extreme precision.
 
 However, if your primary goal is to drive ecommerce sales across multiple platforms without becoming a machine learning engineer, use PixelMatch. PixelMatch relies on the same underlying depth map technology to keep your product's shape intact, but wraps it in a batch-processing engine built specifically for ecommerce. It eliminates the need to learn prompt engineering or manage expensive API credits.
 

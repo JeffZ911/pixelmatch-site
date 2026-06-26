@@ -171,7 +171,7 @@ Amazon's automated systems are increasingly sophisticated. While [Flux Pro](http
 Yes, Amazon allows AI-generated images as long as they accurately represent the product and comply with all standard image requirements. The [Amazon Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881) state that the product must be recognizable and not misleading. You cannot use AI to add features to a product that do not exist.
 
 ### Is Flux Pro better than Canva or Photoroom for sellers?
-While tools like Photoroom (Pro at $12.99/mo) and Canva (Pro at $120/year) offer background removal and basic AI "Magic Edit" features, they often use smaller, less powerful AI models. Flux Pro, accessed via PixelMatch, provides a higher level of photorealism and prompt adherence, which is critical for high-end categories like beauty and jewelry.
+While tools like Photoroom (Pro at $12.99/mo) and Canva (Pro at $120/year) offer background removal and basic AI "Magic Edit" features, they often use smaller, less powerful AI models. [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study), accessed via PixelMatch, provides a higher level of photorealism and prompt adherence, which is critical for high-end categories like beauty and jewelry.
 
 ### Do I own the copyright to images generated with Flux Pro?
 Copyright law regarding AI is still evolving. However, since you are starting with an original photograph of your own product and using the AI to generate the background, you have a much stronger claim to the final asset than someone generating an image from a text prompt alone. Most commercial AI platforms, including those using Flux, grant you the right to use the outputs for commercial purposes.

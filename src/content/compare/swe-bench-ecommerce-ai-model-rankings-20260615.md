@@ -79,7 +79,7 @@ The tools in the SWE-bench ecommerce AI model rankings differ significantly in h
 
 **Photoroom** offers a robust mobile app and web interface. Features like Virtual Model allow you to place clothing on AI-generated humans, which is a significant cost-saver for apparel brands. However, its batching is often limited by the interface design, which favors individual "edits" over catalog-wide transformations.
 
-**Pebblely** provides 40+ pre-set background themes. This is the "fastest" tool for getting a product into a kitchen, a bathroom, or a park setting. While it lacks deep technical compliance tools for Amazon's strict main image standards, it excels at generating the "lifestyle" content needed for Shopify product galleries or Instagram posts.
+**Pebblely** provides 40+ pre-set background themes. This is the "fastest" tool for getting a product into a kitchen, a bathroom, or a park setting. While it lacks deep technical compliance tools for Amazon's strict [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) standards, it excels at generating the "lifestyle" content needed for Shopify product galleries or Instagram posts.
 
 ## Pricing Comparison
 

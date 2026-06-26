@@ -64,7 +64,7 @@ Check your current hardware's VRAM capacity before attempting to run these model
 | **Ideal Use Case** | Scaling Amazon/Shopify Stores | Research & Hobbyist Prototyping |
 
 ### Actionable Step: The "Pencil Test" for Shadow Grounding
-To verify shadow quality, prompt both models to generate a "high-end fountain pen on a white marble surface." Look specifically at the point where the pen tip meets the marble. FLUX 1.1 Pro will typically generate a soft "contact shadow" that darkens as it nears the pen. FLUX.1 [dev] may occasionally produce a "halo" effect or a shadow that is disconnected from the object, requiring you to manually fix the image in post-production.
+To verify shadow quality, prompt both models to generate a "high-end fountain pen on a white marble surface." Look specifically at the point where the pen tip meets the marble. [FLUX 1](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures).[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) will typically generate a soft "contact shadow" that darkens as it nears the pen. FLUX.1 [dev] may occasionally produce a "halo" effect or a shadow that is disconnected from the object, requiring you to manually fix the image in post-production.
 
 ## Pricing Comparison
 
