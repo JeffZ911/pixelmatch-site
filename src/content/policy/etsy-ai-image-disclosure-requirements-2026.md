@@ -33,7 +33,7 @@ Etsy has updated its policies to reflect the growing use of generative tools, ca
 *Related: [Stable Diffusion 3 Product Text Rendering Guide for Sellers](/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615) · [TikTok Shop Symphony Digital Human Image Specs (2026)](/blog/policy/tiktok-shop-symphony-digital-human-image-specs) · [TikTok Shop Image Specs for Video Shopping Ads (2026)](/blog/policy/tiktok-shop-image-specs-video-shopping-ads)*
 
 
-As of 2026, Etsy requires sellers to disclose AI-generated items in the listing description. Additionally, the new NY AI Transparency Act (effective June 9, 2026) mandates disclosing AI-generated human models in product photos or mockups.
+As of 2026, Etsy requires sellers to disclose AI-generated items in the listing description. Additionally, the new NY [AI Transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) Act (effective June 9, 2026) mandates disclosing AI-generated human models in product photos or mockups.
 
 ## Quick Reference Table
 

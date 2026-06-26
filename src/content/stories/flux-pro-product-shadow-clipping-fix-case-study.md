@@ -137,7 +137,7 @@ While the **flux pro product shadow clipping fix** is a massive leap forward for
 
 **Actionable Step for Sellers:** Measure the "frame fill" of your product before uploading to Amazon. The product must occupy [85% to 100% of the image](https://sellercentral.amazon.com/help/hub/reference/1881). If your shadow outpainting makes the product look too small in the frame, you must crop the final image slightly while maintaining the shadow integrity.
 
-One limitation is processing speed. Because Flux.1 Pro is a massive, high-parameter model, it is not instantaneous. While basic background removers like Canva or Removebg might take 2-3 seconds, the Flux Pro fix typically takes 10-15 seconds per image. For a seller batch-generating 500 images, this is a noticeable difference, though still significantly faster than a human retoucher.
+One limitation is processing speed. Because Flux.[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) is a massive, high-parameter model, it is not instantaneous. While basic background removers like Canva or Removebg might take 2-3 seconds, the Flux Pro fix typically takes 10-15 seconds per image. For a seller batch-generating 500 images, this is a noticeable difference, though still significantly faster than a human retoucher.
 
 Additionally, highly reflective surfaces like chrome or polished gold packaging can still be tricky. While the AI is excellent at reconstructing the shadow on the floor, it may occasionally struggle to reconstruct a complex reflection *inside* the product if that reflection was clipped in the original photo. For these specific high-gloss items, a quick manual mask or a slightly wider original shot is still recommended.
 

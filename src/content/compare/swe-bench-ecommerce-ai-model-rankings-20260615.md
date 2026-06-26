@@ -148,7 +148,7 @@ The "winner" in the SWE-bench ecommerce AI model rankings depends entirely on yo
 ## Frequently Asked Questions
 
 ### What is the Amazon requirement for main product images?
-Amazon requires that the main image has a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) and that the product occupies at least 85% of the image frame. The image must also be at least 1600 pixels on the longest side to enable the zoom function, which is critical for conversion.
+Amazon requires that the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) has a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) and that the product occupies at least 85% of the image frame. The image must also be at least 1600 pixels on the longest side to enable the zoom function, which is critical for conversion.
 
 ### Does Photoroom offer an unlimited plan?
 No, Photoroom does not offer an unlimited plan for a flat fee. The Pro plan includes a 500-image batch export limit, and the API is billed on a per-image basis, starting at $0.02 for background removal.

@@ -43,7 +43,7 @@ Manual photo editing creates a severe bottleneck. If you spend 20 minutes per pr
 
 | Specification | Requirement | Impact of Non-Compliance |
 | :--- | :--- | :--- |
-| **Minimum Dimension** | 2000 pixels (shortest side) | Blurry images on zoom; lower search ranking |
+| **Minimum Dimension** | 2000 pixels (shortest side) | Blurry images on zoom; lower [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) |
 | **Maximum File Size** | 1MB (1,000 KB) | Upload failure; slow mobile loading |
 | **File Formats** | .jpg, .gif, .png | Listing will not save or display |
 | **[Color Profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix)** | sRGB | Colors will appear dull or "off" to buyers |

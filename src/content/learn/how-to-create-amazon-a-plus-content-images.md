@@ -155,7 +155,7 @@ Standard approval time is within 7 business days. However, during peak seasons l
 No. A+ Content is an exclusive benefit for sellers who have a verified trademark and are enrolled in the Amazon Brand Registry program. If you are not registered, your listing will only show the basic text-only product description.
 
 **Does A+ Content help with Amazon SEO?**
-While the text within A+ Content images (the alt-text) is indexed by Amazon and Google, the text in the modules themselves is generally not used for Amazon's internal search ranking. The SEO benefit is indirect: higher conversion rates and lower bounce rates signal to Amazon's A9 algorithm that your product is relevant, which improves your organic ranking over time.
+While the text within A+ Content images (the alt-text) is indexed by Amazon and Google, the text in the modules themselves is generally not used for Amazon's internal [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626). The SEO benefit is indirect: higher conversion rates and lower bounce rates signal to Amazon's A9 algorithm that your product is relevant, which improves your organic ranking over time.
 
 
 <!-- pm-cta:foot -->
