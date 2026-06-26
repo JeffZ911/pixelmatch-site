@@ -129,7 +129,7 @@ Test your tool's API latency or batch-processing speed today by uploading 50 hig
 No tool is perfect for every stage of the ecommerce journey. Understanding these limitations prevents you from overpaying for features you can't use.
 
 *   **Photoroom:** While excellent for individuals, it can become expensive at scale. Because API billing is separate from the Pro/Max subscriptions, a developer trying to automate a 10,000-item catalog will face significant per-image costs ($0.10 per image for editing). Additionally, the 500-image batch limit on the Pro tier can be a bottleneck for seasonal refreshes.
-*   **Pebblely:** This tool lacks the advanced "reasoning" for marketplace compliance. If you use Pebblely to generate an Amazon Main Image, you must manually ensure the background is pure white and the margins are correct. It also lacks a robust "Virtual Model" feature, making it less useful for apparel sellers compared to Photoroom.
+*   **Pebblely:** This tool lacks the advanced "reasoning" for marketplace compliance. If you use Pebblely to generate an Amazon [Main Image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance), you must manually ensure the background is pure white and the margins are correct. It also lacks a robust "Virtual Model" feature, making it less useful for apparel sellers compared to Photoroom.
 *   **PixelMatch:** The focus on high-volume batching and technical compliance means it may have a steeper learning curve for casual sellers. If you only need to edit one photo of a vintage vase to sell on eBay, the multi-platform configuration options in PixelMatch might feel like overkill compared to a simple mobile app.
 
 ## Recommendation

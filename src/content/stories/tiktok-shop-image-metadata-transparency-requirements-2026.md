@@ -121,7 +121,7 @@ Upload your base shots to PixelMatch. Use the batch processing feature to remove
 Export a minimum of 4 images in JPG or PNG format. Ensure your export settings are set to 1:1 aspect ratio. PixelMatch handles the metadata preservation, but you should verify that the files are not "stripped" of data by secondary compression tools.
 
 ### Step 4: Enable the AI transparency label
-When uploading to TikTok Seller Center, navigate to the "Media" section. For every image that uses an AI-generated background, you must explicitly enable the AI transparency label before publishing. This tells the TikTok algorithm that you are compliant with the May 2026 updates, preventing your listing from being flagged by the automated "Synthetic Content" scanner.
+When uploading to TikTok Seller Center, navigate to the "Media" section. For every image that uses an AI-generated background, you must explicitly enable the [AI transparency label](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) before publishing. This tells the TikTok algorithm that you are compliant with the May 2026 updates, preventing your listing from being flagged by the automated "Synthetic Content" scanner.
 
 ## Caveats and Honest Limitations
 

@@ -123,7 +123,7 @@ Choose the workflow powered by Black Forest Labs' Flux.[1 Pro](https://pixelmatc
 Set your target output to 1600x1600 px. This exceeds the [Amazon 1000px minimum](https://sellercentral.amazon.com/help/hub/reference/1881) and stays well within the [Shopify 5000x5000 px limit](https://help.shopify.com/en/manual/products/product-media/product-media-types). Ensure the background color is hard-coded to #FFFFFF (RGB 255, 255, 255).
 
 ### Step 4: Generate and Refine
-Click generate. The AI will take approximately 10-15 seconds to analyze the light source, expand the floor plane, and reconstruct the shadow gradient. Because Flux.1 Pro uses 12 billion parameters, it can accurately predict how a shadow should fall even if 50% of that shadow was missing in the original photo.
+Click generate. The AI will take approximately 10-15 seconds to analyze the light source, expand the floor plane, and reconstruct the shadow gradient. Because Flux.[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) uses 12 billion parameters, it can accurately predict how a shadow should fall even if 50% of that shadow was missing in the original photo.
 
 ### Step 5: Export and Batch Upload
 Once the image is generated, perform a quick visual check for "hallucinations" (artifacts in the glass or reflections). Export the file as a high-quality JPEG or PNG and upload it directly to Shopify or Amazon Seller Central.

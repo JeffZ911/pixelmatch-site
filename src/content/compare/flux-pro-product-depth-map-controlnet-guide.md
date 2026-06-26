@@ -51,7 +51,7 @@ PixelMatch abstracts the depth map and ControlNet technology into a seamless Saa
 ![Side-by-Side Feature Table](/img/flux-pro-product-depth-map-controlnet-guide/inline-2.webp)
 
 
-Flux Pro (via API) requires manual prompt engineering for every single variation, whereas PixelMatch uses automated prompt generation based on your product category. When you use Flux Pro manually through an interface like ComfyUI or Forge, you must specify every detail of the environment, lighting, and camera angle in a text prompt. If you have 100 products, you are writing 100 unique prompts.
+[Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) (via API) requires manual prompt engineering for every single variation, whereas PixelMatch uses automated prompt generation based on your product category. When you use Flux Pro manually through an interface like ComfyUI or Forge, you must specify every detail of the environment, lighting, and camera angle in a text prompt. If you have 100 products, you are writing 100 unique prompts.
 
 When exporting for marketplaces, manual workflows require secondary upscaling to meet [Amazon's 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement. Most raw Flux Pro generations occur at 1024x1024 or 1344x768 pixels. To get these to a high-quality 2000px or 3000px output for zoom-capable listings, you must add an ESRGAN or SwinIR upscaling node to your workflow, which increases generation time and cost.
 
@@ -112,7 +112,7 @@ Teams that need granular control over every pixel will prefer ComfyUI, while age
 
 Understanding the limitations of these technologies is as important as knowing their benefits.
 
-**Flux Pro Manual Workflows:** The learning curve is incredibly steep. Setting up a depth preprocessor and routing nodes in ComfyUI takes hours of trial and error. You must understand the difference between `DepthAnythingV2` and standard `Z-depth` maps. If your depth map is too low-resolution, the edges of your product will look jagged or "melted" into the AI background. Furthermore, manual workflows lack a centralized "asset manager," meaning your generated files end up scattered across local folders or cloud drives without proper SKU tagging.
+**Flux Pro Manual Workflows:** The learning curve is incredibly steep. Setting up a depth preprocessor and routing nodes in ComfyUI takes hours of trial and error. You must understand the difference between `DepthAnythingV2` and standard `Z-depth` maps. If your depth map is too low-resolution, the edges of your product will look jagged or "melted" into the [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix). Furthermore, manual workflows lack a centralized "asset manager," meaning your generated files end up scattered across local folders or cloud drives without proper SKU tagging.
 
 **PixelMatch:** Because it is optimized for speed and batch processing, it lacks the hyper-granular node-level control that advanced AI artists might want for a single, complex composition. You cannot manually "paint" weights onto the depth map or inject custom Python scripts into the generation pipeline. It is a tool built for ecommerce efficiency, not for digital artists who want to spend all day tweaking the noise schedule of a diffusion model.
 

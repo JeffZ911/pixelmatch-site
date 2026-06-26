@@ -49,7 +49,7 @@ If your workflow prioritizes volume and you rely on pre-existing templates, Canv
 ![Side-by-Side Feature Table](/img/canva-vs-adobe-express-etsy-pod-mockups/inline-2.webp)
 
 
-Audit your current mockup library against Etsy’s 2026 requirement of 2000px minimum width to identify low-resolution assets that are hurting your search ranking and causing listing rejections.
+Audit your current mockup library against Etsy’s 2026 requirement of 2000px minimum width to identify low-resolution assets that are hurting your [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) and causing listing rejections.
 
 | Feature | Canva Pro (2026) | Adobe Express Premium (2026) |
 | :--- | :--- | :--- |

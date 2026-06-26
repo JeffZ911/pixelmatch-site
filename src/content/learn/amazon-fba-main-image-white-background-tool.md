@@ -72,7 +72,7 @@ Verify your export settings. Open an exported image in any basic photo viewer, z
 
 The most frequent error sellers make is uploading PNG files with "transparent" backgrounds. While a transparent background looks white on many monitors, Amazon’s system often renders transparency as black or gray during the ingestion process, leading to immediate suppression. Always export as a JPEG or a flattened TIFF.
 
-Another common pitfall is the "Ghost Prop" error. Sellers often leave a small piece of the stand, mannequin, or mounting putty in the shot, assuming the AI will remove it. If any part of a non-included prop remains in the main image, Amazon’s manual audit team will eventually flag the listing. This is particularly common with jewelry and apparel.
+Another common pitfall is the "Ghost Prop" error. Sellers often leave a small piece of the stand, mannequin, or mounting putty in the shot, assuming the AI will remove it. If any part of a non-included prop remains in the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance), Amazon’s manual audit team will eventually flag the listing. This is particularly common with jewelry and apparel.
 
 | Error Type | Impact on Listing | 2026 Detection Method | Fix |
 | :--- | :--- | :--- | :--- |

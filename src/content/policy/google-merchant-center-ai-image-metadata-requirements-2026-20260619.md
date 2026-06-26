@@ -26,7 +26,7 @@ inline_image_sections:
 
 Your [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) face immediate disapproval if your AI-generated images lack the hidden digital signatures Google now mandates. Avoid the "Missing AI metadata" flag by auditing your image pipeline against the strict 2026 IPTC standards today.
 
-Google Merchant Center (GMC) has shifted from suggesting AI transparency to enforcing it through automated metadata scans. As a multi-platform seller, you must ensure that every lifestyle image or product render generated via AI contains the correct embedded tags before it reaches your feed. Failure to comply doesn't just result in a warning; it triggers a "Policy Violation" that can suppress your entire product catalog across Search, Shopping, and YouTube.
+Google Merchant Center (GMC) has shifted from suggesting [AI transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) to enforcing it through automated metadata scans. As a multi-platform seller, you must ensure that every lifestyle image or product render generated via AI contains the correct embedded tags before it reaches your feed. Failure to comply doesn't just result in a warning; it triggers a "Policy Violation" that can suppress your entire product catalog across Search, Shopping, and YouTube.
 
 As of 2026, Google Merchant Center requires all AI-generated product images to include the IPTC DigitalSourceType metadata tag set to `trainedAlgorithmicMedia`. Images missing this embedded metadata risk disapproval.
 
