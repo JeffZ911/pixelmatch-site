@@ -45,7 +45,7 @@ Our representative seller, "Lumina Skin," operates in the competitive Amazon FBA
 
 The brand faced three non-negotiable constraints that every Amazon seller must manage:
 
-1.  **Main Image Compliance:** Amazon strictly enforces a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) for the main hero image. Any slight off-white tint or shadow artifact can trigger an automated listing suppression.
+1.  **[Main Image Compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance):** Amazon strictly enforces a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) for the main hero image. Any slight off-white tint or shadow artifact can trigger an automated listing suppression.
 2.  **Zoom Requirements:** To enable the "hover-to-zoom" feature, which is proven to increase conversion rates, Amazon requires a minimum resolution of [1000 x 1000 pixels](https://sellercentral.amazon.com/help/hub/reference/1881). For high-end beauty products, sellers often aim for 1600 to 2000 pixels to ensure the texture of the serum or the fine print on the label remains legible.
 3.  **Speed to Market:** In the beauty niche, trends move fast. Waiting 21 days for a retoucher to return high-resolution lifestyle assets meant losing the "New Release" badge momentum.
 
@@ -161,7 +161,7 @@ AI still struggles with complex transparent materials. If your beauty product is
 If your original product photo has a very strong, baked-in shadow from a desk lamp, the AI might struggle to place a "new" shadow in the opposite direction. For the best results, always start with the most neutrally lit photo possible.
 
 ### Human Verification
-Amazon's automated systems are increasingly sophisticated. While Flux Pro is excellent at text, you must manually verify that every word on your product label is legible and accurate in the final render. A single "hallucinated" character on a drug facts label could lead to a compliance flag.
+Amazon's automated systems are increasingly sophisticated. While [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) is excellent at text, you must manually verify that every word on your product label is legible and accurate in the final render. A single "hallucinated" character on a drug facts label could lead to a compliance flag.
 
 **Actionable Step for Sellers Today:** Always perform a "Squint Test" on your lifestyle images. Squint your eyes and look at the image; if the lighting or shadows feel "off" or unnatural, shoppers will sense it subconsciously, even if they can't point out why.
 

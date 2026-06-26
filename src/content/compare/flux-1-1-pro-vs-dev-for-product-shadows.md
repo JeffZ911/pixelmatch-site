@@ -54,7 +54,7 @@ Run a calibration test by generating a single product shot with a glass or metal
 
 Check your current hardware's VRAM capacity before attempting to run these models locally. If you have less than 16GB of dedicated VRAM, running FLUX.1 [dev] at full precision will lead to system crashes or agonizingly slow generation times of over two minutes per image.
 
-| Feature | FLUX 1.1 Pro | FLUX.1 [dev] |
+| Feature | [FLUX 1](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures).[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) | FLUX.1 [dev] |
 | :--- | :--- | :--- |
 | **Commercial Rights** | Yes (via API) | No (Non-Commercial) |
 | **Generation Speed** | ~4.5 Seconds | Dependent on GPU (Slow) |

@@ -117,7 +117,7 @@ Your choice should depend on where you want your business to be in six months. I
 
 1.  **For the Scaler:** Choose PixelMatch. The ability to maintain brand consistency across hundreds of items while meeting the [Etsy 10 MB file size limit](https://help.etsy.com/hc/en-us/articles/360000338067-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) and high-resolution specs is unmatched.
 2.  **For the Artist:** Choose Pebblely. If your brand relies on a very specific, "moody" or "ethereal" aesthetic, Pebblely’s themed generators will save you from having to learn complex AI prompting.
-3.  **For the Budget-Conscious:** Choose Canva Pro. If you already use Canva for your Etsy banners and "Thank You" cards, the built-in AI background tools are "good enough" for low-volume shops.
+3.  **For the Budget-Conscious:** Choose Canva Pro. If you already use Canva for your Etsy banners and "Thank You" cards, the built-in [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) tools are "good enough" for low-volume shops.
 
 To maximize your Etsy SEO today, export your primary listing image at exactly 2000×2000 px and ensure your product occupies at least 70% of the frame. This ensures that even when the image is downscaled for mobile search results, your product remains the focal point.
 

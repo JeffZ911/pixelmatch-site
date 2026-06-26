@@ -76,7 +76,7 @@ To solve the clipping issue, the brand moved their production to PixelMatch to u
 
 **Actionable Step for Sellers:** Toggle the "Outpaint" or "Canvas Expand" setting in your AI workflow. Before generating a shadow, ensure your canvas is set to at least 1600x1600 px, even if your source image is a tight 800x800 px crop. This gives the AI "math room" to render the shadow gradient.
 
-The technical backbone of this fix is Flux.1 Pro, a 12-billion parameter model developed by Black Forest Labs. Unlike older diffusion models that only look at the pixels within the product's silhouette, Flux.1 Pro has superior spatial awareness. It understands the "floor plane"—the invisible horizontal surface the bottle is sitting on.
+The technical backbone of this fix is Flux.[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures), a 12-billion parameter model developed by Black Forest Labs. Unlike older diffusion models that only look at the pixels within the product's silhouette, Flux.1 Pro has superior spatial awareness. It understands the "floor plane"—the invisible horizontal surface the bottle is sitting on.
 
 Instead of trying to squeeze a shadow into the original tight crop, the PixelMatch workflow automatically expands the canvas. It then uses the Flux Pro architecture to mathematically project where the shadow *should* land based on the light source. The AI "outpaints" the missing parts of the shadow, creating a smooth, natural fade that eventually hits the required [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/1881) target.
 

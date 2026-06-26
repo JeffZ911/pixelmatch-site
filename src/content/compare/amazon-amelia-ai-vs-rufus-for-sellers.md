@@ -78,7 +78,7 @@ Amelia is not a standalone subscription. It is a feature integrated into the Ama
 ### The Cost of Optimizing for Rufus
 Rufus is free for shoppers, but it is expensive for sellers who are unprepared. Because Rufus relies on "Generative Engine Optimization" (GEO), you must invest in high-quality, context-rich content. This often requires third-party AI tools to generate the volume of imagery and copy needed to satisfy the AI’s hunger for data.
 
-*   **Photoroom:** Offers a Pro plan at $12.99/mo (or approximately $7.50/mo when billed annually) for basic AI background removal and lifestyle generation.
+*   **Photoroom:** Offers a Pro plan at $12.99/mo (or approximately $7.50/mo when billed annually) for basic [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) removal and lifestyle generation.
 *   **Adobe Express:** Provides a Premium tier at $9.99/mo for generative fill and design templates.
 *   **PixelMatch:** Offers scalable batch-generation plans designed specifically for multi-platform sellers who need to create hundreds of lifestyle images at once to show Rufus exactly how a product looks in various real-world settings.
 

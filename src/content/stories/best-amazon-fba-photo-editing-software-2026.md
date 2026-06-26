@@ -39,7 +39,7 @@ Managing a growing catalog of 50+ beauty products requires constant visual updat
 
 Amazon enforces strict compliance rules that can lead to immediate search suppression if ignored. Your main images must have a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) and the product must [fill at least 85% of the frame](https://sellercentral.amazon.com/help/hub/reference/external/G1881). In the beauty niche, where packaging is often reflective or transparent, achieving these specs manually in Photoshop is a time-intensive task that eats into profit margins every time a new variation is launched.
 
-**Actionable Step:** Run an "Image Compliance Audit" today. Open your current main image in a free tool like Google Chrome's "ColorPick Eyedropper" and click the background. If the value is anything other than #FFFFFF or RGB(255, 255, 255), your listing is at risk of being suppressed in 2026 search results.
+**Actionable Step:** Run an "[Image Compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) Audit" today. Open your current main image in a free tool like Google Chrome's "ColorPick Eyedropper" and click the background. If the value is anything other than #FFFFFF or RGB(255, 255, 255), your listing is at risk of being suppressed in 2026 search results.
 
 ## What Wasn't Working
 
@@ -131,7 +131,7 @@ Export the entire batch. Before uploading, use a batch-rename tool to ensure you
 
 While AI photo editing is the most efficient path for ecommerce in 2026, it is not a magic wand. There are specific scenarios where human intervention or physical prep is still required.
 
-First, AI cannot fix a fundamentally blurry or poorly lit source photo. Amazon strictly requires images to be [clear, unpixellated, and have no jagged edges](https://sellercentral.amazon.com/help/hub/reference/external/G1881). If your source photo is out of focus, the AI's attempt to "cut out" the product will result in a halo effect or "fuzzy" borders that look unprofessional and may trigger a manual review by Amazon’s moderation team.
+First, AI cannot fix a fundamentally blurry or poorly lit source photo. Amazon strictly requires images to be [clear, unpixellated, and have no jagged edges](https://sellercentral.amazon.com/help/hub/reference/external/G1881). If your source photo is out of focus, the AI's attempt to "cut out" the product will result in a [halo effect](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) or "fuzzy" borders that look unprofessional and may trigger a manual review by Amazon’s moderation team.
 
 Second, complex transparent packaging remains a challenge for almost all AI tools. Clear glass serum bottles or translucent plastic tubes refract light from their original environment. If you take a photo of a glass bottle in a dark kitchen and then use AI to place it in a bright white studio, the "dark" reflections inside the glass will remain, making the product look "off." For these items, you must shoot the original photo against a light-colored background to ensure the refractions match the final AI-generated scene.
 

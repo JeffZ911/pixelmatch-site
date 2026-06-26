@@ -108,7 +108,7 @@ With Prime Day 2026 approaching, the urge to add "Prime Day" or "Sale" badges di
 Correcting bundle images doesn't require a full reshoot if you have high-quality source photos of the individual items. For multi-platform sellers, the goal is to create a "master" bundle image that can be adapted for Amazon, Shopify, and TikTok Shop.
 
 ### Automating Background Removal
-Manual masking in tools like Adobe Photoshop is time-consuming for a bundle with five or six items. While Photoroom offers a Pro tier at $12.99/mo for mobile-first editing, it often lacks the batch-processing power needed for large Amazon catalogs. To fix background issues for the amazon prime day 2026 main image bundle policy:
+Manual masking in tools like Adobe Photoshop is time-consuming for a bundle with five or six items. While Photoroom offers a Pro tier at $12.99/mo for mobile-first editing, it often lacks the batch-processing power needed for large Amazon catalogs. To fix background issues for the amazon prime [day 2026 main](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) image bundle policy:
 1.  Upload your bundle photos to PixelMatch.
 2.  Select the "Pure White" background preset to ensure the [RGB 255, 255, 255](https://sellercentral.amazon.com/gp/help/external/1881) requirement is met.
 3.  Use the batch export feature to process all bundle variations at once.

@@ -26,9 +26,9 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop wasting hours in Photoshop trying to composite products into lifestyle scenes that never look quite right. Transitioning to a Flux Pro product depth map ControlNet workflow allows you to maintain the exact 3D structure of your product while generating hyper-realistic environments, but you must decide between building this engine yourself or using an automated batch solution.
+Stop wasting hours in Photoshop trying to composite products into lifestyle scenes that never look quite right. Transitioning to a [Flux Pro product](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) depth map ControlNet workflow allows you to maintain the exact 3D structure of your product while generating hyper-realistic environments, but you must decide between building this engine yourself or using an automated batch solution.
 
-Using a Flux Pro product depth map with ControlNet gives you pixel-perfect control over lighting and 3D shapes, but requires complex ComfyUI setups and API costs. For sellers needing batch processing, PixelMatch automates this exact workflow.
+Using a Flux [Pro product](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) depth map with ControlNet gives you pixel-perfect control over lighting and 3D shapes, but requires complex ComfyUI setups and API costs. For sellers needing batch processing, PixelMatch automates this exact workflow.
 
 ## TL;DR Verdict
 
@@ -38,7 +38,7 @@ Using a Flux Pro product depth map with ControlNet gives you pixel-perfect contr
 *Related: [TikTok Shop Mall Invitation: Fix Image Quality to Get Approved](/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) · [Shopify Summer Edition 2026 AI Visual Search Optimization Tools](/blog/compare/shopify-summer-edition-2026-ai-visual-search-optimization) · [Etsy AI Generated Disclosure Metadata Error Fix: Tool Comparison](/blog/compare/etsy-ai-generated-disclosure-metadata-error-fix)*
 
 
-Building a manual workflow using a Flux Pro product depth map ControlNet guide gives you unmatched precision over product lighting and 3D geometry. By using a depth preprocessor, you create a grayscale map where white pixels represent surfaces closest to the camera and black pixels represent the background. This ensures that when Flux Pro generates a new scene, your product's dimensions remain identical to the physical item, preventing the "AI hallucinations" that often warp logos or proportions.
+Building a manual workflow using a [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) product depth map ControlNet guide gives you unmatched precision over product lighting and 3D geometry. By using a depth preprocessor, you create a grayscale map where white pixels represent surfaces closest to the camera and black pixels represent the background. This ensures that when Flux Pro generates a new scene, your product's dimensions remain identical to the physical item, preventing the "AI hallucinations" that often warp logos or proportions.
 
 However, running Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) requires managing API keys and complex ComfyUI node setups, making it difficult to scale across a large catalog. You have to manually configure the `ControlNetApply` node, select the correct depth model, and balance the "strength" parameter to ensure the background blends without bleeding into the product edges. This process often takes 15–30 minutes per SKU to perfect.
 

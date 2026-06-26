@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Moving a 400-SKU beauty catalog from Shopify to TikTok Shop shouldn't feel like a full-time data entry job, yet thousands of sellers get stuck in a manual editing loop that delays their launch by weeks. If you are currently staring at a folder of high-resolution lifestyle photos that TikTok’s Seller Center keeps rejecting for "Poor" quality, you are losing organic traffic to competitors who automated their image compliance.
+Moving a 400-SKU beauty catalog from Shopify to TikTok Shop shouldn't feel like a full-time data entry job, yet thousands of sellers get stuck in a manual editing loop that delays their launch by weeks. If you are currently staring at a folder of high-resolution lifestyle photos that TikTok’s Seller Center keeps rejecting for "Poor" quality, you are losing organic traffic to competitors who automated their [image compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance).
 
 ## The Seller's Situation: Expanding to TikTok Shop
 

@@ -30,7 +30,7 @@ inline_image_sections:
 
 Stop wasting thousands of dollars on studio rentals and lighting technicians for every minor product launch. If your cosmetics brand is currently waiting 14 days for a retoucher to return a single set of images, you are losing sales to competitors who can spin up high-converting listings in hours.
 
-Managing a mid-market beauty brand with 150+ SKUs requires a constant stream of visual content that satisfies both the aesthetic demands of Instagram and the rigid technical specifications of Amazon and Shopify. When you scale your catalog, the traditional photography model breaks. You cannot afford to pay $150 per listing photo when you need 10 angles per product across 150 items. This is why high-volume sellers are moving toward a ComfyUI IC-Light product shadow workflow—a technical but powerful method to generate realistic, platform-compliant product imagery at a fraction of the cost.
+Managing a mid-market beauty brand with 150+ SKUs requires a constant stream of visual content that satisfies both the aesthetic demands of Instagram and the rigid technical specifications of Amazon and Shopify. When you scale your catalog, the traditional photography model breaks. You cannot afford to pay $150 per listing photo when you need 10 angles per product across 150 items. This is why high-volume sellers are moving toward a ComfyUI IC-Light [product shadow](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) workflow—a technical but powerful method to generate realistic, platform-compliant product imagery at a fraction of the cost.
 
 ## The Seller's Situation
 
