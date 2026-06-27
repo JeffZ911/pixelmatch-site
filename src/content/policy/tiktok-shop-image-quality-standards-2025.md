@@ -71,7 +71,7 @@ TikTok categorizes every product listing into "Poor," "Fair," or "Good" tiers. T
 4.  The product in use (lifestyle).
 5.  Packaging or what's included in the box.
 
-Maintaining a high listing [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) directly impacts your Product Search Ranking within the app. Listings with only one or two images are often flagged as "incomplete" and receive significantly less traffic from the algorithm.
+Maintaining a high listing [quality score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026) directly impacts your Product [Search Ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) within the app. Listings with only one or two images are often flagged as "incomplete" and receive significantly less traffic from the algorithm.
 
 ## Common Rejection Reasons
 

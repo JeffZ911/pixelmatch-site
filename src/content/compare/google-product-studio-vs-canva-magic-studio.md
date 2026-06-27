@@ -36,7 +36,7 @@ Audit your current distribution channels before committing to a tool: if 80% of 
 
 | Feature | Google [Product Studio](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) | [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio | PixelMatch |
 | :--- | :--- | :--- | :--- |
-| **Primary Use Case** | Google Shopping Feed Optimization | Social Media & Marketing Design | High-Volume Ecommerce Batching |
+| **Primary Use Case** | [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) Feed Optimization | Social Media & Marketing Design | High-Volume Ecommerce Batching |
 | **Cost** | Free for GMC Next users | $15/mo (Pro) | Enterprise/Pro Batch Pricing |
 | **Batch Processing** | Limited (Feed-based) | No (Manual per-design) | Yes (100+ images at once) |
 | **AI Editing** | Scene Gen, Remove BG, Upscale | Magic Expand, Edit, Eraser | Catalog-wide Scene Consistency |

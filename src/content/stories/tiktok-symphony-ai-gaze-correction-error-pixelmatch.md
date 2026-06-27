@@ -133,7 +133,7 @@ Test your first-slide bounce rate to ensure your "hook" image is strong enough t
 ## Frequently Asked Questions
 
 ### What is the TikTok Symphony AI gaze correction error?
-The "gaze correction error" typically refers to the visual glitches (like snapping pupils or jittering eyelids) that occur when sellers try to use third-party "AI Eye Contact" tools on TikTok Symphony Digital Avatars. Because the avatars are already synthetic, adding another layer of AI gaze adjustment often creates an "uncanny valley" effect that triggers TikTok’s synthetic media flags.
+The "gaze correction error" typically refers to the visual glitches (like snapping pupils or jittering eyelids) that occur when sellers try to use third-party "AI Eye Contact" tools on [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Digital Avatars. Because the avatars are already synthetic, adding another layer of AI gaze adjustment often creates an "uncanny valley" effect that triggers TikTok’s synthetic media flags.
 
 ### Can I use PixelMatch to create TikTok Shop images?
 Yes, PixelMatch is designed to generate platform-compliant product images. You can use it to remove backgrounds, add realistic AI-generated environments, and ensure your exports meet the minimum 600×600 px requirement for TikTok Shop listings and ads.

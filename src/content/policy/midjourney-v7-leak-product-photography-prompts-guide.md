@@ -78,7 +78,7 @@ Create a "Suffix" in Midjourney by typing `/settings` or using the `--suffix` co
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Platform bots have become incredibly efficient at flagging "AI-uncanny" images. In 2026, a single rejected image can lead to a "Listing Quality" warning that lowers your overall store's search ranking.
+Platform bots have become incredibly efficient at flagging "AI-uncanny" images. In 2026, a single rejected image can lead to a "Listing Quality" warning that lowers your overall store's [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626).
 
 ### AI Artifacts and "Prop" Violations
 Amazon will suppress listings if the main image contains [AI-generated props, text, or non-white backgrounds](https://sellercentral.amazon.com/help/hub/reference/1881). If you use a prompt like `[Product] on a white marble table`, even if the table is white, the presence of the marble texture and shadows violates the "Pure White (RGB 255, 255, 255)" rule. The AI often adds "ghost" shadows or floating artifacts that the Amazon bot identifies as "image noise."

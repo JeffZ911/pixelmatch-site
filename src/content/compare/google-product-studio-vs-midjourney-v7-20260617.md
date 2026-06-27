@@ -55,7 +55,7 @@ Audit your current asset resolution against platform minimums before choosing a 
 | **Ease of Use** | High (No prompting required) | Low (Requires complex prompt engineering) | High (Template-driven) |
 | **Batch Processing** | Limited (One by one or small groups) | None (Single-image focus) | High (50+ SKUs at once) |
 | **Upscaling** | Built-in "Increase Resolution" toggle | Manual "Upscale" buttons (2x, 4x) | Automatic to platform specs |
-| **Marketplace Compliance** | Google Shopping focused | None (Manual editing required) | Amazon, Shopify, & TikTok presets |
+| **Marketplace Compliance** | [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) focused | None (Manual editing required) | Amazon, Shopify, & TikTok presets |
 | **Style Consistency** | Low (Varies by scene) | High (Via Omni Reference & Style Reference) | High (Via Brand Presets) |
 | **Cost** | Free for GMC Next users | $10–$120/month | Predictable batch pricing |
 

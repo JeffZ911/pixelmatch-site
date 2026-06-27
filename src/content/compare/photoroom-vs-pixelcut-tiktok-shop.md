@@ -75,7 +75,7 @@ Photoroom maintains a premium position in the market. As of 2026-05-20, the pric
 
 ### Pixelcut (Pixa) Pricing Tiers
 Pixelcut remains the value leader for solo creators.
-*   **Free:** Includes watermarks and limited AI background generations.
+*   **Free:** Includes watermarks and limited [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) generations.
 *   **Pro ($9.99/month or $59.99/year):** Removes watermarks, unlocks 100-image batch processing, and provides 600 GPU credits monthly for AI tasks.
 *   **Unlimited:** Some regional versions of Pixa offer an "Unlimited AI" tier for $14.99/month, removing the credit cap on background generations.
 

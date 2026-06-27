@@ -34,7 +34,7 @@ Stop wasting your marketing budget on studio photography that takes weeks to del
 
 Multi-platform ecommerce sellers are currently caught between two fires: the rising cost of traditional photography and the technical failures of first-generation [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) tools. For a mid-market skincare brand generating between $50,000 and $100,000 in monthly revenue, every percentage point of margin matters. When you factor in Stripe's standard fee of 2.9% + 30¢ per transaction on Shopify and the ever-increasing Amazon FBA fulfillment costs, spending $45 or more on a single hero shot is no longer sustainable.
 
-This case study follows a composite skincare brand that successfully transitioned from expensive studio shoots to a high-volume AI workflow. By implementing a specific **flux pro product shadow clipping fix**, they didn't just save money—they actually outperformed their professional studio shots in A/B testing.
+This case study follows a composite skincare brand that successfully transitioned from expensive studio shoots to a high-volume AI workflow. By implementing a specific **[flux pro product](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) shadow clipping fix**, they didn't just save money—they actually outperformed their professional studio shots in A/B testing.
 
 ## The Seller's Situation
 
@@ -72,13 +72,13 @@ Furthermore, these basic tools often failed Amazon’s automated "imaging police
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-To solve the clipping issue, the brand moved their production to PixelMatch to utilize the **flux pro product shadow clipping fix**. This workflow is fundamentally different from standard background removal because it uses "outpainting" rather than just "replacement."
+To solve the clipping issue, the brand moved their production to PixelMatch to utilize the **flux [pro product](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) shadow clipping fix**. This workflow is fundamentally different from standard background removal because it uses "outpainting" rather than just "replacement."
 
 **Actionable Step for Sellers:** Toggle the "Outpaint" or "Canvas Expand" setting in your AI workflow. Before generating a shadow, ensure your canvas is set to at least 1600x1600 px, even if your source image is a tight 800x800 px crop. This gives the AI "math room" to render the shadow gradient.
 
 The technical backbone of this fix is Flux.[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures), a 12-billion parameter model developed by Black Forest Labs. Unlike older diffusion models that only look at the pixels within the product's silhouette, Flux.1 Pro has superior spatial awareness. It understands the "floor plane"—the invisible horizontal surface the bottle is sitting on.
 
-Instead of trying to squeeze a shadow into the original tight crop, the PixelMatch workflow automatically expands the canvas. It then uses the Flux Pro architecture to mathematically project where the shadow *should* land based on the light source. The AI "outpaints" the missing parts of the shadow, creating a smooth, natural fade that eventually hits the required [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/1881) target.
+Instead of trying to squeeze a shadow into the original tight crop, the PixelMatch workflow automatically expands the canvas. It then uses the [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) architecture to mathematically project where the shadow *should* land based on the light source. The AI "outpaints" the missing parts of the shadow, creating a smooth, natural fade that eventually hits the required [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/1881) target.
 
 Finally, the workflow upscales the final asset. While Amazon only requires [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/1881), the brand standardized on 1600x1600 px. This ensures that even on high-resolution Retina displays, the product looks sharp when the customer uses the hover-to-zoom feature.
 

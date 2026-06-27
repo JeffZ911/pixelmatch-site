@@ -79,7 +79,7 @@ Both Rufus and Amelia are native features of the Amazon ecosystem and are curren
 
 However, you must account for the "Hallucination Tax." This is the indirect cost of AI errors. If Rufus displays inaccurate price history or incorrectly tells a buyer that a product is "frequently returned," your conversion rate can plummet by 20% or more overnight.
 
-To mitigate these costs, sellers often invest in high-fidelity visual tools. While Amazon offers basic generative AI image tools for free, they often produce the very artifacts that confuse Rufus. Professional-grade AI image generators like PixelMatch, Photoroom, or Pebblely offer more control. For example, Photoroom's Pro tier is $12.99/mo, providing cleaner backgrounds that don't trigger "visual hallucinations" in the Amazon search algorithm.
+To mitigate these costs, sellers often invest in high-fidelity visual tools. While Amazon offers basic generative [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) tools for free, they often produce the very artifacts that confuse Rufus. Professional-grade AI image generators like PixelMatch, Photoroom, or Pebblely offer more control. For example, Photoroom's Pro tier is $12.99/mo, providing cleaner backgrounds that don't trigger "visual hallucinations" in the Amazon search algorithm.
 
 **Actionable Step:** Calculate your Hallucination Tax by reviewing your "Unit Session Percentage" in Seller Central Business Reports. If you see a sudden dip in a high-traffic listing without a change in price or reviews, Rufus may be hallucinating a negative attribute. Ask Rufus about your product to confirm.
 
@@ -109,7 +109,7 @@ Rufus often struggles with dynamic pricing and [Prime Exclusive Discounts](https
 ### Amelia: The Strategic Gap
 Amelia lacks deep strategic nuance. Its PPC advice is often basic, suggesting you "increase bids on high-converting keywords" without considering inventory lead times or profit margins. Furthermore, when sellers use Amazon's native generative AI image tools within Amelia's workflow, the results often include unnatural visual artifacts.
 
-When an AI image generator hallucinates an extra finger on a hand holding your product, or a shadow that defies physics, Rufus's visual processing engine gets confused. It might interpret a "melted" AI background as a product defect or a "used" condition indicator.
+When an AI image generator hallucinates an extra finger on a hand holding your product, or a shadow that defies physics, Rufus's visual processing engine gets confused. It might interpret a "melted" [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) as a product defect or a "used" condition indicator.
 
 **Actionable Step:** Run a visual audit of your 7th image slot (usually the lifestyle slot). If you used a generic AI generator and the background looks "dreamy" or "blurred" in a way that obscures the product's edges, replace it. Use PixelMatch to batch-generate lifestyle images that maintain [1600 x 1600 px minimum dimensions](https://sellercentral.amazon.com/help/hub/reference/external/G181) and clear, sharp product outlines.
 
