@@ -89,7 +89,7 @@ Finally, the workflow upscales the final asset. While Amazon only requires [1000
 
 The transition to a Flux-based shadow fix produced immediate, measurable improvements in both the brand's bottom line and their conversion metrics. By fixing the "floating bottle" look, the brand restored consumer trust in their imagery.
 
-**Actionable Step for Sellers:** Run a "Before/After" split test on a single high-traffic SKU using a tool like Manage Your Experiments in Amazon Seller Central. Compare a standard AI image with clipped shadows against a [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting)-corrected image to measure your specific CTR lift.
+**Actionable Step for Sellers:** Run a "Before/After" split test on a single high-traffic SKU using a tool like Manage Your Experiments in Amazon Seller Central. Compare a standard [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) with clipped shadows against a [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting)-corrected image to measure your specific CTR lift.
 
 | Metric | Traditional Studio Shoot | Basic AI Tools (Clipped) | PixelMatch ([Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) Fix) |
 | :--- | :--- | :--- | :--- |
@@ -137,7 +137,7 @@ While the **[flux pro product](https://pixelmatch.art/blog/compare/midjourney-v7
 
 **Actionable Step for Sellers:** Measure the "frame fill" of your product before uploading to Amazon. The product must occupy [85% to 100% of the image](https://sellercentral.amazon.com/help/hub/reference/1881). If your shadow outpainting makes the product look too small in the frame, you must crop the final image slightly while maintaining the shadow integrity.
 
-One limitation is processing speed. Because Flux.[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) is a massive, high-parameter model, it is not instantaneous. While basic background removers like Canva or Removebg might take 2-3 seconds, the Flux Pro fix typically takes 10-15 seconds per image. For a seller batch-generating 500 images, this is a noticeable difference, though still significantly faster than a human retoucher.
+One limitation is processing speed. Because Flux.[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) is a massive, high-parameter model, it is not instantaneous. While basic background removers like Canva or Removebg might take 2-3 seconds, the [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) fix typically takes 10-15 seconds per image. For a seller batch-generating 500 images, this is a noticeable difference, though still significantly faster than a human retoucher.
 
 Additionally, highly reflective surfaces like chrome or polished gold packaging can still be tricky. While the AI is excellent at reconstructing the shadow on the floor, it may occasionally struggle to reconstruct a complex reflection *inside* the product if that reflection was clipped in the original photo. For these specific high-gloss items, a quick manual mask or a slightly wider original shot is still recommended.
 

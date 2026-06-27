@@ -169,7 +169,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Shopify Help Center: Product Image Sizes](https://help.shopify.com/en/manual/products/product-media/image-sizes)
 *   [Shopify Help Center: Shopify Magic Features](https://help.shopify.com/en/manual/shopify-magic)
 *   [Amazon Seller Central: Product Image Requirements (Ref 1881)](https://sellercentral.amazon.com/help/hub/reference/G1881)
-*   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+AI+Image+Generation+for+Sponsored+Brands&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: AI Image Generation for Sponsored Brands</a>
+*   <a href="https://www.amazon.com/s?k=Amazon+Advertising%3A+AI+Image+Generation+for+Sponsored+Brands&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Advertising: [AI Image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) Generation for Sponsored Brands</a>
 *   Photoroom Pricing and Features
 *   Canva Pro Pricing
 *   Adobe Express Premium Pricing

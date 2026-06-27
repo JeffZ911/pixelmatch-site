@@ -140,7 +140,7 @@ A depth map is a grayscale image where the brightness of each pixel represents i
 Yes, Amazon allows AI-generated images as long as they accurately represent the product and meet all standard requirements. For main images, this includes a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) and the product occupying at least 85% of the frame. AI is most commonly used for secondary lifestyle images.
 
 ### Why does Flux Pro work better than older models for products?
-Flux Pro, with its 12B+ parameters, has a much higher "prompt adherence" and "spatial awareness" than older models like Stable Diffusion XL. When combined with ControlNet, it can maintain the integrity of text on labels and complex geometric shapes that previously would have been distorted by AI generation.
+[Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting), with its 12B+ parameters, has a much higher "prompt adherence" and "spatial awareness" than older models like Stable Diffusion XL. When combined with ControlNet, it can maintain the integrity of text on labels and complex geometric shapes that previously would have been distorted by AI generation.
 
 ### What is the minimum resolution for TikTok Shop images?
 TikTok Shop requires a 1:1 aspect ratio for product images, with a minimum resolution of 600x600 pixels. However, for the best customer experience and zoom capability, sellers are encouraged to use higher resolutions like 1000x1000 pixels or higher.

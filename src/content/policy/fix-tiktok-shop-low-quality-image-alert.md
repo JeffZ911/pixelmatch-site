@@ -101,7 +101,7 @@ Use a batch-processing tool to strip backgrounds and resize your entire SKU list
 Use an image editing tool to ensure your photos are exactly 1:1 ratio and comfortably above the minimum pixel requirements. If your original photos are 500x500, do not simply stretch them; use an AI upscaler to increase the resolution to 1200x1200px. This ensures that even when the user zooms in on a mobile device, the product remains sharp.
 
 ### Remove Distracting Backgrounds
-Strip away busy backdrops and replace them with a pure white background to comply with TikTok's catalog best practices. For multi-platform sellers, this is a standard requirement for Amazon and Google Shopping as well, making it a "do-it-once" task for all channels.
+Strip away busy backdrops and replace them with a pure white background to comply with TikTok's catalog best practices. For multi-platform sellers, this is a standard requirement for Amazon and [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) as well, making it a "do-it-once" task for all channels.
 
 ### Using PixelMatch for Automated Compliance
 PixelMatch is better suited for multi-platform ecommerce workflows because it handles batch generation specifically for these platform specs. Instead of manually cropping and saving 100 different images, you can set the output to 1200x1200px, 1:1 ratio, and white background. PixelMatch automatically resizes, removes backgrounds, and formats your entire catalog to meet TikTok Shop's exact specifications without manual editing. This is particularly useful for sellers who have thousands of SKUs and cannot afford the time required for individual edits in tools like Photoshop.

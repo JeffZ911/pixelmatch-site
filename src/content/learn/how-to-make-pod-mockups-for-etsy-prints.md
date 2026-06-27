@@ -157,7 +157,7 @@ Yes, AI-generated mockups are allowed as long as they accurately reflect the phy
 Etsy recommends a 4:3 ratio, but because of their dynamic cropping system, you should treat the center 1:1 square as your "safe zone." This ensures your product looks great in both the square shop view and the rectangular search view.
 
 **Should I use a watermark on my mockups?**
-While watermarks can prevent "listing theft" by other sellers, they often distract buyers and can interfere with Etsy’s off-site ads (Google Shopping often rejects watermarked images). If you use one, keep it small, low-opacity, and away from the main product design.
+While watermarks can prevent "listing theft" by other sellers, they often distract buyers and can interfere with Etsy’s off-site ads ([Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) often rejects watermarked images). If you use one, keep it small, low-opacity, and away from the main product design.
 
 
 <!-- pm-cta:foot -->

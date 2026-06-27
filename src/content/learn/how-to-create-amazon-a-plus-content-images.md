@@ -134,7 +134,7 @@ Canva is the industry standard for assembling the final layout of your A+ module
 | :--- | :--- | :--- | :--- |
 | **PixelMatch** | Multi-platform batch lifestyle | High (500+ images) | Yes (Auto-resize) |
 | **Photoroom** | Background removal | Medium (50 images) | Limited |
-| **Pebblely** | AI background generation | Low | No |
+| **Pebblely** | [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) generation | Low | No |
 | **Canva** | Infographics & Charts | Low (Manual) | Yes (Templates) |
 
 ## FAQ

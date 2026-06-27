@@ -57,7 +57,7 @@ Manual photo editing creates a severe bottleneck. If you spend 20 minutes per pr
 Automating your Etsy photo creation doesn't mean sacrificing quality for speed. By utilizing a structured batch-processing workflow, you can maintain a "handmade" feel while removing the manual labor of editing.
 
 ### 1. Capture Raw Product Photos
-Run a calibration shoot before you start your batch. You don't need a professional camera, but you do need consistency. Use a smartphone with a high-resolution sensor and place your product on a solid, neutral background (white or light gray is best). Ensure your lighting is bright and diffused to avoid harsh shadows that can confuse AI background removal tools.
+Run a calibration shoot before you start your batch. You don't need a professional camera, but you do need consistency. Use a smartphone with a high-resolution sensor and place your product on a solid, neutral background (white or light gray is best). Ensure your lighting is bright and diffused to avoid harsh shadows that can confuse [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) removal tools.
 
 **Actionable Step:** Set your phone to shoot in 4:3 or 1:1 aspect ratio. Capture one clear shot of the front, one of the back, and one close-up of the texture or detail. These "raw" files serve as the foundation for your automated pipeline.
 
