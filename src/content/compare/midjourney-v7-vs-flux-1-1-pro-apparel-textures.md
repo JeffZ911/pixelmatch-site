@@ -38,7 +38,7 @@ Capturing high-fidelity fabric textures like the weave of a heavy linen or the s
 *Related: [Shopify Magic vs Amazon AI Image Generator: 2026 Comparison](/blog/compare/shopify-magic-vs-amazon-ai-image-generator) · [Flux 1.1 Pro vs Dev for Product Shadows: Ecommerce Guide](/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) · [Amazon Prime Day 2026 AI Video Requirements & Top Generators Compared](/blog/compare/amazon-prime-day-2026-ai-video-requirements)*
 
 
-*   Midjourney v7, released April 3, 2025, dominates in artistic realism and complex fabric rendering (wool, silk, denim) using its new Retexture and Omni Reference features.
+*   [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting), released April 3, 2025, dominates in artistic realism and complex fabric rendering (wool, silk, denim) using its new Retexture and Omni Reference features.
 *   [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) excels at strict prompt adherence and typography, making it ideal for graphic tees and precise structural clothing.
 *   Ecommerce sellers scaling across Shopify and Amazon should consider API-friendly models like Flux, or use PixelMatch to batch-process lifestyle aesthetics without manual prompting.
 
@@ -144,7 +144,7 @@ Your choice should align with your business model's scalability and the visual c
 Amazon's policy requires the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance) to be a professional photograph of the actual product on a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G181). While you can use AI to generate lifestyle or "in-use" images for your secondary slots and A+ Content, your main image must strictly follow Amazon’s technical requirements to avoid listing suppression.
 
 ### Does Midjourney v7 support transparent backgrounds?
-Midjourney does not natively generate transparent PNGs. You must generate the image with a solid background (usually white) and then use a background removal tool. Flux 1.1 Pro also generates solid backgrounds, though some API implementations offer an integrated "remove-background" post-process step for an additional fee.
+Midjourney does not natively generate transparent PNGs. You must generate the image with a solid background (usually white) and then use a background removal tool. [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro also generates solid backgrounds, though some API implementations offer an integrated "remove-background" post-process step for an additional fee.
 
 ### Which AI is better for rendering specific fabric patterns like plaid or paisley?
 Midjourney v7 is generally superior for complex patterns like plaid because it understands how the pattern should "distort" over the folds and drapes of the fabric. Flux is getting closer, but it often renders patterns as a "flat overlay" that doesn't respect the 3D geometry of the garment as naturally as Midjourney.

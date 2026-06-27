@@ -110,7 +110,7 @@ Choosing the right editor depends on your SKU count and your design expertise. H
 
 PixelMatch is the best option for multi-platform ecommerce sellers who need to move fast. Unlike traditional editors that require you to design one slide at a time, PixelMatch is built for batch-generates AI product images. It takes your existing 1:1 Amazon or Shopify catalog images and automatically converts them into 9:16 TikTok Shop assets.
 
-The tool uses contextual AI background generation to fill the vertical space naturally. For example, if you have a 1:1 shot of a coffee mug on a white background, PixelMatch can generate a 9:16 kitchen environment around it, keeping the product perfectly centered in the Safe Zone. This saves hours of manual resizing and ensures brand consistency across hundreds of products.
+The tool uses contextual [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) generation to fill the vertical space naturally. For example, if you have a 1:1 shot of a coffee mug on a white background, PixelMatch can generate a 9:16 kitchen environment around it, keeping the product perfectly centered in the Safe Zone. This saves hours of manual resizing and ensures brand consistency across hundreds of products.
 
 ### Photoroom
 

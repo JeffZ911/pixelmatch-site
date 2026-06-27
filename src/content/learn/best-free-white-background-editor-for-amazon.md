@@ -56,7 +56,7 @@ Follow this workflow to transform a raw smartphone photo into a high-converting,
 
 ### Pre-Editing: Getting the Right Shot
 
-Run a calibration shoot before you start batch-editing. Even the most advanced AI background removal tools struggle with "color spill"—when the color of your background reflects onto the edges of your product. 
+Run a calibration shoot before you start batch-editing. Even the most advanced [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) removal tools struggle with "color spill"—when the color of your background reflects onto the edges of your product. 
 
 1.  **Use a Neutral Base:** Place your product on a flat, light gray or white surface. Avoid high-gloss surfaces that create harsh reflections on the product's underside.
 2.  **Diffuse Your Light:** Position two light sources at 45-degree angles to the product. If you are using natural light, shoot near a window but use a white sheet to soften the shadows.

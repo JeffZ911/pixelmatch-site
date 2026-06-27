@@ -81,7 +81,7 @@ Instead of one-off prompts, the seller used PixelMatch to batch-generate context
 3.  A modern office bookshelf.
 4.  A bright, sunlit breakfast nook.
 
-By using **AI scene generation**, the seller ensured the product lighting matched the environment perfectly—a task that usually requires a professional retoucher.
+By using **AI scene generation**, the seller ensured the [product lighting](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) matched the environment perfectly—a task that usually requires a professional retoucher.
 
 ### Step 3: Compliance Check and Export
 Amazon allows images in [JPEG (.jpg), TIFF (.tif), PNG (.png), or GIF (.gif) formats](https://sellercentral.amazon.com/help/hub/reference/G1881). The seller standardized all exports to JPEG with a minimum of 1600 pixels on the longest side to enable Amazon’s zoom functionality, which is proven to increase conversion rates.

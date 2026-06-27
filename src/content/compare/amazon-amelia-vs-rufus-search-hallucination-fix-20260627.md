@@ -107,7 +107,7 @@ Amelia is best used as a high-level business analyst. If you need to know "Which
 Rufus often struggles with dynamic pricing and [Prime Exclusive Discounts](https://sellercentral.amazon.com/help/hub/reference/external/G521), sometimes showing buyers a flawed price history that makes a current "deal" look like a price hike. It also hallucinates compatibility. For instance, Rufus has been known to tell buyers that a specific phone case fits an iPhone 15 Pro Max when the listing clearly states it is for the base iPhone 15. This leads to "Item Not as Described" returns, which can get your account flagged.
 
 ### Amelia: The Strategic Gap
-Amelia lacks deep strategic nuance. Its PPC advice is often basic, suggesting you "increase bids on high-converting keywords" without considering inventory lead times or profit margins. Furthermore, when sellers use Amazon's native generative AI image tools within Amelia's workflow, the results often include unnatural visual artifacts.
+Amelia lacks deep strategic nuance. Its PPC advice is often basic, suggesting you "increase bids on high-converting keywords" without considering inventory lead times or profit margins. Furthermore, when sellers use Amazon's native generative [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) tools within Amelia's workflow, the results often include unnatural visual artifacts.
 
 When an AI image generator hallucinates an extra finger on a hand holding your product, or a shadow that defies physics, Rufus's visual processing engine gets confused. It might interpret a "melted" [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) as a product defect or a "used" condition indicator.
 

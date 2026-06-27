@@ -89,7 +89,7 @@ Finally, the workflow upscales the final asset. While Amazon only requires [1000
 
 The transition to a Flux-based shadow fix produced immediate, measurable improvements in both the brand's bottom line and their conversion metrics. By fixing the "floating bottle" look, the brand restored consumer trust in their imagery.
 
-**Actionable Step for Sellers:** Run a "Before/After" split test on a single high-traffic SKU using a tool like Manage Your Experiments in Amazon Seller Central. Compare a standard AI image with clipped shadows against a Flux Pro-corrected image to measure your specific CTR lift.
+**Actionable Step for Sellers:** Run a "Before/After" split test on a single high-traffic SKU using a tool like Manage Your Experiments in Amazon Seller Central. Compare a standard AI image with clipped shadows against a [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting)-corrected image to measure your specific CTR lift.
 
 | Metric | Traditional Studio Shoot | Basic AI Tools (Clipped) | PixelMatch (Flux Pro Fix) |
 | :--- | :--- | :--- | :--- |
@@ -133,7 +133,7 @@ Once the image is generated, perform a quick visual check for "hallucinations" (
 ![Caveats and Honest Limitations](/img/flux-pro-product-shadow-clipping-fix-case-study/inline-6.webp)
 
 
-While the **flux pro product shadow clipping fix** is a massive leap forward for ecommerce efficiency, it is not a "magic button" that works 100% of the time without oversight.
+While the **[flux pro product](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) shadow clipping fix** is a massive leap forward for ecommerce efficiency, it is not a "magic button" that works 100% of the time without oversight.
 
 **Actionable Step for Sellers:** Measure the "frame fill" of your product before uploading to Amazon. The product must occupy [85% to 100% of the image](https://sellercentral.amazon.com/help/hub/reference/1881). If your shadow outpainting makes the product look too small in the frame, you must crop the final image slightly while maintaining the shadow integrity.
 

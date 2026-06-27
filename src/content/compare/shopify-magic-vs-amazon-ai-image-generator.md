@@ -55,7 +55,7 @@ Audit your current image workflow by timing how long it takes to generate a sing
 
 Test your current main images against the [Amazon pure white background requirement](https://sellercentral.amazon.com/help/hub/reference/G1881) using a standard digital color meter before deciding which tool to use for your primary listings.
 
-| Feature | Shopify Magic | Amazon AI Image Generator | PixelMatch (Multi-Platform) |
+| Feature | Shopify Magic | Amazon [AI Image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) Generator | PixelMatch (Multi-Platform) |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Product page lifestyle shots | Sponsored Brands/Display ads | Batch-generating multi-channel assets |
 | **[Main Image Compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)** | No automated white-background check | Focuses on lifestyle (not Main Images) | Automated [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881) |

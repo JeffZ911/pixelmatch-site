@@ -51,7 +51,7 @@ However, the workflow hit a dead end. Every time the creative team tried to uplo
 ![What Wasn't Working](/img/tiktok-symphony-studio-invalid-media-format-flux-1-1/inline-2.webp)
 
 
-The "invalid media format" error in TikTok Symphony Studio is rarely about the visual content and almost always about the technical metadata and file constraints. Flux 1.1 Pro, while industry-leading in terms of prompt adherence and realism, produces files that are technically incompatible with TikTok’s legacy upload requirements.
+The "invalid media format" error in [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio is rarely about the visual content and almost always about the technical metadata and file constraints. Flux 1.1 Pro, while industry-leading in terms of prompt adherence and realism, produces files that are technically incompatible with TikTok’s legacy upload requirements.
 
 First, consider the file format. Many AI generation APIs and web interfaces default to the WebP format because it offers superior compression for web viewing. However, the TikTok Shop Seller Center and Symphony Studio strictly require JPG, JPEG, or PNG formats. When a seller attempts to drag a `.webp` file into the Symphony Studio uploader, the system fails to parse the header, resulting in a rejection.
 

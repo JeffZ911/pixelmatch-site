@@ -100,7 +100,7 @@ Uploading files larger than 5MB or using unsupported formats like WebP (which, a
 
 ### Brand Inconsistency Across Platforms
 
-Multi-platform sellers often make the mistake of having a "TikTok version" of a product that looks nothing like the "Amazon version." While the background should change (lifestyle for TikTok, white for Amazon), the product lighting and color grading must remain consistent. If a customer sees a vibrant, saturated product on TikTok but receives a muted, dull-colored item that matches the Amazon photo, your return rate will spike.
+Multi-platform sellers often make the mistake of having a "TikTok version" of a product that looks nothing like the "Amazon version." While the background should change (lifestyle for TikTok, white for Amazon), the [product lighting](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) and color grading must remain consistent. If a customer sees a vibrant, saturated product on TikTok but receives a muted, dull-colored item that matches the Amazon photo, your return rate will spike.
 
 ## Tools That Speed This Up
 

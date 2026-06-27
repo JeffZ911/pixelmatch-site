@@ -40,7 +40,7 @@ Managing a mid-market beauty brand with 150+ SKUs requires a constant stream of 
 *Related: [How a Jewelry Seller Cut Photo Costs 80% with a Flux 1 LoRA Metallic T](/blog/stories/flux-1-lora-metallic-texture-realism-fix-ecommerce) · [How a Home Goods Brand Fixed A+ Content Upload Errors and Cut Photo Co](/blog/stories/amazon-a-plus-content-error-code-9006-fix) · [How a Beauty Seller Fixed Amazon 'Error Code IMG-9002' & Cut Photo Cos](/blog/stories/amazon-seller-central-error-code-img-9002-fix)*
 
 
-Your brand manages a growing catalog of serums, palettes, and skincare tools. To maintain a professional presence across multi-platform storefronts, you must adhere to varying image standards that directly impact your search ranking and conversion rates.
+Your brand manages a growing catalog of serums, palettes, and skincare tools. To maintain a professional presence across multi-platform storefronts, you must adhere to varying image standards that directly impact your [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) and conversion rates.
 
 On Shopify, the recommendation is clear: use [2048 x 2048 px square images](https://help.shopify.com/en/manual/online-store/images/theme-images) to ensure high-resolution display on both desktop and mobile. For your Amazon FBA listings, the stakes are even higher. Amazon’s [Main Image requirements](https://sellercentral.amazon.com/help/hub/reference/1881) dictate a pure white background (RGB 255, 255, 255) with the product filling at least 85% of the frame. If your main image has a slight grey tint or an "off-white" shadow, your listing can be suppressed, instantly killing your daily revenue.
 

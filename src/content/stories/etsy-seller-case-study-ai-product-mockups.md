@@ -101,7 +101,7 @@ The most significant change was the cost of expansion. Previously, launching a n
 | **Time to Launch** | 14 Days | < 48 Hours | 85% Faster |
 | **Image Resolution** | 1200 x 1200 px (Phone) | 3000 x 3000 px (AI) | 150% Increase |
 
-The increase in CTR from 1.2% to 3.4% is particularly vital. On Etsy, a higher CTR tells the algorithm that your listing is relevant to buyers, which can improve your organic search ranking over time. By presenting the product in an "aspirational" setting, the seller moved from being a "commodity" to a "lifestyle brand."
+The increase in CTR from 1.2% to 3.4% is particularly vital. On Etsy, a higher CTR tells the algorithm that your listing is relevant to buyers, which can improve your organic [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) over time. By presenting the product in an "aspirational" setting, the seller moved from being a "commodity" to a "lifestyle brand."
 
 Furthermore, for sellers crossing the $10,000 annual revenue threshold, Etsy automatically enrolls you in Offsite Ads. While the fee for these ads is [12% for sellers over $10k](https://help.etsy.com/hc/en-us/articles/360000338367-How-Etsy-s-Offsite-Ads-Work) (and 15% for those under), you only pay when you make a sale. Having high-converting, AI-optimized images ensures that when Etsy spends money to show your products on Google or Instagram, those clicks actually turn into revenue rather than wasted ad spend.
 

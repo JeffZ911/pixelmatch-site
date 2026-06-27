@@ -85,7 +85,7 @@ Calculate your monthly per-image cost by dividing your subscription fee by the n
 Map your channel-specific requirements to the tool that minimizes your clicks per listing. A Shopify seller has different needs than a brand registered [Amazon seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix).
 
 ### When to use Google Product Studio
-Use [Google Product](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) Studio if you are a Shopify or WooCommerce merchant whose primary sales driver is Google Shopping. Because it is integrated into the [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide), you can update your "Seasonal" images (e.g., adding a holiday-themed background) without ever leaving the platform.
+Use [Google Product](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) Studio if you are a Shopify or WooCommerce merchant whose primary sales driver is [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy). Because it is integrated into the [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide), you can update your "Seasonal" images (e.g., adding a holiday-themed background) without ever leaving the platform.
 *   **Actionable Step:** Set a recurring calendar reminder to sync your Google [Product Studio](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) lifestyle images with your seasonal Google Shopping campaigns (e.g., updating backgrounds to "autumn leaves" on September 1st).
 
 ### When to use Canva Magic Studio
