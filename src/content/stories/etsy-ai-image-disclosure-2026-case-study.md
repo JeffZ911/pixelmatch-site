@@ -163,5 +163,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Canva Pricing and Plans
 *   Photoroom Pricing and Features
 *   Pebblely Pricing Tiers
-*   New York State Senate: AI Transparency in Advertising Act
+*   New York State Senate: [AI Transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) in Advertising Act
 *   [Etsy Seller Handbook: Optimizing Images for Search](https://www.etsy.com/seller-handbook/article/1041433031124)

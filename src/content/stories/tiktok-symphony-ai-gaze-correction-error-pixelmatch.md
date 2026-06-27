@@ -47,7 +47,7 @@ To reclaim their margins, the brand integrated TikTok’s [Symphony AI](https://
 ![What Wasn't Working: The Uncanny Valley](/img/tiktok-symphony-ai-gaze-correction-error-pixelmatch/inline-2.webp)
 
 
-Verify your synthetic media compliance regularly to avoid shadowbanning or ad rejections. The brand’s strategy hit a wall when they encountered the tiktok [symphony ai](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) gaze correction error. Because TikTok Symphony’s native avatars do not currently feature a built-in eye-contact adjustment toggle, the seller used third-party AI "eye contact" software to post-process the video files. 
+Verify your synthetic media compliance regularly to avoid shadowbanning or ad rejections. The brand’s strategy hit a wall when they encountered the tiktok [symphony ai](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) gaze correction error. Because [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1)’s native avatars do not currently feature a built-in eye-contact adjustment toggle, the seller used third-party AI "eye contact" software to post-process the video files. 
 
 The results were disastrous. The gaze correction software struggled to map onto the already-synthetic movements of the Symphony avatars. The eyes would frequently snap unnaturally during transitions, glitch during blinks, or produce a "dead" stare that felt robotic. This technical friction triggered several issues:
 

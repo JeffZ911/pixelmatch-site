@@ -48,7 +48,7 @@ Compare the technical specifications and output capabilities of both tools to de
 | **Batch Limit** | 50 images per session / 500 per month | 100 images per batch / Unlimited monthly |
 | **Min Resolution** | Up to 4000x4000px | Up to 4000x4000px |
 | **TikTok Shop Preset** | Yes (800x800px & 1200x1200px) | Yes (1:1 Ratio) |
-| **AI Background Gen** | High-fidelity, lighting-matched | Fast, prompt-based, high variety |
+| **[AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) Gen** | High-fidelity, lighting-matched | Fast, prompt-based, high variety |
 | **Apparel Tools** | Ghost Mannequin & AI Models | Basic Retouch & AI Shadows |
 | **Desktop Version** | Yes (Web App) | Yes (Web App) |
 | **API Access** | Yes (Separate pricing) | Yes (Separate pricing) |

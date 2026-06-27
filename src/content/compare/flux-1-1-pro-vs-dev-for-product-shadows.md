@@ -80,7 +80,7 @@ Calculate your monthly volume before committing to an API-based workflow. For a 
 | Service Provider | Model | Price Per Image | Commercial Use? |
 | :--- | :--- | :--- | :--- |
 | **Black Forest Labs (Official)** | [FLUX 1](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures).[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) | $0.04 | Yes |
-| **Black Forest Labs (Ultra)** | FLUX 1.1 Pro (4MP) | $0.06 | Yes |
+| **Black Forest Labs (Ultra)** | [FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro (4MP) | $0.06 | Yes |
 | **Puter** | FLUX.1 [dev] | $0.025 | No |
 | **Fal.ai** | FLUX.1 [dev] | ~$0.025 | No |
 | **PixelMatch** | Custom Engine | Subscription Based | Yes |

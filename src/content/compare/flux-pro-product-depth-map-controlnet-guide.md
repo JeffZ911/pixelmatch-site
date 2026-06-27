@@ -77,7 +77,7 @@ PixelMatch automatically formats outputs to meet marketplace specs, including [A
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Running Flux Pro manually means paying per generation. For example, Replicate charges $0.04 per output image for the black-forest-labs/flux-1.1-pro model. While four cents sounds negligible, a seller with 50 SKUs who needs 10 variations per SKU will spend $20 just for the final outputs—this doesn't include the dozens of "failed" test generations used to calibrate the prompt and ControlNet strength.
+Running [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) manually means paying per generation. For example, Replicate charges $0.04 per output image for the black-forest-labs/flux-1.1-pro model. While four cents sounds negligible, a seller with 50 SKUs who needs 10 variations per SKU will spend $20 just for the final outputs—this doesn't include the dozens of "failed" test generations used to calibrate the prompt and ControlNet strength.
 
 Alternatively, running it through Fal.ai costs $0.055 per megapixel, which scales up quickly if you are generating high-resolution batch variations. If you generate a 2000x2000 px image (4 megapixels) to satisfy [Etsy’s recommendation of 2000px on the shortest side](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos), a single image could cost you $0.22. For a catalog of 200 items, your monthly "testing" and production bill can easily exceed $100 before you've even sold a single unit.
 

@@ -47,7 +47,7 @@ Download the "[Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-
 ![Step-by-Step Walkthrough](/img/amazon-fba-main-image-white-background-tool/inline-2.webp)
 
 
-Run a calibration shoot before you start batch-processing to ensure your raw files are optimized for AI background removal. While modern tools are powerful, "garbage in, garbage out" still applies to product photography.
+Run a calibration shoot before you start batch-processing to ensure your raw files are optimized for [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) removal. While modern tools are powerful, "garbage in, garbage out" still applies to product photography.
 
 ### Pre-Processing Your Raw Photos
 Set your camera or smartphone to ISO 100 or 200 to minimize digital noise. High ISO settings create "grain" in the shadows, which makes it difficult for background removal algorithms to distinguish between the product edge and the background. Ensure you have even lighting—ideally using two softboxes at 45-degree angles—to eliminate harsh drop shadows that touch the edge of the frame. Amazon’s automated scanners often mistake thick, dark shadows for part of the product, which can cause the image to be flagged for not meeting the 85% frame-fill rule.

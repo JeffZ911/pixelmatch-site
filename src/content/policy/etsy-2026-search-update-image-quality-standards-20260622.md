@@ -84,7 +84,7 @@ If an item is created through the use of artificial intelligence, you must discl
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Understanding why Etsy's automated systems flag or bury a listing can save you hours of re-uploading. Most "shadow-penalties" in search ranking aren't accompanied by an email notification; your traffic simply drops.
+Understanding why Etsy's automated systems flag or bury a listing can save you hours of re-uploading. Most "shadow-penalties" in [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) aren't accompanied by an email notification; your traffic simply drops.
 
 ### Stock Photos and Renderings
 

@@ -135,7 +135,7 @@ If you used AI to help design a physical item that you then hand-make (like a 3D
 
 *   Etsy Seller Policy
 *   Etsy's [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy)
-*   New York State Senate Bill S8420A (AI Transparency Act)
+*   New York State Senate Bill S8420A ([AI Transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) Act)
 *   [Etsy Help: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop)
 *   Photoroom Pricing and Features
 *   Adobe Express Premium Pricing

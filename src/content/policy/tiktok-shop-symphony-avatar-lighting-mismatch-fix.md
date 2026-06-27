@@ -85,7 +85,7 @@ Sellers frequently attempt to use the Product Avatar tool for apparel. TikTok is
 TikTok Shop product images must be at least 800 x 800 pixels. If you upload a low-resolution thumbnail (e.g., 400x400), the [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix) cannot identify the fine details of the product’s edges. This leads to "hand-clipping," where the avatar's fingers disappear into the product or appear to be floating behind it.
 
 ### 4. Background Artifacts
-If you use a basic background remover that leaves a 1-pixel white border around your product, that border will glow when placed in the Symphony studio. This is a common issue with standard mobile apps. Professional-grade cutouts are required to ensure the "blending" phase of the Symphony workflow doesn't pick up stray pixels.
+If you use a basic background remover that leaves a 1-pixel white border around your product, that border will glow when placed in the [Symphony studio](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1). This is a common issue with standard mobile apps. Professional-grade cutouts are required to ensure the "blending" phase of the Symphony workflow doesn't pick up stray pixels.
 
 ## How to Fix Each Issue
 
