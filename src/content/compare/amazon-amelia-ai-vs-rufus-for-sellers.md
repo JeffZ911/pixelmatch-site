@@ -52,7 +52,7 @@ Open your Seller Central dashboard today and look for the Amelia icon (usually i
 
 Audit your product listings for "conversational language" to see if Rufus can extract key benefits like "waterproof up to 30 meters." If your listing only says "30m water resistance" in a bullet point, Rufus might overlook it when a shopper asks for a watch they can take scuba diving.
 
-| Feature | Amazon Amelia | [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) |
+| Feature | [Amazon Amelia](https://pixelmatch.art/blog/compare/amazon-amelia-vs-rufus-search-hallucination-fix-20260627) | [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) |
 | :--- | :--- | :--- |
 | **Primary User** | Amazon Sellers & Brand Owners | Amazon Shoppers & Buyers |
 | **Interface** | Seller Central (Web & Mobile) | Amazon Shopping App & Desktop Site |

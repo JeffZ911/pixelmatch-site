@@ -91,7 +91,7 @@ The transition to a Flux-based shadow fix produced immediate, measurable improve
 
 **Actionable Step for Sellers:** Run a "Before/After" split test on a single high-traffic SKU using a tool like Manage Your Experiments in Amazon Seller Central. Compare a standard AI image with clipped shadows against a [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting)-corrected image to measure your specific CTR lift.
 
-| Metric | Traditional Studio Shoot | Basic AI Tools (Clipped) | PixelMatch (Flux Pro Fix) |
+| Metric | Traditional Studio Shoot | Basic AI Tools (Clipped) | PixelMatch ([Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) Fix) |
 | :--- | :--- | :--- | :--- |
 | **Cost Per Image** | $45.00 | ~$0.50 | $4.50 (incl. human QA) |
 | **Turnaround Time** | 10-14 Days | < 1 Minute | < 2 Minutes |

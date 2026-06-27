@@ -52,7 +52,7 @@ Operating a home decor shop on Etsy requires balancing high aesthetic standards 
 
 To compete with top-tier brands, the seller needed lifestyle imagery. However, the financial reality of Etsy selling in 2026 makes traditional photography difficult to justify. Between Etsy's 6.5% transaction fee and the 3% + $0.25 payment processing fee, every dollar spent on physical props, backdrops, and lighting equipment directly reduces the net profit on each sale.
 
-The primary objective was to push the shop's conversion rate above the 1% to 5% Etsy average. In the Etsy ecosystem, a higher conversion rate signals to the search algorithm that your listing is relevant, which in turn boosts your organic search ranking.
+The primary objective was to push the shop's conversion rate above the 1% to 5% Etsy average. In the Etsy ecosystem, a higher conversion rate signals to the search algorithm that your listing is relevant, which in turn boosts your organic [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626).
 
 **Actionable Step for Sellers:** Calculate your "Visual Overhead" today. Add up the cost of props, backdrops, and the hourly value of your time spent staging. If this exceeds 5% of your product's retail price, your current photography workflow is actively cannibalizing your growth capital.
 

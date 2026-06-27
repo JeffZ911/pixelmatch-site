@@ -60,7 +60,7 @@ Run a calibration shoot before you start batch-editing. Even the most advanced [
 
 1.  **Use a Neutral Base:** Place your product on a flat, light gray or white surface. Avoid high-gloss surfaces that create harsh reflections on the product's underside.
 2.  **Diffuse Your Light:** Position two light sources at 45-degree angles to the product. If you are using natural light, shoot near a window but use a white sheet to soften the shadows.
-3.  **Check Your ISO:** Set your camera or smartphone ISO to the lowest possible setting (usually ISO 100) to minimize "noise" or graininess. High-noise images lead to jagged edges during the AI background removal process.
+3.  **Check Your ISO:** Set your camera or smartphone ISO to the lowest possible setting (usually ISO 100) to minimize "noise" or graininess. High-noise images lead to jagged edges during the [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) removal process.
 
 ### The Editing Process
 

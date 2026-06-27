@@ -109,7 +109,7 @@ Rufus often struggles with dynamic pricing and [Prime Exclusive Discounts](https
 ### Amelia: The Strategic Gap
 Amelia lacks deep strategic nuance. Its PPC advice is often basic, suggesting you "increase bids on high-converting keywords" without considering inventory lead times or profit margins. Furthermore, when sellers use Amazon's native generative [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) tools within Amelia's workflow, the results often include unnatural visual artifacts.
 
-When an AI image generator hallucinates an extra finger on a hand holding your product, or a shadow that defies physics, Rufus's visual processing engine gets confused. It might interpret a "melted" [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) as a product defect or a "used" condition indicator.
+When an [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) generator hallucinates an extra finger on a hand holding your product, or a shadow that defies physics, Rufus's visual processing engine gets confused. It might interpret a "melted" [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) as a product defect or a "used" condition indicator.
 
 **Actionable Step:** Run a visual audit of your 7th image slot (usually the lifestyle slot). If you used a generic AI generator and the background looks "dreamy" or "blurred" in a way that obscures the product's edges, replace it. Use PixelMatch to batch-generate lifestyle images that maintain [1600 x 1600 px minimum dimensions](https://sellercentral.amazon.com/help/hub/reference/external/G181) and clear, sharp product outlines.
 

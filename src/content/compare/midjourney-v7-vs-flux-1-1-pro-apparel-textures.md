@@ -51,7 +51,7 @@ Capturing high-fidelity fabric textures like the weave of a heavy linen or the s
 
 Choosing between these models requires balancing raw image quality against the technical requirements of your ecommerce stack. Amazon requires a minimum of [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/external/G181) to enable the zoom functionality, though [1600 pixels or higher](https://sellercentral.amazon.com/help/hub/reference/external/G181) is the recommended best practice for a crisp customer experience. Meanwhile, Shopify recommends images be [2048 x 2048 pixels](https://help.shopify.com/en/manual/products/product-definitions/product-images) for high-resolution displays.
 
-| Feature | Midjourney v7 | [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) |
+| Feature | [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) | [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) |
 | :--- | :--- | :--- |
 | **Max Resolution** | ~2048 x 2048 (via internal upscaler) | Up to 4 megapixels (Ultra version) |
 | **Workflow** | Discord / Web Alpha Interface | API (Replicate, Fal.ai) |
@@ -165,7 +165,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
 *   [Shopify Image Size and Resolution Guide](https://help.shopify.com/en/manual/products/product-definitions/product-images)
 *   Midjourney Official Subscription Plans
-*   Replicate Flux 1.1 Pro Pricing
+*   Replicate [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro Pricing
 *   Fal.ai Flux 1.1 Pro Model Details
 *   Black Forest Labs (Flux) Official Site
 *   U.S. Copyright Office AI Guidance

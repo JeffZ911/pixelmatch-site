@@ -162,7 +162,7 @@ Shadows provide "grounding," which tells the customer's brain that the product i
 To run FLUX.1 [dev] at full precision, you need at least 16GB to 24GB of VRAM. While "quantized" versions (4-bit or 8-bit) can run on 8GB or 12GB cards, you will often see a significant drop in shadow quality and fine detail, which defeats the purpose of using a high-end model for product photography.
 
 ### Is FLUX 1.1 Pro better than Midjourney for shadows?
-FLUX 1.1 Pro is generally preferred for ecommerce because of its superior "prompt adherence." If you tell FLUX to place a shadow at a specific 45-degree angle, it is more likely to follow that instruction than Midjourney, which often prioritizes "aesthetic" over "accuracy."
+[FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro is generally preferred for ecommerce because of its superior "prompt adherence." If you tell FLUX to place a shadow at a specific 45-degree angle, it is more likely to follow that instruction than Midjourney, which often prioritizes "aesthetic" over "accuracy."
 
 
 <!-- pm-cta:foot -->

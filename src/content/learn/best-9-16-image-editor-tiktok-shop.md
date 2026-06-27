@@ -121,7 +121,7 @@ Photoroom remains a staple for mobile-first sellers. It is excellent for quick b
 
 ### Pebblely
 
-Pebblely offers strong AI background generation with a focus on aesthetic, "Instagrammable" looks that perform well in TikTok Photo Mode.
+Pebblely offers strong [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) generation with a focus on aesthetic, "Instagrammable" looks that perform well in TikTok Photo Mode.
 *   **Pricing:** The free tier allows for 40 images per month. The Basic plan costs $19/month for up to 500 images.
 *   **Best For:** Small boutiques that need high-end lifestyle photography without a studio.
 *   **Limitation:** It is a credit-based system, which can become expensive if you are A/B testing dozens of 9:16 variations for TikTok Ads.

@@ -118,7 +118,7 @@ Furthermore, both tools fail at high-volume catalog management. If you have a ne
 
 Switch to a batch workflow if you manage more than 20 SKUs to reclaim at least 10 hours of work per month. Manual image creation is a bottleneck that prevents you from launching new products faster.
 
-*   **For the Budget-Conscious:** If you have zero budget and your primary revenue driver is Google Shopping, use Google Product Studio. It is the most efficient way to keep your feed optimized for seasonal shifts without spending a dollar.
+*   **For the Budget-Conscious:** If you have zero budget and your primary revenue driver is [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy), use Google Product Studio. It is the most efficient way to keep your feed optimized for seasonal shifts without spending a dollar.
 *   **For the Brand Visionary:** If you are building a mood board, conceptualizing a brand identity, or need a single hero image for a high-impact campaign, invest the $30/month in [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures). The creative depth is currently unmatched in the AI space.
 *   **For the Scalable Business:** If you are a multi-platform seller who needs to batch-process catalog images that are instantly ready and compliant for Amazon, Shopify, and TikTok Shop, PixelMatch is the superior choice. It eliminates the risk of [Amazon listing suppression](https://sellercentral.amazon.com/help/hub/reference/1881) and handles the heavy lifting of high-volume production.
 
