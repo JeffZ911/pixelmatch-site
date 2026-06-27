@@ -175,7 +175,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 *   Black Forest Labs Official API Pricing
 *   [Hugging Face: FLUX.1 [dev] Model Card and License](https://huggingface.co/black-forest-labs/FLUX.1-dev)
-*   MindStudio: What is FLUX 1.1 Pro?
+*   MindStudio: What is [FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro?
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/gp/help/external/1881)
 *   [Etsy Help: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop)
 *   [Shopify Help Center: Product Media Types and Limits](https://help.shopify.com/en/manual/products/product-media/product-media-types)

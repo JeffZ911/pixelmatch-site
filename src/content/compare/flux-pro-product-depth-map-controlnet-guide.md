@@ -134,7 +134,7 @@ For most multi-platform sellers, the "perfect" image is the one that is uploaded
 ## Frequently Asked Questions
 
 ### What is a depth map in AI product photography?
-A depth map is a grayscale image where the brightness of each pixel represents its distance from the camera. In AI photography, this map acts as a 3D template, telling the Flux Pro model exactly where your product sits in space so the AI can generate a background "behind" it and shadows "underneath" it without changing the product's actual shape.
+A depth map is a grayscale image where the brightness of each pixel represents its distance from the camera. In AI photography, this map acts as a 3D template, telling the [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) model exactly where your product sits in space so the AI can generate a background "behind" it and shadows "underneath" it without changing the product's actual shape.
 
 ### Does Amazon allow AI-generated product images?
 Yes, Amazon allows AI-generated images as long as they accurately represent the product and meet all standard requirements. For main images, this includes a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) and the product occupying at least 85% of the frame. AI is most commonly used for secondary lifestyle images.

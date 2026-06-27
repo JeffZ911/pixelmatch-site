@@ -64,7 +64,7 @@ Run a calibration shoot before you start your batch. You don't need a profession
 ### 2. Batch Process Backgrounds
 Import your raw images into a batch-processing tool like PixelMatch. Instead of clicking "Remove Background" on every individual file, upload your entire folder of 50+ SKUs. PixelMatch uses neural networks to identify the product edges and strip the background across all images simultaneously.
 
-This step is critical for multi-platform sellers. While Etsy buyers prefer lifestyle scenes, platforms like Amazon or Google Shopping often require a pure white background (Hex: #FFFFFF). Batch processing allows you to generate both versions from a single raw file in one click.
+This step is critical for multi-platform sellers. While Etsy buyers prefer lifestyle scenes, platforms like Amazon or [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) often require a pure white background (Hex: #FFFFFF). Batch processing allows you to generate both versions from a single raw file in one click.
 
 ### 3. Generate Lifestyle Scenes
 Apply AI-generated lifestyle scenes that match your brand's aesthetic. For Etsy, "in-context" photos—such as a candle on a rustic wooden table or jewelry being worn—perform significantly better than studio shots. Use a tool that allows you to lock the physical product's geometry. This ensures the AI changes the environment but does not "hallucinate" or alter the actual product you are selling.

@@ -69,7 +69,7 @@ To maintain a professional storefront, your AI-generated images must adhere to S
 ![Step-by-Step Walkthrough](/img/best-shopify-app-for-ai-product-photography/inline-2.webp)
 
 
-Generating a high-converting image requires more than just a "random" AI background. You need a repeatable workflow that ensures your AI-generated assets look like professional photography rather than "AI art."
+Generating a high-converting image requires more than just a "random" [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix). You need a repeatable workflow that ensures your AI-generated assets look like professional photography rather than "AI art."
 
 ### Step 1: Capture the Base Photo
 Use your smartphone to take a clear, well-lit photo of your product. Skip the expensive lighting kits; natural light from a window is sufficient. The key is to use a "Grey Card" or a neutral background to ensure the AI can clearly distinguish the product edges. Ensure the entire product is in the frame and in sharp focus.

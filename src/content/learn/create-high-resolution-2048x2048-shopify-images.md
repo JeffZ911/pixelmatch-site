@@ -127,7 +127,7 @@ PixelMatch is specifically designed for the multi-platform seller workflow. Unli
 Photoroom is a popular mobile and desktop choice for quick background removals. It offers a Pro plan at $12.99/month (or $89.99/year) which includes batch exporting features. However, be aware that Photoroom caps batch processing at 500 images per month on the Pro tier. This is a solid option for small-to-mid-sized boutiques, but high-volume sellers may hit those limits quickly.
 
 ### Pebblely
-Pebblely excels at AI background generation, helping you place your product in "lifestyle" settings. Their pricing structure is tiered by image count: the Basic plan is $19/month for 200 images, and the Pro plan is $39/month for 500 images. While great for creative assets, using it for your entire 2048x2048 main-image catalog can become expensive compared to dedicated batch editors.
+Pebblely excels at [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) generation, helping you place your product in "lifestyle" settings. Their pricing structure is tiered by image count: the Basic plan is $19/month for 200 images, and the Pro plan is $39/month for 500 images. While great for creative assets, using it for your entire 2048x2048 main-image catalog can become expensive compared to dedicated batch editors.
 
 ### Canva
 Canva is a reliable manual option for resizing. You can set a custom canvas size of 2048x2048 and drag your photos in. However, batch processing in Canva requires a paid Canva Pro account and still involves significant manual adjustment per image to ensure the product is centered correctly. It is best used for one-off social media graphics rather than bulk catalog management.

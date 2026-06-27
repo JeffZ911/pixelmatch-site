@@ -111,7 +111,7 @@ By reducing the cost per listing from $45.00 to $4.50, the brand saved 90% on th
 
 You can implement this exact workflow for your own multi-platform store. Whether you sell skincare, supplements, or packaged goods, the technical steps remain the same.
 
-**Actionable Step for Sellers:** Follow this 5-step sequence to generate Amazon-compliant assets that use the Flux Pro architecture to eliminate shadow clipping.
+**Actionable Step for Sellers:** Follow this 5-step sequence to generate Amazon-compliant assets that use the [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) architecture to eliminate shadow clipping.
 
 ### Step 1: Upload the Source Image
 Start with the highest resolution photo you have. Even if it is a "cell phone shot" taken in a light box, ensure the product is in focus. Upload this into the PixelMatch interface. Do not worry if the crop is tight or if the shadow is currently cut off by the frame.

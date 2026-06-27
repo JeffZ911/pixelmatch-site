@@ -111,7 +111,7 @@ The most significant impact was on buyer behavior. The cohesive, aspirational li
 | :--- | :--- | :--- |
 | **Monthly Revenue** | ~$7,200 | ~$14,800 |
 | **Ad Spend Efficiency (ROAS)** | 2.1x | 3.8x |
-| **Search Ranking (Avg. Position)** | 42 | 18 |
+| **[Search Ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) (Avg. Position)** | 42 | 18 |
 
 The doubling of the conversion rate had a "flywheel effect." As more people bought the products, Etsy's algorithm pushed the listings higher in search results for competitive keywords like "vintage brass decor," leading to more organic traffic and even higher sales.
 

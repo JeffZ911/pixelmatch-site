@@ -59,7 +59,7 @@ Second, the file size is a major bottleneck. The Flux 1.1 Pro Ultra model genera
 
 Finally, the aspect ratio often causes secondary failures. While not always triggering the "invalid format" error specifically, uploading a square (1:1) or landscape (16:9) image into a vertical video generator often leads to awkward cropping or "black bars," which TikTok’s automated moderation may flag as low-quality content. Symphony Studio performs best with a 9:16 vertical aspect ratio (typically 720x1280 px or higher).
 
-| Constraint | Flux 1.1 Pro Output (Typical) | TikTok Symphony Requirement | Result |
+| Constraint | Flux 1.1 Pro Output (Typical) | [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Requirement | Result |
 | :--- | :--- | :--- | :--- |
 | **File Format** | WebP or high-res PNG | JPG, JPEG, or PNG | **Error/Rejection** |
 | **File Size** | 6MB - 12MB | Under 5MB | **Error/Rejection** |

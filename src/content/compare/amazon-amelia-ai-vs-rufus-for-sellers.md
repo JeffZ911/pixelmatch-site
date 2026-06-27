@@ -143,7 +143,7 @@ By leveraging Amelia to clean up your back-end operations and using PixelMatch t
 ## Frequently Asked Questions
 
 ### Does using Amazon Amelia cost extra for sellers?
-No, Amazon Amelia does not have a separate subscription fee. It is included as a native feature within Seller Central. However, it is most effective for sellers on the [Professional plan ($39.99/mo)](https://sell.amazon.com/pricing), as they have access to the full range of business reports and advertising data that Amelia analyzes.
+No, [Amazon Amelia](https://pixelmatch.art/blog/compare/amazon-amelia-vs-rufus-search-hallucination-fix-20260627) does not have a separate subscription fee. It is included as a native feature within Seller Central. However, it is most effective for sellers on the [Professional plan ($39.99/mo)](https://sell.amazon.com/pricing), as they have access to the full range of business reports and advertising data that Amelia analyzes.
 
 ### Can Rufus recommend my products if I don't have lifestyle images?
 Yes, Rufus can still recommend your products based on your text descriptions and reviews, but your conversion rate will likely suffer. Rufus often provides "visual summaries" or answers questions about how a product looks in a specific setting. Without lifestyle images, you are essentially "blind" to the AI’s visual reasoning engine.
