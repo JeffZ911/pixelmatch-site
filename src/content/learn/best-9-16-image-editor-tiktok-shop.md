@@ -66,7 +66,7 @@ Stop guessing where your text should go. Follow this technical workflow to ensur
 
 Start by setting your canvas to exactly 1080x1920 pixels. While 720p is technically allowed, the 2026 TikTok interface is optimized for high-density displays. Using a lower resolution results in "fuzzy" text overlays that signal a low-quality brand to potential buyers.
 
-If you are starting with 1:1 Amazon or Shopify catalog images, do not simply stretch them. Instead, use an editor that offers "Generative Expand" or AI background generation. This allows you to place your square product photo in the center and let the AI "paint" the rest of the 9:16 environment, creating a seamless lifestyle shot that looks like it was originally photographed in a vertical studio.
+If you are starting with 1:1 Amazon or Shopify catalog images, do not simply stretch them. Instead, use an editor that offers "Generative Expand" or [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) generation. This allows you to place your square product photo in the center and let the AI "paint" the rest of the 9:16 environment, creating a seamless lifestyle shot that looks like it was originally photographed in a vertical studio.
 
 ### Designing for the Safe Zone
 

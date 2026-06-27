@@ -25,7 +25,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop wasting hours manually retouching product photos or paying high-ticket photographers for lifestyle scenes that AI can generate in seconds. Choosing between [Google Product Studio](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) and [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio depends entirely on whether you are optimizing a Google Shopping feed or building a brand identity across social media.
+Stop wasting hours manually retouching product photos or paying high-ticket photographers for lifestyle scenes that AI can generate in seconds. Choosing between [Google Product Studio](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617) and [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio depends entirely on whether you are optimizing a [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) feed or building a brand identity across social media.
 
 ## TL;DR Verdict
 

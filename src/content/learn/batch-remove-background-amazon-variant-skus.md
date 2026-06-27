@@ -149,7 +149,7 @@ Remove.bg is often considered the gold standard for complex edge detection (like
 Yes. Every child ASIN (the specific variant) must have a primary image with a pure white background. While your secondary images (`PT01`, `PT02`, etc.) can show the variant in a lifestyle setting or with different backgrounds, the "Main" image that appears in search results must be compliant with the #FFFFFF rule.
 
 ### What are Amazon SWCH images?
-Swatch images (`.SWCH`) are the small thumbnail icons that appear on a listing when a customer is choosing between colors or patterns. While Amazon sometimes automatically generates these from your main image, uploading a dedicated `.SWCH` file allows you to zoom in on the specific texture or color detail, providing a better customer experience and reducing returns caused by "color mismatch."
+Swatch images (`.SWCH`) are the small thumbnail icons that appear on a listing when a customer is choosing between colors or patterns. While Amazon sometimes automatically generates these from your [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance), uploading a dedicated `.SWCH` file allows you to zoom in on the specific texture or color detail, providing a better customer experience and reducing returns caused by "color mismatch."
 
 ### Can I use AI-generated backgrounds for Amazon main images?
 No. For the `.MAIN` image, Amazon policy requires a "pure white" background. AI-generated lifestyle backgrounds (like a kitchen counter or a park bench) are excellent for your secondary images (`PT01` through `PT99`) to increase conversion, but using them for your primary image will result in a listing suppression.

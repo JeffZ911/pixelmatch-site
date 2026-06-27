@@ -128,7 +128,7 @@ Test your first-slide bounce rate to ensure your "hook" image is strong enough t
 
 *   **Not a Video Repair Tool:** PixelMatch is an image-first platform. It cannot fix existing video files or resolve the tiktok [symphony ai](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) gaze correction error within a video file. It is a strategic alternative to video, not a patch for it.
 *   **Active Engagement Required:** Unlike video, which plays automatically, carousels require the user to swipe. If your first image is low-quality or lacks a compelling hook, your dwell time will be zero. You must use AI to create a "scroll-stopping" hero image.
-*   **The Future of Video:** TikTok is fundamentally a video-centric platform. While carousels are a powerful "hack" for lowering CPA right now, you should continue to monitor TikTok Symphony’s updates. As native generative AI improves and the "uncanny valley" effect is minimized, you may eventually want to re-introduce video avatars into your mix—but only once the technology can maintain eye contact without third-party glitches.
+*   **The Future of Video:** TikTok is fundamentally a video-centric platform. While carousels are a powerful "hack" for lowering CPA right now, you should continue to monitor [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy)’s updates. As native generative AI improves and the "uncanny valley" effect is minimized, you may eventually want to re-introduce video avatars into your mix—but only once the technology can maintain eye contact without third-party glitches.
 
 ## Frequently Asked Questions
 

@@ -146,7 +146,7 @@ This usually happens if your original file was [below the 2000px recommendation]
 Yes, most modern iPhones (iPhone 12 and newer) capture images well above the [2000-pixel requirement](https://help.etsy.com/hc/en-us/articles/115015663347). However, ensure you are not using "High Efficiency" (HEIC) mode if you plan to edit them on an older PC, as this can sometimes cause color shifting. Converting them to JPG before uploading is the safest route for consistent color.
 
 ### Is the 1MB file size limit a hard rule?
-No, 1MB is not a hard cap. Etsy supports files up to [10MB per image](https://help.etsy.com/hc/en-us/articles/115015663347). The 1MB figure is a recommendation for sellers with slower internet connections to prevent the upload from timing out or failing. For the best search ranking, aim for the highest resolution possible within the 10MB limit.
+No, 1MB is not a hard cap. Etsy supports files up to [10MB per image](https://help.etsy.com/hc/en-us/articles/115015663347). The 1MB figure is a recommendation for sellers with slower internet connections to prevent the upload from timing out or failing. For the best [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626), aim for the highest resolution possible within the 10MB limit.
 
 ## Official Source Links
 

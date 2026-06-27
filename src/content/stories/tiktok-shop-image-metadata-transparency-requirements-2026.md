@@ -44,7 +44,7 @@ Operating in the highly visual Beauty & Personal Care category, this seller need
 
 The brand relied heavily on AI tools to generate lifestyle backgrounds to avoid the $500-per-day cost of local photographers. However, they ran into a wall when TikTok Shop began enforcing its strict AI-generated content policy on May 13, 2026. Suddenly, listings that had performed well for months were flagged for "Deceptive Content."
 
-**Actionable Step:** Audit your TikTok Seller Center "Account Health" page today. Look for "Product Violation" flags specifically citing "Image Policy" or "AI Transparency." If you see even one warning, your entire shop is at risk of a "Three Strikes" permanent ban.
+**Actionable Step:** Audit your TikTok Seller Center "Account Health" page today. Look for "Product Violation" flags specifically citing "Image Policy" or "[AI Transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626)." If you see even one warning, your entire shop is at risk of a "Three Strikes" permanent ban.
 
 The seller’s primary struggle was the balance between speed and compliance. They needed to churn out dozens of lifestyle images for their serums and moisturizers, but the manual process of labeling each image and ensuring metadata was intact became a bottleneck that slowed their product launches by weeks.
 

@@ -99,7 +99,7 @@ Before choosing a model, multiply your total active SKUs by 10 (the average numb
 Your choice between Pro and Dev depends entirely on your technical overhead and legal risk tolerance.
 
 ### The Enterprise Brand (FLUX 1.1 Pro)
-If you are managing a catalog of 5,000+ SKUs for a brand that does 7-figures on Amazon, FLUX 1.1 Pro is the only viable option. The commercial licensing ensures your brand is protected from copyright or terms-of-service strikes. The high-resolution "Ultra" mode allows you to meet [Amazon's pure white background rules](https://sellercentral.amazon.com/gp/help/external/1881) while maintaining enough detail for the 1600px zoom function.
+If you are managing a catalog of 5,000+ SKUs for a brand that does 7-figures on Amazon, [FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro is the only viable option. The commercial licensing ensures your brand is protected from copyright or terms-of-service strikes. The high-resolution "Ultra" mode allows you to meet [Amazon's pure white background rules](https://sellercentral.amazon.com/gp/help/external/1881) while maintaining enough detail for the 1600px zoom function.
 
 ### The AI Researcher (FLUX.1 [dev])
 If you are an AI enthusiast looking to train a custom LoRA (Low-Rank Adaptation) on your specific product category—for example, specialized "jewelry lighting"—the Dev model is your playground. Because it is open-weight, you can fine-tune it on your own hardware. However, you cannot legally use the resulting images to sell products on Etsy or Shopify without violating the Non-Commercial License.

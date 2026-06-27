@@ -118,7 +118,7 @@ No AI model is a "magic button" that replaces a professional workflow entirely. 
 Midjourney v7 lacks a native API for seamless ecommerce platform integration. This forces sellers into manual workflows—either through Discord or the Midjourney web interface. If you have 1,000 new SKUs for a summer launch, you cannot easily automate the generation of these images, which creates a massive labor cost that isn't reflected in the subscription price.
 
 ### Flux's "Texture Softness"
-Flux 1.1 Pro can sometimes produce a "digitally soft" look on complex textures like wool or satin. While the structure of the garment is perfect, the micro-details of the fibers can look blurred compared to Midjourney's raw photorealism. To fix this, many sellers use LoRAs (Low-Rank Adaptation) to fine-tune Flux on specific fabrics, but this requires technical expertise and additional GPU time.
+[Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro can sometimes produce a "digitally soft" look on complex textures like wool or satin. While the structure of the garment is perfect, the micro-details of the fibers can look blurred compared to Midjourney's raw photorealism. To fix this, many sellers use LoRAs (Low-Rank Adaptation) to fine-tune Flux on specific fabrics, but this requires technical expertise and additional GPU time.
 
 ### Comparison with Traditional Tools
 While tools like Photoroom or Canva are great for simple background removal, they cannot generate the complex, draped apparel textures from scratch that Midjourney and Flux excel at. They are "editors," whereas Midjourney and Flux are "creators."
