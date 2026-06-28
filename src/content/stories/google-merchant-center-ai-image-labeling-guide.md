@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Your Google Shopping ads are likely the lifeblood of your top-of-funnel traffic, but a single missing metadata tag in your AI-generated lifestyle images can trigger a site-wide misrepresentation warning. If you have recently switched from expensive studio photography to AI background generation, you are likely facing a hidden technical hurdle: the "trainedAlgorithmicMedia" labeling requirement.
+Your [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) ads are likely the lifeblood of your top-of-funnel traffic, but a single missing metadata tag in your AI-generated lifestyle images can trigger a site-wide misrepresentation warning. If you have recently switched from expensive studio photography to AI background generation, you are likely facing a hidden technical hurdle: the "trainedAlgorithmicMedia" labeling requirement.
 
 ## The Seller's Situation
 

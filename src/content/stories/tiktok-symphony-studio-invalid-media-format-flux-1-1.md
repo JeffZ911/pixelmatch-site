@@ -179,7 +179,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   TikTok Ads: Image Ad Specifications
-*   TikTok Symphony Studio FAQ
+*   [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio FAQ
 *   Black Forest Labs: Flux 1.1 Pro Official Site
 *   Fal.ai: Flux 1.1 Pro Ultra Model Specs
 *   TikTok Shop Seller Center: Image Quality Guidelines
