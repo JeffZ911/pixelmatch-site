@@ -90,7 +90,7 @@ Scan your [Google Merchant Center](https://pixelmatch.art/blog/stories/google-me
 *   **[Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) Disapprovals:** [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center has strict policies regarding "promotional overlays." If your product images contain watermarks, "Free Shipping" badges, or logos covering the product, your entire feed can be disapproved. Google requires a clean, unobstructed view of the item, preferably on a neutral background for the primary image.
 *   **Missing Alt Text Penalties:** While not a "rejection" that removes your product from the store, missing alt text is a significant SEO penalty. It prevents your products from appearing in "[Visual Search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide)" queries, which have grown by undisclosed in the last year.
 
-**Actionable Step:** Open your Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) account, navigate to **Products > Diagnostics**, and filter by "Image Issues." If you see "Image too small" or "Promotional overlay on image," these SKUs are currently hidden from Google Shopping.
+**Actionable Step:** Open your Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) account, navigate to **Products > Diagnostics**, and filter by "Image Issues." If you see "Image too small" or "Promotional overlay on image," these SKUs are currently hidden from [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy).
 
 ## How to Fix Each Issue
 

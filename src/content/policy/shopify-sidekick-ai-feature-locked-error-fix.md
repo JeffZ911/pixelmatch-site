@@ -161,7 +161,7 @@ The Sidekick icon usually grays out when an active dialog box or modal is open o
 No, Sidekick is currently [not supported on tablet devices](https://help.shopify.com/en/manual/shopify-magic/sidekick/getting-started), including the iPad Pro. While you can access the Shopify Admin via a tablet browser, the Sidekick interface is restricted to desktop browsers and the official Shopify mobile app for smartphones.
 
 ### Can I use Sidekick to generate product photos?
-Sidekick is primarily a text and data assistant. It can help you write descriptions or analyze sales, but it does not have the capability to batch-generate or edit product photography. For high-volume AI image generation, sellers typically use specialized tools like PixelMatch to create lifestyle backgrounds and then upload those files to Shopify.
+Sidekick is primarily a text and data assistant. It can help you write descriptions or analyze sales, but it does not have the capability to batch-generate or edit product photography. For high-volume [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) generation, sellers typically use specialized tools like PixelMatch to create lifestyle backgrounds and then upload those files to Shopify.
 
 ### How do I fix a "Security Scan Failed" error for a Sidekick extension?
 This error must be fixed by the app developer. The extension must pass the Shopify security scan before Sidekick is allowed to interact with it. If you are the developer, check your Partner Dashboard for specific error logs regarding your extension's TOML configuration or hosting security.

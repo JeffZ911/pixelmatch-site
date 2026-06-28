@@ -53,7 +53,7 @@ This workflow seemed efficient until the first week of June 2026, when their ent
 
 The seller noticed an immediate 40% drop in Click-Through Rate (CTR) on their shop listings. In the beauty industry, an "AI-generated" label on a product demonstration is a "kiss of death" for consumer trust. Customers interpreted the label as a sign that the skin-clearing results or the texture of the cream were faked, rather than understanding it only applied to the background of the thumbnail.
 
-This phenomenon is known among power users as the **tiktok shop ai thumbnail disclosure label bug**. The issue isn't a glitch in the code, but rather a hyper-aggressive enforcement of metadata scanning. TikTok's systems scan every upload for C2PA and XMP metadata to identify synthetic content.
+This phenomenon is known among power users as the **[tiktok shop ai](https://pixelmatch.art/blog/policy/tiktok-shop-ai-image-label-policy-june-2026-20260628) thumbnail disclosure label bug**. The issue isn't a glitch in the code, but rather a hyper-aggressive enforcement of metadata scanning. TikTok's systems scan every upload for C2PA and XMP metadata to identify synthetic content.
 
 When the seller used a tool like Canva or Adobe Express to "generatively fill" a background or remove a stray hair from a thumbnail, those tools injected a digital watermark (C2PA) into the image file. When that image was uploaded as the "Cover" for a TikTok video, the TikTok algorithm detected the AI metadata in the cover and applied the "AI-generated" label to the *entire* video asset.
 

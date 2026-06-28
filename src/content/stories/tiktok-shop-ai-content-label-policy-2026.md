@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Scaling a beauty brand on TikTok Shop used to mean choosing between $500-per-day studio rentals or risking a shadow ban for poor [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622). Today, the challenge has shifted from simply getting the shot to surviving the strict [TikTok Shop AI content](/blog/policy/tiktok-shop-ai-content-labeling-rules) label policy 2026, where a single missing disclosure can freeze your payouts.
+Scaling a beauty brand on TikTok Shop used to mean choosing between $500-per-day studio rentals or risking a shadow ban for poor [image quality](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622). Today, the challenge has shifted from simply getting the shot to surviving the strict [TikTok Shop AI content](/blog/policy/tiktok-shop-ai-content-labeling-rules) [label policy](https://pixelmatch.art/blog/policy/tiktok-shop-ai-image-label-policy-june-2026-20260628) 2026, where a single missing disclosure can freeze your payouts.
 
 # Case Study: Scaling TikTok Shop Beauty Sales Under the 2026 AI Content Policy
 
