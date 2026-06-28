@@ -26,7 +26,7 @@ inline_image_sections:
 
 Stop wasting hours manually masking product photos only to have Shopify's built-in AI assistant downscale your hard work to a blurry 1-megapixel file. While [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-feature-locked-error-fix) and Shopify Magic offer convenient "one-click" background replacements, multi-platform sellers often hit a wall when those same images fail the high-resolution requirements of Amazon, Walmart, or premium Shopify themes.
 
-Shopify Sidekick's [AI image](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) generator is free on Basic plans and above, but it generates and downscales images to a default [1 megapixel resolution](https://help.shopify.com/en/manual/shopify-magic/media-generation). For 2048x2048 px batch processing that meets the [retina zoom standards](https://help.shopify.com/en/manual/products/product-media/product-media-types) of modern ecommerce, use PixelMatch.
+[Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-feature-locked-error-fix)'s [AI image](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) generator is free on Basic plans and above, but it generates and downscales images to a default [1 megapixel resolution](https://help.shopify.com/en/manual/shopify-magic/media-generation). For 2048x2048 px batch processing that meets the [retina zoom standards](https://help.shopify.com/en/manual/products/product-media/product-media-types) of modern ecommerce, use PixelMatch.
 
 ## Quick Reference Table
 

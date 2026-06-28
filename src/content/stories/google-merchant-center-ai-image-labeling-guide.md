@@ -52,7 +52,7 @@ While these tools are excellent for visual editing, the seller hit a massive tec
 
 Lumina Decor’s team assumed that if their AI tool claimed to be "Google compliant," the metadata would simply work. They discovered two critical failures in their existing workflow:
 
-1.  **Metadata Stripping:** Even when an AI tool correctly embeds the IPTC tag, the Shopify CDN (Content Delivery Network) is designed to optimize images for speed. During this optimization process, Shopify often strips EXIF and IPTC metadata to reduce file size. By the time the image reached the Google Shopping feed via the standard Shopify-Google integration, the "trainedAlgorithmicMedia" tag was gone.
+1.  **Metadata Stripping:** Even when an AI tool correctly embeds the IPTC tag, the Shopify CDN (Content Delivery Network) is designed to optimize images for speed. During this optimization process, Shopify often strips EXIF and IPTC metadata to reduce file size. By the time the image reached the [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) feed via the standard Shopify-Google integration, the "trainedAlgorithmicMedia" tag was gone.
 2.  **Policy Circumvention Flags:** Because the images clearly looked "too perfect" or synthetic, but lacked the mandatory metadata disclosure, Google’s automated scanners flagged the listings for circumventing AI disclosure policies. This is a "high-risk" violation that can lead to permanent account suspension.
 
 The brand was essentially being punished for using high-quality AI because their hosting infrastructure (Shopify) was inadvertently "cleaning" the very labels Google demanded to see.
