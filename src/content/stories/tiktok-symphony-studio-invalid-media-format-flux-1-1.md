@@ -135,7 +135,7 @@ In PixelMatch, select or create a preset that enforces the following TikTok-comp
 *   **Resolution:** 720 x 1280 pixels (the standard for vertical TikTok ads).
 
 ### Step 4: Seamless Upload to Symphony Studio
-Once PixelMatch finishes the batch, download the optimized folder. Open TikTok Symphony Studio and navigate to the "Video Generation" or "AI Avatar" tool. Upload your new, optimized JPGs. Because the files now have the correct headers and are under the size threshold, they will upload instantly without the "invalid media format" error.
+Once PixelMatch finishes the batch, download the optimized folder. Open [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio and navigate to the "Video Generation" or "AI Avatar" tool. Upload your new, optimized JPGs. Because the files now have the correct headers and are under the size threshold, they will upload instantly without the "invalid media format" error.
 
 **Actionable Step for Today:** Run a test batch of 5 images through this pipeline. Time how long it takes to go from "Generation" to "Symphony Upload." This will be your new benchmark for creative agility.
 

@@ -60,7 +60,7 @@ Flair AI handles this by offering custom upscaling in its Pro tier at $10/mo, al
 
 ### Google Merchant Center Lifestyle Rules
 
-Because most Shopify stores sync their products to Google Shopping, your lifestyle shots must adhere to [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center specifications. Google recommends a minimum of 1500 x 1500 pixels for lifestyle images (referred to as `lifestyle_image_link`). 
+Because most Shopify stores sync their products to [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy), your lifestyle shots must adhere to [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center specifications. Google recommends a minimum of 1500 x 1500 pixels for lifestyle images (referred to as `lifestyle_image_link`). 
 
 Unlike standard product photos on a white background, Google’s lifestyle rules allow for "natural environments," but they strictly forbid:
 *   Promotional overlays (e.g., "50% OFF").
