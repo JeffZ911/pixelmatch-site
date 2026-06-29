@@ -119,7 +119,7 @@ For sellers running "hook" tests—where you test 10 different avatars with the 
 Refer to these official TikTok documentation pages to stay updated on feature changes as of 2026:
 
 *   How to create avatar videos with Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) – Official guide on the Product Avatar module.
-*   About Symphony Creative Studio – Overview of the AI creative suite.
+*   About Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) – Overview of the AI creative suite.
 *   TikTok Shop Image Specifications – Technical requirements for [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide).
 *   TikTok Ads Image Specs – Standard dimensions for ad creatives (1200x628 and 1080x1080).
 

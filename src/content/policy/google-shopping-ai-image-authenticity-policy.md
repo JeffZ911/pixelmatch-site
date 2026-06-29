@@ -148,10 +148,10 @@ Yes. If you use Adobe Photoshop's Generative Fill to expand a background or add 
 ![Official Source Links](/img/google-shopping-ai-image-authenticity-policy/inline-5.webp)
 
 
-*   Google Merchant Center Help: AI-generated content
-*   Google Merchant Center Help: Shopping ads policies
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Help: AI-generated content
+*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center Help: Shopping ads policies
 *   [Google Search's guidance on using generative AI content](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)
-*   Google Merchant Center: Product image requirements
+*   Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation): Product image requirements
 *   IPTC Photo Metadata Standard for AI
 
 

@@ -98,7 +98,7 @@ Busy or distracting backgrounds violate the platform's recommendation for clean,
 Use a batch-processing tool to strip backgrounds and resize your entire SKU list in one session rather than editing one-by-one to save hours of manual labor.
 
 ### Upscale and Resize
-Use an image editing tool to ensure your photos are exactly 1:1 ratio and comfortably above the minimum pixel requirements. If your original photos are 500x500, do not simply stretch them; use an AI upscaler to increase the resolution to 1200x1200px. This ensures that even when the user zooms in on a mobile device, the product remains sharp.
+Use an [image editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) tool to ensure your photos are exactly 1:1 ratio and comfortably above the minimum pixel requirements. If your original photos are 500x500, do not simply stretch them; use an AI upscaler to increase the resolution to 1200x1200px. This ensures that even when the user zooms in on a mobile device, the product remains sharp.
 
 ### Remove Distracting Backgrounds
 Strip away busy backdrops and replace them with a pure white background to comply with TikTok's catalog best practices. For multi-platform sellers, this is a standard requirement for Amazon and [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) as well, making it a "do-it-once" task for all channels.

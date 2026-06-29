@@ -107,7 +107,7 @@ Not all AI tools are built for ecommerce compliance. Generic AI generators or ol
 
 ### Low Resolution (2026 Update)
 
-With the January 31, 2027 deadline approaching, Google has increased the frequency of "Image too small" warnings. If your AI tool generates images at the old 512x512 or 768x768 standard, you are already behind. These images will trigger warnings in the "Needs attention" tab of Merchant Center Next, signaling that your listings will be suppressed by early 2027.
+With the January 31, 2027 deadline approaching, Google has increased the frequency of "Image too small" warnings. If your AI tool generates images at the old 512x512 or 768x768 standard, you are already behind. These images will trigger warnings in the "Needs attention" tab of [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Next, signaling that your listings will be suppressed by early 2027.
 
 ### Promotional Overlays
 
@@ -166,8 +166,8 @@ While this guide focuses on Google, other platforms are following suit. TikTok S
 ![Official Source Links](/img/google-merchant-center-ai-image-metadata-requirements-2026-20260619/inline-5.webp)
 
 
-*   Google Merchant Center: AI-[Generated Content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Policy
-*   Google Merchant Center: Image Link Specification
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation): AI-[Generated Content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Policy
+*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center: Image Link Specification
 *   Google Merchant Center: 2026 Product Data Specification Update
 *   IPTC Photo Metadata Standard: DigitalSourceType
 

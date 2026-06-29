@@ -94,7 +94,7 @@ Fixing these issues requires a systematic approach to your shop's media library.
 
 ### Automating Image Compliance
 
-For the multi-platform seller, the biggest challenge is the variation in requirements. While Etsy wants a lifestyle-focused, warm aesthetic, Amazon FBA requires a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) for the main image. Manually creating these variations for 100+ SKUs is a bottleneck.
+For the multi-platform seller, the biggest challenge is the variation in requirements. While Etsy wants a lifestyle-focused, warm aesthetic, [Amazon FBA](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) requires a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) for the main image. Manually creating these variations for 100+ SKUs is a bottleneck.
 
 PixelMatch solves this by allowing you to upload a single raw product photo and batch-generate compliant versions for every platform. It can automatically:
 1.  Upscale low-resolution images to the [recommended 2000 x 2000 px](https://help.etsy.com/hc/en-us/articles/115015663347) size without losing clarity.

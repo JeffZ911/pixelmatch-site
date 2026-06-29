@@ -150,7 +150,7 @@ Bookmark these updated 2026 technical documents to ensure your team stays ahead 
 | :--- | :--- | :--- |
 | **[Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix)** | Image Technical Requirements | [Standard Guidelines](https://sellercentral.amazon.com/help/hub/reference/G1881) |
 | **Stripe Pricing** | Transaction Fee Calculation | Stripe Fees |
-| **Adobe Express** | Basic Image Editing | Adobe Pricing |
+| **Adobe Express** | Basic [Image Editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) | Adobe Pricing |
 | **Photoroom** | Background Removal | Photoroom Pricing |
 | **Canva** | Infographic Design | Canva Pricing |
 

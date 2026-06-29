@@ -41,7 +41,7 @@ Run a manual audit of your top 10 best-selling listings today to ensure your her
 | Feature | Allowed | Prohibited |
 | :--- | :--- | :--- |
 | **AI Art/Digital Prints** | Yes, if disclosed as "Designed by Seller." | No, if listed as "Photography" or undisclosed. |
-| **Product Backgrounds** | Yes, using tools like PixelMatch for real products. | No, if the product itself is AI-generated/altered. |
+| **[Product Backgrounds](https://pixelmatch.art/blog/compare/shopify-magic-vs-midjourney-product-backgrounds)** | Yes, using tools like PixelMatch for real products. | No, if the product itself is AI-generated/altered. |
 | **Listing Hero Image** | Must be a photo of the finished, physical item. | No AI-generated mockups as the first image. |
 | **AI Human Models** | Yes, with mandatory "AI Model Used" badge. | No undisclosed "synthetic performers." |
 | **Digital Assets** | Finished AI-generated artwork and textures. | [AI Prompt Bundles (e.g., Midjourney prompts)](https://help.etsy.com/hc/en-us/articles/16666696670871-What-is-Etsy-s-stance-on-AI-creations-). |
