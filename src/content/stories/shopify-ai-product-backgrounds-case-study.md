@@ -102,7 +102,7 @@ Set up a permanent "capture station" in your office. Use a modern smartphone on 
 Upload the raw smartphone photos to PixelMatch. Instead of generating one image at a time, the brand utilized the batch generator to apply a single high-end prompt to 50+ images simultaneously.
 
 **The Winning Prompt Strategy:**
-To generate ai product backgrounds for shopify brands that look premium, the brand used a specific prompt formula:
+To generate ai [product backgrounds](https://pixelmatch.art/blog/compare/shopify-magic-vs-midjourney-product-backgrounds) for shopify brands that look premium, the brand used a specific prompt formula:
 > "Product placed on a minimalist white marble podium, soft morning sunlight coming from the left, organic eucalyptus shadows in the background, 8k resolution, highly detailed textures, soft bokeh."
 
 ### Phase 3: Automated Technical Optimization

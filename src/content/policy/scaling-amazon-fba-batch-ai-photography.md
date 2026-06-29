@@ -39,7 +39,7 @@ Audit your current image library using a bulk metadata tool to identify any file
 
 | Platform | Minimum Resolution | Recommended Resolution | Background Requirement | Max File Size |
 | :--- | :--- | :--- | :--- | :--- |
-| **Amazon FBA** | [1000 x 1000 px](https://sellercentral.amazon.com/help/hub/reference/G1881) | [1600 px + (for zoom)](https://sellercentral.amazon.com/help/hub/reference/G1881) | Pure White ([RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881)) | [10 MB](https://sellercentral.amazon.com/help/hub/reference/G1881) |
+| **[Amazon FBA](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study)** | [1000 x 1000 px](https://sellercentral.amazon.com/help/hub/reference/G1881) | [1600 px + (for zoom)](https://sellercentral.amazon.com/help/hub/reference/G1881) | Pure White ([RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881)) | [10 MB](https://sellercentral.amazon.com/help/hub/reference/G1881) |
 | **Shopify** | [None (1024x1024 min)](https://help.shopify.com/en/manual/products/product-media/product-media-types#images) | [2048 x 2048 px](https://help.shopify.com/en/manual/products/product-media/product-media-types#images) | No restriction (Lifestyle preferred) | 20 MB |
 | **Etsy** | [2000 px (shortest side)](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | [3000 px +](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | No restriction (Natural light preferred) | 1 MB (Recommended) |
 | **TikTok Shop** | 600 x 600 px | 1200 x 1200 px | 1:1 Aspect Ratio | 5 MB |

@@ -148,7 +148,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   TikTok Ads Help Center: Create Avatar Videos with Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide)
-*   TikTok Ads Help Center: About Symphony Creative Studio
+*   TikTok Ads Help Center: About Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide)
 *   TikTok Shop Academy: Product Image Specifications
 *   TikTok Ads Help Center: Image Ad Specifications
 *   Photoroom: Pricing and Pro Features
