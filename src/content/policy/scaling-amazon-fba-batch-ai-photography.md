@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop wasting $50 per SKU on manual retouching that takes three days to return from a freelancer. Scale your Amazon FBA catalog in minutes by automating the production of high-converting, policy-compliant imagery using batch AI photography.
+Stop wasting $50 per SKU on manual retouching that takes three days to return from a freelancer. Scale your [Amazon FBA](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) catalog in minutes by automating the production of high-converting, policy-compliant imagery using batch AI photography.
 
 # Scaling Amazon FBA Listings With Batch AI Photography: 2026 Policy Guide
 

@@ -145,7 +145,7 @@ The most efficient way to maintain compliance is to use AI tools designed specif
 
 To meet the 1500 x 1500 pixel recommendation, use a dedicated AI upscaler. Modern upscalers can take a 500px image and quadruple the resolution without creating the "blur" or "pixelation" that Google's quality bots reject. When upscaling, always verify that your output format is one of the supported types, such as JPEG or WebP.
 
-**Actionable Step:** Implement a metadata-preserving hosting strategy by testing one product with an externally hosted image URL. If the "Missing AI metadata" warning disappears in Merchant Center for that specific item, migrate your remaining lifestyle images to that host.
+**Actionable Step:** Implement a metadata-preserving hosting strategy by testing one product with an externally hosted image URL. If the "Missing AI metadata" warning disappears in [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) for that specific item, migrate your remaining lifestyle images to that host.
 
 ## Frequently Asked Questions
 
@@ -182,6 +182,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center Help: Use AI-generated images in Merchant Center
-*   Google Merchant Center Help: image_link: Definition
-*   Google Merchant Center Help: 2026 product data specification updates
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Help: image_link: Definition
+*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center Help: 2026 product data specification updates
 *   IPTC.org: Digital Source Type News Metadata

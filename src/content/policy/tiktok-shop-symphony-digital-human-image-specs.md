@@ -61,7 +61,7 @@ When uploading your base image, ensure it is a front view of the physical produc
 
 ### Policy Compliance for AI Content
 
-Transparency is a cornerstone of TikTok’s 2026 commerce environment. Any video generated using Symphony Creative Studio will automatically include an 'AI-generated' label to comply with TikTok's transparency policies. You cannot remove this label through third-party editing without risking a permanent shadowban of your TikTok Shop.
+Transparency is a cornerstone of TikTok’s 2026 commerce environment. Any video generated using Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) will automatically include an 'AI-generated' label to comply with TikTok's transparency policies. You cannot remove this label through third-party editing without risking a permanent shadowban of your TikTok Shop.
 
 Furthermore, ensure that the digital human's movements do not overlap with restricted content. While the AI generates the movement, the "Product Avatar" module does not support clothing accessories like shoes, hats, sunglasses, or bracelets. If you attempt to "force" these items onto a digital human, the system will flag the content as deceptive or low-quality. Stick to apparel (shirts, pants, dresses) or handheld items for the highest approval rates.
 

@@ -57,7 +57,7 @@ Before adopting an AI-first workflow, the brand booked professional studio sessi
 Because of these costs, the brand was forced to be "precious" with their creative. They could only afford one or two high-end lifestyle shots per SKU. If those specific images failed to perform in ad sets, the entire product launch suffered. They lacked the volume to test different "vibes" or seasonal backgrounds, putting them at a disadvantage against larger competitors with unlimited creative budgets.
 
 ### Maintaining the Premium Look
-In the beauty niche, trust is built through visual fidelity. The brand could not simply use low-quality photos; the images had to look expensive. They needed a way to generate ai product backgrounds for shopify brands that maintained consistent lighting, realistic shadows, and the high-resolution detail expected by Shopify shoppers using Retina displays.
+In the beauty niche, trust is built through visual fidelity. The brand could not simply use low-quality photos; the images had to look expensive. They needed a way to generate ai [product backgrounds](https://pixelmatch.art/blog/compare/shopify-magic-vs-midjourney-product-backgrounds) for shopify brands that maintained consistent lighting, realistic shadows, and the high-resolution detail expected by Shopify shoppers using Retina displays.
 
 ## What Wasn't Working
 

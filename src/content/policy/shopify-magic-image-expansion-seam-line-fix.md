@@ -82,7 +82,7 @@ To ensure your customers can use the "Magnify" or "Zoom" feature on your product
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Run a "Zoom Test" on your live product page. If you see a blur or a "ghost line" where the background was expanded, you have a seam line issue that can hurt your conversion rate. Customers often equate poor image editing with a lack of brand legitimacy.
+Run a "Zoom Test" on your live product page. If you see a blur or a "ghost line" where the background was expanded, you have a seam line issue that can hurt your conversion rate. Customers often equate poor [image editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) with a lack of brand legitimacy.
 
 ### Visible Seam Lines and Jagged Edges
 
