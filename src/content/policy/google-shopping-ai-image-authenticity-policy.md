@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop guessing why your [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) account is flagged for "Misrepresentation" while your competitors scale their AI-generated creative. Audit your image metadata and background generation workflow immediately to ensure every asset complies with the latest Google Shopping AI image authenticity standards.
+Stop guessing why your [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) account is flagged for "Misrepresentation" while your competitors scale their AI-generated creative. Audit your image metadata and background generation workflow immediately to ensure every asset complies with the latest Google Shopping [AI image](https://pixelmatch.art/blog/policy/tiktok-shop-ai-image-label-policy-june-2026-20260628) authenticity standards.
 
 Google Shopping allows AI images but requires the IPTC DigitalSourceType tag set to trainedAlgorithmicMedia. Synthetic items that do not physically exist are disapproved.
 
@@ -76,7 +76,7 @@ If your product is a blue cotton shirt, using generative AI to add a pocket that
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Review the "Diagnostics" tab in your Google Merchant Center account to identify specific image-level disapprovals. Most AI-related rejections stem from technical metadata failures or over-aggressive creative edits that obscure the product's true nature.
+Review the "Diagnostics" tab in your [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) account to identify specific image-level disapprovals. Most AI-related rejections stem from technical metadata failures or over-aggressive creative edits that obscure the product's true nature.
 
 ### Stripped Metadata
 
@@ -108,7 +108,7 @@ To fix missing metadata, use lossless compression methods or specialized tools t
 For example, the command to set the required tag is:
 `exiftool -DigitalSourceType="trainedAlgorithmicMedia" image.jpg`
 
-If your ecommerce platform strips metadata, consider hosting compliant images externally and overriding the `image_link` attribute in your Google Merchant Center feed. By hosting images on a dedicated server or a cloud storage bucket (like Google Cloud Storage or AWS S3) and linking directly to them in your feed, you bypass the platform's internal image processors that strip IPTC data.
+If your ecommerce platform strips metadata, consider hosting compliant images externally and overriding the `image_link` attribute in your [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center feed. By hosting images on a dedicated server or a cloud storage bucket (like Google Cloud Storage or AWS S3) and linking directly to them in your feed, you bypass the platform's internal image processors that strip IPTC data.
 
 ### Using PixelMatch for Compliant Backgrounds
 
@@ -138,7 +138,7 @@ You can use a free online metadata viewer like Jeffrey's Image Metadata Viewer o
 While technically possible, this is risky. Google's Misrepresentation policy requires that the image accurately depict the product. If the AI-generated color does not perfectly match the physical item's hue, you risk a high return rate and account suspension. It is always safer to use a real photo of each color variant and use AI only for the background.
 
 ### What happens if I don't label my AI images?
-If Google's automated systems identify an image as AI-generated but find no IPTC metadata, the image may be disapproved. Repeated violations of Google's Shopping policies can lead to a full Merchant Center account suspension, which stops all your Shopping ads and organic listings.
+If Google's automated systems identify an image as AI-generated but find no IPTC metadata, the image may be disapproved. Repeated violations of Google's Shopping policies can lead to a full [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) account suspension, which stops all your Shopping ads and organic listings.
 
 ### Do these rules apply to "Generative Fill" in Photoshop?
 Yes. If you use Adobe Photoshop's Generative Fill to expand a background or add elements to an image, it is considered AI-generated content. Adobe typically embeds the [Content Credentials (C2PA metadata)](https://helpx.adobe.com/creative-cloud/help/content-credentials.html) automatically, but you must ensure your export settings do not strip this information before the image reaches Google.

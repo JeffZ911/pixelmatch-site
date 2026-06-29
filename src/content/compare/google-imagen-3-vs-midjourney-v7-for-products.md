@@ -69,7 +69,7 @@ When you are managing a catalog of 50+ SKUs, the interface and technical output 
 | **Speed** | Draft Mode (Fast) / Relax Mode (Slower) | Imagen 3 Fast (Sub-5 seconds) |
 | **Safety/IP** | Community-moderated | SynthID digital watermarking |
 
-**Actionable Step:** Audit your current image assets. If more than 30% of your images require zoomed-in detail of a label, prioritize Imagen 3. If your brand relies on "lifestyle" shots (e.g., a yoga mat in a sunlit studio), [Midjourney v7](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617)’s `--sref` (Style Reference) command will save you days of color grading. Both models require manual upscaling to hit [Etsy's 2000px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) for optimal zoom functionality.
+**Actionable Step:** Audit your current image assets. If more than 30% of your images require zoomed-in detail of a label, prioritize Imagen 3. If your brand relies on "lifestyle" shots (e.g., a yoga mat in a sunlit studio), [Midjourney v7](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617)’s `--sref` (Style Reference) command will save [you days](https://pixelmatch.art/blog/policy/tiktok-shop-deals-for-you-days-content-violations-20260629) of color grading. Both models require manual upscaling to hit [Etsy's 2000px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) for optimal zoom functionality.
 
 ## Pricing Comparison
 

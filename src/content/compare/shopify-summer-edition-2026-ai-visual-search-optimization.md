@@ -50,7 +50,7 @@ Audit your current image library against the Shopify-recommended [2048 × 2048 p
 
 | Feature | PixelMatch | Photoroom |
 | :--- | :--- | :--- |
-| **Primary Use Case** | Batch Catalog Optimization | Creative Single-Image Editing |
+| **Primary Use Case** | Batch Catalog Optimization | Creative Single-[Image Editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) |
 | **Batch Export Limit** | Unlimited (Premium Tiers) | 500/mo (Pro) / 1,500/mo (Max) |
 | **UCP/Catalog API Presets** | Native 1:1, 2048px, WebP <500KB | Manual Template Adjustment Required |
 | **Lighting Consistency** | AI-locked across entire SKU sets | Per-session/Manual matching |

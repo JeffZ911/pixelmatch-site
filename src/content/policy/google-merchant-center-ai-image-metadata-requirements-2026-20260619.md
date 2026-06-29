@@ -82,7 +82,7 @@ Your primary `image_link` remains the most scrutinized asset. Google prefers a "
 
 AI is most effectively used for the `lifestyle_image_link` attribute. While these images can be more creative, they are still subject to the same IPTC metadata rules. You cannot bypass the AI tag requirement by moving synthetic images from the primary slot to the additional images slot—the policy covers the entire product entity.
 
-**Actionable Step:** Verify your image resolution against the new 2026 thresholds by checking your Merchant Center "Diagnostics" tab. Look for "Image too small" warnings under the "Needs attention" section.
+**Actionable Step:** Verify your image resolution against the new 2026 thresholds by checking your [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) "Diagnostics" tab. Look for "Image too small" warnings under the "Needs attention" section.
 
 ## Common Rejection Reasons
 
@@ -103,7 +103,7 @@ When Google’s bot crawls your `image_link` (e.g., `cdn.shopify.com/s/files/...
 
 ### Missing or Incorrect IPTC Tags
 
-Not all AI tools are built for ecommerce compliance. Generic AI generators or older versions of popular tools may generate high-quality visuals but fail to write the DigitalSourceType property into the file. If you are using a tool that doesn't explicitly mention "Google Merchant Center Compliance" or "IPTC preservation," you are likely uploading "naked" [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) that Google will eventually flag.
+Not all AI tools are built for ecommerce compliance. Generic AI generators or older versions of popular tools may generate high-quality visuals but fail to write the DigitalSourceType property into the file. If you are using a tool that doesn't explicitly mention "[Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Compliance" or "IPTC preservation," you are likely uploading "naked" [AI images](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) that Google will eventually flag.
 
 ### Low Resolution (2026 Update)
 
@@ -126,7 +126,7 @@ Fixing metadata issues requires a combination of better tools and smarter hostin
 
 If your ecommerce platform (like Shopify) strips metadata, you have two options:
 1.  **Direct Feed Injection:** Use a feed management app (like Channable, Feedonomics, or DataFeedWatch) to point your `image_link` to an external, non-stripping server.
-2.  **External Hosting:** Host your AI-generated lifestyle images on a dedicated CDN like Cloudinary or Amazon S3, which allows you to toggle "Preserve Metadata" settings. Provide these direct URLs in your Google Merchant Center feed instead of the Shopify-generated URLs.
+2.  **External Hosting:** Host your AI-generated lifestyle images on a dedicated CDN like Cloudinary or Amazon S3, which allows you to toggle "Preserve Metadata" settings. Provide these direct URLs in your [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center feed instead of the Shopify-generated URLs.
 
 ### Batch-Applying IPTC Tags
 
