@@ -138,7 +138,7 @@ In the beauty industry, being first to a trend (like "slugging" or "glass skin")
 ![Steps to Replicate](/img/shopify-ai-product-backgrounds-case-study/inline-5.webp)
 
 
-Follow this checklist to generate ai product backgrounds for shopify brands and achieve similar results for your store.
+Follow this checklist to generate ai [product backgrounds](https://pixelmatch.art/blog/compare/shopify-magic-vs-midjourney-product-backgrounds) for shopify brands and achieve similar results for your store.
 
 ### 1. Capture Clean Source Photos
 Do not skip the tripod. Even a slight blur in the source photo will be magnified when the AI attempts to upscale the image. Ensure the product is the star of the frame and that there are no harsh, direct reflections that obscure the brand name or logo.

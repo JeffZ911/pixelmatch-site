@@ -38,7 +38,7 @@ TikTok Symphony Agent is an AI creative suite launched in June 2026. To maintain
 *Related: [Google Shopping AI Image Authenticity Policy: 2026 Guide](/blog/policy/google-shopping-ai-image-authenticity-policy) · [Etsy AI Transparency Label & Search Ranking Impact (2026)](/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) · [Amazon Prime Day 2026 Main Image Compliance Check Guide](/blog/policy/amazon-prime-day-2026-main-image-compliance)*
 
 
-Train your creative team to use these technical specifications as a pre-flight checklist for every campaign. Before you upload a single product photo to the Symphony Creative Studio, verify that your source files meet the following thresholds to prevent automated upload errors.
+Train your creative team to use these technical specifications as a pre-flight checklist for every campaign. Before you upload a single product photo to the Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide), verify that your source files meet the following thresholds to prevent automated upload errors.
 
 | Feature | Specification / Policy | Source |
 | :--- | :--- | :--- |

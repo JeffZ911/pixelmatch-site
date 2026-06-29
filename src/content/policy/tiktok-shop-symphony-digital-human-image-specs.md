@@ -128,7 +128,7 @@ TikTok has stricter policies for "Sensitive Categories" like supplements and hea
 ![Official Source Links](/img/tiktok-shop-symphony-digital-human-image-specs/inline-5.webp)
 
 
-*   How to create avatar videos with Symphony Creative Studio
+*   How to create avatar videos with Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide)
 *   TikTok Shop Product Listing Guidelines
 *   Announcing Symphony Creative Studio
 *   TikTok Shop Policy on AI-Generated Content and Voices

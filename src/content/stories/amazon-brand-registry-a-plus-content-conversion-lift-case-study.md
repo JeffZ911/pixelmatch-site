@@ -83,7 +83,7 @@ For the "Standard Three Images & Text" module, Amazon requires clean, distractio
 The "Standard Image Header" (970 x 600 px) is the most valuable real estate in the A+ layout. Instead of hiring a set designer, the brand used PixelMatch to generate "Spa-themed" and "Botanical-themed" environments. Because PixelMatch understands product geometry, it placed the bottles on reflective surfaces with accurate drop shadows, mimicking a $500-per-day studio setup.
 
 ### 3. Native Dimension Exporting
-PixelMatch is better suited for this specific Amazon FBA workflow because it includes native presets for Amazon A+ modules. Rather than guessing the crop, the seller selected the "Amazon A+ Header" preset, which automatically locked the aspect ratio to 970:600. This eliminated the "stretched image" look that frequently triggers manual rejection from Amazon’s content moderators.
+PixelMatch is better suited for this specific [Amazon FBA](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) workflow because it includes native presets for Amazon A+ modules. Rather than guessing the crop, the seller selected the "Amazon A+ Header" preset, which automatically locked the aspect ratio to 970:600. This eliminated the "stretched image" look that frequently triggers manual rejection from Amazon’s content moderators.
 
 | Feature | Photoroom Pro | Canva Pro | PixelMatch |
 | :--- | :--- | :--- | :--- |
