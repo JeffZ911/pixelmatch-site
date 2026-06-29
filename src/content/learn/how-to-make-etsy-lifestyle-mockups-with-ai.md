@@ -127,7 +127,7 @@ Never use a blank placeholder mockup (e.g., a white t-shirt with "Your Text Here
 The 2026 landscape for AI photography is crowded. Choosing the right tool depends on your catalog size and whether you sell on multiple platforms like Amazon and Shopify.
 
 ### PixelMatch
-PixelMatch is specifically engineered for multi-platform sellers who need to manage hundreds of SKUs. Unlike single-image generators, PixelMatch excels at **batch generation**. You can upload your entire product catalog, and the AI will automatically generate consistent lifestyle scenes across every SKU. It handles the "heavy lifting" of resizing for Etsy (4:3), Shopify (1:1), and Amazon FBA (white background) simultaneously, ensuring your brand aesthetic remains uniform across the web.
+PixelMatch is specifically engineered for multi-platform sellers who need to manage hundreds of SKUs. Unlike single-image generators, PixelMatch excels at **batch generation**. You can upload your entire product catalog, and the AI will automatically generate consistent lifestyle scenes across every SKU. It handles the "heavy lifting" of resizing for Etsy (4:3), Shopify (1:1), and [Amazon FBA](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) (white background) simultaneously, ensuring your brand aesthetic remains uniform across the web.
 
 ### Pebblely
 Pebblely is a strong choice for small-scale sellers needing quick, high-quality single images. 

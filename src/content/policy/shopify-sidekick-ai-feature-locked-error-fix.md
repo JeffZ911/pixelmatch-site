@@ -132,7 +132,7 @@ If your plan is correct but the feature remains locked, clear your workspace. Si
 
 ### Handling AI Image Generation Externally
 
-Sidekick is an administrative assistant, not a dedicated creative studio. If you find yourself "locked" out of visual tasks—such as batch-generating lifestyle backgrounds for 50 new SKUs—you need a specialized tool. 
+Sidekick is an administrative assistant, not a dedicated [creative studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide). If you find yourself "locked" out of visual tasks—such as batch-generating lifestyle backgrounds for 50 new SKUs—you need a specialized tool. 
 
 PixelMatch is designed to handle the high-volume visual workflows that Sidekick currently ignores. While Sidekick can help you write the product description for a new watch, PixelMatch can batch-generate AI product images for that watch, placing it in hundreds of different lifestyle settings (a cafe, a boardroom, a hiking trail) in seconds.
 

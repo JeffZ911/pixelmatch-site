@@ -33,7 +33,7 @@ Scaling a multi-channel ecommerce store requires thousands of high-quality image
 ![TL;DR Verdict](/img/shopify-magic-vs-adobe-firefly-product-photos/inline-1.webp)
 
 
-Compare your current per-image editing time against the 30-second average of AI generation to find your break-even point for tool adoption.
+Compare your current per-[image editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) time against the 30-second average of AI generation to find your break-even point for tool adoption.
 
 *   **Shopify Magic** is the best choice for single-platform Shopify sellers with small catalogs who need basic, free background removal and generation directly inside the Shopify admin. It is built for speed and ease of use but sacrifices resolution.
 *   **Adobe Firefly** is the superior option for brands with in-house designers who require high-fidelity, commercially safe lifestyle images and complex edits via Photoshop. It offers professional-grade quality but requires a manual, one-by-one workflow.

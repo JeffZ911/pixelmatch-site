@@ -26,9 +26,9 @@ inline_image_sections:
 
 Your [product listings](https://pixelmatch.art/blog/policy/amazon-rufus-seo-product-listings-guide) face immediate disapproval if your AI-generated images lack the hidden digital signatures Google now mandates. Avoid the "Missing AI metadata" flag by auditing your image pipeline against the strict 2026 IPTC standards today.
 
-Google Merchant Center (GMC) has shifted from suggesting [AI transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) to enforcing it through automated metadata scans. As a multi-platform seller, you must ensure that every lifestyle image or product render generated via AI contains the correct embedded tags before it reaches your feed. Failure to comply doesn't just result in a warning; it triggers a "Policy Violation" that can suppress your entire product catalog across Search, Shopping, and YouTube.
+[Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) (GMC) has shifted from suggesting [AI transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) to enforcing it through automated metadata scans. As a multi-platform seller, you must ensure that every lifestyle image or product render generated via AI contains the correct embedded tags before it reaches your feed. Failure to comply doesn't just result in a warning; it triggers a "Policy Violation" that can suppress your entire product catalog across Search, Shopping, and YouTube.
 
-As of 2026, Google Merchant Center requires all AI-generated product images to include the IPTC DigitalSourceType metadata tag set to `trainedAlgorithmicMedia`. Images missing this embedded metadata risk disapproval.
+As of 2026, [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center requires all AI-generated product images to include the IPTC DigitalSourceType metadata tag set to `trainedAlgorithmicMedia`. Images missing this embedded metadata risk disapproval.
 
 ## Quick Reference Table
 
@@ -38,7 +38,7 @@ As of 2026, Google Merchant Center requires all AI-generated product images to i
 *Related: [Amazon Rufus SEO for Product Listings: 2026 Image Guide](/blog/policy/amazon-rufus-seo-product-listings-guide) · [Amazon AI Generated Content Disclosure Label Guide (2026)](/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) · [Amazon Prime Day 2026 Main Image Bundle Policy Guide](/blog/policy/amazon-prime-day-2026-main-image-bundle-policy)*
 
 
-Audit your image assets against the following technical specifications to ensure your 2026 product feed remains active. Use this table as a final checklist before batch-uploading new AI-generated creative to your Merchant Center.
+Audit your image assets against the following technical specifications to ensure your 2026 product feed remains active. Use this table as a final checklist before batch-uploading new AI-generated creative to your [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation).
 
 | Requirement | 2026 Specification | Official Source |
 | :--- | :--- | :--- |

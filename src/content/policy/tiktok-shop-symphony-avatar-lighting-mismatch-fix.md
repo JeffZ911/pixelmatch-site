@@ -52,7 +52,7 @@ Run a quick audit of your product assets against these requirements before start
 ![Detailed Requirements](/img/tiktok-shop-symphony-avatar-lighting-mismatch-fix/inline-2.webp)
 
 
-Audit your existing image library to identify which assets will trigger a "pasted-on" look in Symphony Creative Studio. TikTok’s Product Avatar module is a generative AI tool that takes a 2D image and maps it into a 3D-simulated space where a digital human "holds" the item. For this to look realistic, the AI must perform "relighting," which involves calculating where shadows should fall based on the avatar's position.
+Audit your existing image library to identify which assets will trigger a "pasted-on" look in Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide). TikTok’s Product Avatar module is a generative AI tool that takes a 2D image and maps it into a 3D-simulated space where a digital human "holds" the item. For this to look realistic, the AI must perform "relighting," which involves calculating where shadows should fall based on the avatar's position.
 
 ### Lighting Neutrality
 When you take a photo with a single strong light source from the left, your product has "baked-in" lighting. If the Symphony Avatar is standing in a virtual studio where the primary light is from the right, the AI cannot "undo" your original shadows. This results in a lighting mismatch where the product has shadows on the right while the avatar has shadows on the left. 

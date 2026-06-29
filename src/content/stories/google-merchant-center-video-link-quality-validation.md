@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Your high-performing Google Shopping ads face a silent killer: the June 30, 2026, deadline for video link quality validation that can strip motion assets from your listings without warning. For a multi-platform beauty brand managing 200+ SKUs, failing this technical audit means losing the competitive edge of Performance Max video placements while competitors continue to capture 24/7 visual attention.
+Your high-performing [Google Shopping](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) ads face a silent killer: the June 30, 2026, deadline for video link quality validation that can strip motion assets from your listings without warning. For a multi-platform beauty brand managing 200+ SKUs, failing this technical audit means losing the competitive edge of Performance Max video placements while competitors continue to capture 24/7 visual attention.
 
 # Case Study: Automating Google Merchant Center Video Link Quality Validation
 

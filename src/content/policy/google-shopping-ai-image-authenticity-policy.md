@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop guessing why your Google Merchant Center account is flagged for "Misrepresentation" while your competitors scale their AI-generated creative. Audit your image metadata and background generation workflow immediately to ensure every asset complies with the latest Google Shopping AI image authenticity standards.
+Stop guessing why your [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) account is flagged for "Misrepresentation" while your competitors scale their AI-generated creative. Audit your image metadata and background generation workflow immediately to ensure every asset complies with the latest Google Shopping AI image authenticity standards.
 
 Google Shopping allows AI images but requires the IPTC DigitalSourceType tag set to trainedAlgorithmicMedia. Synthetic items that do not physically exist are disapproved.
 
@@ -36,7 +36,7 @@ Google Shopping allows AI images but requires the IPTC DigitalSourceType tag set
 *Related: [Etsy AI Transparency Label & Search Ranking Impact (2026)](/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) · [Amazon Prime Day 2026 Main Image Compliance Check Guide](/blog/policy/amazon-prime-day-2026-main-image-compliance) · [Shopify Magic Image Expansion Seam Line Fix & Specs (2026)](/blog/policy/shopify-magic-image-expansion-seam-line-fix)*
 
 
-Download this specification checklist to audit your current image library. If your export settings do not match these values, your images risk immediate disapproval in Google Merchant Center (GMC).
+Download this specification checklist to audit your current image library. If your export settings do not match these values, your images risk immediate disapproval in [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center (GMC).
 
 | Requirement | Specification |
 | :--- | :--- |
@@ -53,7 +53,7 @@ Download this specification checklist to audit your current image library. If yo
 ![Detailed Requirements](/img/google-shopping-ai-image-authenticity-policy/inline-2.webp)
 
 
-Run a metadata audit on your top-performing SKUs today using a tool like ExifTool or an online metadata viewer to confirm your AI tags are actually reaching Google. Google Merchant Center explicitly requires that any image created or modified using generative AI tools must retain its original metadata tags, specifically the IPTC DigitalSourceType property.
+Run a metadata audit on your top-performing SKUs today using a tool like ExifTool or an online metadata viewer to confirm your AI tags are actually reaching Google. Google [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) explicitly requires that any image created or modified using generative AI tools must retain its original metadata tags, specifically the IPTC DigitalSourceType property.
 
 ### Metadata Preservation Rules
 

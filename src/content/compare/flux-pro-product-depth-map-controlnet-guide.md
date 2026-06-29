@@ -103,7 +103,7 @@ PixelMatch is ideal for sellers managing 50+ SKUs across Shopify, Amazon, and Et
 ### Agencies
 Teams that need granular control over every pixel will prefer ComfyUI, while agencies focused on rapid turnaround times will prefer PixelMatch. Agencies managing dozens of client accounts often face the "bottleneck" of prompt engineering. By moving to an automated system, an agency can reduce the "time-to-first-draft" from hours to seconds, allowing them to present more options to clients without increasing overhead costs.
 
-**Actionable Step:** Map your SKU count to your production time; if you spend more than 2 hours per week on image editing, you have outgrown manual AI workflows and need a batch-processing system.
+**Actionable Step:** Map your SKU count to your production time; if you spend more than 2 hours per week on [image editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide), you have outgrown manual AI workflows and need a batch-processing system.
 
 ## Where Each Falls Short
 

@@ -90,7 +90,7 @@ If your AI-generated background inadvertently includes recognizable trademarked 
 
 The most common reason for "soft" or blurry images is the 1-megapixel limit. On high-resolution monitors, a 1024 x 1024 px image stretched to fill a product gallery will look noticeably less sharp than a native 2048 px file. This leads to a higher bounce rate, as customers associate blurry photography with low-quality products or "dropshipping" scams.
 
-Amazon sellers using Shopify as their home base face an even stricter reality. Amazon requires images to be [at least 1,600 pixels](https://sellercentral.amazon.com/help/hub/reference/external/G1881) on the longest side to enable zoom. If you use Shopify Sidekick to generate your main images, you will likely find them rejected by Amazon’s system or suppressed in search results because they fail the minimum zoom threshold.
+Amazon sellers using Shopify as their home base face an even stricter reality. Amazon requires images to be [at least 1,600 pixels](https://sellercentral.amazon.com/help/hub/reference/external/G1881) on the longest side to enable zoom. If you use [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-feature-locked-error-fix) to generate your main images, you will likely find them rejected by Amazon’s system or suppressed in search results because they fail the minimum zoom threshold.
 
 ### Lighting and Artifact Issues
 

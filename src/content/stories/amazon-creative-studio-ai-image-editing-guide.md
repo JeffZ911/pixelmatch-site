@@ -144,7 +144,7 @@ Upload your photo to PixelMatch. Use the background removal tool to strip away t
 Export your first image as a JPEG with a pure white background. Note that Amazon's systems are strict: they accept JPEG (.jpg), TIFF (.tif), PNG (.png), and GIF (.gif) formats. Do not attempt to upload WebP files, as the Seller Central uploader will frequently error out or fail to index the image properly.
 
 ### 4. Generate Lifestyles in Amazon Creative Studio
-Take the transparent PNG version of your product (the one with no background) and upload it to the Amazon Advertising "Creative Studio." Use the AI image generator to place your product in "Contextual" settings. 
+Take the transparent PNG version of your product (the one with no background) and upload it to the Amazon Advertising "Creative Studio." Use the [AI image](https://pixelmatch.art/blog/policy/google-shopping-ai-image-authenticity-policy) generator to place your product in "Contextual" settings. 
 *   **Prompt Tip:** "Product placed on a stone bathroom vanity, blurred indoor plants in the background, soft morning light, 8k resolution."
 
 **Actionable Step:** Create a "Master Asset Folder" for every SKU containing only the transparent PNG cutouts. This allows you to quickly generate new seasonal marketing images (e.g., adding a pumpkin for October or a snowflake for December) without re-shooting the product.
