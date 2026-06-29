@@ -139,7 +139,7 @@ Ensure your export settings are strictly set to JPG or PNG. If you are managing 
 
 Maintain a 1:1 aspect ratio during the export. If your original photo is a 4:5 portrait (common for fashion), do not stretch it. Instead, "pad" the sides with pure white space to create a perfect square. Finally, keep the file under the 5MB limit by adjusting the quality slider to 80-90% during export; this reduces file size significantly with no visible loss in quality.
 
-**Actionable Step:** Set up a "TikTok Export" preset in your image editing software. Settings: Format: PNG, Dimensions: 1000x1000px, Aspect Ratio: 1:1, Background: #FFFFFF. Run your entire "Poor Quality" list through this preset.
+**Actionable Step:** Set up a "TikTok Export" preset in your [image editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) software. Settings: Format: PNG, Dimensions: 1000x1000px, Aspect Ratio: 1:1, Background: #FFFFFF. Run your entire "Poor Quality" list through this preset.
 
 ## Comparison of Image Editing Tools for TikTok Shop (2026)
 

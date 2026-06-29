@@ -139,7 +139,7 @@ This ensures that every file in that directory now contains the mandated Google 
 
 ### Using Compliant AI Generation Tools
 
-The most efficient way to maintain compliance is to use AI tools designed specifically for multi-platform ecommerce. PixelMatch automatically embeds the `trainedAlgorithmicMedia` IPTC tag into every export. Unlike generic tools like Midjourney or basic Canva filters, PixelMatch is built for the "Merchant Center First" workflow, ensuring that your lifestyle images are compliant the moment they are generated. This eliminates the need for third-party metadata editors or complex CDN workarounds.
+The most efficient way to maintain compliance is to use AI tools designed specifically for multi-platform ecommerce. PixelMatch automatically embeds the `trainedAlgorithmicMedia` IPTC tag into every export. Unlike generic tools like Midjourney or basic Canva filters, PixelMatch is built for the "[Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) First" workflow, ensuring that your lifestyle images are compliant the moment they are generated. This eliminates the need for third-party metadata editors or complex CDN workarounds.
 
 ### Upscaling Low-Res Images
 
@@ -168,7 +168,7 @@ While this guide focuses on Google, other platforms are following suit. TikTok S
 
 *   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation): AI-[Generated Content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Policy
 *   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center: Image Link Specification
-*   Google Merchant Center: 2026 Product Data Specification Update
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation): 2026 Product Data Specification Update
 *   IPTC Photo Metadata Standard: DigitalSourceType
 
 
@@ -181,7 +181,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Google Merchant Center Help: Use AI-generated images in Merchant Center
+*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center Help: Use AI-generated images in Merchant Center
 *   Google Merchant Center Help: image_link: Definition
 *   Google Merchant Center Help: 2026 product data specification updates
 *   IPTC.org: Digital Source Type News Metadata

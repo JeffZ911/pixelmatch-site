@@ -59,7 +59,7 @@ Check your Shopify Admin settings under the "Product" section to see if Shopify 
 
 ### Shopify Magic Capabilities
 
-Shopify Magic is a suite of AI features integrated directly into the Shopify admin. For image editing, it primarily offers [background removal, background replacement, and image expansion](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor). The expansion tool uses generative AI to "outpaint" the edges of a photo, attempting to fill in the space when you change a portrait shot to a square aspect ratio.
+Shopify Magic is a suite of AI features integrated directly into the Shopify admin. For [image editing](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide), it primarily offers [background removal, background replacement, and image expansion](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor). The expansion tool uses generative AI to "outpaint" the edges of a photo, attempting to fill in the space when you change a portrait shot to a square aspect ratio.
 
 The limitation lies in how the AI interprets the "boundary" of your original photo. When you use the expansion tool, the AI often treats the original image as a static box and builds around it. If the lighting, grain, or texture of the generated area doesn't perfectly match the original pixels, a visible line—the "seam"—appears. This is particularly prevalent on complex textures like wood grain, marble, or fabric, where the AI struggles to continue the pattern's geometric flow.
 

@@ -34,7 +34,7 @@ Scaling a Shopify beauty brand requires a constant stream of high-end lifestyle 
 
 High-growth beauty brands on Shopify live or die by their "New Arrival" velocity. For a brand generating $50,000 to $100,000 in monthly revenue, the bottleneck is rarely the product itself—it is the content required to sell it. To maintain a 4% or higher Click-Through Rate (CTR) on Meta platforms, you need fresh, thumb-stopping creative every week. 
 
-This case study follows a composite Shopify cosmetics brand that faced a common scaling wall: the financial and temporal cost of traditional photography. By shifting to a workflow designed to generate ai product backgrounds for shopify brands, they reduced their cost per listing from $150.00 to just $3.00.
+This case study follows a composite Shopify cosmetics brand that faced a common scaling wall: the financial and temporal cost of traditional photography. By shifting to a workflow designed to generate ai [product backgrounds](https://pixelmatch.art/blog/compare/shopify-magic-vs-midjourney-product-backgrounds) for shopify brands, they reduced their cost per listing from $150.00 to just $3.00.
 
 | Metric | Before AI Implementation | After AI Implementation | Improvement |
 | :--- | :--- | :--- | :--- |

@@ -135,7 +135,7 @@ Symphony's "Product Avatar" feature is not currently designed for wearable appar
 While TikTok Shop requires 800 x 800 pixels, for high-quality ad creatives in Symphony, you should use a 1080 x 1080 pixel square PNG. This provides enough data for the AI to handle the "hand-off" animation without the product looking pixelated when the avatar moves it closer to the camera.
 
 ### Is TikTok Symphony Creative Studio free to use?
-As of 2026, Symphony Creative Studio is available to users with a TikTok for Business account. While the standard AI generation tools are currently accessible without a separate subscription fee, "Custom Avatars" (creating a digital twin of a specific person) are generally restricted to managed accounts or available via specific request/application within the platform.
+As of 2026, Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide) is available to users with a TikTok for Business account. While the standard AI generation tools are currently accessible without a separate subscription fee, "Custom Avatars" (creating a digital twin of a specific person) are generally restricted to managed accounts or available via specific request/application within the platform.
 
 
 <!-- pm-cta:foot -->
