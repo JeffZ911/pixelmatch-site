@@ -122,7 +122,7 @@ If Variation C is blocked for a "Medical Claim," you can immediately pivot to Va
 ## Frequently Asked Questions
 
 ### Does TikTok Symphony Agent cost extra for sellers?
-As of mid-2026, Symphony Agent is integrated directly into the TikTok Ads Manager and Symphony Creative Studio. While there is no separate subscription fee for the tool itself, the cost is effectively bundled into your overall ad spend and the resources required to manage the creative pipeline.
+As of mid-2026, Symphony Agent is integrated directly into the TikTok Ads Manager and Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide). While there is no separate subscription fee for the tool itself, the cost is effectively bundled into your overall ad spend and the resources required to manage the creative pipeline.
 
 ### Can I remove the "AI-generated" label from my TikTok ads?
 No. TikTok’s policy is strict regarding AI disclosure. If the content was generated using Symphony's AI tools, the label is automatically applied and cannot be removed. Attempting to crop out or hide the label with stickers is a violation of the Ad Format and Functionality policy and can lead to account suspension.
