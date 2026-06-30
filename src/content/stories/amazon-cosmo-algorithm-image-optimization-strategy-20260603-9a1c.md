@@ -45,7 +45,7 @@ Scaling an outdoor brand on Amazon usually means burning thousands on lifestyle 
 ![The Seller's Situation: The Shift to Behavioral Search](/img/amazon-cosmo-algorithm-image-optimization-strategy-20260603-9a1c/inline-1.webp)
 
 
-For years, this mid-market outdoor gear brand followed the standard Amazon FBA playbook: high-volume keyword research, aggressive PPC bidding, and clean, white-background studio photography. Their primary product—an insulated 32oz hiking water bottle—consistently held a top-3 spot for the "insulated water bottle" keyword. They relied on the A9 algorithm's preference for direct keyword matches and sales velocity.
+For years, this mid-market outdoor gear brand followed the standard [Amazon FBA](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) playbook: high-volume keyword research, aggressive PPC bidding, and clean, white-background studio photography. Their primary product—an insulated 32oz hiking water bottle—consistently held a top-3 spot for the "insulated water bottle" keyword. They relied on the A9 algorithm's preference for direct keyword matches and sales velocity.
 
 However, in early 2024, their organic rank began to slip. New competitors with lower review counts were outranking them for high-intent queries like "best water bottle for desert hiking" and "lightweight bottle for rock climbing." The brand’s generic studio shots, while professional, failed to signal to Amazon’s new search architecture that their product was the "best" choice for those specific scenarios.
 

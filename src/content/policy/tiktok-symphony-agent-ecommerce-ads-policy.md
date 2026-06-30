@@ -84,7 +84,7 @@ Run a "Claim Audit" on every video before hitting "Publish." Open your TikTok Ad
 
 ### Policy Violations in AI Outputs
 
-Symphony Agent has built-in safety filters designed to catch violations before you even spend a dollar. Non-compliant images and text are blocked before generation within the Creative Studio. This includes attempts to generate content related to:
+Symphony Agent has built-in safety filters designed to catch violations before you even spend a dollar. Non-compliant images and text are blocked before generation within the [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide). This includes attempts to generate content related to:
 *   **Restricted Products:** Alcohol, tobacco, or adult products.
 *   **Medical Claims:** Ecommerce brands in the health and wellness space face the highest rejection rates. If your AI agent makes unverified medical or health claims (e.g., "this tea cures insomnia"), the ad will be flagged.
 *   **Deceptive Content:** Any AI output that mimics a news broadcast or an official government announcement is strictly prohibited.

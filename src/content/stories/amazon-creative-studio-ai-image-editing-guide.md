@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Stop burning five-figure annual budgets on studio photographers for basic variation launches that should take hours, not weeks. When your beauty brand scales from five to 25 SKUs, the traditional "ship-shoot-edit-wait" cycle becomes a terminal bottleneck for Amazon FBA growth.
+Stop burning five-figure annual budgets on studio photographers for basic variation launches that should take hours, not weeks. When your beauty brand scales from five to 25 SKUs, the traditional "ship-shoot-edit-wait" cycle becomes a terminal bottleneck for [Amazon FBA](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) growth.
 
 # Case Study: Scaling Amazon FBA Visuals with AI Image Editing
 
