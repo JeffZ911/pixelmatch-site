@@ -68,7 +68,7 @@ Set your export resolution in Symphony [Creative Studio](https://pixelmatch.art/
 
 The workflow follows a streamlined four-step process:
 
-1.  **Export:** They export their top-performing 1080x1920 pixel videos directly from Symphony Creative Studio. These videos already contain the lighting and "lifestyle" context that resonates with their target audience.
+1.  **Export:** They export their top-performing 1080x1920 pixel videos directly from Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide). These videos already contain the lighting and "lifestyle" context that resonates with their target audience.
 2.  **Extract:** They upload the video into PixelMatch’s video-to-image tool. The AI automatically scans the footage, identifying frames where the product is most prominent and the motion blur is at its lowest. This saves the seller from scrubbing through minutes of footage manually.
 3.  **Upscale:** PixelMatch takes these selected frames and upscales them. This ensures the output easily exceeds the minimum 600x600 pixels requirement, reaching a crisp 2000x2000 pixels suitable for the "zoom" feature on TikTok Shop PDPs.
 4.  **Harmonize:** Instead of a flat white background, PixelMatch uses AI to generate lifestyle backgrounds that visually match the original video ad. If the [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-gaze-correction-error-pixelmatch) ad featured a bathroom vanity with soft morning light, PixelMatch generates 1:1 listing images with that same aesthetic, maintaining "visual scent" from the ad click to the "Add to Cart" button.
