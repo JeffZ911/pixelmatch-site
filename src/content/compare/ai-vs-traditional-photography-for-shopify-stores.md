@@ -58,7 +58,7 @@ The primary friction in ecommerce isn't just taking a photo; it is making that p
 | Capability | Traditional Studio | AI Batch Generation |
 | :--- | :--- | :--- |
 | **Shopify 1:1 Aspect Ratio** | Manual crop per image | Native 1:1 generation |
-| **TikTok Shop 9:16 Format** | Requires separate shoot/setup | One-click background expansion |
+| **TikTok Shop 9:16 Format** | Requires separate shoot/setup | One-click [background expansion](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) |
 | **Amazon White BG (RGB 255)** | Standard studio service | Automated background removal |
 | **Seasonal Swaps** | Requires new props/booking | Instant prompt-based updates |
 | **Resolution Control** | Fixed at time of shoot | AI Upscaling to 4K+ |

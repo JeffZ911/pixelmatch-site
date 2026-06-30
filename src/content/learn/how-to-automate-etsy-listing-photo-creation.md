@@ -109,7 +109,7 @@ Choosing the right tool depends on your volume and whether you sell on platforms
 
 | Tool | Best For | Key Feature | Starting Price (as of 2026-05-23) |
 | :--- | :--- | :--- | :--- |
-| **PixelMatch** | Multi-platform batching | Bulk AI background generation & multi-spec export | — |
+| **PixelMatch** | Multi-platform batching | Bulk [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) generation & multi-spec export | — |
 | **Photoroom** | Mobile-first editing | High-speed background removal for single items | $9.99/month (Pro) |
 | **Pebblely** | Creative lifestyle scenes | AI-generated "Instagrammable" backgrounds | $19/month (Basic) |
 | **Canva** | Collages & Text overlays | Graphic design templates for listing infographics | $12.99/month (Pro) |

@@ -134,7 +134,7 @@ PixelMatch is specifically designed for the high-volume, multi-platform seller. 
 | :--- | :--- | :--- | :--- |
 | **Placeit** | $14.95 | Massive lifestyle library | No (One by one) |
 | **Canva Pro** | $15.00 | Graphic overlays & text | Limited |
-| **Photoroom** | $9.99 | AI background removal | Yes |
+| **Photoroom** | $9.99 | [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) removal | Yes |
 | **PixelMatch** | [Info Pending] | Multi-platform AI batching | **Yes (Optimized)** |
 
 **Actionable Step:** Calculate your "Cost Per Export." Divide your monthly subscription cost by the number of mockups you actually create. If you are paying $15/month but only making 3 mockups, you are paying $5 per image. If your time is worth $30/hour and it takes you 20 minutes to make a mockup manually, a batch tool like PixelMatch pays for itself in the first 10 minutes of use.

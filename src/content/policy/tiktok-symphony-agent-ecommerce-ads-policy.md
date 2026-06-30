@@ -138,7 +138,7 @@ To get the best results, export your images from PixelMatch in the 1080 x 1920 p
 ![Official Source Links](/img/tiktok-symphony-agent-ecommerce-ads-policy/inline-5.webp)
 
 
-*   TikTok Ads Manager Help: About Symphony Agent in Symphony Creative Studio
+*   TikTok Ads Manager Help: About Symphony Agent in Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide)
 *   TikTok For Business Blog: Introducing Symphony Agent
 *   TikTok Advertising Policies: Ad Format and Functionality
 *   TikTok For Business Blog: Announcing Symphony Creative Studio
