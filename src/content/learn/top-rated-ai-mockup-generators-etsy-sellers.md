@@ -60,7 +60,7 @@ Run a calibration shoot with your physical product before you attempt to generat
 Start with a high-quality photo of your physical product against a neutral, uncluttered background. If you are a digital seller, use your high-resolution design file. Ensure the lighting is flat and even; AI generators struggle to correct harsh, directional shadows that don't match the new background you intend to generate.
 
 ### 2. Remove the Background
-Use an AI background removal tool to isolate your product. **Critical Warning:** Do not upload transparent PNGs directly to Etsy. Etsy’s image processor does not support alpha channels (transparency); any transparent areas will automatically render as solid black [1.1.4], making your product look like a technical error. Your AI mockup generator must flatten the image onto a solid background before export.
+Use an [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) removal tool to isolate your product. **Critical Warning:** Do not upload transparent PNGs directly to Etsy. Etsy’s image processor does not support alpha channels (transparency); any transparent areas will automatically render as solid black [1.1.4], making your product look like a technical error. Your AI mockup generator must flatten the image onto a solid background before export.
 
 ### 3. Generate the Lifestyle Environment
 Select a background aesthetic that matches your brand’s "vibe." For 2026, Etsy buyers are trending toward "lived-in" realism rather than sterile studio shots. 
