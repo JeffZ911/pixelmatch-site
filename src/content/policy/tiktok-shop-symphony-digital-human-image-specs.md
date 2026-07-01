@@ -34,7 +34,7 @@ Scaling your TikTok Shop presence often hits a bottleneck when you realize you c
 *Related: [TikTok Shop Image Specs for Video Shopping Ads (2026)](/blog/policy/tiktok-shop-image-specs-video-shopping-ads) · [Midjourney v7 Leak Product Photography Prompts & 2026 Rules](/blog/policy/midjourney-v7-leak-product-photography-prompts-guide) · [Amazon Shop by Style AI Search Guide: 2026 Image Rules](/blog/policy/amazon-shop-by-style-ai-search-guide)*
 
 
-Run your current product library against these technical benchmarks before attempting a batch upload to Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide). TikTok’s AI mapping engine requires high-contrast, high-resolution source files to accurately "drape" digital clothing or place items in the hands of a digital human.
+Run your current product library against these technical benchmarks before attempting a batch upload to Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide). TikTok’s AI mapping engine requires high-contrast, high-resolution source files to accurately "drape" digital clothing or place items in the hands of a [digital human](https://pixelmatch.art/blog/stories/tiktok-shop-digital-human-avatar-policy-2026-case-study).
 
 | Specification | Requirement | Official Recommendation |
 | :--- | :--- | :--- |

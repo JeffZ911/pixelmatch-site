@@ -60,7 +60,7 @@ While Etsy allows AI-generated backgrounds, the core product must remain a faith
 Under [Etsy's Purchase Protection Program](https://help.etsy.com/hc/en-us/articles/360000344568-Etsy-s-Purchase-Protection-Program-for-Sellers), Etsy may cover the cost of a refund for orders up to $250 if the seller meets specific criteria. However, this protection is voided if a buyer successfully opens an "Item Not As Described" (INAD) case. 
 
 INAD cases are frequently triggered by:
-1.  **Color Discrepancy:** The AI background lighting shifts the product's hue (e.g., a warm sunset background making a silver ring look gold).
+1.  **Color Discrepancy:** The [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) lighting shifts the product's hue (e.g., a warm sunset background making a silver ring look gold).
 2.  **Scale Confusion:** The product appears significantly larger or smaller in the AI scene than it is in reality.
 3.  **Texture Smoothing:** AI upscaling or "beautification" filters removing natural wood grains or fabric textures that the buyer expected to see.
 

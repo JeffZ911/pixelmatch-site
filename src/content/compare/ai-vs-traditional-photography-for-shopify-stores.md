@@ -130,7 +130,7 @@ Traditional photography is non-negotiable for specific scenarios:
 ### When to Use AI Batch Generation
 AI tools are the superior choice for:
 *   **Multi-Platform Sellers:** If you sell on Shopify, Amazon, and TikTok, you need three different aspect ratios and three different "vibes." AI generates these from a single source file.
-*   **Rapid Seasonal Testing:** Want to see if your product sells better in a "Cozy Cabin" or a "Modern Minimalist" setting? AI lets you A/B test lifestyle backgrounds in real-time.
+*   **Rapid Seasonal Testing:** Want to see if your product sells better in a "Cozy Cabin" or a "Modern Minimalist" setting? AI lets you A/B test [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) in real-time.
 *   **Large Catalog Management:** If you have 500+ SKUs, traditional photography is a logistical nightmare. AI allows you to maintain visual consistency across thousands of images without a massive headcount.
 *   **Social Commerce:** TikTok Shop and Instagram Shop require a constant stream of "fresh" content. AI allows you to generate new visuals every week to keep the algorithm engaged.
 
