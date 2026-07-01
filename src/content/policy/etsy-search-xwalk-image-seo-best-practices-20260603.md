@@ -113,7 +113,7 @@ Use a bulk image compressor to bring your file sizes under 1MB. Tools like TinyP
 
 ### Use AI Background Removal for Primary Photos
 
-Apply AI background removal to your primary listing photos to create clean, distraction-free images. This allows XWalk's visual engine to parse your product instantly. Once the background is removed, you can use PixelMatch to generate consistent, high-end lifestyle backgrounds that match your brand aesthetic. This ensures that while your primary photo is "clean" for the algorithm, it remains "aspirational" for the human shopper.
+Apply [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) removal to your primary listing photos to create clean, distraction-free images. This allows XWalk's visual engine to parse your product instantly. Once the background is removed, you can use PixelMatch to generate consistent, high-end lifestyle backgrounds that match your brand aesthetic. This ensures that while your primary photo is "clean" for the algorithm, it remains "aspirational" for the human shopper.
 
 ### Batch-Process Your Entire Catalog
 

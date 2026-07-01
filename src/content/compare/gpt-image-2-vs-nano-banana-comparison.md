@@ -91,7 +91,7 @@ Amazon’s A+ Content and Brand Story sections demand lifestyle imagery that loo
 
 ### TikTok Shop Sellers
 
-TikTok Shop is a mobile-first platform where speed and "vibe" trump technical perfection. However, the platform still enforces a 600 × 600 px minimum requirement for product cards. Nano Banana is particularly effective for TikTok Shop because it generates high-energy, high-saturation images that perform well on mobile screens. Its ability to quickly iterate on 1:1 aspect ratio images allows you to test different lifestyle backgrounds (e.g., "Gen Z bedroom" vs "Modern Office") to see which resonates with your specific TikTok demographic.
+TikTok Shop is a mobile-first platform where speed and "vibe" trump technical perfection. However, the platform still enforces a 600 × 600 px minimum requirement for product cards. Nano Banana is particularly effective for TikTok Shop because it generates high-energy, high-saturation images that perform well on mobile screens. Its ability to quickly iterate on 1:1 aspect ratio images allows you to test different [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) (e.g., "Gen Z bedroom" vs "Modern Office") to see which resonates with your specific TikTok demographic.
 
 ### Multi-Platform Brands
 

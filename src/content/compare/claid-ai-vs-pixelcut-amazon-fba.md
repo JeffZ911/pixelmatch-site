@@ -84,7 +84,7 @@ Claid AI uses a more complex credit system that scales with your volume:
 *   **Enterprise Tiers:** Large-scale aggregators often pay upwards of $499/month for API access and custom integrations.
 
 ### PixelMatch Pricing
-PixelMatch is built for the professional FBA seller who finds credit systems frustrating. Instead of counting every click, PixelMatch offers transparent, flat-rate pricing. This allows you to experiment with different lifestyle backgrounds for your A+ Content without worrying about "wasting" credits on a generation that isn't perfect.
+PixelMatch is built for the professional FBA seller who finds credit systems frustrating. Instead of counting every click, PixelMatch offers transparent, flat-rate pricing. This allows you to experiment with different [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) for your A+ Content without worrying about "wasting" credits on a generation that isn't perfect.
 
 **Actionable Step:** Calculate your monthly image needs. If you need more than 200 images a month, Claid’s $39 plan will run out quickly. Map your SKU launch calendar for the next 90 days to determine which pricing model prevents "billing shock."
 

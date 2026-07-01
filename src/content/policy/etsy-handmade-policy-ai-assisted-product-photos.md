@@ -33,7 +33,7 @@ Stop risking a permanent shop suspension by guessing where Etsy draws the line b
 
 Audit your shop's inventory against the following compliance matrix to determine which AI tools are permitted for your specific product type.
 
-| Product Category | Primary Photo Requirement | AI Background Removal | Fully AI-Generated Product Image | Disclosure Required? |
+| Product Category | Primary Photo Requirement | [AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) Removal | Fully AI-Generated Product Image | Disclosure Required? |
 | :--- | :--- | :--- | :--- | :--- |
 | **Physical Handmade** | Real photo of the actual item | Permitted | Prohibited | No (for editing) |
 | **Personalized Items** | [Finished, customized prototype](https://help.etsy.com/hc/en-us/articles/360000336367-How-to-Offer-Personalized-Listings) | Permitted | Prohibited as primary image | No (for editing) |
@@ -145,7 +145,7 @@ Stay updated on policy shifts by bookmarking these official Etsy resources. Etsy
 -   Etsy Listing Image Requirements: Technical specifications and rules regarding what can be shown in a primary photo.
 -   [Requirements and Best Practices for Images in Your Etsy Shop](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop): A guide to image sizes, aspect ratios, and photography tips.
 -   [How to Offer Personalized Listings](https://help.etsy.com/hc/en-us/articles/360000336367-How-to-Offer-Personalized-Listings): Specific rules for sellers who customize items for buyers.
--   Etsy’s Prohibited Items Policy: To ensure your AI-generated art doesn't violate copyright or community standards.
+-   Etsy’s Prohibited Items Policy: To ensure your AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) doesn't violate copyright or community standards.
 
 
 <!-- pm-cta:foot -->

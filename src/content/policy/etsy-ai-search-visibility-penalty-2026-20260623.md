@@ -41,7 +41,7 @@ Audit your top 10 most visited listings today to ensure the "AI-generated" attri
 | Usage Type | Etsy Policy Status (2026) | Disclosure Required? | Search Visibility Impact |
 | :--- | :--- | :--- | :--- |
 | **AI-Enhanced Backgrounds** | Allowed (Core product must be real) | Yes (via metadata flag) | Neutral if disclosed; Negative if hidden |
-| **AI-Generated Art/Prints** | Allowed (Seller must provide prompt) | Yes (Disclosure + Category change) | High (Must be in 'Digital Art' or 'Prints') |
+| **AI-[Generated Art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026)/Prints** | Allowed (Seller must provide prompt) | Yes (Disclosure + Category change) | High (Must be in 'Digital Art' or 'Prints') |
 | **Synthetic Human Models** | Restricted (Legal disclosure required) | Yes (Mandatory badge/flag) | High risk of suppression |
 | **AI-Upscaled Photos** | Allowed (Minor retouching) | No (Standard editing) | None |
 
