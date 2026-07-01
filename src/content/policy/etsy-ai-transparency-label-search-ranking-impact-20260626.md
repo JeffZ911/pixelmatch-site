@@ -38,7 +38,7 @@ Audit your current shop listings against the 2026 disclosure table below to iden
 
 | Feature / Image Type | Disclosure Required? | Search Ranking Impact | Compliance Action |
 | :--- | :--- | :--- | :--- |
-| **AI-Generated Art/Digital Downloads** | Yes | High | Add disclosure to top of description per Etsy's Creativity Standards. |
+| **AI-[Generated Art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026)/Digital Downloads** | Yes | High | Add disclosure to top of description per Etsy's Creativity Standards. |
 | **AI Lifestyle Backgrounds (Mockups)** | Yes | Medium | State "Lifestyle background created with AI" in the listing. |
 | **AI Models (Human Likeness)** | Yes | High | Must comply with NY's $5,000 fine law and label clearly. |
 | **Basic Background Removal** | No | None | No action required for simple white-background edits. |
@@ -135,7 +135,7 @@ Usually, a single oversight results in a listing warning or a temporary drop in 
 Yes, using AI for SEO optimization (like titles, tags, and descriptions) does not require a transparency label. Etsy views this as a business administrative tool rather than a creative replacement for the product or its visual representation.
 
 ### What is the difference between a "Digital Replica" and an AI background?
-A digital replica refers to an AI-generated human likeness (a "synthetic performer"), which is heavily regulated by New York and California laws. An AI background is simply a generated environment (like a kitchen or a forest) and carries lower legal risk, though it still requires disclosure on Etsy.
+A digital replica refers to an AI-generated human likeness (a "synthetic performer"), which is heavily regulated by New York and California laws. An [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) is simply a generated environment (like a kitchen or a forest) and carries lower legal risk, though it still requires disclosure on Etsy.
 
 ## Official Source Links
 

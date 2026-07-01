@@ -129,7 +129,7 @@ This approach allows you to keep your fast-loading, compressed images on your Sh
 ## Frequently Asked Questions
 
 ### Does Google penalize AI images in Shopping search results?
-No, Google does not penalize images simply for being AI-generated. However, it does penalize images that fail to meet transparency requirements (missing metadata) or accuracy requirements (misrepresenting the product). As long as the product itself is real and the metadata tag is present, AI-generated lifestyle backgrounds are a standard and accepted practice.
+No, Google does not penalize images simply for being AI-generated. However, it does penalize images that fail to meet [transparency requirements](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) (missing metadata) or accuracy requirements (misrepresenting the product). As long as the product itself is real and the metadata tag is present, AI-generated lifestyle backgrounds are a standard and accepted practice.
 
 ### How do I check if my images have the IPTC DigitalSourceType tag?
 You can use a free online metadata viewer like Jeffrey's Image Metadata Viewer or a local tool like ExifTool. Look for the "Digital Source Type" field under the IPTC or XMP section. If it is blank or says "software," it is not compliant for AI-generated content. It must specifically read `trainedAlgorithmicMedia`.

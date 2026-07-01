@@ -55,7 +55,7 @@ Run your current product library against these technical benchmarks before attem
 
 ### Image Quality & Framing
 
-Audit your product photos for visual clarity before they enter the Symphony pipeline. The AI engine uses "Product Avatar" technology to identify the edges of your garment or item and wrap them around a moving 3D skeleton. If your image contains watermarks, digital renderings, or placeholder text, the AI will attempt to map those elements onto the digital human's body, leading to an immediate policy rejection.
+Audit your product photos for visual clarity before they enter the Symphony pipeline. The AI engine uses "Product Avatar" technology to identify the edges of your garment or item and wrap them around a moving 3D skeleton. If your image contains watermarks, digital renderings, or placeholder text, the AI will attempt to map those elements onto the [digital human](https://pixelmatch.art/blog/stories/tiktok-shop-digital-human-avatar-policy-2026-case-study)'s body, leading to an immediate policy rejection.
 
 When uploading your base image, ensure it is a front view of the physical product without any distracting elements. The product must take up at least 60% of the frame; if the product is too small, the AI lacks the pixel data to recreate textures like fabric grain or metallic reflections. PixelMatch can batch-process your raw product photos to meet the exact 1:1 square format and solid background requirements before you upload them to Symphony, ensuring that the AI engine sees a clean silhouette every time.
 

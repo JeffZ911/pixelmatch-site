@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Stop wasting hours manually resizing Flux 1.1 Pro images only to have [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio reject them with a generic "invalid media format" error. This technical wall often stops beauty brands from scaling their video ad creative just as they find a winning aesthetic that converts.
+Stop wasting hours manually resizing [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 Pro images only to have [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio reject them with a generic "invalid media format" error. This technical wall often stops beauty brands from scaling their video ad creative just as they find a winning aesthetic that converts.
 
 ## The Seller's Situation
 

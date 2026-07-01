@@ -109,7 +109,7 @@ When you upload a photo of your actual product, PixelMatch replaces the backgrou
 | :--- | :--- | :--- | :--- |
 | **AI Human Models** | Yes | Yes | High |
 | **Real Model + [AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630)** | No | Yes (Checkbox only) | Low |
-| **Product Only + AI Background** | No | Yes (Checkbox only) | Lowest |
+| **Product Only + [AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630)** | No | Yes (Checkbox only) | Lowest |
 
 By shifting your workflow to focus on AI backgrounds rather than AI humans, you save time on graphic design (no need to manually add badges to every photo) and eliminate the risk of the $1,000 fine.
 

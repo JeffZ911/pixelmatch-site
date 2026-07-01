@@ -71,17 +71,17 @@ Finally, they tried Canva Pro at $15/mo. Canva's "Magic Edit" and background too
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-To solve the scale and quality issues, the brand moved to a high-speed generation workflow using Krea 2 Turbo for ecommerce lifestyle backgrounds. This allowed them to generate high-fidelity scenes in real-time, which were then refined using PixelMatch for precise product extraction and color matching.
+To solve the scale and quality issues, the brand moved to a high-speed generation workflow using [Krea 2 Turbo](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell) for ecommerce lifestyle backgrounds. This allowed them to generate high-fidelity scenes in real-time, which were then refined using PixelMatch for precise product extraction and color matching.
 
 ### 1. Securing Commercial Rights
 The brand signed up for Krea AI's Basic plan at $9/mo (billed annually). This was a critical step because Krea's free tier does not grant commercial usage rights. For an Amazon seller, using unlicensed AI images is a risk to the account's standing. The $9/mo tier provided the necessary legal coverage and faster generation speeds via their "Turbo" model.
 
 ### 2. Rapid Scene Generation
-Using Krea 2 Turbo for ecommerce lifestyle backgrounds, the brand generated contextual environments without the product in the initial frame. They used descriptive prompts such as:
+Using Krea [2 Turbo](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell) for ecommerce lifestyle backgrounds, the brand generated contextual environments without the product in the initial frame. They used descriptive prompts such as:
 *   "Luxury marble bathroom counter, soft morning sunlight, defocused spa background, 8k resolution."
 *   "Minimalist wooden shelf, eucalyptus leaves, soft rim lighting, high-end skincare aesthetic."
 
-Krea 2 Turbo's strength lies in its speed, generating these variations in under 10 seconds, allowing the brand's virtual assistant (VA) to cycle through dozens of options instantly.
+[Krea 2](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell) Turbo's strength lies in its speed, generating these variations in under 10 seconds, allowing the brand's virtual assistant (VA) to cycle through dozens of options instantly.
 
 ### 3. Precision Extraction and Upscaling
 The brand used PixelMatch to handle the "heavy lifting" of product integration. While Krea generated the beautiful scenes, PixelMatch’s specialized edge-detection algorithms were used to extract the beauty bottles from raw smartphone photos. This was especially important for their glass serum bottles, where preserving transparency is notoriously difficult for general AI tools.

@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop wasting hours staging physical photoshoots for every new Etsy listing when AI can generate hyper-realistic lifestyle backgrounds in seconds. If you are managing a growing shop across multiple platforms, your current manual editing workflow is likely the single biggest bottleneck preventing you from scaling your SKU count.
+Stop wasting hours staging physical photoshoots for every new Etsy listing when AI can generate hyper-realistic [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) in seconds. If you are managing a growing shop across multiple platforms, your current manual editing workflow is likely the single biggest bottleneck preventing you from scaling your SKU count.
 
 ## TL;DR Verdict
 
