@@ -80,7 +80,7 @@ Identify the specific [error codes](https://pixelmatch.art/blog/stories/amazon-p
 
 The most frequent point of failure is uploading unsupported product categories. Attempting to generate an avatar for shoes, hats, sunglasses, or bracelets will fail because the current Symphony skeleton does not have the tracking points required for extremities or headwear. If you are a multi-platform seller moving inventory from Amazon or Etsy to TikTok Shop, you must filter these categories out of your Symphony automation.
 
-Cluttered backgrounds also trigger rejections. If your product photo was taken in a lifestyle setting (e.g., a shirt hanging on a wooden door), the AI mapping tool may confuse the background texture with the product itself. The system requires a high-contrast boundary between the item and the background to "cut out" the product for the digital human to wear.
+Cluttered backgrounds also trigger rejections. If your product photo was taken in a lifestyle setting (e.g., a shirt hanging on a wooden door), the AI mapping tool may confuse the background texture with the product itself. The system requires a high-contrast boundary between the item and the background to "cut out" the product for the [digital human](https://pixelmatch.art/blog/stories/tiktok-shop-digital-human-avatar-policy-2026-case-study) to wear.
 
 ### Technical and Placement Violations
 

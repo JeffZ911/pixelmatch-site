@@ -92,7 +92,7 @@ Amazon’s 2026 policy strictly forbids any non-product elements in the main ima
 
 ### Messy Edges and "Ghosting"
 
-When using AI background removers or manual "magic wand" tools, you may leave behind a one-pixel border of the original background. This is known as "aliasing" or "ghosting." To the A9 algorithm, these stray pixels are "noise" or "busy" elements. If your product has complex edges (like faux fur, mesh, or liquid), low-end background removal tools often fail, leaving a jagged edge that triggers a manual review flag.
+When using [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) removers or manual "magic wand" tools, you may leave behind a one-pixel border of the original background. This is known as "aliasing" or "ghosting." To the A9 algorithm, these stray pixels are "noise" or "busy" elements. If your product has complex edges (like faux fur, mesh, or liquid), low-end background removal tools often fail, leaving a jagged edge that triggers a manual review flag.
 
 ## How to Fix Each Issue
 

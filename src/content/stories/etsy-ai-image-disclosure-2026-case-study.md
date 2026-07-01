@@ -116,7 +116,7 @@ When creating the listing in the Etsy Seller Dashboard, you must answer the "Abo
 *   **Who made it?** I did (or another company/person).
 *   **What is it?** A finished product.
 *   **When was it made?** [Select the appropriate vintage era].
-*   **Is it AI-generated?** Select "No" for physical vintage goods. The use of AI in the *background* of a photo does not make the *item* AI-generated. However, if you are selling digital downloads or AI-generated art, you must disclose this.
+*   **Is it AI-generated?** Select "No" for physical vintage goods. The use of AI in the *background* of a photo does not make the *item* AI-generated. However, if you are selling digital downloads or AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026), you must disclose this.
 
 ### Step 5: Comply with Local Transparency Laws
 If your shop sells to customers in New York, ensure you are compliant with the June 2026 transparency laws. If you use AI to create a hyper-realistic scene that could be mistaken for a real location, a simple "Background digitally rendered" or "AI-enhanced imagery" note in your item description or as a small watermark on the image provides a safe harbor against consumer protection claims.

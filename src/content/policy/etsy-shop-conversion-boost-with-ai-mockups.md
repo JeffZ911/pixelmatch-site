@@ -115,7 +115,7 @@ Stay updated by checking these official resources regularly. Policies regarding 
 | **[Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study)** | Legal Policy | Rules on AI usage and seller transparency. |
 | **NY Synthetic Media Law** | Senate Bill S.8420-A | [Disclosure requirements](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) for AI-generated people. |
 | **Photoroom Pricing** | Official Pricing Page | Current costs for Pro background removal and batching. |
-| **Pebblely Pricing** | Official Pricing Page | Costs for AI background generation tiers. |
+| **Pebblely Pricing** | Official Pricing Page | Costs for [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) generation tiers. |
 
 
 <!-- pm-cta:foot -->
