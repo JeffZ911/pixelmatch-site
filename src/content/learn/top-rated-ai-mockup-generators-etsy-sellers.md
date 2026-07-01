@@ -147,7 +147,7 @@ Etsy does not support transparent PNGs. When you upload an image with a transpar
 As of May 19, 2026, Photoroom Pro is priced at $9.99 per month. If you choose the annual billing option, the cost is $89.99 per year, which offers a significant discount for long-term users.
 
 ### Can I use AI to generate the product itself?
-Only if you are selling a digital download of AI-generated art and you disclose that AI was used in the creation process. If you are selling a physical item (like a t-shirt or a mug), the *design* can be AI-assisted, but the *mockup* must accurately represent the physical blank you are using.
+Only if you are selling a digital download of AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) and you disclose that AI was used in the creation process. If you are selling a physical item (like a t-shirt or a mug), the *design* can be AI-assisted, but the *mockup* must accurately represent the physical blank you are using.
 
 
 <!-- pm-cta:foot -->

@@ -71,7 +71,7 @@ Regarding file size, Etsy allows files up to 10MB. Do not confuse this with the 
 
 The most significant policy shift involves how you represent your items. Sellers must use original photos of the actual product, not renderings or stock photos. This is a direct response to the influx of dropshippers using manufacturer-provided stock imagery.
 
-If an item is created through the use of artificial intelligence, you must disclose this in your relevant listings. This applies to the product itself (e.g., AI-generated art prints). However, using AI tools like PixelMatch to batch-generate compliant product photos from your own original product photography is a standard industry practice for backgrounds and staging. The key is that the *product* shown must be a real photo of the item the buyer will receive.
+If an item is created through the use of artificial intelligence, you must disclose this in your relevant listings. This applies to the product itself (e.g., AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) prints). However, using AI tools like PixelMatch to batch-generate compliant product photos from your own original product photography is a standard industry practice for backgrounds and staging. The key is that the *product* shown must be a real photo of the item the buyer will receive.
 
 **Actionable Step:** Verify your export settings in your photo editor. Ensure the color space is set to sRGB. Uploading in CMYK (used for print) will cause the colors to look neon or distorted on the Etsy storefront.
 

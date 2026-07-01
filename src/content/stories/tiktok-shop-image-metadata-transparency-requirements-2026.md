@@ -132,7 +132,7 @@ While AI significantly reduces costs, it is not a "set it and forget it" solutio
 
 If your beauty product has complex transparent elements, such as clear glass bottles or translucent gels, AI background generation may still require manual touch-ups. AI often struggles to "see through" glass to the background behind it, which can create a "halo" effect that looks "uncanny" to customers. High-end beauty brands should still plan for a manual QA pass on every batch to ensure the lighting on the product matches the AI-generated environment.
 
-Finally, remember the scale of TikTok’s enforcement. Their automated moderation systems scan over 1 million videos and images per day. Attempting to bypass the metadata transparency requirements by using "stealth" AI is a high-risk strategy. In 2026, the platform's ability to detect synthetic patterns is nearly perfect; honesty and transparency in your metadata are the only ways to ensure long-term shop survival.
+Finally, remember the scale of TikTok’s enforcement. Their automated moderation systems scan over 1 million videos and images per day. Attempting to bypass the metadata [transparency requirements](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) by using "stealth" AI is a high-risk strategy. In 2026, the platform's ability to detect synthetic patterns is nearly perfect; honesty and transparency in your metadata are the only ways to ensure long-term shop survival.
 
 **Actionable Step:** Conduct a "Glass Test" on your first batch of AI images. If the background does not realistically distort through the liquid or glass of your product, adjust your PixelMatch prompt to include "refractive glass" or "transparent bottle" to improve the output.
 

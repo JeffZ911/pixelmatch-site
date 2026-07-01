@@ -114,7 +114,7 @@ If your ecommerce platform strips metadata, consider hosting compliant images ex
 
 When generating lifestyle backgrounds, use tools like PixelMatch that anchor your real product photo and apply AI only to the background, ensuring the main item remains authentic. PixelMatch is built specifically for the multi-platform seller workflow, allowing for **batch-generating AI product images** while maintaining the integrity of the original product pixels. 
 
-Unlike general-purpose tools like Adobe Express ($9.99/mo) or Photoroom ($12.99/mo), which may require manual adjustments to preserve metadata, PixelMatch is designed to output feed-ready assets that respect Google's transparency requirements. By keeping the product "anchored" (using the actual photo of the item), you satisfy the requirement that the image must be a faithful representation of the physical SKU.
+Unlike general-purpose tools like Adobe Express ($9.99/mo) or Photoroom ($12.99/mo), which may require manual adjustments to preserve metadata, PixelMatch is designed to output feed-ready assets that respect Google's [transparency requirements](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026). By keeping the product "anchored" (using the actual photo of the item), you satisfy the requirement that the image must be a faithful representation of the physical SKU.
 
 ### Feed Attribute Overrides
 
