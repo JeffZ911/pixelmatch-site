@@ -40,7 +40,7 @@ Review this table before your next batch export to ensure every file meets the t
 | **File Formats** | JPG, PNG, or GIF (Animated GIFs not supported) | Etsy Help Center |
 | **Image Limit** | [Up to 10 images per listing](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images) | Etsy Help Center |
 | **Recommended Aspect Ratio** | 4:3 or 1:1 (Square) | Etsy Help Center |
-| **AI Disclosure** | Mandatory for AI-generated or AI-assisted content | [Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) |
+| **[AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)** | Mandatory for AI-generated or AI-assisted content | [Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-ai-image-disclosure-2026-case-study) |
 
 ## Detailed Requirements
 

@@ -52,7 +52,7 @@ Your product photos are the only thing standing between a shopper’s scroll and
 
 Run a quick audit of your current shop on a mobile device and you will likely see the problem: images that look crisp on a laptop often appear soft or awkwardly cropped in the Etsy app. Etsy's 2026 responsive layout favors 2000x2000 px or 2400x2400 px images (1:1 ratio) under 1MB to prevent mobile load lag. If your files are too small, they won't support the high-resolution zoom features buyers expect; if they are too large, the mobile "bounce rate" increases as shoppers refuse to wait for slow-loading galleries.
 
-High-quality lifestyle backgrounds increase CTR (Click-Through Rate) compared to plain white, which is crucial for standing out in Etsy search results. While a white background is standard for Amazon, Etsy shoppers are looking for an aesthetic "vibe." Using AI to place your product in a rustic cottage or a modern marble studio can double your engagement, provided you stay within the lines of the platform's latest rules.
+High-quality [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) increase CTR (Click-Through Rate) compared to plain white, which is crucial for standing out in Etsy search results. While a white background is standard for Amazon, Etsy shoppers are looking for an aesthetic "vibe." Using AI to place your product in a rustic cottage or a modern marble studio can double your engagement, provided you stay within the lines of the platform's latest rules.
 
 ### Etsy's 2026 Image Requirements
 

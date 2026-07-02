@@ -41,7 +41,7 @@ Etsy’s Creativity Standards, updated to reflect the 2026 marketplace environme
 | Requirement Category | 2026 Compliance Standard | Correct Selection / Action |
 | :--- | :--- | :--- |
 | **Production Method** | Must be seller-designed | Select "Designed by a seller" in the listing dropdown. |
-| **AI Disclosure** | Mandatory for all AI content | Include a clear statement in the **Listing Description**. |
+| **[AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)** | Mandatory for all AI content | Include a clear statement in the **Listing Description**. |
 | **Category Selection** | Digital Art or relevant subcategory | Avoid the **Photography** category for fully AI-generated images. |
 | **Production Partners** | Physical help only | **Do NOT** list AI software (e.g., Midjourney, PixelMatch) as a production partner. |
 | **Mockup Usage** | Backgrounds allowed | Disclose if the product setting/background is AI-generated. |
