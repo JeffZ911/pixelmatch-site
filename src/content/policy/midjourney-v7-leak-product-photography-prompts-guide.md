@@ -113,7 +113,7 @@ Instead of trying to "prompt" your product into existence, use PixelMatch to bat
 Set your Midjourney aspect ratio to `--ar 1:1` to natively match [Shopify and TikTok Shop's square image requirements](https://help.shopify.com/en/manual/products/product-media/product-media-types). For Amazon lifestyle shots, you can use `--ar 3:4` if you prefer the taller "mobile-first" look, but 1:1 is the safest "universal" format for multi-platform sellers.
 
 ### Step 4: Final RGB Validation
-For Amazon main images, never rely on Midjourney's interpretation of white. Use an AI background remover to ensure a [pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) canvas. This process should be automated as part of your batch workflow to ensure that every SKU in your catalog meets the requirement without manual checking.
+For Amazon main images, never rely on Midjourney's interpretation of white. Use an [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) remover to ensure a [pure white (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) canvas. This process should be automated as part of your batch workflow to ensure that every SKU in your catalog meets the requirement without manual checking.
 
 | Action | Midjourney Only | PixelMatch + Midjourney | Result |
 | :--- | :--- | :--- | :--- |

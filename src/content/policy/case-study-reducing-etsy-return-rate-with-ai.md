@@ -104,7 +104,7 @@ When comparing outputs from tools like Booth.AI or Photoroom, always perform a c
 
 ### Adding AI Disclosure Badges
 
-If you use AI-generated human models for apparel or jewelry, transparency is your best defense against returns. High-end [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) generators can look indistinguishable from real photography, which may lead buyers to feel deceived if they later discover the model isn't real. 
+If you use AI-generated human models for apparel or jewelry, transparency is your best defense against returns. High-end [AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) generators can look indistinguishable from [real photography](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography), which may lead buyers to feel deceived if they later discover the model isn't real. 
 
 To stay ahead of 2026 [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) disclosure regulations, use Canva Pro at $120/year to add a small, tasteful "[AI model](https://pixelmatch.art/blog/policy/etsy-ai-model-disclosure-badge-guide) used for context" badge to the bottom corner of your secondary images. This builds trust by showing you are an honest seller. 
 

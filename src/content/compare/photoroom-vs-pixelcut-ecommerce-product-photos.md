@@ -79,7 +79,7 @@ Both tools offer presets, but Photoroom’s library is more tailored to strict m
 Calculate your expected cost per image by dividing the monthly subscription by your average monthly SKU count. A seller listing 10 items a month has a very different ROI than a seller listing 1,000.
 
 ### Photoroom Pricing
-The Photoroom Free plan allows for 250 exports per month, but it includes a watermark on all images, making it unusable for professional storefronts. The Pro plan costs $12.99 per month (or $89.99 billed annually). This tier unlocks high-resolution exports, batch mode, and 1,000 AI credits for generating lifestyle backgrounds. However, the 500-image batch export cap is a hard ceiling that high-volume sellers must factor into their overhead.
+The Photoroom Free plan allows for 250 exports per month, but it includes a watermark on all images, making it unusable for professional storefronts. The Pro plan costs $12.99 per month (or $89.99 billed annually). This tier unlocks high-resolution exports, batch mode, and 1,000 AI credits for generating [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds). However, the 500-image batch export cap is a hard ceiling that high-volume sellers must factor into their overhead.
 
 ### Pixelcut Pricing
 Pixelcut is the more budget-friendly option for individual creators. The Pro plan is priced at $9.99 per month or $59.99 per year. This includes unlimited background removals and unlimited batch editing. Pixelcut provides 600 AI credits per month for its AI Photoshoot feature, which generates lifestyle scenes. For sellers on tight margins, the $30 annual savings over Photoroom is significant.

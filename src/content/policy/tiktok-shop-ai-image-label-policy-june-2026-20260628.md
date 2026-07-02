@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Scaling your TikTok Shop catalog with AI-generated images saves thousands in studio fees, but a single missing disclosure label can trigger a permanent shop ban under the latest enforcement guidelines. As TikTok tightens its "Synthetic Media" oversight in June 2026, multi-platform sellers must transition from "stealth AI" to "compliant AI" to protect their revenue streams.
+Scaling your TikTok Shop catalog with AI-generated images saves thousands in studio fees, but a single missing [disclosure label](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) can trigger a permanent shop ban under the latest enforcement guidelines. As TikTok tightens its "Synthetic Media" oversight in June 2026, multi-platform sellers must transition from "stealth AI" to "compliant AI" to protect their revenue streams.
 
 TikTok Shop's algorithm now actively scans product listings for photorealistic synthetic content, penalizing sellers who attempt to pass off AI-generated models or backgrounds as unedited photography. To maintain your standing, you must master the technical specs of the minimum dimensions image standard while navigating the mandatory "AI-generated content" toggle.
 
@@ -88,7 +88,7 @@ PixelMatch helps sellers navigate these restrictions by separating the product f
 Check your violation record for "misleading content" flags in the Seller Center to see if your AI images are the source of your recent traffic drops. TikTok Shop uses an automated vision AI to "score" your images the moment they are uploaded. If the score falls below a certain threshold, your listing is suppressed.
 
 ### Failure to Use the AI Disclosure Toggle
-The most frequent cause of rejection in 2026 is the omission of the AI disclosure label on photorealistic mockups. If you use an AI tool to place a coffee mug on a wooden table and the lighting looks "too perfect," TikTok's detection algorithm will flag it. If the toggle wasn't selected during upload, the system views this as an attempt to deceive the consumer.
+The most frequent cause of rejection in 2026 is the omission of the [AI disclosure label](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) on photorealistic mockups. If you use an AI tool to place a coffee mug on a wooden table and the lighting looks "too perfect," TikTok's detection algorithm will flag it. If the toggle wasn't selected during upload, the system views this as an attempt to deceive the consumer.
 
 ### Unsupported File Types and Sizes
 Many AI generation tools export in WebP format to save space, but TikTok Shop remains rigid: it only accepts JPG, JPEG, and PNG. Furthermore, while Amazon allows larger files, TikTok's 5MB limit means high-resolution AI exports must often be compressed. Uploading a 6MB PNG will result in a generic upload error that frustrates many sellers.

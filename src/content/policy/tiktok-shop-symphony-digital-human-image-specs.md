@@ -86,7 +86,7 @@ Cluttered backgrounds also trigger rejections. If your product photo was taken i
 
 File size and dimension errors are the "silent killers" of batch uploads. Images under 600 x 600 pixels or over 5MB are automatically rejected by the system. While 600 pixels is the minimum, using such low resolution often results in a "blurry content" flag during the final human review.
 
-Perhaps the most critical 2026 update involves placement. TikTok Shop bans AI-generated voices and static-image content from live promotional commerce sessions (livestreams). If you export a Symphony digital human video and attempt to loop it as a "live" host, your shop faces immediate suspension. Symphony is designed for in-feed ads and shoppable short-form videos, not as a substitute for a human seller in a live environment.
+Perhaps the most critical 2026 update involves placement. TikTok Shop bans AI-generated voices and static-image content from live promotional commerce sessions (livestreams). If you export a Symphony [digital human](https://pixelmatch.art/blog/stories/tiktok-shop-digital-human-avatar-policy-2026-case-study) video and attempt to loop it as a "live" host, your shop faces immediate suspension. Symphony is designed for in-feed ads and shoppable short-form videos, not as a substitute for a human seller in a live environment.
 
 ## How to Fix Each Issue
 

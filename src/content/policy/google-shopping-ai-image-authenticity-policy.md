@@ -92,7 +92,7 @@ AI-inflated features—such as adding elements via generative fill that were nev
 
 ### Promotional Text Overlays
 
-Strict enforcement still flags images containing promotional text, price callouts, or watermarks. While not exclusive to AI, many sellers using AI tools accidentally include "hallucinated" text or logos in the background of their images. Google’s Image Link policy is clear: the main image must be a clear view of the product without obstructing elements. If your AI background generator adds a "Sale" sign in the distant background of a lifestyle shot, Google's OCR (Optical Character Recognition) will likely flag it as a promotional overlay.
+Strict enforcement still flags images containing promotional text, price callouts, or watermarks. While not exclusive to AI, many sellers using AI tools accidentally include "hallucinated" text or logos in the background of their images. Google’s Image Link policy is clear: the main image must be a clear view of the product without obstructing elements. If your [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) generator adds a "Sale" sign in the distant background of a lifestyle shot, Google's OCR (Optical Character Recognition) will likely flag it as a promotional overlay.
 
 ## How to Fix Each Issue
 
