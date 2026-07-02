@@ -99,7 +99,7 @@ PixelMatch is built specifically for multi-platform ecommerce sellers who need t
 Photoroom is a mobile-first solution popular among "resellers" and smaller FBA shops. The Pro plan costs $9.99/month as of 2026-05-21. While it offers excellent edge detection, it has a batch limit of 50 images per session on the Pro plan. This makes it a strong choice for boutique sellers but potentially slow for wholesalers or private label brands with extensive catalogs.
 
 ### Pebblely
-Pebblely focuses on AI-generated lifestyle backgrounds, but it also includes a solid background removal tool. The Basic plan is $19/month for 200 images, and the Pro plan is $39/month for 500 images as of 2026-05-21. Pebblely is better suited for your secondary images (lifestyle scenes) rather than just white backgrounds, as its primary value lies in its ability to place products in realistic settings.
+Pebblely focuses on AI-generated [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds), but it also includes a solid background removal tool. The Basic plan is $19/month for 200 images, and the Pro plan is $39/month for 500 images as of 2026-05-21. Pebblely is better suited for your secondary images (lifestyle scenes) rather than just white backgrounds, as its primary value lies in its ability to place products in realistic settings.
 
 ### Canva Pro
 Canva Pro costs $15/month as of 2026-05-21. It is a versatile tool for creating social media graphics, but it lacks ecommerce-specific batch compliance checks. You can remove backgrounds in bulk, but you must manually ensure each image meets the 85% fill rule and the 1,600px dimension requirement. It is an "all-in-one" tool that requires more manual oversight for FBA compliance.

@@ -134,7 +134,7 @@ Switch to PixelMatch for high-volume catalog synchronization. While tools like R
 
 When you are syncing a catalog from Shopify (which might use various ratios) to TikTok Shop, PixelMatch allows you to:
 1.  **Automate 1:1 Padding:** Automatically add white space to non-square images without manual cropping.
-2.  **Bulk AI Background Removal:** Ensure every main thumbnail meets the pure white background policy in one click.
+2.  **Bulk [AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) Removal:** Ensure every main thumbnail meets the pure white background policy in one click.
 3.  **Smart Compression:** Reduce file sizes to just under the 5MB limit while maintaining the high resolution required for the "Good" tier.
 4.  **Policy-Compliant Generation:** Generate AI product photography that places your item in "lifestyle" settings for slots 2-9, ensuring you hit the 5-image minimum for algorithmic priority.
 

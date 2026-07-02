@@ -136,7 +136,7 @@ Export your images as JPGs. PixelMatch’s export engine is tuned to maximize cl
 
 AI generation is a powerful tool, but it is not a "set and forget" solution for every product type.
 
-*   **Reflective Surfaces:** Products with high-shine chrome caps or mirror-like finishes can sometimes struggle with AI background integration. The AI may not perfectly calculate the reflection of the generated environment on the product surface. You may still need 5–10 minutes of manual retouching for these specific items to ensure the reflections look realistic.
+*   **Reflective Surfaces:** Products with high-shine chrome caps or mirror-like finishes can sometimes struggle with [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) integration. The AI may not perfectly calculate the reflection of the generated environment on the product surface. You may still need 5–10 minutes of manual retouching for these specific items to ensure the reflections look realistic.
 *   **Review Timelines:** Even with perfect images, Amazon’s manual review process is a bottleneck. Expect a wait time of [1 to 7 business days](https://sellercentral.amazon.com/help/hub/reference/G202102960) before your new Brand Story goes live. Do not delete your old A+ content until the new version is approved.
 *   **Future Updates:** There is currently [Information not yet publicly available as of 2026-05-30] regarding whether Amazon will introduce dynamic video modules or 3D interactive elements to the Brand Story section. For now, static images remain the standard.
 

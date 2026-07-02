@@ -77,7 +77,7 @@ Finally, the aspect ratio often causes secondary failures. While not always trig
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Instead of hiring a junior editor to manually open every Flux 1.1 image in Photoshop for resizing, Lumina Skin integrated PixelMatch into their batch processing workflow. This automation layer acts as a "bridge" between the raw AI generation and the TikTok ad platform.
+Instead of hiring a junior editor to manually open every [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 image in Photoshop for resizing, Lumina Skin integrated PixelMatch into their batch processing workflow. This automation layer acts as a "bridge" between the raw AI generation and the TikTok ad platform.
 
 The brand's creative lead now exports the raw Flux 1.1 Pro outputs—regardless of their size or format—directly into the PixelMatch batch processor. PixelMatch is configured with a specific "[TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy)" preset. This preset executes three critical transformations in seconds:
 

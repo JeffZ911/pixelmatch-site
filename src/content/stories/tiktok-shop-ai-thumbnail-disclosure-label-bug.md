@@ -144,7 +144,7 @@ While fixing the thumbnail metadata bug is critical for restoring CTR, it is not
 ## Frequently Asked Questions
 
 ### Why does TikTok flag my video as AI when only the thumbnail is edited?
-TikTok's ingestion engine treats the video and the cover image as a single "Asset ID." If the metadata scanner finds a C2PA "Synthetic Media" tag in the cover image, it applies the disclosure label to the entire asset to ensure platform-wide transparency.
+TikTok's ingestion engine treats the video and the cover image as a single "Asset ID." If the metadata scanner finds a C2PA "Synthetic Media" tag in the cover image, it applies the [disclosure label](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) to the entire asset to ensure platform-wide transparency.
 
 ### Can I just use a screenshot of an AI image to avoid the label?
 While a screenshot removes most metadata, it also strips the color profile and resolution. TikTok Shop has strict quality requirements, and "low-resolution" or "blurry" thumbnails can lead to your listing being suppressed in search results.

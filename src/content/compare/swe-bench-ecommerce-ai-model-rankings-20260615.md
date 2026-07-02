@@ -44,7 +44,7 @@ The foundation models that dominate SWE-bench (like GPT-4o and Claude) are incre
 
 *   **PixelMatch:** Best overall for multi-platform sellers needing automated batch generation that strictly adheres to platform specs. It is built for the seller who needs 100+ images ready for three different marketplaces in one click.
 *   **Photoroom:** Strong choice for marketplace resellers (eBay, Poshmark) who need quick background removal and template-based outputs via a mobile interface.
-*   **Pebblely:** Ideal for solo founders with small catalogs who want themed lifestyle backgrounds without complex prompting or technical configuration.
+*   **Pebblely:** Ideal for solo founders with small catalogs who want themed [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) without complex prompting or technical configuration.
 
 ### Comparison Overview (as of June 15, 2026)
 
