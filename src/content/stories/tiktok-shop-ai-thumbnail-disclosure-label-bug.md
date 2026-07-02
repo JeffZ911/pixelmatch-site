@@ -44,7 +44,7 @@ The seller in this case relied on a high-volume content engine: authentic, 4K vi
 
 In the beauty niche, compliance is everything. TikTok Shop's Cosmetics and Personal Care policy requires that product results be depicted accurately. The seller ensured their video footage was untouched by generative AI to maintain trust and adhere to these strict guidelines. However, to keep up with the demand for "scroll-stopping" visuals, they utilized AI-powered "Magic Edit" or "Generative Fill" features within their thumbnail editors to clean up the edges of their product bottles.
 
-This workflow seemed efficient until the first week of June 2026, when their entire content strategy hit a wall. Every new video upload—regardless of how "real" the footage was—began appearing with a mandatory, grey disclosure label: "Contains AI-generated media."
+This workflow seemed efficient until the first week of June 2026, when their entire content strategy hit a wall. Every new video upload—regardless of how "real" the footage was—began appearing with a mandatory, grey [disclosure label](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography): "Contains AI-generated media."
 
 ## What Wasn't Working: The AI Label Bug
 

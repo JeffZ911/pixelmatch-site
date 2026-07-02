@@ -92,7 +92,7 @@ The raw photo was uploaded to PixelMatch. Unlike generic background removers, Pi
 While Amazon's minimum requirement is 1000 pixels on the longest side, the 2000px threshold is critical because it activates the high-resolution zoom function, allowing customers to read small ingredient labels on the packaging.
 
 ### Step 3: Amazon Creative Studio Compositing
-With a perfectly isolated, high-resolution PNG (transparent background) in hand, they moved to Amazon Creative Studio. Because the input was now a "clean" product cutout, the Amazon AI could accurately place the bottle on a generated "marble bathroom counter" or "wooden spa tray" without the perspective errors seen in their earlier attempts.
+With a perfectly isolated, high-resolution PNG (transparent background) in hand, they moved to Amazon Creative Studio. Because the input was now a "clean" product cutout, the [Amazon AI](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) could accurately place the bottle on a generated "marble bathroom counter" or "wooden spa tray" without the perspective errors seen in their earlier attempts.
 
 **Workflow Summary:**
 1.  **Source:** iPhone Photo (Raw)

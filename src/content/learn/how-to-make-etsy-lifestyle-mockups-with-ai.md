@@ -161,7 +161,7 @@ Yes. Etsy allows AI-generated mockups, particularly for Print on Demand and digi
 Etsy recommends a minimum of 2000px on the shortest side. For the best result on high-resolution displays and to ensure sharp "zoom-in" capabilities, aim for 3000 x 2250 pixels in a 4:3 aspect ratio.
 
 ### Do I need to disclose AI usage?
-As of June 13, 2026, Etsy mandates disclosure for any listing where AI was used to "materially enhance" or create the imagery. This includes AI-generated lifestyle backgrounds. You must check the AI disclosure box in the listing editor and include a brief note in your description (e.g., "Lifestyle backgrounds generated with AI to show product in a home setting").
+As of June 13, 2026, Etsy mandates disclosure for any listing where AI was used to "materially enhance" or create the imagery. This includes AI-generated lifestyle backgrounds. You must check the [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) box in the listing editor and include a brief note in your description (e.g., "Lifestyle backgrounds generated with AI to show product in a home setting").
 
 ### What are the current Etsy fees for 2026?
 Etsy's fee structure remains consistent:

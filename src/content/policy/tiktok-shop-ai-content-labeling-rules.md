@@ -92,7 +92,7 @@ Even if the AI generation is labeled, the *claim* itself is considered fraudulen
 
 ### Inconsistent Product Promotion
 
-Compare your AI-generated lifestyle photos against your "flat lay" or "white background" photos. If the AI background generator accidentally warps the handle of a mug or adds an extra button to a shirt, the listing is flagged for "Inconsistent Product Promotion." 
+Compare your AI-generated lifestyle photos against your "flat lay" or "white background" photos. If the [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) generator accidentally warps the handle of a mug or adds an extra button to a shirt, the listing is flagged for "Inconsistent Product Promotion." 
 
 Many general-purpose AI tools like [Canva](https://www.canva.com/help/ai-generator/) or Adobe Express use "Generative Fill" which treats the product and the background as a single canvas. This often leads to "pixel bleeding," where the AI modifies the edges of your product to blend it into the new background. On TikTok Shop, this is a violation because you are no longer showing the actual product.
 

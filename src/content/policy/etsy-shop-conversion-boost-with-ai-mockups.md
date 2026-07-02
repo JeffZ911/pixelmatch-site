@@ -88,7 +88,7 @@ Move your AI-generated lifestyle shots to slots 2 through 10 in your [image caro
 
 ### Restructuring Your Image Carousel
 
-A high-converting Etsy listing follows a specific visual narrative. By using a mix of real photography and AI staging, you satisfy both the "authenticity" requirement and the "aspirational" marketing need.
+A high-converting Etsy listing follows a specific visual narrative. By using a mix of [real photography](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) and AI staging, you satisfy both the "authenticity" requirement and the "aspirational" marketing need.
 
 1.  **Slot 1 (The Hook):** A real photo of the product on a clean, neutral background. If it's a digital or custom item, use a high-fidelity rendering that shows the actual texture of the finished piece.
 2.  **Slot 2-4 (The Vibe):** Use PixelMatch to generate lifestyle backgrounds. Place your product in a cozy living room, a sunlit office, or a trendy cafe.

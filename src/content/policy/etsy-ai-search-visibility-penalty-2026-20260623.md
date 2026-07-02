@@ -129,7 +129,7 @@ Refer to these official documents to stay updated on the evolving landscape of A
 ## Frequently Asked Questions
 
 ### Does Etsy ban AI-generated images entirely?
-No, Etsy does not ban AI-generated images, but it strictly regulates how they are used and disclosed. AI-generated art is permitted if you are the creator of the prompts and the final design, while AI-enhanced backgrounds for physical products are allowed as long as the core item is real. In both cases, you must use the AI disclosure attribute in the listing settings to avoid a search visibility penalty.
+No, Etsy does not ban AI-generated images, but it strictly regulates how they are used and disclosed. AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) is permitted if you are the creator of the prompts and the final design, while AI-enhanced backgrounds for physical products are allowed as long as the core item is real. In both cases, you must use the AI disclosure attribute in the listing settings to avoid a search visibility penalty.
 
 ### How does the Etsy algorithm detect undisclosed AI images?
 Etsy uses automated image analysis tools that scan for metadata markers and visual patterns typical of AI generation, such as specific noise distributions and lighting consistencies. If these markers are detected but the seller has not checked the "AI-generated" disclosure box, the algorithm may flag the listing for "low transparency," leading to a reduction in organic [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626).

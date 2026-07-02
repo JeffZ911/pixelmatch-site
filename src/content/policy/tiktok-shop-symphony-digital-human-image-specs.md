@@ -97,7 +97,7 @@ Standardizing your workflow is the only way to maintain a high volume of TikTok 
 
 ### Resolve Dimension and Background Errors
 
-For dimension and background rejections, use PixelMatch to automatically resize images to the recommended 800 x 800 pixels and apply a pure white background. This ensures that the AI mapping engine has a "clean slate" to work with. If your original photos are in 4:3 or 16:9 ratios, do not simply stretch them to 1:1; this will distort the product and cause the digital human to look misshapen. Instead, use a batch-processing tool to add padding to the edges to reach a square format.
+For dimension and background rejections, use PixelMatch to automatically resize images to the recommended 800 x 800 pixels and apply a pure white background. This ensures that the AI mapping engine has a "clean slate" to work with. If your original photos are in 4:3 or 16:9 ratios, do not simply stretch them to 1:1; this will distort the product and cause the [digital human](https://pixelmatch.art/blog/stories/tiktok-shop-digital-human-avatar-policy-2026-case-study) to look misshapen. Instead, use a batch-processing tool to add padding to the edges to reach a square format.
 
 ### Pivot for Unsupported Accessories
 

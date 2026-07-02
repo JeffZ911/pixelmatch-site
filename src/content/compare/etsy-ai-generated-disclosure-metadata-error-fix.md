@@ -141,7 +141,7 @@ If you are currently struggling with the "Etsy [AI generated](https://pixelmatch
 No, Etsy does not ban sellers for using AI-generated images, provided they follow the [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy). You must disclose the use of AI by checking the "I used AI-generative technology" box and ensure the final product is either made or designed by you.
 
 ### How do I fix the AI disclosure error on Etsy?
-The most effective fix is to bulk-edit your listings to include the mandatory AI disclosure. Navigate to your Shop Manager, select the affected listings, and update the "I used AI-generative technology" setting. This aligns your listing data with any hidden C2PA metadata in your image files.
+The most effective fix is to bulk-edit your listings to include the mandatory [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography). Navigate to your Shop Manager, select the affected listings, and update the "I used AI-generative technology" setting. This aligns your listing data with any hidden C2PA metadata in your image files.
 
 ### Why does my Etsy photo have a "Made with AI" label on Instagram?
 This happens because tools like Canva and Photoroom embed C2PA metadata in their exports. When you share those photos to Meta platforms (Facebook/Instagram), their systems read the metadata and automatically apply the "Made with AI" label. To avoid this, use PixelMatch for clean exports.
