@@ -168,7 +168,7 @@ TikTok’s 2026 enforcement is swift. If the platform detects "Realistic AI" (co
 ## Frequently Asked Questions
 
 ### Does TikTok Shop allow AI-generated product images?
-Yes, TikTok Shop allows AI-generated images as long as they accurately represent the product and do not mislead the consumer. If the image features a realistic human that was AI-generated, you must use the AIGC disclosure label to comply with the 2026 policy.
+Yes, TikTok Shop allows AI-generated images as long as they accurately represent the product and do not mislead the consumer. If the image features a realistic human that was AI-generated, you must use the AIGC [disclosure label](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) to comply with the 2026 policy.
 
 ### What is the "Good" tier for TikTok Shop listings?
 The "Good" tier is a quality rating assigned by TikTok to listings that meet specific criteria, including having at least 5 high-quality images, a detailed description, and proper categorization. Reaching this tier often results in better search visibility within the app.

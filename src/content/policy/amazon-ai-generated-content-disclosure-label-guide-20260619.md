@@ -38,7 +38,7 @@ As of 2026, Amazon requires sellers to disclose substantially AI-generated image
 
 Verify your Image Provenance metadata in the "Compliance" tab of your Seller Central listing editor today to ensure your existing lifestyle images are correctly categorized.
 
-| Content Type | AI Disclosure Required? | Amazon Policy Status | Key Specification |
+| Content Type | [AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) Required? | Amazon Policy Status | Key Specification |
 | :--- | :--- | :--- | :--- |
 | **Main Hero Image** | No (AI only for editing) | Mandatory | [1600x1600 px minimum](https://sellercentral.amazon.com/help/hub/reference/G1881), RGB 255, 255, 255 |
 | **Background Removal** | No | Allowed | Must result in pure white background |

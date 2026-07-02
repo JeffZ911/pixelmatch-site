@@ -101,7 +101,7 @@ For dimension and background rejections, use PixelMatch to automatically resize 
 
 ### Pivot for Unsupported Accessories
 
-If your product is an unsupported accessory like footwear or jewelry, use standard TikTok Shop shoppable videos instead of the Symphony Product Avatar feature. You can still use AI to generate backgrounds or enhance the lighting of these items using tools like PixelMatch, but you must skip the "Digital Human" mapping step. Upload these as standard video assets to the TikTok Shop Seller Center to avoid the "Unsupported Category" error.
+If your product is an unsupported accessory like footwear or jewelry, use standard TikTok Shop shoppable videos instead of the Symphony Product Avatar feature. You can still use AI to generate backgrounds or enhance the lighting of these items using tools like PixelMatch, but you must skip the "[Digital Human](https://pixelmatch.art/blog/stories/tiktok-shop-digital-human-avatar-policy-2026-case-study)" mapping step. Upload these as standard video assets to the TikTok Shop Seller Center to avoid the "Unsupported Category" error.
 
 ### Comply with Livestream Regulations
 

@@ -42,7 +42,7 @@ Audit your current image resolution today by checking your "Media" tab in Shopif
 
 *   **Shopify Magic (Summer 2026 Edition):** Best for beginners. It is free and built-in but limits exports to [1 megapixel](https://help.shopify.com/en/manual/shopify-magic/media-generation), which can lead to pixelation on high-density displays.
 *   **Photoroom:** Excels at template-driven batch workflows for consistent marketplace images with its Pro tier at $9.99/mo.
-*   **Pebblely:** Ideal for creative lifestyle backgrounds but gets expensive for large catalogs, starting at $19/mo for 200 images.
+*   **Pebblely:** Ideal for creative [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) but gets expensive for large catalogs, starting at $19/mo for 200 images.
 *   **PixelMatch:** The best all-in-one solution for multi-platform sellers needing to batch-generate images with high-res exports and automated cross-channel formatting.
 
 | Feature | Shopify Magic (2026) | Photoroom | Pebblely | PixelMatch |

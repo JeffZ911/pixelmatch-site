@@ -44,7 +44,7 @@ To hit the "Good" tier, you must adhere to rigid technical specifications. While
 | Aspect Ratio | 1:1 (Square) | Image cropping in the shopping tab |
 | File Size | Maximum 5MB | Upload failure or slow page load |
 | Image Count | 5 to 9 images | Listings with <5 images are deprioritized |
-| AI Disclosure | Mandatory AIGC Toggle | Product deactivation or shop points |
+| [AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) | Mandatory AIGC Toggle | Product deactivation or shop points |
 | Main Image | Pure white background (recommended) | Lower click-through rate in search |
 
 ## Step-by-Step Walkthrough

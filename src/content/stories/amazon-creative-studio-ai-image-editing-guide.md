@@ -118,7 +118,7 @@ The most significant win was the ability to use Amazon's [Manage Your Experiment
 
 By split-testing these AI-generated main images, they discovered that a "slightly angled" bottle performed better than a "straight-on" shot. This optimization increased their Main Image Click-Through Rate (CTR) from 0.8% to 1.4%. On a listing getting 100,000 impressions a month, that is an extra 600 potential customers entering the funnel.
 
-| Metric | Traditional Studio | PixelMatch + Amazon AI |
+| Metric | Traditional Studio | PixelMatch + [Amazon AI](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) |
 | :--- | :--- | :--- |
 | **Cost per SKU** | $450 | $15 |
 | **Time to Market** | 21 Days | 2 Days |

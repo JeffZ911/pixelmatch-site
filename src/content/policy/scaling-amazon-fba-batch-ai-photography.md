@@ -85,7 +85,7 @@ AI-specific artifacts also lead to rejections. Early-stage AI photography tools 
 ![How to Fix Each Issue](/img/scaling-amazon-fba-batch-ai-photography/inline-4.webp)
 
 
-Isolate your product from its retail box or hangtags using an AI background remover to clear Error 100584 and restore your listing visibility immediately.
+Isolate your product from its retail box or hangtags using an [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) remover to clear Error 100584 and restore your listing visibility immediately.
 
 To resolve Error 100584, do not attempt to re-shoot the product yourself. Instead, take your existing photo and run it through a batch AI processor. Use the "Object Isolation" feature to strip away the cardboard box, plastic wrapping, or price tags. This creates a clean, product-only PNG that you can then place on a pure white background. This process takes seconds and ensures you are compliant with the [Amazon Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881).
 
