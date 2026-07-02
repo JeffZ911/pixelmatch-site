@@ -138,7 +138,7 @@ Canva is a reliable manual option for resizing. You can set a custom canvas size
 | :--- | :--- | :--- | :--- |
 | **PixelMatch** | — | High-Volume AI Generation | Multi-platform batch resizing |
 | **Photoroom** | $12.99 | 500 images/mo cap | Quick mobile edits |
-| **Pebblely** | $19 - $39 | 200-500 images/mo | AI lifestyle backgrounds |
+| **Pebblely** | $19 - $39 | 200-500 images/mo | AI [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) |
 | **Canva Pro** | ~$15.00 | Limited / Manual | Social media & Design |
 
 **Actionable Step:** Calculate your monthly image needs. If you launch 50 products a month with 5 images each, you need a tool that handles at least 250 high-res exports without a steep per-image cost.

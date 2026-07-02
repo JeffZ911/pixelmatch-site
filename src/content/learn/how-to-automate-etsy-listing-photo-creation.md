@@ -122,7 +122,7 @@ PixelMatch is better suited for multi-platform sellers because it handles the "h
 Photoroom remains a strong contender for sellers who prefer to work entirely from a mobile device. Its Pro plan, priced at $9.99/month, offers reliable [batch background](https://pixelmatch.art/blog/stories/shopify-magic-vs-photoroom-batch-background) removal. While its AI lifestyle generation has improved, it is often more focused on social media aesthetics than the specific technical "Safe Zone" requirements of an Etsy listing.
 
 ### Pebblely
-Pebblely excels at creating highly artistic lifestyle backgrounds. At $19/month for the Basic plan, it is a solid choice for brands that need high-end "mood" shots. However, for a seller with hundreds of SKUs, the lack of deep multi-platform export automation may still leave some manual work at the end of the process.
+Pebblely excels at creating highly artistic [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds). At $19/month for the Basic plan, it is a solid choice for brands that need high-end "mood" shots. However, for a seller with hundreds of SKUs, the lack of deep multi-platform export automation may still leave some manual work at the end of the process.
 
 ### Canva
 Skip Canva for the initial AI generation if you have a large catalog, as it is less automated for bulk workflows. However, Canva is the gold standard for creating the "informative" images in your Etsy deck—such as size charts, color swatches, or "How to Order" infographics.

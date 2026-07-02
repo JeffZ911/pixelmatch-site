@@ -87,7 +87,7 @@ Etsy’s enforcement has become more automated in 2026. Listings that fail to me
 
 ### Missing Disclosures
 
-The most frequent cause for a listing takedown is the complete absence of an AI disclosure. Sellers often try to "hide" the fact that an image is AI-generated to maintain a "handmade" aesthetic. However, Etsy’s Seller Policy emphasizes honesty. If a buyer reports a listing for being AI-generated and there is no disclosure, Etsy almost always sides with the buyer, often resulting in a full refund at the seller's expense and a "strike" against the shop.
+The most frequent cause for a listing takedown is the complete absence of an [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography). Sellers often try to "hide" the fact that an image is AI-generated to maintain a "handmade" aesthetic. However, Etsy’s Seller Policy emphasizes honesty. If a buyer reports a listing for being AI-generated and there is no disclosure, Etsy almost always sides with the buyer, often resulting in a full refund at the seller's expense and a "strike" against the shop.
 
 ### Incorrect Categorization
 

@@ -47,7 +47,7 @@ Review this table before your next batch export to ensure every file meets the t
 ![Detailed Requirements](/img/case-study-reducing-etsy-return-rate-with-ai/inline-2.webp)
 
 
-Audit your current listings for the mandatory AI disclosure tag and verify that your lifestyle images do not jeopardize your eligibility for seller protection.
+Audit your current listings for the mandatory [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) tag and verify that your lifestyle images do not jeopardize your eligibility for seller protection.
 
 ### Etsy’s AI Disclosure Rules
 
