@@ -119,7 +119,7 @@ Photoroom remains a reliable choice for sellers who need to perform quick backgr
 ### Pebblely
 Pebblely offers AI-driven background generation that is useful for creating "mood" shots for lifestyle modules. It excels at placing products in realistic settings like kitchen counters or outdoor environments.
 *   **Pricing:** undisclosed.
-*   **Best for:** Creative lifestyle backgrounds for single products.
+*   **Best for:** Creative [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) for single products.
 *   **Limitation:** It lacks advanced batch-resizing features for specific platform specs, meaning you will still need a secondary tool to crop images to Amazon's 970 x 600 px requirements.
 
 ### Canva

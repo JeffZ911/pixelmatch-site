@@ -94,7 +94,7 @@ Furthermore, uploading images smaller than the [2000px minimum](https://help.ets
 ![How to Fix Each Issue](/img/case-study-reducing-etsy-return-rate-with-ai/inline-4.webp)
 
 
-Implement a batch-generation workflow to standardize your image stack and ensure every listing remains compliant with 2026 AI disclosure regulations.
+Implement a batch-generation workflow to standardize your image stack and ensure every listing remains compliant with 2026 [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) regulations.
 
 ### Standardizing Image Dimensions
 

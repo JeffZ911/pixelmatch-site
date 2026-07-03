@@ -43,7 +43,7 @@ Audit your current shop inventory against these technical and policy thresholds 
 | **Minimum Image Size** | [2000 pixels](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) on the shortest side | Etsy Help Center |
 | **Maximum File Size** | [the current limit](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Etsy Help Center |
 | **Supported Formats** | JPEG, PNG, GIF | Etsy Help Center |
-| **AI Disclosure** | Mandatory in listing description | [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) |
+| **[AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)** | Mandatory in listing description | [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) |
 | **AI Prompt Bundles** | Strictly Prohibited | Etsy Community |
 | **Main Listing Photo** | Must show the actual finished product | Seller Policy |
 | **Recommended Ratio** | [4:3 Aspect Ratio](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Etsy Help Center |
