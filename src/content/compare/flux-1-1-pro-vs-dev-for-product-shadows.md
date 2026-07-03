@@ -72,7 +72,7 @@ To verify shadow quality, prompt both models to generate a "high-end fountain pe
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your monthly volume before committing to an API-based workflow. For a seller with 500 SKUs needing 5 variations each, you are looking at 2,500 images per month. At the [FLUX 1](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures).[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) rate of $0.04 per image, your raw API cost is $100—excluding the cost of the developer needed to build the integration.

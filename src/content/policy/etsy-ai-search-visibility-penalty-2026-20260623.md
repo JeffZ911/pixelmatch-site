@@ -26,7 +26,7 @@ inline_image_sections:
 
 Your Etsy shop’s organic traffic is stalling, but your SEO keywords are optimized and your conversion rates were healthy just weeks ago. The culprit isn't your product—it’s likely an undisclosed [AI image](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-image-tools-20260621) triggering a search visibility penalty under Etsy’s 2026 enforcement guidelines.
 
-As of June 2026, Etsy penalizes listings with undisclosed AI-generated images by reducing their search visibility. Sellers must use the AI disclosure metadata flag and avoid the "Photography" category for AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) to maintain their rankings.
+As of June 2026, Etsy penalizes listings with undisclosed AI-generated images by reducing their search visibility. Sellers must use the [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) metadata flag and avoid the "Photography" category for AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) to maintain their rankings.
 
 ## Quick Reference Table
 

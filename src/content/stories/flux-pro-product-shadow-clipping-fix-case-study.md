@@ -133,7 +133,7 @@ Once the image is generated, perform a quick visual check for "hallucinations" (
 ![Caveats and Honest Limitations](/img/flux-pro-product-shadow-clipping-fix-case-study/inline-6.webp)
 
 
-While the **[flux pro product](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) shadow clipping fix** is a massive leap forward for ecommerce efficiency, it is not a "magic button" that works 100% of the time without oversight.
+While the **[flux pro product](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) shadow [clipping fix](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703)** is a massive leap forward for ecommerce efficiency, it is not a "magic button" that works 100% of the time without oversight.
 
 **Actionable Step for Sellers:** Measure the "frame fill" of your product before uploading to Amazon. The product must occupy [85% to 100% of the image](https://sellercentral.amazon.com/help/hub/reference/1881). If your shadow outpainting makes the product look too small in the frame, you must crop the final image slightly while maintaining the shadow integrity.
 

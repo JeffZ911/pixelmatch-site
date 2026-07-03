@@ -70,7 +70,7 @@ Etsy distinguishes between AI as a "creative partner" and AI as a "utility."
 
 ### State-Level AI Laws Impacting Etsy Sellers
 
-You are no longer just answering to Etsy; you are answering to state regulators. New York's AI disclosure law, which took effect June 9, 2026, mandates that any commercial use of a "digital replica" (an AI-generated human) must be clearly disclosed. Failure to do so can result in civil penalties of up to $5,000 per offense.
+You are no longer just answering to Etsy; you are answering to state regulators. New York's [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) law, which took effect June 9, 2026, mandates that any commercial use of a "digital replica" (an AI-generated human) must be clearly disclosed. Failure to do so can result in civil penalties of up to $5,000 per offense.
 
 Furthermore, California's SB 942, effective August 2, 2026, requires large platforms and the users of generative AI tools to provide "provenance data" or clear labels on AI-generated content. If you sell to customers in these states, Etsy’s transparency label is your first line of defense against legal liability. PixelMatch helps you stay ahead of these regulations by focusing on product-accurate background generation rather than deceptive human replicas.
 
