@@ -38,7 +38,7 @@ Compare your current error report against the 2026 TikTok Shop technical specifi
 
 | Feature | Requirement / Status | Action Required |
 | :--- | :--- | :--- |
-| **Error Code 40029** | [Third-party API "Bad Request" / Token Expired](https://partner.tiktokshop.com/doc/page/262529) | Re-authorize the app in TikTok Seller Center. |
+| **[Error Code](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703) 40029** | [Third-party API "Bad Request" / Token Expired](https://partner.tiktokshop.com/doc/page/262529) | Re-authorize the app in TikTok Seller Center. |
 | **Official Token Error** | [Error 105002: Access token invalid](https://partner.tiktokshop.com/doc/page/262529) | Refresh the OAuth connection. |
 | **Minimum Dimensions** | 600 x 600 pixels | Upscale or re-render low-res images. |
 | **Aspect Ratio** | 1:1 (Square) | Batch-crop all non-square catalog photos. |

@@ -42,7 +42,7 @@ Imagine a mid-market beauty brand, "Lumina Skin," generating between $50,000 and
 
 Their strategy relied on [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio, an AI-powered creative suite that allows sellers to turn static images into narrated video ads using digital avatars. By feeding [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 Pro images into [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703), Lumina Skin intended to generate 10 to 15 unique video ads per week. This volume is necessary because TikTok creative typically experiences "fatigue" within 7 to 14 days, causing ROAS to dip if the content isn't refreshed.
 
-However, the workflow hit a dead end. Every time the creative team tried to upload their high-fidelity AI images, Symphony Studio returned the "invalid media format" error. This forced the team back into manual editing, defeating the purpose of an AI-driven pipeline.
+However, the workflow hit a dead end. Every time the creative team tried to upload their high-fidelity AI images, [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703) returned the "invalid media format" error. This forced the team back into manual editing, defeating the purpose of an AI-driven pipeline.
 
 **Actionable Step for Today:** Audit your current creative library. Check the file extensions and sizes of your top-performing AI-generated assets. If you see `.webp` files or any image over 5MB, these are the primary candidates for the "invalid media format" error and need immediate batch processing before they can be used in Symphony Studio.
 
@@ -98,7 +98,7 @@ The transition to an automated AI pipeline backed by PixelMatch delivered measur
 
 The most immediate impact was on creative volume. Previously, the team could only produce 2 video ads per week because of the time required to fix image errors and manually build videos. With the new workflow, they scaled to 15 videos per week. This allowed them to "A/B test" different Flux-generated backgrounds (e.g., a "minimalist bathroom" vs. a "luxury poolside") to see which environment drove more clicks.
 
-Cost efficiency also improved dramatically. A traditional lifestyle photoshoot for a beauty brand can cost upwards of $2,500 to $5,000 per day when factoring in the photographer, model, studio rental, and retouching. In contrast, the cost of generating 100 high-quality lifestyle images using Flux 1.1 and processing them through PixelMatch is a fraction of that, bringing the cost per listing photo down from $45.00 to roughly $4.50.
+Cost efficiency also improved dramatically. A traditional lifestyle photoshoot for a beauty brand can cost upwards of $2,500 to $5,000 per day when factoring in the photographer, model, studio rental, and retouching. In contrast, the cost of generating 100 high-quality lifestyle images using [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 and processing them through PixelMatch is a fraction of that, bringing the cost per listing photo down from $45.00 to roughly $4.50.
 
 | Metric | Before (Manual Workflow) | After (Flux 1.1 + PixelMatch) | Improvement |
 | :--- | :--- | :--- | :--- |

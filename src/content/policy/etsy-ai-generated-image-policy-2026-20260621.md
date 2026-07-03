@@ -81,7 +81,7 @@ For multi-platform sellers who batch-generate AI product images, the primary lis
 Identify these high-risk areas in your shop to prevent automated listing deactivations or permanent account shadow-banning.
 
 ### Missing AI Disclosures
-The most frequent violation is omitting the AI disclosure for digital downloads or AI-assisted art. Etsy’s search algorithm and Trust & Safety team use automated tools to detect common AI artifacts. If a listing is flagged as AI-generated but lacks the mandatory disclosure, the listing may be suppressed in search results or removed entirely.
+The most frequent violation is omitting the [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) for digital downloads or AI-assisted art. Etsy’s search algorithm and Trust & Safety team use automated tools to detect common AI artifacts. If a listing is flagged as AI-generated but lacks the mandatory disclosure, the listing may be suppressed in search results or removed entirely.
 
 ### Selling Prohibited AI Assets
 Etsy has taken a hard stance against "low-effort" AI products. Specifically, the sale of AI prompt bundles is prohibited. Sellers attempting to sell "Midjourney Prompt Packs" or "DALL-E 3 Guidebooks" often find their shops closed within 48 hours. However, selling a physical book or a curated PDF guide that teaches a broader skill (which happens to include AI tips) is generally permitted, provided the core value isn't just a list of copy-paste prompts.

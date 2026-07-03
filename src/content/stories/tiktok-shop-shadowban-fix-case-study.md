@@ -116,7 +116,7 @@ By reducing the cost per listing to just $0.45, the seller reclaimed nearly $4.0
 ![Steps to Replicate](/img/tiktok-shop-shadowban-fix-case-study/inline-5.webp)
 
 
-You can apply this same "shadowban fix" to your store today. Follow this sequence to move your listings from the "Poor" tier to "Good" status.
+You can apply this same "[shadowban fix](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-label-shadowban-fix-20260703)" to your store today. Follow this sequence to move your listings from the "Poor" tier to "Good" status.
 
 ### 1. Audit and Purge
 Identify every listing that has zero views or a "Poor" quality rating. Check for the three red flags: watermarks, blurry resolutions, or images you know are used by other sellers. TikTok Shop's listing policy is increasingly strict about "unauthorized brand logos" and "low-quality media." If you find these, prepare to replace the entire image set rather than just the primary photo.

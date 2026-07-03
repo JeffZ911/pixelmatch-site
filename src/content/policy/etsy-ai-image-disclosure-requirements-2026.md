@@ -40,7 +40,7 @@ As of 2026, Etsy requires sellers to disclose AI-generated items in the listing 
 ![Quick Reference Table](/img/etsy-ai-image-disclosure-requirements-2026/inline-1.webp)
 
 
-Audit your current listings against the table below to identify which items require an immediate "AI disclosure" tag or a visual badge.
+Audit your current listings against the table below to identify which items require an immediate "[AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)" tag or a visual badge.
 
 | Requirement Category | Specific Rule | Required Action |
 | :--- | :--- | :--- |
