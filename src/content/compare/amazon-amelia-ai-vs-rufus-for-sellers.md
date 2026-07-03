@@ -67,7 +67,7 @@ Audit your product listings for "conversational language" to see if Rufus can ex
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your monthly "AI overhead" by totaling your Seller Central subscription and any image generation tools you use to stay competitive. While Amazon's native AI tools don't carry a separate "line item" fee, they are gated by your choice of selling plan and the third-party tools required to optimize for them.

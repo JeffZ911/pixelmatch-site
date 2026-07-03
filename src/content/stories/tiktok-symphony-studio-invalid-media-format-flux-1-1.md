@@ -44,7 +44,7 @@ Their strategy relied on [TikTok Symphony](https://pixelmatch.art/blog/policy/ti
 
 However, the workflow hit a dead end. Every time the creative team tried to upload their high-fidelity AI images, [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703) returned the "invalid media format" error. This forced the team back into manual editing, defeating the purpose of an AI-driven pipeline.
 
-**Actionable Step for Today:** Audit your current creative library. Check the file extensions and sizes of your top-performing AI-generated assets. If you see `.webp` files or any image over 5MB, these are the primary candidates for the "invalid media format" error and need immediate batch processing before they can be used in Symphony Studio.
+**Actionable Step for Today:** Audit your current creative library. Check the file extensions and sizes of your top-performing AI-generated assets. If you see `.webp` files or any image over 5MB, these are the primary candidates for the "invalid media format" error and need immediate batch processing before they can be used in [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703).
 
 ## What Wasn't Working
 
@@ -100,7 +100,7 @@ The most immediate impact was on creative volume. Previously, the team could onl
 
 Cost efficiency also improved dramatically. A traditional lifestyle photoshoot for a beauty brand can cost upwards of $2,500 to $5,000 per day when factoring in the photographer, model, studio rental, and retouching. In contrast, the cost of generating 100 high-quality lifestyle images using [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 and processing them through PixelMatch is a fraction of that, bringing the cost per listing photo down from $45.00 to roughly $4.50.
 
-| Metric | Before (Manual Workflow) | After (Flux 1.1 + PixelMatch) | Improvement |
+| Metric | Before (Manual Workflow) | After ([Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 + PixelMatch) | Improvement |
 | :--- | :--- | :--- | :--- |
 | **Weekly Ad Output** | 2 Videos | 15 Videos | +650% |
 | **Cost Per Ad Asset** | $45.00 | $4.50 | -90% |

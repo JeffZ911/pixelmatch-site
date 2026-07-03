@@ -124,7 +124,7 @@ Bookmark these official resources to stay updated on policy shifts that occur th
 
 | Source Name | URL | Purpose |
 | :--- | :--- | :--- |
-| **[Etsy Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy)** | etsy.com/legal/policy/creativity-standards | Core AI disclosure rules |
+| **[Etsy Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy)** | etsy.com/legal/policy/creativity-standards | Core [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) rules |
 | **Etsy Image Requirements** | [help.etsy.com/.../115015663347](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Pixel specs and file sizes |
 | **Etsy Seller Policy** | etsy.com/legal/sellers | General shop conduct |
 | **Etsy Prohibited Items** | etsy.com/legal/prohibited-items | Rules on prompt bundles |

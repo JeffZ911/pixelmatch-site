@@ -57,7 +57,7 @@ Open your Shopify Admin, go to a product page, and click the "Magic" icon to see
 | **Primary Use** | Product background edits | Marketing & social design | Batch product photography |
 | **Max Resolution** | [1024 x 1024 px (1 MP)](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation) | [2048 x 2048 px](https://www.canva.com/help/magic-media/) | Up to 4K / High-Res |
 | **Batch Processing** | No (One by one) | No (Manual per page) | Yes (100+ images at once) |
-| **Amazon White BG** | Basic (RGB 255,255,255) | Manual (Magic Grab) | Automated & Verified |
+| **[Amazon White](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) BG** | Basic (RGB 255,255,255) | Manual (Magic Grab) | Automated & Verified |
 | **[AI Features](https://pixelmatch.art/blog/stories/shopify-summer-edition-2026-ai-features-case-study)** | Background removal, scene gen | Magic Expand, Magic Grab, Edit | Batch scene replacement |
 | **Cost** | [Free with Shopify plan](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation) | $15/mo (Pro) | Varies by volume |
 

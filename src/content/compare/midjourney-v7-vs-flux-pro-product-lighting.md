@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-High-stakes product photography often fails not because of the camera, but because of lighting that looks "uncanny" or "flat" to a discerning customer. Choosing between Midjourney v7 and Flux Pro determines whether your batch-generated catalog looks like a high-end editorial or a sterile 3D render.
+High-stakes product photography often fails not because of the camera, but because of lighting that looks "uncanny" or "flat" to a discerning customer. Choosing between [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) and Flux Pro determines whether your batch-generated catalog looks like a high-end editorial or a sterile 3D render.
 
 # Midjourney v7 vs Flux Pro: Which AI Model Wins for Product Lighting?
 
