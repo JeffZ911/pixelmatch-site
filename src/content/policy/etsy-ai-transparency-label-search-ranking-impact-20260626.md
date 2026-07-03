@@ -144,7 +144,7 @@ A digital replica refers to an AI-generated human likeness (a "synthetic perform
 
 *   [Etsy's Stance on AI Creations (Seller Handbook)](https://www.etsy.com/seller-handbook/article/1275449912004)
 *   Etsy's Creativity Standards (House Rules)
-*   New York State AI Disclosure Law Overview
+*   New York State [AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) Law Overview
 *   California SB 942 Provenance Requirements
 
 

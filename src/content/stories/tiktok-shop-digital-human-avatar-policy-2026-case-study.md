@@ -136,7 +136,7 @@ Upload your source asset to PixelMatch. Select the "TikTok Shop Optimized" prese
 *   Check for AIGC labeling requirements.
 
 ### 3. Configure the Digital Human Avatar
-Select a digital human avatar that matches your brand's target demographic. Prepare a script based on your top 10 customer FAQs. When setting up the stream, use your PixelMatch-generated lifestyle images as the "Green Screen" background to create a cohesive brand environment.
+Select a [digital human](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) avatar that matches your brand's target demographic. Prepare a script based on your top 10 customer FAQs. When setting up the stream, use your PixelMatch-generated lifestyle images as the "Green Screen" background to create a cohesive brand environment.
 
 ### 4. Execute the Disclosure Toggle
 This is the most critical step for account safety. In the TikTok Seller Center or the TikTok App:

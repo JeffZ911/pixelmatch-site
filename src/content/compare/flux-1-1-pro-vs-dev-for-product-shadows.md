@@ -132,7 +132,7 @@ The biggest shortcoming is the Non-Commercial License. If your store grows and b
 Both models can struggle when your original product photo already has baked-in lighting that contradicts the AI-generated background. If your product has a light source from the left, but you prompt for a "sunset background" with light from the right, the AI will often generate a "double shadow" or a shadow that defies physics. This is a common reason for listing rejections on platforms that require high-quality, realistic imagery.
 
 ### Actionable Step: Audit Current Listings for "Floating"
-Go to your Amazon Seller Central or Shopify admin and look at your main images. If the product looks like it is "hovering" over the white background, it is missing a contact shadow. This single fix can increase conversion rates by up to 30% because it builds immediate consumer trust.
+Go to your Amazon Seller Central or Shopify admin and look at your main images. If the product looks like it is "hovering" over the [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), it is missing a contact shadow. This single fix can increase conversion rates by up to 30% because it builds immediate consumer trust.
 
 ## Recommendation
 
