@@ -77,7 +77,7 @@ When evaluating these tools, ensure they can output the following minimum specif
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your "Cost Per Export" by dividing the monthly subscription fee by your expected monthly design output to see where credit-based systems fail. If you are launching 100 POD designs a month, each needing five lifestyle shots (Shopify, Etsy, TikTok Shop, Pinterest, and Instagram), you are generating 500 images. On a credit-limited plan, you may run out of "juice" before your catalog is even 20% complete.

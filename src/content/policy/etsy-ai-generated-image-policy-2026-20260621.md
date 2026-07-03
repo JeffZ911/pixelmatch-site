@@ -135,7 +135,7 @@ Bookmark these official resources to stay updated on policy shifts that occur th
 Yes, you can use AI-generated backgrounds, but the actual product must be a real representation of what the customer will receive. Etsy's [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) require transparency, so if the entire scene is AI-generated, it is best practice to mention that lifestyle images are mockups.
 
 ### Do I have to disclose if I used AI to edit a photo (e.g., background removal)?
-Standard photo editing, such as removing a background, color correction, or cropping, does not typically require an AI disclosure. The disclosure requirement is specifically for items where the design itself was created using AI or where the image contains significant synthetic elements (like AI models).
+Standard photo editing, such as removing a background, color correction, or cropping, does not typically require an [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography). The disclosure requirement is specifically for items where the design itself was created using AI or where the image contains significant synthetic elements (like AI models).
 
 ### Is there a penalty for not disclosing AI use on Etsy?
 Yes, failing to disclose AI usage can lead to listing removal or shop suspension. Etsy's automated systems are designed to detect AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619); listings that lack the required disclosure are often flagged for manual review by the Trust & Safety team.

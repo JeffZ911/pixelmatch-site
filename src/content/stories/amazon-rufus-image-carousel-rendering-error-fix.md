@@ -97,7 +97,7 @@ By utilizing PixelMatch, the brand's cost plummeted to roughly $4 per listing. T
 | **Mobile CTR** | 1.2% | 3.8% | +216% |
 | **Cost Per Listing** | $150 | $4 | -97.3% |
 | **Image Aspect Ratio** | 4:5 (Glitched on Mobile) | 1:1 (Full-screen Mobile) | Fixed |
-| **Background Compliance** | Off-white (Suppression Risk) | RGB 255, 255, 255 | 100% Compliant |
+| **[Background Compliance](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance)** | Off-white (Suppression Risk) | RGB 255, 255, 255 | 100% Compliant |
 | **Rufus Visibility** | Low (Aesthetic only) | High (Data-rich / CV-optimized) | Significant |
 | **Processing Time** | 14 Days | < 1 Hour (Batch CSV) | -99% |
 

@@ -72,7 +72,7 @@ Furthermore, these basic tools often failed Amazon’s automated "imaging police
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-To solve the clipping issue, the brand moved their production to PixelMatch to utilize the **flux [pro product](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) shadow clipping fix**. This workflow is fundamentally different from standard background removal because it uses "outpainting" rather than just "replacement."
+To solve the clipping issue, the brand moved their production to PixelMatch to utilize the **flux [pro product](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting) shadow [clipping fix](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703)**. This workflow is fundamentally different from standard background removal because it uses "outpainting" rather than just "replacement."
 
 **Actionable Step for Sellers:** Toggle the "Outpaint" or "Canvas Expand" setting in your AI workflow. Before generating a shadow, ensure your canvas is set to at least 1600x1600 px, even if your source image is a tight 800x800 px crop. This gives the AI "math room" to render the shadow gradient.
 

@@ -69,7 +69,7 @@ For sellers managing hundreds of SKUs, Photoroom’s 50-image batch limit create
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your monthly "per-image" cost to see if a flat-rate tool like PixelMatch beats the credit-based or restricted-batch systems of general design platforms.

@@ -70,7 +70,7 @@ The tools in the SWE-bench ecommerce AI model rankings differ significantly in h
 | Feature | PixelMatch | Photoroom | Pebblely |
 | :--- | :--- | :--- | :--- |
 | **Batch Processing** | Native multi-size, multi-spec exports | Up to 500 images at once | Single-image focus / Limited batch |
-| **Amazon White BG** | [Pure White (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) | Available via template | Available via "Clean" theme |
+| **[Amazon White](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) BG** | [Pure White (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) | Available via template | Available via "Clean" theme |
 | **Shopify Optimization** | [2048 × 2048 px square](https://help.shopify.com/en/manual/products/product-media/product-media-types) | High-res export available | Standard high-res |
 | **AI Shadows** | Adaptive platform-specific shadows | AI Shadows & Reflections | Basic generated shadows |
 | **Virtual Model** | Multi-ethnic batch modeling | Virtual Model (Pro/Max) | Not a primary focus |

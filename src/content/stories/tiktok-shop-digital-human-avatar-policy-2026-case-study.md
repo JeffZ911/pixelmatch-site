@@ -90,7 +90,7 @@ The seller took one high-resolution photo of their product using a smartphone un
 Using PixelMatch, they uploaded the seed image and generated 10 different lifestyle scenes (e.g., "Product on a marble bathroom vanity," "Product being held by a hand in sunlight"). PixelMatch automatically output these at the TikTok-recommended 800x800px 1:1 aspect ratio with a file size under 5MB, ensuring maximum sharpness on mobile devices.
 
 ### Step 3: Compliance Layering
-To satisfy the tiktok shop digital human avatar policy 2026, Lumina Glow used PixelMatch's compliance tool to embed a subtle but clear "AI-Generated" watermark on the corner of lifestyle images that featured synthetic human models.
+To satisfy the tiktok shop [digital human](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) avatar policy 2026, Lumina Glow used PixelMatch's compliance tool to embed a subtle but clear "AI-Generated" watermark on the corner of lifestyle images that featured synthetic human models.
 
 ### Step 4: 24/7 Live Automation
 For their live streams, they used the AI-generated lifestyle images as dynamic backgrounds behind a digital human avatar. Before going live, they navigated to the TikTok "More Options" menu and toggled the "AI-generated content" switch. This informed the algorithm and the viewers that the host was synthetic, preventing account strikes.
