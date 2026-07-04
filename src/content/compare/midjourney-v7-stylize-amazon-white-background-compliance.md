@@ -96,7 +96,7 @@ Map your product launch calendar to your image needs: use Midjourney for the "mo
 *   **Social Media Managers:** For generating high-engagement content for Instagram, TikTok, or Pinterest where Amazon’s "sterile" rules don't apply.
 *   **Pre-Launch Prototyping:** When you want to see how a product might look in various real-world environments before committing to a manufacturing run.
 
-To get the best results for ecommerce in Midjourney v7, you must master the `--stylize` (or `--s`) parameter. A high stylize value (e.g., --s 750) will make the image look more photographic and professional, but it will also add complex lighting that makes background removal nearly impossible. For "white background" attempts, sellers often have to drop to `--s 50` or `--s 0`, which frequently results in flatter, less realistic textures.
+To get the best results for ecommerce in [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-for-amazon-product-photography-20260704), you must master the `--stylize` (or `--s`) parameter. A high stylize value (e.g., --s 750) will make the image look more photographic and professional, but it will also add complex lighting that makes background removal nearly impossible. For "white background" attempts, sellers often have to drop to `--s 50` or `--s 0`, which frequently results in flatter, less realistic textures.
 
 ### When to Use PixelMatch
 

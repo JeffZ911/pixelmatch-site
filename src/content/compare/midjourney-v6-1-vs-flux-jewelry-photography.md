@@ -74,7 +74,7 @@ Verify your current catalog's highest-selling SKU's resolution before choosing a
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Tally your total cost of ownership (TCO) by including the "hidden" costs of third-party upscalers and background removal tools like Remove.bg ($9/mo for 40 credits) or Adobe Express ($9.99/mo).

@@ -125,7 +125,7 @@ Verify these policies directly on the official platform pages to ensure your sho
 ## Frequently Asked Questions
 
 ### Can I use AI to enhance my product photos on Etsy?
-Yes, you can use AI to enhance backgrounds, adjust lighting, or remove imperfections from your product photos. However, you must not use AI to change the physical characteristics of the product itself (like color or texture) if it misleads the buyer about what they will receive. Using PixelMatch to generate a professional background for a real product photo is a standard and safe practice under the 2026 Creativity Standards.
+Yes, you can use AI to enhance backgrounds, adjust lighting, or remove imperfections from your product photos. However, you must not use AI to change the physical characteristics of the product itself (like color or texture) if it misleads the buyer about what they will receive. Using PixelMatch to generate a professional background for a real product photo is a standard and safe practice under the 2026 [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study).
 
 ### Do I need to disclose AI if I only used it for the background?
 As of 2026, if the product itself is real and photographed, you generally do not need a prominent text disclosure in the description for just the background. However, if the background includes "synthetic humans" or AI-generated models, you must include a disclosure badge on the image to comply with New York's AI disclosure law and similar emerging regulations.

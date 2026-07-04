@@ -124,7 +124,7 @@ Use AI avatars to handle the "volume" part of your strategy—testing hooks, exp
 ## Frequently Asked Questions
 
 ### Does TikTok penalize AI-generated videos in the FYP algorithm?
-No, TikTok does not inherently penalize AI content as long as it is properly labeled as AI-generated. The platform actually encourages the use of its Symphony suite to help sellers create more engaging content. However, if the AI content is low-resolution or violates the 50% static frame rule, it will face reach restrictions.
+No, TikTok does not inherently penalize [AI content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) as long as it is properly labeled as AI-generated. The platform actually encourages the use of its Symphony suite to help sellers create more engaging content. However, if the AI content is low-resolution or violates the 50% static frame rule, it will face reach restrictions.
 
 ### What is the minimum resolution for a TikTok Video Shopping Ad?
 The absolute minimum resolution for TikTok ads is 540×960 pixels, but the platform strongly recommends 1080×1920 pixels for high-definition vertical displays. Using PixelMatch ensures your source product images are upscaled and optimized so they don't appear blurry when the AI avatar "holds" them in the video.

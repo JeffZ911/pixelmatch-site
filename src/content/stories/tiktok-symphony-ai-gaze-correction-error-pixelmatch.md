@@ -156,6 +156,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Stripe Pricing and Fees
 *   TikTok Shop Seller Center: Product Image Specifications
-*   TikTok Community Guidelines: Synthetic Media and AI Content
+*   TikTok Community Guidelines: Synthetic Media and [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026)
 *   Photoroom Pricing Plans
 *   TikTok Ads: Image Ad Specifications

@@ -142,7 +142,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-1. TikTok Shop Seller Center. (2026). *AI-Generated Content Policy for Sellers*. Retrieved from 
+1. TikTok Shop Seller Center. (2026). *AI-Generated [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) for Sellers*. Retrieved from 
 2. AuditSocials. (2026). *TikTok [AI Content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide) Policy: Penalty Tiers and Reach Metrics*. Retrieved from 
 3. Federal Trade Commission. (2024/2026). *Disclosures 101 for Social Media Influencers*. Retrieved from [https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers](https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers)
 4. TikTok Ads Help Center. (2026). *Misleading and False Content Policies*. Retrieved from https://ads.tiktok.com/help/article/misleading-false-content
