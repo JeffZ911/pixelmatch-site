@@ -135,7 +135,7 @@ The recommended size is 800x800 pixels with a 1:1 square aspect ratio. While the
 You should upload a minimum of 5 images, though the platform allows up to 9. Listings with 5 or more images are much more likely to achieve a "Good" quality rating, which is a prerequisite for high organic reach in the TikTok Shop tab.
 
 **Can I use AI to show a product in use?**
-Yes, but you must be careful. If you are selling a "Before and After" product, using AI to generate the "After" result is a violation of the Misleading Content policy. Use AI only to change the background or environment (lifestyle scenes), not the results of the product itself.
+Yes, but you must be careful. If you are selling a "Before and After" product, using AI to generate the "After" result is a violation of the Misleading [Content policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026). Use AI only to change the background or environment (lifestyle scenes), not the results of the product itself.
 
 **What file formats does TikTok Shop support?**
 TikTok Shop supports JPEG, JPG, and PNG formats. The maximum file size per image is 5MB. For the best balance of quality and load speed, aim for a file size between 500KB and 1.5MB.

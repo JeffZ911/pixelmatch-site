@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Seeing "Error 4002" in TikTok Symphony Studio means your scaling efforts just hit a moderation wall. You cannot generate AI-powered videos or run Spark Ads because the underlying image assets are triggering TikTok’s sensitive "Community Guidelines" bot. For beauty sellers, this usually stems from source images that the algorithm interprets as "exaggerated claims" or "non-compliant backgrounds."
+Seeing "Error 4002" in [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos) Studio means your scaling efforts just hit a moderation wall. You cannot generate AI-powered videos or run Spark Ads because the underlying image assets are triggering TikTok’s sensitive "Community Guidelines" bot. For beauty sellers, this usually stems from source images that the algorithm interprets as "exaggerated claims" or "non-compliant backgrounds."
 
 ## The Seller's Situation
 

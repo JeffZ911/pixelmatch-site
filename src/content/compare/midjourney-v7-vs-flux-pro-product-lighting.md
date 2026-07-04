@@ -109,7 +109,7 @@ PixelMatch users benefit from underlying photorealistic models to batch-process 
 
 Neither model is a "magic button" without understanding their limitations.
 
-Midjourney v7 struggles with literalism. Its tendency to add heavy stylization can misrepresent product materials—for example, turning a matte plastic finish into a glossy one because it "looks better" to the AI. This leads to potential marketplace returns if the item looks different in person. Furthermore, Midjourney lacks a native API, meaning you cannot easily plug it into your inventory management system to batch-generate marketplace-compliant product images. Every image must be manually prompted and downloaded.
+[Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-for-amazon-product-photography-20260704) struggles with literalism. Its tendency to add heavy stylization can misrepresent product materials—for example, turning a matte plastic finish into a glossy one because it "looks better" to the AI. This leads to potential marketplace returns if the item looks different in person. Furthermore, Midjourney lacks a native API, meaning you cannot easily plug it into your inventory management system to batch-generate marketplace-compliant product images. Every image must be manually prompted and downloaded.
 
 Flux Pro can sometimes feel too "raw" or neutral without heavy prompt engineering. If you aren't specific, the lighting can look like a basic fluorescent office bulb. It lacks Midjourney's built-in style reference simplicity for instant artistic flair, requiring more technical setup or a dedicated SaaS tool to get the best results.
 

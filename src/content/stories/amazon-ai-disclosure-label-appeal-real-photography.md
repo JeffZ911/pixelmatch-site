@@ -167,7 +167,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
-*   <a href="https://www.amazon.com/s?k=Amazon+KDP%3A+AI+Content+Guidelines+%28AI-Assisted+vs.+AI-Generated%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon KDP: AI Content Guidelines (AI-Assisted vs. AI-Generated)</a>
+*   <a href="https://www.amazon.com/s?k=Amazon+KDP%3A+AI+Content+Guidelines+%28AI-Assisted+vs.+AI-Generated%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon KDP: [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) Guidelines (AI-Assisted vs. AI-Generated)</a>
 *   New York State Senate: Bill S8420-A (Synthetic Media Disclosure)
 *   Jungle Scout: Amazon Product Photography Costs and Guide
 *   TikTok Shop Seller Help: AI-Generated Content Policy

@@ -87,9 +87,9 @@ Review your Listing Quality Score in Etsy Search Analytics to identify sudden dr
 
 ### Search Visibility Penalties
 
-Etsy’s search algorithm prioritizes "Listing Quality," which is a metric derived from buyer engagement and policy compliance. When a listing is flagged for missing an AI transparency label, Etsy does not always deactivate it immediately. Instead, the algorithm applies a reduction in visibility. 
+Etsy’s search algorithm prioritizes "Listing Quality," which is a metric derived from buyer engagement and policy compliance. When a listing is flagged for missing an [AI transparency](https://pixelmatch.art/blog/policy/new-2026-ai-transparency-laws-for-sellers) label, Etsy does not always deactivate it immediately. Instead, the algorithm applies a reduction in visibility. 
 
-You may notice your listing move from page 1 to page 10 overnight. This happens because Etsy’s Creativity Standards mandate that buyers have a right to know how an item was made. If the algorithm suspects AI use (e.g., perfect skin textures on models or impossible lighting in a room) and finds no disclosure, it lowers the listing’s quality score, directly tanking its rank.
+You may notice your listing move from page 1 to page 10 overnight. This happens because Etsy’s [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) mandate that buyers have a right to know how an item was made. If the algorithm suspects AI use (e.g., perfect skin textures on models or impossible lighting in a room) and finds no disclosure, it lowers the listing’s quality score, directly tanking its rank.
 
 ### Listing Deactivation
 

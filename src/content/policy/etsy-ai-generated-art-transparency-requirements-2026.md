@@ -120,7 +120,7 @@ Add a standardized disclosure sentence to all affected listings. You don't need 
 
 Ensure your "About this listing" settings are accurate. If your AI art is currently set to "I made it," you are technically claiming you physically created the pixels without generative assistance.
 
-**Action Step:** Change the "Who made it?" dropdown to **"A designer"** or **"Another company or person"** only if you are using a physical production partner. For most AI art sellers, the correct path is selecting "I designed it" and ensuring the Creativity Standards are met by disclosing the tool usage.
+**Action Step:** Change the "Who made it?" dropdown to **"A designer"** or **"Another company or person"** only if you are using a physical production partner. For most AI art sellers, the correct path is selecting "I designed it" and ensuring the [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) are met by disclosing the tool usage.
 
 ### Creating Compliant Mockups
 

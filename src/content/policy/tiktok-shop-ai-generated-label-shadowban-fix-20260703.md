@@ -148,7 +148,7 @@ If the AI is used only for "minor edits" (like removing a speck of dust or sligh
 
 | Resource | Description |
 | :--- | :--- |
-| TikTok Seller Academy: AI Content | Official guide on how and when to use the AI disclosure toggle. |
+| TikTok Seller Academy: [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) | Official guide on how and when to use the AI disclosure toggle. |
 | TikTok Shop Content Policy | The legal framework for what is allowed in product listings. |
 | LighterImage: Image Optimization | Technical specifications for pixel dimensions and file types. |
 | Rewarx: AI Rules & Penalties | Detailed breakdown of the shadowban and strike system for 2026. |
