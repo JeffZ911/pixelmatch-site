@@ -170,4 +170,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Help Center: Labeling AI-Generated Content
 *   TikTok Shop Academy: Commerce Content Policy
 *   Photoroom Pricing and Features
-*   TikTok Newsroom: Transparency in AI Content with C2PA
+*   TikTok Newsroom: Transparency in [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) with C2PA

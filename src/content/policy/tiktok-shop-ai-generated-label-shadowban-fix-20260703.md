@@ -164,7 +164,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   TikTok Seller Academy: AI-Generated Content Restrictions and Requirements
-*   TikTok Legal: TikTok Shop Global Content Policy
+*   TikTok Legal: TikTok Shop Global [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026)
 *   LighterImage: TikTok Shop Image Size and Optimization Guide
 *   Rewarx: TikTok Shop [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) Rules and Shadowban Fixes
 *   AuditSocials: TikTok Algorithm Updates 2026

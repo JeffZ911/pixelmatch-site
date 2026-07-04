@@ -160,7 +160,7 @@ Finally, you must remain compliant with TikTok’s Content Policy. TikTok’s AI
 This usually happens because the file size exceeds the 5MB limit or the JPG has a corrupted header from the AI generation process. Even if the extension is `.jpg`, the internal metadata might be non-standard. Using a tool like PixelMatch to "re-encode" the JPG fixes the header and compresses the file to a safe size.
 
 ### Can I use Flux 1.1 images for TikTok Shop product listings too?
-Yes, but the requirements are slightly different. While Symphony Studio prefers 9:16, TikTok Shop product listings typically require 1:1 square images with a minimum resolution of 600x600 px. You can use PixelMatch to create a separate "Listing Preset" that crops your Flux images into squares while keeping the file size under the listing limit.
+Yes, but the requirements are slightly different. While [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703) prefers 9:16, TikTok Shop product listings typically require 1:1 square images with a minimum resolution of 600x600 px. You can use PixelMatch to create a separate "Listing Preset" that crops your Flux images into squares while keeping the file size under the listing limit.
 
 ### Is Flux 1.1 Pro better than Midjourney for beauty products?
 Flux 1.1 Pro is currently favored by many ecommerce sellers because of its superior "prompt adherence" and ability to render more realistic skin textures without the "uncanny valley" look often associated with older AI models. However, Midjourney remains a strong competitor for more "artistic" or stylized brand photography.

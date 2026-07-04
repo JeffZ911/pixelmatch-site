@@ -153,7 +153,7 @@ While a screenshot removes most metadata, it also strips the color profile and r
 PixelMatch focuses on generating ecommerce-ready assets that prioritize clean metadata. Unlike general-purpose design tools that tag every file for "provenance" (C2PA), PixelMatch allows sellers to create high-quality backgrounds that do not trigger the "synthetic" flag on authentic product photos.
 
 ### What happens if I don't disclose AI content on TikTok Shop?
-As of June 2026, TikTok has increased penalties for "Undisclosed AI Content." Initial violations result in the video being ineligible for the "For You" feed (shadow-banning). Repeated violations can lead to account penalties and the eventual freezing of your seller account and withholding of funds.
+As of June 2026, TikTok has increased penalties for "Undisclosed [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026)." Initial violations result in the video being ineligible for the "For You" feed (shadow-banning). Repeated violations can lead to account penalties and the eventual freezing of your seller account and withholding of funds.
 
 
 <!-- pm-cta:foot -->

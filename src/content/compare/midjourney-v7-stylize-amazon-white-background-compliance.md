@@ -50,7 +50,7 @@ PixelMatch solves this by decoupling the product generation from the background 
 
 Run a 10-SKU test batch in both tools to measure your "Time to Compliance"—the total minutes spent from the initial prompt to a live, unsuppressed listing. Most sellers find that while Midjourney is faster at creating "pretty" pictures, the post-processing required to meet [Amazon's 85% frame fill rule](https://sellercentral.amazon.com/help/hub/reference/1881) makes it slower for catalog management.
 
-| Feature | Midjourney v7 | PixelMatch |
+| Feature | [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-for-amazon-product-photography-20260704) | PixelMatch |
 | :--- | :--- | :--- |
 | **Primary Use Case** | Creative Lifestyle & Branding | Compliant Product Cataloging |
 | **Stylize Control** | Range 0-1000 (High = More Shadows) | Automated Compliance (Zero Shadows) |

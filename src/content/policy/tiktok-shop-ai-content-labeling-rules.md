@@ -54,7 +54,7 @@ Toggle the "AI-generated content" switch for every video or image where the visu
 
 TikTok explicitly requires sellers to follow three core principles to remain compliant. Violating these rules often results in an immediate jump to Level 2 or Level 3 penalties because they involve consumer deception rather than simple labeling errors.
 
-1.  **Don't misrepresent the product:** You must not use AI to make a product look larger, sturdier, or made of higher-quality materials than it actually is. If you sell a plastic lamp, an AI render that makes it look like brushed gold is a violation of the Misleading Content policy.
+1.  **Don't misrepresent the product:** You must not use AI to make a product look larger, sturdier, or made of higher-quality materials than it actually is. If you sell a plastic lamp, an AI render that makes it look like brushed gold is a violation of the Misleading [Content policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026).
 2.  **Don't fake results:** AI must not be used to demonstrate the efficacy of a product. You cannot use AI to show a "before and after" of a cleaning spray or a skincare serum.
 3.  **Don't fake stories to push sales:** Using AI to create "customer testimonials" or "news reports" about your product is strictly prohibited.
 

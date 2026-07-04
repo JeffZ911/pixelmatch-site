@@ -52,7 +52,7 @@ Run a manual audit of your top 10 best-selling listings today to ensure your her
 ![Detailed Requirements](/img/etsy-creativity-standards-ai-images-policy/inline-2.webp)
 
 
-Update your listing "About this listing" section to reflect that your AI-assisted work is "Designed by a seller" rather than "Handmade." Since the June 10, 2025 update to Etsy's Creativity Standards, the platform has moved away from a binary "Handmade or Not" system to a more nuanced categorization that tracks the level of human involvement.
+Update your listing "About this listing" section to reflect that your AI-assisted work is "Designed by a seller" rather than "Handmade." Since the June 10, 2025 update to Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study), the platform has moved away from a binary "Handmade or Not" system to a more nuanced categorization that tracks the level of human involvement.
 
 ### Disclosure Rules for AI Art
 When you list an item that was generated using AI—such as a digital download, a poster print, or a t-shirt graphic—you must explicitly state this in the listing description. Etsy requires sellers to be transparent so buyers understand they are purchasing a product created via prompt engineering and algorithmic generation. 
