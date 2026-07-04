@@ -26,7 +26,7 @@ inline_image_sections:
 
 Stop guessing which AI-generated images will get your Etsy shop suspended and start auditing your listings against the 2026 disclosure mandates. Failing to distinguish between a "synthetic performer" and a real human model or mislabeling an AI-generated print as "Photography" can now trigger automated listing takedowns and permanent shop closures.
 
-**Quick Answer:** Under Etsy's Creativity Standards, AI-generated artwork must be categorized as "Designed by a seller" and explicitly disclosed in the listing description. Additionally, a June 2026 law requires sellers using AI-generated human models in mockups to add a visible disclosure badge, and AI prompt bundles are strictly prohibited.
+**Quick Answer:** Under Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study), AI-generated artwork must be categorized as "Designed by a seller" and explicitly disclosed in the listing description. Additionally, a June 2026 law requires sellers using AI-generated human models in mockups to add a visible disclosure badge, and AI prompt bundles are strictly prohibited.
 
 ## Quick Reference Table
 

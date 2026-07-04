@@ -149,7 +149,7 @@ If the AI is used only for "minor edits" (like removing a speck of dust or sligh
 | Resource | Description |
 | :--- | :--- |
 | TikTok Seller Academy: [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) | Official guide on how and when to use the AI disclosure toggle. |
-| TikTok Shop Content Policy | The legal framework for what is allowed in product listings. |
+| TikTok Shop [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) | The legal framework for what is allowed in product listings. |
 | LighterImage: Image Optimization | Technical specifications for pixel dimensions and file types. |
 | Rewarx: AI Rules & Penalties | Detailed breakdown of the shadowban and strike system for 2026. |
 
@@ -166,5 +166,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Seller Academy: AI-Generated Content Restrictions and Requirements
 *   TikTok Legal: TikTok Shop Global Content Policy
 *   LighterImage: TikTok Shop Image Size and Optimization Guide
-*   Rewarx: TikTok Shop AI Content Rules and Shadowban Fixes
+*   Rewarx: TikTok Shop [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) Rules and Shadowban Fixes
 *   AuditSocials: TikTok Algorithm Updates 2026

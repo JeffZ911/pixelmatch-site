@@ -148,7 +148,7 @@ While AI tools like PixelMatch significantly reduce the friction of content crea
 No, TikTok Shop does not ban AI-generated images, but it strictly requires them to be labeled. Under the TikTok [AI content policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026), any content that is significantly altered or created by AI must include a clear disclosure to avoid misleading customers.
 
 ### What happens if I forget to label an AI image on TikTok Shop?
-Failure to label AI content is a violation of the Commerce Content Policy. This can result in "violation points" on your account health score; accumulating too many points can lead to temporary listing deactivation or a permanent shop ban.
+Failure to label [AI content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) is a violation of the Commerce Content Policy. This can result in "violation points" on your account health score; accumulating too many points can lead to temporary listing deactivation or a permanent shop ban.
 
 ### What is the best image size for TikTok Shop in 2026?
 The official minimum requirement is 600x600 pixels, but for the best performance on modern mobile devices, sellers should use 800x800 pixels. This ensures the product details remain crisp when shoppers zoom in on mobile screens.
