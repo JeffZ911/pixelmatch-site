@@ -38,7 +38,7 @@ Audit your current shop listings against the 2026 disclosure table below to iden
 
 | Feature / Image Type | Disclosure Required? | Search Ranking Impact | Compliance Action |
 | :--- | :--- | :--- | :--- |
-| **AI-[Generated Art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026)/Digital Downloads** | Yes | High | Add disclosure to top of description per Etsy's Creativity Standards. |
+| **AI-[Generated Art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026)/Digital Downloads** | Yes | High | Add disclosure to top of description per Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study). |
 | **AI Lifestyle Backgrounds (Mockups)** | Yes | Medium | State "Lifestyle background created with AI" in the listing. |
 | **AI Models (Human Likeness)** | Yes | High | Must comply with NY's $5,000 fine law and label clearly. |
 | **Basic Background Removal** | No | None | No action required for simple white-background edits. |

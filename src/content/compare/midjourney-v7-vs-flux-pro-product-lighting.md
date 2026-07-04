@@ -56,7 +56,7 @@ High-stakes product photography often fails not because of the camera, but becau
 
 When evaluating these models for a multi-platform strategy—including [Amazon's 2000x2000 px zoom requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)—you must look beyond the "pretty" factor and focus on technical compliance.
 
-| Feature | Midjourney v7 | Flux Pro |
+| Feature | [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) | Flux Pro |
 | :--- | :--- | :--- |
 | **Primary Lighting Style** | Cinematic, Moody, Artistic | Neutral, Physically Accurate, Studio-grade |
 | **Material Realism** | High (but sometimes "waxy") | Ultra-High (accurate ray-tracing) |

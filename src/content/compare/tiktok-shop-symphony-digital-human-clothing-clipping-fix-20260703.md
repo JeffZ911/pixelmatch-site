@@ -40,7 +40,7 @@ Run a side-by-side comparison of your best-selling SKU using both a Symphony vid
 
 For sellers who need flawless, high-volume product presentation, dedicated AI tools are a necessity. PixelMatch is designed specifically for batch-generating AI product images that maintain the physical integrity of the fabric, while Photoroom provides a fast, mobile-friendly solution for background removal and basic AI staging.
 
-| Feature | TikTok Symphony | PixelMatch | Photoroom |
+| Feature | [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos) | PixelMatch | Photoroom |
 | :--- | :--- | :--- | :--- |
 | **Primary Output** | Video (AI Avatar) | Static (On-Model/Product) | Static (Product/Background) |
 | **Apparel Fidelity** | Medium (Clipping common) | High (Physics-accurate) | Medium (Background focus) |

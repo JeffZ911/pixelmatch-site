@@ -34,7 +34,7 @@ Waking up to a dashboard showing zero impressions on your latest TikTok Shop lis
 *Related: [Etsy AI Generated Art Transparency Requirements 2026](/blog/policy/etsy-ai-generated-art-transparency-requirements-2026) · [TikTok Shop Invalid Tax ID Payout Error: How to Fix It](/blog/policy/tiktok-shop-invalid-tax-id-payout-error) · [TikTok Shop Deals for You Days Content Violations Guide](/blog/policy/tiktok-shop-deals-for-you-days-content-violations-20260629)*
 
 
-TikTok Shop has updated its enforcement protocols to prioritize transparency. Use the table below to audit your current listings against the 2026 standards for AI-generated product media.
+TikTok Shop has updated its enforcement protocols to prioritize transparency. Use the table below to audit your current listings against the 2026 [standards for AI](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study)-generated product media.
 
 | Metric / Policy | Requirement | Source |
 | :--- | :--- | :--- |

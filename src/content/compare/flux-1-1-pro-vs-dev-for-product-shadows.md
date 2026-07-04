@@ -156,7 +156,7 @@ However, for the vast majority of ecommerce sellers, a purpose-built tool like *
 Technically you can upload them, but legally you are in violation of the FLUX.1-dev-Non-Commercial-License. If Black Forest Labs or a licensing body audits your commercial use, you could face legal action or be forced to remove all your product imagery.
 
 ### Why are shadows so important for Amazon listings?
-Shadows provide "grounding," which tells the customer's brain that the product is a real, physical object rather than a digital render. Amazon's [main image requirements](https://sellercentral.amazon.com/gp/help/external/1881) require a pure white background, but they allow and encourage realistic shadows to prevent the product from looking flat or fake.
+Shadows provide "grounding," which tells the customer's brain that the product is a real, physical object rather than a digital render. Amazon's [main image requirements](https://sellercentral.amazon.com/gp/help/external/1881) require a pure [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), but they allow and encourage realistic shadows to prevent the product from looking flat or fake.
 
 ### How much VRAM do I need to run FLUX locally?
 To run FLUX.1 [dev] at full precision, you need at least 16GB to 24GB of VRAM. While "quantized" versions (4-bit or 8-bit) can run on 8GB or 12GB cards, you will often see a significant drop in shadow quality and fine detail, which defeats the purpose of using a high-end model for product photography.

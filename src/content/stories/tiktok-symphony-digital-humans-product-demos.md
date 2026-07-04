@@ -70,7 +70,7 @@ Switch your production focus from "filming" to "orchestration" by combining high
 Run your raw smartphone photos through PixelMatch to create a standardized library of "AI-ready" assets. Unlike general editors, PixelMatch is designed for high-volume ecommerce. The seller used the tool to instantly remove cluttered bathroom backgrounds and replace them with high-end, studio-lit environments. Crucially, they exported these assets at the recommended resolution of 1080×1920 pixels to ensure maximum clarity in a 9:16 vertical format.
 
 ### Step 2: Deploying TikTok Symphony Digital Humans
-Upload your optimized PixelMatch images into the TikTok Ads Manager under the Symphony Creative Suite. The seller selected "Digital Humans"—synthetic avatars that look, move, and speak like real influencers. Because the product images were already professionally "cleaned" by PixelMatch, the AI could seamlessly overlay the digital human's hands or body over the product without the "glitchy" edges or pixelation common with low-quality source files.
+Upload your optimized PixelMatch images into the TikTok Ads Manager under the Symphony Creative Suite. The seller selected "Digital Humans"—synthetic avatars that look, move, and speak like real influencers. Because the product images were already professionally "cleaned" by PixelMatch, the AI could seamlessly overlay the [digital human](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703)'s hands or body over the product without the "glitchy" edges or pixelation common with low-quality source files.
 
 ### Step 3: Rapid Localization and Scripting
 Paste your high-converting sales script into the Symphony interface. The seller utilized the tool’s ability to speak over 30 languages to instantly create Spanish and French versions of their top-performing English ads. This allowed them to tap into the growing Spanish-speaking demographic on TikTok Shop US without hiring a bilingual creator.
@@ -104,7 +104,7 @@ Follow this checklist to implement a high-volume AI video pipeline for your own 
 
 1.  **Capture Base Assets:** Shoot 10-15 photos of your product using a modern smartphone. Ensure you have "hero" shots, texture shots (for creams or liquids), and shots of the product being held.
 2.  **Clean with PixelMatch:** Upload your photos to PixelMatch. Use the batch removal tool to strip backgrounds and apply a "Studio Lighting" filter. Set your export aspect ratio to 9:16 to match TikTok's vertical video requirements.
-3.  **Access Symphony:** Log into your TikTok Ads Manager account and navigate to the "Creative Tools" section. Select "Symphony Digital Humans."
+3.  **Access Symphony:** Log into your TikTok Ads Manager account and navigate to the "Creative Tools" section. Select "[Symphony Digital](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) Humans."
 4.  **Select Your Avatar:** Choose a digital human that matches your target customer persona. For beauty, sellers often find higher engagement with avatars that appear to be in the 18-35 age range.
 5.  **Input Script and Assets:** Paste a 15-30 second script. Upload your PixelMatch-enhanced images as "Product Overlays" or "Backgrounds."
 6.  **Review and Tag:** Check the "AI-Generated Content" label during the upload process to comply with TikTok's 2024 transparency policies.

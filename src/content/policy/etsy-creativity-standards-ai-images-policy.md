@@ -94,7 +94,7 @@ Search your Shop Manager for the word "Prompt" and delete any listings offering 
 Switch your background generation workflow to PixelMatch to ensure your hero images remain 100% compliant while still looking professional. Unlike tools that generate the entire image from scratch, PixelMatch allows you to upload a real photo of your physical product and only replaces the background. This keeps the "subject" of the photo real—satisfying the hero image rule—while giving you the high-end lifestyle aesthetic of an AI-generated scene.
 
 ### Updating Your Disclosures
-Navigate to your "Active Listings" and use the bulk edit tool to add a standardized AI disclosure. A compliant disclosure should look like this:
+Navigate to your "Active Listings" and use the bulk edit tool to add a standardized [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography). A compliant disclosure should look like this:
 > "Created with AI assistance: The base of this artwork was generated using [Tool Name] and then digitally painted and color-corrected by our studio to ensure high-quality print results."
 
 By placing this in the first few lines of your description, you satisfy Etsy’s [transparency requirements](https://pixelmatch.art/blog/stories/tiktok-shop-image-metadata-transparency-requirements-2026) and build trust with your customers. Transparency often leads to higher conversion rates among the "conscious consumer" demographic that frequents Etsy.

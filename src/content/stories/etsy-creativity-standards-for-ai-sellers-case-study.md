@@ -162,5 +162,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Etsy Creativity Standards (Official Policy)
 *   [Etsy Image Requirements and Best Practices](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop)
 *   Photoroom Pricing and Features
-*   TikTok Shop AI Content Policy
+*   [TikTok Shop AI](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-label-shadowban-fix-20260703) Content Policy
 *   Jungle Scout: How to Sell on Etsy Guide

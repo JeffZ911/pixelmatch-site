@@ -36,7 +36,7 @@ Etsy allows AI-generated art, but sellers must categorize it as "Designed by a s
 *Related: [TikTok Shop Invalid Tax ID Payout Error: How to Fix It](/blog/policy/tiktok-shop-invalid-tax-id-payout-error) · [TikTok Shop Deals for You Days Content Violations Guide](/blog/policy/tiktok-shop-deals-for-you-days-content-violations-20260629) · [Shopify Sidekick AI Feature Locked Error Fix (2026 Guide)](/blog/policy/shopify-sidekick-ai-feature-locked-error-fix)*
 
 
-Etsy’s Creativity Standards, updated to reflect the 2026 marketplace environment, prioritize the human element in every transaction. While the platform acknowledges the role of generative tools, it draws a hard line between "AI-assisted human creativity" and "unlabeled automated output." Use the following table to verify your current listing settings against the mandatory requirements.
+Etsy’s [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study), updated to reflect the 2026 marketplace environment, prioritize the human element in every transaction. While the platform acknowledges the role of generative tools, it draws a hard line between "AI-assisted human creativity" and "unlabeled automated output." Use the following table to verify your current listing settings against the mandatory requirements.
 
 | Requirement Category | 2026 Compliance Standard | Correct Selection / Action |
 | :--- | :--- | :--- |
@@ -149,7 +149,7 @@ Stay updated by bookmarking the official policy pages. Etsy frequently updates t
 
 | Policy Document | Direct Link |
 | :--- | :--- |
-| **Etsy Creativity Standards** | https://www.etsy.com/legal/creativity |
+| **[Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study)** | https://www.etsy.com/legal/creativity |
 | **Prohibited Items Policy** | https://www.etsy.com/legal/prohibited |
 | **Etsy Seller Policy** | https://www.etsy.com/legal/sellers/ |
 | **Image Requirements Guide** | [https://help.etsy.com/hc/en-us/articles/115015663347](https://help.etsy.com/hc/en-us/articles/115015663347) |
@@ -163,7 +163,7 @@ No. Etsy's Production Partner Policy is specifically for physical manufacturing 
 No. The Photography category on Etsy is intended for images captured by a camera by the seller. If the image was generated via an AI prompt, it should be listed under "Digital Art" or "Digital Prints." Mislabeling AI art as photography can lead to "Item Not as Described" cases from disappointed buyers.
 
 ### Are AI prompt bundles still allowed on Etsy in 2026?
-No. According to the Etsy Creativity Standards, sellers are prohibited from selling AI prompt bundles. Etsy requires that the items sold be a final creative work or a craft supply. Since prompts are considered "instructions" for a machine rather than a creative product or a physical tool, they do not meet the marketplace criteria.
+No. According to the [Etsy Creativity](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) Standards, sellers are prohibited from selling AI prompt bundles. Etsy requires that the items sold be a final creative work or a craft supply. Since prompts are considered "instructions" for a machine rather than a creative product or a physical tool, they do not meet the marketplace criteria.
 
 ### What happens if I don't disclose AI usage?
 If Etsy detects undisclosed AI usage, or if a buyer reports your listing, Etsy may deactivate the listing or suspend your shop. In 2026, transparency is a core metric for Etsy’s search algorithm; shops that are transparent about their processes are more likely to be protected in the event of a buyer dispute.
