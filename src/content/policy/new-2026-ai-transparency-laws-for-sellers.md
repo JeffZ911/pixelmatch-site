@@ -74,7 +74,7 @@ Amazon's updated 2026 policies require sellers to declare if AI-generated people
 Furthermore, state-level laws like New York's SB8420A specifically target "synthetic performers." If your Amazon lifestyle images use AI-generated models to sell to New York residents, you must include a "clear and conspicuous" disclosure on the image itself. Failure to do so can result in civil penalties of up to $5,000 per subsequent violation after an initial $1,000 fine.
 
 ### TikTok Shop's Restricted Categories
-TikTok Shop's Commerce Content Policy places beauty, supplements, and electronics in a restricted category where AI imagery that exaggerates effects faces automatic rejection. TikTok uses image hashing and AI classifiers to detect synthetic media. If you use AI to show a product clearing skin or whitening teeth in a way that is "difficult to achieve in real life," the listing will be flagged for misleading content. For all other categories, you must use the platform's "AI-generated content" toggle during the upload process to avoid receiving a policy strike.
+TikTok Shop's Commerce [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) places beauty, supplements, and electronics in a restricted category where AI imagery that exaggerates effects faces automatic rejection. TikTok uses image hashing and AI classifiers to detect synthetic media. If you use AI to show a product clearing skin or whitening teeth in a way that is "difficult to achieve in real life," the listing will be flagged for misleading content. For all other categories, you must use the platform's "AI-generated content" toggle during the upload process to avoid receiving a policy strike.
 
 ## Common Rejection Reasons
 

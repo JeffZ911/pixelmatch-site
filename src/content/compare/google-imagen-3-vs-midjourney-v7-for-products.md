@@ -54,7 +54,7 @@ Choosing between Google Imagen 3 and [Midjourney v7](https://pixelmatch.art/blog
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 When you are managing a catalog of 50+ SKUs, the interface and technical output of the model matter more than the "cool factor." Midjourney has moved away from its Discord-only roots, but Google’s integration with the Vertex AI ecosystem offers a different level of technical scale.

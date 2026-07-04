@@ -41,7 +41,7 @@ Etsy’s [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativ
 | Requirement Category | 2026 Compliance Standard | Correct Selection / Action |
 | :--- | :--- | :--- |
 | **Production Method** | Must be seller-designed | Select "Designed by a seller" in the listing dropdown. |
-| **[AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)** | Mandatory for all AI content | Include a clear statement in the **Listing Description**. |
+| **[AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)** | Mandatory for all [AI content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) | Include a clear statement in the **Listing Description**. |
 | **Category Selection** | Digital Art or relevant subcategory | Avoid the **Photography** category for fully AI-generated images. |
 | **Production Partners** | Physical help only | **Do NOT** list AI software (e.g., Midjourney, PixelMatch) as a production partner. |
 | **Mockup Usage** | Backgrounds allowed | Disclose if the product setting/background is AI-generated. |
@@ -54,7 +54,7 @@ Run a bulk audit of your shop settings immediately. If you have previously categ
 ![Detailed Requirements](/img/etsy-ai-generated-art-transparency-requirements-2026/inline-2.webp)
 
 
-Maintaining transparency isn't just about following the letter of the law; it is about protecting your shop from the "Item Not as Described" claims that Etsy’s automated systems prioritize. In 2026, Etsy’s Creativity Standards require that the buyer understands exactly how much of the "creation" was handled by a machine versus a human.
+Maintaining transparency isn't just about following the letter of the law; it is about protecting your shop from the "Item Not as Described" claims that Etsy’s automated systems prioritize. In 2026, Etsy’s [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) require that the buyer understands exactly how much of the "creation" was handled by a machine versus a human.
 
 ### Listing Description Disclosures
 
@@ -178,7 +178,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Etsy Creativity Standards (Official)
+*   [Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) (Official)
 *   Etsy Seller Policy: What can be sold
 *   [Etsy Help Center: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop)
 *   Etsy Prohibited Items Policy

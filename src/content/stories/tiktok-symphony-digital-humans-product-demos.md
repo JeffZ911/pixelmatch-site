@@ -105,7 +105,7 @@ Follow this checklist to implement a high-volume AI video pipeline for your own 
 1.  **Capture Base Assets:** Shoot 10-15 photos of your product using a modern smartphone. Ensure you have "hero" shots, texture shots (for creams or liquids), and shots of the product being held.
 2.  **Clean with PixelMatch:** Upload your photos to PixelMatch. Use the batch removal tool to strip backgrounds and apply a "Studio Lighting" filter. Set your export aspect ratio to 9:16 to match TikTok's vertical video requirements.
 3.  **Access Symphony:** Log into your TikTok Ads Manager account and navigate to the "Creative Tools" section. Select "[Symphony Digital](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) Humans."
-4.  **Select Your Avatar:** Choose a digital human that matches your target customer persona. For beauty, sellers often find higher engagement with avatars that appear to be in the 18-35 age range.
+4.  **Select Your Avatar:** Choose a [digital human](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) that matches your target customer persona. For beauty, sellers often find higher engagement with avatars that appear to be in the 18-35 age range.
 5.  **Input Script and Assets:** Paste a 15-30 second script. Upload your PixelMatch-enhanced images as "Product Overlays" or "Backgrounds."
 6.  **Review and Tag:** Check the "AI-Generated Content" label during the upload process to comply with TikTok's 2024 transparency policies.
 7.  **Launch as a VSA:** Deploy the video as a Video Shopping Ad (VSA) targeting your "Complete Payment" event.
@@ -115,7 +115,7 @@ Follow this checklist to implement a high-volume AI video pipeline for your own 
 ![Caveats and Honest Limitations](/img/tiktok-symphony-digital-humans-product-demos/inline-6.webp)
 
 
-Acknowledge that while tiktok symphony digital humans for product demos are efficient, they are not a total replacement for human connection. The "Uncanny Valley" effect—where an AI looks almost human but feels slightly "off"—can still occur if the script is too robotic or the product images are poorly integrated.
+Acknowledge that while tiktok [symphony digital](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) humans for product demos are efficient, they are not a total replacement for human connection. The "Uncanny Valley" effect—where an AI looks almost human but feels slightly "off"—can still occur if the script is too robotic or the product images are poorly integrated.
 
 TikTok’s policy on labeling AI-generated content is strict. Every video produced through Symphony will carry a small "AI-generated" tag. While this doesn't necessarily hurt ROAS, it does change the viewer's expectations. Highly skeptical beauty audiences may still want to see "real" skin textures and authentic, unedited results.
 

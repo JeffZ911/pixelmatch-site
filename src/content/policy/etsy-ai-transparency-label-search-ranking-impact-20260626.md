@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Failing to label your AI-enhanced listings doesn't just confuse buyers; it triggers Etsy’s search algorithm to bury your shop under thousands of compliant competitors. As of June 2026, Etsy’s automated enforcement of AI transparency is no longer a suggestion—it is a core component of your listing’s quality score.
+Failing to label your AI-enhanced listings doesn't just confuse buyers; it triggers Etsy’s search algorithm to bury your shop under thousands of compliant competitors. As of June 2026, Etsy’s automated enforcement of [AI transparency](https://pixelmatch.art/blog/policy/new-2026-ai-transparency-laws-for-sellers) is no longer a suggestion—it is a core component of your listing’s quality score.
 
 ## Quick Reference Table
 
@@ -50,7 +50,7 @@ Audit your current shop listings against the 2026 disclosure table below to iden
 ![Detailed Requirements](/img/etsy-ai-transparency-label-search-ranking-impact-20260626/inline-2.webp)
 
 
-Check your "About" section and listing descriptions for the keyword "AI" or "Artificial Intelligence" to ensure compliance with Etsy's Creativity Standards. Etsy’s 2026 enforcement focuses on the "Human-Centric" marketplace. While the platform allows AI as a tool, it requires that the final product be the result of a seller's creative spark.
+Check your "About" section and listing descriptions for the keyword "AI" or "Artificial Intelligence" to ensure compliance with Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study). Etsy’s 2026 enforcement focuses on the "Human-Centric" marketplace. While the platform allows AI as a tool, it requires that the final product be the result of a seller's creative spark.
 
 According to the [Etsy Seller Handbook](https://www.etsy.com/seller-handbook/article/1275449912004), transparency is mandatory when AI is used to create the actual item or the primary listing imagery. This means if you use a tool to generate a digital print, you must disclose it. If you use a tool like PixelMatch to generate a lifestyle scene for a physical ceramic mug, you must disclose that the *background* is AI-generated, even if the mug itself is a real physical object you photographed.
 

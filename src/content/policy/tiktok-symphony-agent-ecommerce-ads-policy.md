@@ -142,7 +142,7 @@ To get the best results, export your images from PixelMatch in the 1080 x 1920 p
 *   TikTok For Business Blog: Introducing Symphony Agent
 *   TikTok Advertising Policies: Ad Format and Functionality
 *   TikTok For Business Blog: Announcing Symphony [Creative Studio](https://pixelmatch.art/blog/stories/amazon-creative-studio-ai-image-editing-guide)
-*   TikTok For Business Blog: Meet TikTok Symphony
+*   TikTok For Business Blog: Meet [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos)
 
 
 <!-- pm-cta:foot -->

@@ -109,7 +109,7 @@ To clear a shadowban, you must demonstrate "good faith" compliance.
 1.  **Delete or Edit:** Go to "Manage Products" and identify listings with low engagement.
 2.  **Update Disclosure:** Toggle the "AI-generated content" switch to "On."
 3.  **Resubmit:** Save the changes. 
-According to Rewarx, it typically takes **7 to 14 days** for the system to re-crawl your shop and restore your trust score. During this period, avoid uploading any new high-risk AI content.
+According to Rewarx, it typically takes **7 to 14 days** for the system to re-crawl your shop and restore your trust score. During this period, avoid uploading any new high-risk [AI content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026).
 
 ### Correcting Image Specs for Batch Listings
 Manual editing is impossible for sellers with hundreds of SKUs. To fix image specs at scale:
