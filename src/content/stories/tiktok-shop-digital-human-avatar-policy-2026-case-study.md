@@ -155,7 +155,7 @@ This is the most critical step for account safety. In the TikTok Seller Center o
 While AI avatars and batch-generated images offer massive scale, they are not a "set it and forget it" solution.
 
 ### Physical Demonstrations
-[Digital human](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) avatars in 2026 still struggle with complex physical interactions. An AI avatar can talk about a face cream, but it cannot convincingly show the *texture* of the cream as it blends into skin. For products where "touch and feel" are the primary selling points, you should still supplement your AI content with occasional human-led UGC (User Generated Content).
+[Digital human](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703) avatars in 2026 still struggle with complex physical interactions. An AI avatar can talk about a face cream, but it cannot convincingly show the *texture* of the cream as it blends into skin. For products where "touch and feel" are the primary selling points, you should still supplement your [AI content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) with occasional human-led UGC (User Generated Content).
 
 ### Moderation Requirements
 Running a 24/7 AI live stream does not mean you can ignore the comments. TikTok's community guidelines still apply. You will need a human moderator (or a sophisticated AI moderation bot) to monitor the chat for spam, bullying, or specific customer service questions that the avatar script doesn't cover.

@@ -67,7 +67,7 @@ Furthermore, GPT Image 2.0’s spatial logic is its "killer feature" for multi-p
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your projected monthly SKU volume before committing to an API tier, as the price difference between a single-product seller and a catalog-wide refresh can reach thousands of dollars.

@@ -117,7 +117,7 @@ Check your "Category" settings for every AI-generated listing. If you see "Photo
 
 Verify these policies directly on the official platform pages to ensure your shop stays ahead of future algorithm updates.
 
-*   Etsy's Creativity Standards (Official Legal Document)
+*   Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) (Official Legal Document)
 *   Etsy's Listing Image Requirements and Prohibitions
 *   [Etsy Help: What is Etsy's stance on AI creations?](https://help.etsy.com/hc/en-us/articles/16666696670871-What-is-Etsy-s-stance-on-AI-creations-)
 *   New York State Assembly Bill A8887B (Synthetic Performer Disclosure)

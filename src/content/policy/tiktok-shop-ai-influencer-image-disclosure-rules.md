@@ -76,7 +76,7 @@ On TikTok Shop, this means:
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Compare your AI-generated lifestyle shots against a physical sample of your product to ensure the AI hasn't "improved" the item's features beyond reality. TikTok Shop's primary goal is to reduce the "Product Not As Described" (PNAD) rate. If your AI tool adds a premium matte finish to a product that is actually shiny plastic, you are in violation of the TikTok Shop Content Policy.
+Compare your AI-generated lifestyle shots against a physical sample of your product to ensure the AI hasn't "improved" the item's features beyond reality. TikTok Shop's primary goal is to reduce the "Product Not As Described" (PNAD) rate. If your AI tool adds a premium matte finish to a product that is actually shiny plastic, you are in violation of the TikTok Shop [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026).
 
 ### Modifying the Core Product
 
