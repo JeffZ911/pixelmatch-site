@@ -139,7 +139,7 @@ To stay compliant as TikTok updates its Creator Center throughout 2026, bookmark
 
 *   **TikTok Shop Seller Help Center:** The definitive source for [image specs](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-lightning-deal-image-specs) and listing policies.
 *   **TikTok For Business Catalog Best Practices:** Guidance on optimizing images for TikTok Ads and Shop.
-*   **TikTok Shop Content Policy:** Detailed rules on prohibited items and AIGC disclosures.
+*   **TikTok Shop [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026):** Detailed rules on prohibited items and AIGC disclosures.
 *   **TikTok Academy:** Official training modules for improving product click-through rates (CTR).
 
 

@@ -150,7 +150,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 *    (TikTok Shop Image Guidelines)
-*    (AIGC Disclosure Policy 2026)
+*    (AIGC [Disclosure Policy](https://pixelmatch.art/blog/policy/etsy-ai-disclosure-policy-handmade-sellers) 2026)
 *   https://www.photoroom.com/pricing (Photoroom Pricing)
 *   https://pebblely.com/pricing (Pebblely Pricing)
 *   https://www.canva.com/pricing (Canva Pro Pricing)

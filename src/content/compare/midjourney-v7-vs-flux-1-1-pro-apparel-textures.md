@@ -68,7 +68,7 @@ Choosing between these models requires balancing raw image quality against the t
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Your choice of AI model directly impacts your per-SKU production cost. For a store with 500 products, a subscription model might be cheaper, but for a store with 5,000 products, API efficiency becomes the primary driver.

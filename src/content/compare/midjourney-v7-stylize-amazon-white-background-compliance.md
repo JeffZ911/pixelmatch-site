@@ -166,4 +166,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/1881)
 *   Midjourney Documentation: Stylize Parameter
 *   Eesel.ai: Midjourney Pricing Guide 2026
-*   YouTube: Midjourney v7 Feature Overview
+*   YouTube: [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-for-amazon-product-photography-20260704) Feature Overview

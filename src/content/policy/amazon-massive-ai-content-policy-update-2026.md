@@ -111,7 +111,7 @@ Audit your catalog immediately. If you have thousands of SKUs, prioritize your "
 
 If you find that your main images are being suppressed for background issues, don't re-shoot the entire catalog. Use PixelMatch's batch background removal feature. 
 
-**Steps to Update AI Disclosure in Seller Central:**
+**Steps to Update [AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) in Seller Central:**
 1.  Log in to [Seller Central](https://sellercentral.amazon.com/).
 2.  Navigate to **Catalog** > **Add Products** or **Inventory** > **Manage All Inventory**.
 3.  Search for the ASIN you need to update and click **Edit**.

@@ -28,7 +28,7 @@ Seeing your top-selling listing suddenly "Search Suppressed" because of an undis
 
 # Amazon AI Disclosure Label Appeal Process: How to Reinstate Your Listing
 
-If Amazon suppresses your listing for undisclosed AI content, you must check the 'AI-generated content' box in Seller Central, remove any images that fabricate the physical product, and submit an appeal through the Account Health dashboard.
+If Amazon suppresses your listing for undisclosed [AI content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026), you must check the 'AI-generated content' box in Seller Central, remove any images that fabricate the physical product, and submit an appeal through the Account Health dashboard.
 
 ## Quick Reference Table
 

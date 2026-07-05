@@ -38,7 +38,7 @@ Etsy requires sellers to explicitly disclose the use of AI within their listing 
 *Related: [Amazon Massive AI Content Policy Update 2026 Guide](/blog/policy/amazon-massive-ai-content-policy-update-2026) · [New 2026 AI Transparency Laws for Sellers: Complete Guide](/blog/policy/new-2026-ai-transparency-laws-for-sellers) · [TikTok Shop AI Generated Label Shadowban Fix (2026)](/blog/policy/tiktok-shop-ai-generated-label-shadowban-fix-20260703)*
 
 
-Audit your current shop inventory against this checklist to ensure every listing aligns with the Etsy Creativity Standards.
+Audit your current shop inventory against this checklist to ensure every listing aligns with the [Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study).
 
 | Feature/Item Type | Policy Status | Requirement |
 | :--- | :--- | :--- |
@@ -50,14 +50,14 @@ Audit your current shop inventory against this checklist to ensure every listing
 | **Listing Category** | Mandatory | Must select "Designed by me" rather than "Made by me" for AI-generated digital items. |
 
 ### Summary of 2026 Enforcement
-Etsy's Creativity Standards emphasize that for an item to be sold on the platform, it must involve human creativity. While AI is a tool in that process, the seller must be the one driving the tool through original prompts. Automated systems now scan listing descriptions and metadata for keywords related to artificial intelligence; if the system identifies AI-generated content without a corresponding disclosure, the listing is flagged for review or automatic removal.
+Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) emphasize that for an item to be sold on the platform, it must involve human creativity. While AI is a tool in that process, the seller must be the one driving the tool through original prompts. Automated systems now scan listing descriptions and metadata for keywords related to artificial intelligence; if the system identifies AI-generated content without a corresponding disclosure, the listing is flagged for review or automatic removal.
 
 ## Detailed Requirements: Master the "Designed by a Seller" Category
 
 ![Detailed Requirements: Master the "Designed by a Seller" Category](/img/etsy-ai-disclosure-policy-handmade-sellers/inline-2.webp)
 
 
-To maintain your shop's "Handmade" status while using AI, you must navigate the distinction between physical crafting and digital design. Under the Etsy Creativity Standards, any item generated via AI tools like Midjourney or DALL-E is classified as **"Designed by a seller"**, not "Made by a seller." 
+To maintain your shop's "Handmade" status while using AI, you must navigate the distinction between physical crafting and digital design. Under the [Etsy Creativity](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) Standards, any item generated via AI tools like Midjourney or DALL-E is classified as **"Designed by a seller"**, not "Made by a seller." 
 
 ### The "Designed by a Seller" Category
 When you create a listing, Etsy asks "Who made it?" In the dropdown menu, you have three choices: "I did," "A member of my shop," or "Another company or person." If you used AI to generate the core artwork, you must select "I did," but clarify in the subsequent attributes that it is a design rather than a physically handmade object. 
@@ -65,7 +65,7 @@ When you create a listing, Etsy asks "Who made it?" In the dropdown menu, you ha
 The core requirement is human input. Etsy explicitly states that the seller must use their own original prompts to generate the work. Using a tool to "spin" or copy someone else's prompt or using a "one-click" generator that doesn't allow for specific creative direction may fall outside these standards.
 
 ### Disclosure Placement Rules
-You must place your AI disclosure within the listing description. There is no specific "AI checkbox" in the listing manager as of mid-2026; instead, Etsy relies on factual statements within the text. 
+You must place your [AI disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) within the listing description. There is no specific "AI checkbox" in the listing manager as of mid-2026; instead, Etsy relies on factual statements within the text. 
 
 A compliant disclosure should be:
 1.  **Visible:** Don't hide it at the very bottom of a 2,000-word description.

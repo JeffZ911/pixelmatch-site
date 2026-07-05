@@ -27,7 +27,7 @@ Struggling with "image upload failed" errors or watching your handmade items sin
 > ⚠️ **Notice:** Auto-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-19._
 
 
-Etsy’s marketplace algorithm treats [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) as a core ranking signal. If your files are too small, they won't trigger the zoom function; if they are too large, they timeout during the mobile upload process. For handmade sellers, the stakes are higher: Etsy’s 2026 "Originality Policy" specifically targets listings that use overly polished 3D renderings or stock photography for the primary image slot. To maintain your "Handmade" badge and avoid shop suspension, you must balance high-resolution technical specs with authentic, real-world photography.
+Etsy’s marketplace algorithm treats [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix) as a core ranking signal. If your files are too small, they won't trigger the zoom function; if they are too large, they timeout during the mobile upload process. For [handmade sellers](https://pixelmatch.art/blog/policy/etsy-ai-disclosure-policy-handmade-sellers), the stakes are higher: Etsy’s 2026 "Originality Policy" specifically targets listings that use overly polished 3D renderings or stock photography for the primary image slot. To maintain your "Handmade" badge and avoid shop suspension, you must balance high-resolution technical specs with authentic, real-world photography.
 
 ## Quick Reference Table
 

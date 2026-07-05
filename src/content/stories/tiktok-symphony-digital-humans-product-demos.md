@@ -100,7 +100,7 @@ The most significant impact was on the brand's "Winner Rate." In the traditional
 ![Steps to Replicate](/img/tiktok-symphony-digital-humans-product-demos/inline-5.webp)
 
 
-Follow this checklist to implement a high-volume AI video pipeline for your own TikTok Shop storefront.
+Follow this checklist to implement a high-volume [AI video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial) pipeline for your own TikTok Shop storefront.
 
 1.  **Capture Base Assets:** Shoot 10-15 photos of your product using a modern smartphone. Ensure you have "hero" shots, texture shots (for creams or liquids), and shots of the product being held.
 2.  **Clean with PixelMatch:** Upload your photos to PixelMatch. Use the batch removal tool to strip backgrounds and apply a "Studio Lighting" filter. Set your export aspect ratio to 9:16 to match TikTok's vertical video requirements.

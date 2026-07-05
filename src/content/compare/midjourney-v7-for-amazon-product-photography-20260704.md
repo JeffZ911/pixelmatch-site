@@ -68,7 +68,7 @@ Midjourney requires complex prompting to achieve specific aspect ratios and comp
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your "Cost Per Usable Image" by dividing your monthly subscription fee by the number of images that actually pass your internal QA and get uploaded to Seller Central. For many sellers using Midjourney, this cost is higher than it appears due to the "prompt tax"—the time spent generating dozens of unusable images to find one that doesn't hallucinate your logo.
