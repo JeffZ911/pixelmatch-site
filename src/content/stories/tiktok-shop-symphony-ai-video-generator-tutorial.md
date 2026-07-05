@@ -69,7 +69,7 @@ Lock your asset aspect ratio to 9:16 before you begin any AI generation to ensur
 
 The first phase involved cleaning up raw manufacturer photos. Using PixelMatch, the seller could generate high-resolution, 9:16 lifestyle product images from basic white-background shots. Instead of a sterile bottle of serum against a white void, PixelMatch placed the product in a high-end marble bathroom or a sun-drenched vanity setting. This step is critical because [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos)’s video generator performs best when the source image already matches the desired "vibe" of the final ad.
 
-Next, the seller utilized the TikTok Symphony Creative Studio, a toolset that is currently free for logged-in TikTok for Business users. By feeding the PixelMatch-enhanced images into Symphony's "Image-to-Video" generator, they could add dynamic motion, AI-generated voiceovers, and trending transitions. This workflow bypassed the need for a physical camera entirely.
+Next, the seller utilized the [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos) Creative Studio, a toolset that is currently free for logged-in TikTok for Business users. By feeding the PixelMatch-enhanced images into Symphony's "Image-to-Video" generator, they could add dynamic motion, AI-generated voiceovers, and trending transitions. This workflow bypassed the need for a physical camera entirely.
 
 | Feature | Old Workflow (Freelance) | AI Workflow (PixelMatch + Symphony) |
 | :--- | :--- | :--- |

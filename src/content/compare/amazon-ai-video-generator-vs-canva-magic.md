@@ -117,7 +117,7 @@ Both generators animate existing assets rather than creating perfect product sho
 ![Recommendation](/img/amazon-ai-video-generator-vs-canva-magic/inline-6.webp)
 
 
-Establish a "Batch-First" workflow by using PixelMatch to generate 50 clean, professional product-on-white and lifestyle shots before you even open a video generator. This ensures you have a deep library of assets to test in different video formats.
+Establish a "Batch-First" workflow by using PixelMatch to generate 50 clean, professional product-on-white and lifestyle shots before you even open a [video generator](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial). This ensures you have a deep library of assets to test in different video formats.
 
 1.  **Use [Amazon AI](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Video Generator** if your goal is to launch a Sponsored Brands campaign today. It is the path of least resistance for FBA sellers and ensures your ads won't be rejected for technical spec violations.
 2.  **Use Canva Pro** if you are building a brand identity outside of Amazon. Use its 500 monthly credits to create experimental "lifestyle" clips for social media where a polished, non-corporate look is more effective.

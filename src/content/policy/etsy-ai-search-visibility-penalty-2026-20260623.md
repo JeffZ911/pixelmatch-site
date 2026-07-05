@@ -96,7 +96,7 @@ Common errors include:
 Apply the "AI-generated" attribute to all listings using synthetic backgrounds through the "Bulk Edit" tool in your Shop Manager to save time and restore search rankings across your catalog.
 
 ### Auditing Your Catalog
-Start by identifying every listing that utilizes AI-enhanced mockups or generated backgrounds. For each of these, you must update the metadata to include the AI disclosure flag. This is not an admission of low quality; rather, it is a signal of compliance that the algorithm rewards with stable indexing.
+Start by identifying every listing that utilizes AI-enhanced mockups or generated backgrounds. For each of these, you must update the metadata to include the [AI disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) flag. This is not an admission of low quality; rather, it is a signal of compliance that the algorithm rewards with stable indexing.
 
 If you are selling AI-[generated art](https://pixelmatch.art/blog/policy/etsy-ai-generated-art-transparency-requirements-2026), move these items out of the "Photography" category and into "Digital Downloads" or "Wall Art." This ensures your items are indexed correctly for buyers specifically looking for digital creations. Once moved, you may see a temporary fluctuation in traffic as the algorithm re-categorizes the item, but it will eventually settle into a more sustainable and "safe" search position.
 

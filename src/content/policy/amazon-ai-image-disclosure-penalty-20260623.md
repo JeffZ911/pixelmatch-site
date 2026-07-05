@@ -155,7 +155,7 @@ Failure to disclose can lead to "Search Suppression," meaning your product will 
 Yes, if the infographic uses AI-generated lifestyle elements or synthetic humans, it must be disclosed. However, if the infographic only uses text, icons, and your original product photography with a flat color background, it does not require an AI [disclosure label](https://pixelmatch.art/blog/stories/tiktok-shop-ai-thumbnail-disclosure-label-bug).
 
 ### Can I use AI-generated models for Amazon Fashion listings?
-You can use AI models, but you must comply with both Amazon's disclosure policy and state laws like New York's S7422G. This requires checking the "AI-Generated" box in the backend and, in many cases, adding a visible "AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621)" disclaimer on the photo to avoid legal and platform penalties.
+You can use AI models, but you must comply with both Amazon's [disclosure policy](https://pixelmatch.art/blog/policy/etsy-ai-disclosure-policy-handmade-sellers) and state laws like New York's S7422G. This requires checking the "AI-Generated" box in the backend and, in many cases, adding a visible "AI-[generated image](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621)" disclaimer on the photo to avoid legal and platform penalties.
 
 
 <!-- pm-cta:foot -->

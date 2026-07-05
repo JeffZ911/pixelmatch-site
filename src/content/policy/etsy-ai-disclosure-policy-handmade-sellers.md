@@ -91,7 +91,7 @@ Furthermore, be aware of state-specific laws. New York’s Senate Bill A8887 (an
 Etsy’s automated compliance audits are designed to catch transparency gaps. Even if you aren't trying to deceive buyers, a simple omission can trigger a flag.
 
 ### Missing Disclosure
-The most common reason for a takedown is simply forgetting the text disclosure. If your listing images look "too perfect" (a common trait of AI-generated art) and your description contains no mention of AI, Etsy’s system may flag the item for a Creativity Standards violation. 
+The most common reason for a takedown is simply forgetting the text disclosure. If your listing images look "too perfect" (a common trait of AI-generated art) and your description contains no mention of AI, Etsy’s system may flag the item for a [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) violation. 
 
 ### The "Prompt Bundle" Ban
 A significant number of sellers have had their shops closed for trying to sell collections of AI prompts. Etsy’s prohibited items policy is clear: you cannot sell "AI prompt bundles." Etsy views these as "tools" or "instructions" that do not meet the criteria for a handmade or designed item. If you want to sell digital products, sell the *output* of your creativity (the art, the template, the resource), not the strings of text used to generate them.
@@ -148,7 +148,7 @@ Etsy’s policies are subject to change based on quarterly "Seller Updates." Boo
 
 | Resource | Link | Key Information |
 | :--- | :--- | :--- |
-| **Etsy Creativity Standards** | View Legal Doc | Definitions of "Seller-Prompted AI" and "Designed by" rules. |
+| **[Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study)** | View Legal Doc | Definitions of "Seller-Prompted AI" and "Designed by" rules. |
 | **Etsy Fee Schedule** | View Fees | Current $0.20 listing fee and 6.5% transaction fee. |
 | **Image Requirements** | [View Specs](https://help.etsy.com/hc/en-us/articles/115015663347) | [2000px](https://help.etsy.com/hc/en-us/articles/115015663347) recommendation and file size limits. |
 | **NY Senate Bill A8887** | View Legislation | Legal requirements for disclosing synthetic media/AI humans. |
@@ -157,7 +157,7 @@ Etsy’s policies are subject to change based on quarterly "Seller Updates." Boo
 ## Frequently Asked Questions
 
 ### Do I need to disclose if I only used AI for background removal?
-No, basic photo editing—such as removing a background, adjusting brightness, or color correction—does not typically require an AI disclosure under the Etsy Creativity Standards. Disclosure is required when the AI is used to *generate* the creative content of the item or the primary lifestyle mockup.
+No, basic photo editing—such as removing a background, adjusting brightness, or color correction—does not typically require an [AI disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) under the [Etsy Creativity](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) Standards. Disclosure is required when the AI is used to *generate* the creative content of the item or the primary lifestyle mockup.
 
 ### Can I sell AI-generated prompts if I label them as "Digital Tools"?
 No. Etsy has a strict ban on selling AI prompt bundles. Even if you categorize them as digital tools, they are frequently flagged and removed because they do not meet the platform's definition of a handmade or designed item.

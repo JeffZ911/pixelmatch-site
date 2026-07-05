@@ -140,7 +140,7 @@ Stop using "Text-to-Image" for your main listings. Switch to an "Image-to-Image"
 
 To stay ahead of policy shifts, you must monitor the official TikTok Shop documentation. Third-party blogs often lag behind the rapid updates to the Seller Center.
 
-*   Bookmark the TikTok Shop Content Policy to track the latest rules on "Misleading Claims" and "Prohibited Promotional Behavior."
+*   Bookmark the TikTok Shop [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) to track the latest rules on "Misleading Claims" and "Prohibited Promotional Behavior."
 *   Review the AI-Generated Content Restrictions and Requirements for the exact 2026 updates on AIGC watermarking and labeling.
 *   Check the Product Listing Guidelines to understand how the number of images and resolution affects your "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)."
 *   Monitor the TikTok Shop Violation Points System to see which image-related errors carry the heaviest penalties.

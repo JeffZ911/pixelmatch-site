@@ -109,7 +109,7 @@ Fixing these issues doesn't require a professional studio. It requires a standar
 
 If you have already removed the background from your product photos and are stuck with transparent files, do not upload them as-is. You need to place them on a solid or lifestyle background. 
 
-While tools like Remove.bg or Canva are popular for simple white backgrounds, handmade sellers often need more context to justify their price points. You can use PixelMatch to **batch-generate realistic lifestyle backgrounds** behind your products. This ensures your images have a solid background (avoiding the black glitch) while maintaining the "Handmade Policy" by using your original product photo as the core asset. Unlike generic AI generators, PixelMatch is designed for the ecommerce workflow, allowing you to process an entire collection in minutes rather than editing photos one by one.
+While tools like Remove.bg or Canva are popular for simple white backgrounds, [handmade sellers](https://pixelmatch.art/blog/policy/etsy-ai-disclosure-policy-handmade-sellers) often need more context to justify their price points. You can use PixelMatch to **batch-generate realistic lifestyle backgrounds** behind your products. This ensures your images have a solid background (avoiding the black glitch) while maintaining the "Handmade Policy" by using your original product photo as the core asset. Unlike generic AI generators, PixelMatch is designed for the ecommerce workflow, allowing you to process an entire collection in minutes rather than editing photos one by one.
 
 ### Compressing Large Files
 
