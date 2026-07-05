@@ -124,7 +124,7 @@ Before uploading to Amazon, visit contentcredentials.org/verify and upload your 
 
 ### 4. File the "Provenance-Based" Appeal
 Open a case in Seller Central under "Account Health" > "Listing Policy Violations." Use the following template:
-> "We are appealing the AI Disclosure Label on ASIN [Your ASIN]. This image is 'AI-assisted' for background removal only and is not 'AI-generated.' The core product is a real photograph of our physical inventory. You can verify the digital provenance and C2PA metadata manifest at this link: [Insert your Content Credentials Verify URL]. This proof confirms the image originated from a [Your Camera Model] on [Date]."
+> "We are appealing the [AI Disclosure Label](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) on ASIN [Your ASIN]. This image is 'AI-assisted' for background removal only and is not 'AI-generated.' The core product is a real photograph of our physical inventory. You can verify the digital provenance and C2PA metadata manifest at this link: [Insert your Content Credentials Verify URL]. This proof confirms the image originated from a [Your Camera Model] on [Date]."
 
 **Actionable Step:** Save this appeal template in your brand's "Amazon SOP" folder. Having a pre-written response reduces the downtime of a suppressed listing.
 
@@ -135,7 +135,7 @@ Open a case in Seller Central under "Account Health" > "Listing Policy Violation
 
 While metadata is a powerful tool for proving an image is real, it is not a "get out of jail free" card for deceptive practices. Amazon’s 2026 enforcement is part of a broader industry shift toward transparency, and there are several scenarios where an appeal will fail regardless of your metadata.
 
-*   **Substantial Alterations:** If you use AI to change the color of a lipstick, the texture of a cream, or the size of a bottle, Amazon considers this "AI-generated" because the physical attributes of the product have been digitally manufactured. In these cases, the disclosure label is legally required and cannot be appealed.
+*   **Substantial Alterations:** If you use AI to change the color of a lipstick, the texture of a cream, or the size of a bottle, Amazon considers this "AI-generated" because the physical attributes of the product have been digitally manufactured. In these cases, the [disclosure label](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) is legally required and cannot be appealed.
 *   **The "Synthetic Human" Rule:** Under New York’s S.8420-A, if your lifestyle images use AI-generated models, you must disclose this. Even if the product in the model's hand is real, the presence of a "synthetic performer" triggers mandatory labeling in many jurisdictions.
 *   **Seller Support Latency:** Even with perfect C2PA proof, Amazon’s manual review process is not instantaneous. It can take 5 to 10 business days for a human representative to verify the metadata and manually remove a label. During this time, your CTR will likely remain suppressed.
 *   **Platform Variance:** While PixelMatch helps with Amazon compliance, other platforms have different thresholds. For example, TikTok Shop requires AI labels for any content that looks realistic but was created with AI, even if it's just a background. Always check the specific "Help" documentation for each marketplace you sell on.

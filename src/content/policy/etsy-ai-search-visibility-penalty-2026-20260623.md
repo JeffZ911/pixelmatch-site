@@ -107,7 +107,7 @@ To avoid these issues in the future, use PixelMatch to **batch-generate complian
 
 | Action Item | Frequency | Tool/Method |
 | :--- | :--- | :--- |
-| **Check AI Disclosure Flag** | Every new listing | Etsy Shop Manager |
+| **Check [AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) Flag** | Every new listing | Etsy Shop Manager |
 | **Verify Category Taxonomy** | Monthly audit | Bulk Edit Tool |
 | **Update Synthetic Model Badges** | As needed | Image Editor (Canva/Adobe) |
 | **Generate Compliant Backgrounds** | Per product launch | PixelMatch |

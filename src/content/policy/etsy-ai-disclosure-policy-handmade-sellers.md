@@ -163,7 +163,7 @@ No, basic photo editing—such as removing a background, adjusting brightness, o
 No. Etsy has a strict ban on selling AI prompt bundles. Even if you categorize them as digital tools, they are frequently flagged and removed because they do not meet the platform's definition of a handmade or designed item.
 
 ### What happens if I don't disclose AI use and Etsy finds out?
-Etsy uses automated listing audits to identify potential policy violations. If a listing is found to be in violation of the Creativity Standards, the listing may be deactivated, and your shop could be subject to a "Final Warning" or permanent suspension depending on your shop's history.
+Etsy uses automated listing audits to identify potential policy violations. If a listing is found to be in violation of the [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study), the listing may be deactivated, and your shop could be subject to a "Final Warning" or permanent suspension depending on your shop's history.
 
 ### Is PixelMatch's background generator compliant with Etsy's 2026 rules?
 Yes. PixelMatch is designed for ecommerce compliance. By keeping the actual product photo untouched and only generating the background, it ensures your images are "accurate representations" of the product, which is the primary requirement for [Etsy listing images](https://help.etsy.com/hc/en-us/articles/115015663347).

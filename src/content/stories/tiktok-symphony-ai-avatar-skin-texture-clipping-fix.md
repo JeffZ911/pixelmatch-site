@@ -156,6 +156,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Image and Video Sizes 2026:
 *   Social Media File Size Limits 2026:
 *   Photoroom Pricing: https://photoroom.com/pricing
-*   TikTok AIGC Disclosure Policy: https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content-label
+*   TikTok AIGC [Disclosure Policy](https://pixelmatch.art/blog/policy/etsy-ai-disclosure-policy-handmade-sellers): https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content-label
 *   TikTok Ads Specifications: https://ads.tiktok.com/help/article/video-ads-specifications
 *   TikTok Shop Seller Fees:

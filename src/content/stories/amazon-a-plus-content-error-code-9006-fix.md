@@ -134,7 +134,7 @@ Export your final assets as JPGs. While PNGs are great for logos, they are ineff
 ![Caveats and Honest Limitations](/img/amazon-a-plus-content-error-code-9006-fix/inline-6.webp)
 
 
-Acknowledge that technical optimization is only half the battle; you must still adhere to Amazon's editorial standards. PixelMatch handles the image generation and formatting perfectly, but it cannot bypass Amazon's manual content policy reviews.
+Acknowledge that technical optimization is only half the battle; you must still adhere to Amazon's editorial standards. PixelMatch handles the image generation and formatting perfectly, but it cannot bypass Amazon's manual [content policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) reviews.
 
 Amazon prohibits certain types of text and claims within A+ Content images. For instance, you cannot include promotional phrases like "affordable," "bonus," or "free" [within the image assets](https://sellercentral.amazon.com/help/hub/reference/GQRPP79X966779JQ). If you use AI to generate text overlays that include these restricted words, Amazon's manual review team will reject the module within 24-48 hours, even if the file size and resolution are technically perfect.
 

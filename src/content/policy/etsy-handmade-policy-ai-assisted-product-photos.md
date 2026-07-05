@@ -38,7 +38,7 @@ Audit your shop's inventory against the following compliance matrix to determine
 | **Physical Handmade** | Real photo of the actual item | Permitted | Prohibited | No (for editing) |
 | **Personalized Items** | [Finished, customized prototype](https://help.etsy.com/hc/en-us/articles/360000336367-How-to-Offer-Personalized-Listings) | Permitted | Prohibited as primary image | No (for editing) |
 | **Print on Demand (POD)** | Mockup or real photo | Permitted | Permitted (as mockup) | Yes (Production Partner) |
-| **Digital AI Art** | AI-generated file | N/A | Permitted | Yes (AI Disclosure Tag) |
+| **Digital AI Art** | AI-generated file | N/A | Permitted | Yes ([AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) Tag) |
 | **Vintage Goods** | Real photo of the specific item | Permitted | Prohibited | No |
 
 **Actionable Step:** Open your Etsy Seller Dashboard, navigate to your "Active Listings," and flag any item where the first image is a computer-generated rendering of a physical product you have not yet manufactured. Replace these with high-resolution photos of physical prototypes by the end of your current business day.
