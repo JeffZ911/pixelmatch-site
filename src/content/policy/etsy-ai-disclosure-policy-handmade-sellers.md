@@ -100,7 +100,7 @@ A significant number of sellers have had their shops closed for trying to sell c
 If you use a generic AI generator to create a mockup of a person wearing a t-shirt, the AI might add a specific texture or a slightly different collar shape that your physical t-shirt doesn't have. If a buyer receives the shirt and notices it doesn't match the "AI model" photo, they can file a claim under the Etsy Purchase Protection Program. If Etsy sees a pattern of AI mockups that misrepresent the physical goods, they will remove the listings.
 
 ### Misclassified Production Partners
-If you generate an AI design and have it printed on a canvas by a third party, you are required to disclose that [production partner](https://help.etsy.com/hc/en-us/articles/360000336547-How-to-Disclose-Production-Partners). Failing to link your Printify or Printful account while selling "Handmade" AI art is a violation of the "Transparency" pillar of the Creativity Standards.
+If you generate an AI design and have it printed on a canvas by a third party, you are required to disclose that [production partner](https://help.etsy.com/hc/en-us/articles/360000336547-How-to-Disclose-Production-Partners). Failing to link your Printify or Printful account while selling "Handmade" AI art is a violation of the "Transparency" pillar of the [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study).
 
 ## How to Fix Each Issue: A Seller’s Recovery Plan
 
@@ -178,7 +178,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Etsy Creativity Standards: https://www.etsy.com/legal/creativity/
+*   [Etsy Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study): https://www.etsy.com/legal/creativity/
 *   Etsy Seller Fees: https://www.etsy.com/legal/fees/
 *   Etsy Image Requirements: https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop
 *   New York State Senate Bill A8887: https://www.nysenate.gov/legislation/bills/2025/A8887

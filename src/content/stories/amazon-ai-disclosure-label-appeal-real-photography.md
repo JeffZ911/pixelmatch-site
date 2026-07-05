@@ -104,14 +104,14 @@ By successfully appealing the [AI disclosure label](https://pixelmatch.art/blog/
 
 The most significant shift was the cost of scale. Instead of waiting three weeks for a studio to return a batch of photos, the brand was able to launch three new scent variations in a single afternoon. Because each image carried the necessary "AI-assisted" metadata, they bypassed the automated flagging system entirely.
 
-**Actionable Step:** Monitor your "Voice of the Customer" dashboard in Seller Central. If you see comments mentioning "fake looking photos" or "AI models," it is a leading indicator that your listing may soon be flagged for a disclosure label.
+**Actionable Step:** Monitor your "Voice of the Customer" dashboard in Seller Central. If you see comments mentioning "fake looking photos" or "AI models," it is a leading indicator that your listing may soon be flagged for a [disclosure label](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705).
 
 ## Steps to Replicate: Your 4-Step Appeal Strategy
 
 ![Steps to Replicate: Your 4-Step Appeal Strategy](/img/amazon-ai-disclosure-label-appeal-real-photography/inline-5.webp)
 
 
-If you are currently facing an incorrect AI disclosure label on Amazon, follow this specific workflow to prove the provenance of your real photography.
+If you are currently facing an incorrect [AI disclosure label](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) on Amazon, follow this specific workflow to prove the provenance of your real photography.
 
 ### 1. Capture the "Source of Truth"
 Do not start with a cropped or already-edited image. Take a raw photo of your physical product. Even a photo taken on a modern iPhone or Samsung device is sufficient, as these devices automatically embed complex EXIF data (GPS coordinates, timestamp, and hardware specs) that AI generators cannot perfectly replicate.

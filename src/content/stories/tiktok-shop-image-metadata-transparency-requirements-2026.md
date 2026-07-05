@@ -164,6 +164,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Shop Referral Fee Schedule
 *   Photoroom Pro Pricing and Features
 *   Batch Limits for AI Photo Editors
-*   TikTok [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) Disclosure Policy (May 2026)
+*   TikTok [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) [Disclosure Policy](https://pixelmatch.art/blog/policy/etsy-ai-disclosure-policy-handmade-sellers) (May 2026)
 *   Impact of Low-Quality AI Images on Cart Abandonment
 *   [TikTok Shop AI](https://pixelmatch.art/blog/stories/tiktok-shop-ai-thumbnail-disclosure-label-bug) Moderation Volume Statistics

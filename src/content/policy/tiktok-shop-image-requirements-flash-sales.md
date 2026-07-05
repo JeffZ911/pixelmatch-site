@@ -124,7 +124,7 @@ For LIVE Flash Deals, remember that the pre-launch countdown is fixed at 5 minut
 Stay updated on policy changes by frequently visiting the following official TikTok Shop Seller Center resources:
 
 *   TikTok Shop Seller Center: Product Listing Guidelines
-*   TikTok Shop Seller Center: Promotional Content Policy
+*   TikTok Shop Seller Center: Promotional [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026)
 *   TikTok Shop Seller Center: Seller Flash Sale Overview
 *   TikTok Shop Seller Center: [Image Quality Standards](https://pixelmatch.art/blog/policy/etsy-2026-search-update-image-quality-standards-20260622)
 

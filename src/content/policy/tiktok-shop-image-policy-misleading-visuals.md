@@ -150,7 +150,7 @@ As of May 2026, TikTok's "Created with AI" label is a toggle in the "Product Edi
 
 To stay updated on policy shifts, bookmark these official TikTok Shop Seller Center links. TikTok updates these documents frequently—often without a platform-wide announcement.
 
-*   [TikTok Shop Seller Center: Avoid Misleading Content Policy [1.1.1]](https://seller-us.tiktok.com/university/essay?knowledge_id=10010165)
+*   [TikTok Shop Seller Center: Avoid Misleading [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) [1.1.1]](https://seller-us.tiktok.com/university/essay?knowledge_id=10010165)
 *   TikTok Shop Seller Center: Product Detail Pages & Listing Quality Guidelines
 *   TikTok Shop Seller Center: AI-Generated Content Policy
 *   TikTok Shop Seller Academy: Image Specifications and Best Practices
