@@ -146,7 +146,7 @@ Bookmark the following official resources to track policy updates in real-time. 
 | Resource | Official Link |
 | :--- | :--- |
 | **TikTok Shop AIGC Policy** | Seller Academy - AIGC Rules |
-| **TikTok Shop Content Policy** | Seller Academy - Content Standards |
+| **TikTok Shop [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026)** | Seller Academy - Content Standards |
 | **Creator Enforcement Policy** | Seller Academy - Violation Points |
 | **AI Labeling Announcement** | TikTok Newsroom - May 2024 C2PA |
 | **Livestream Restrictions** | PYMNTS - June 2026 Report |

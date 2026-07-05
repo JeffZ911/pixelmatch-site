@@ -76,7 +76,7 @@ Upload your optimized PixelMatch images into the TikTok Ads Manager under the Sy
 Paste your high-converting sales script into the Symphony interface. The seller utilized the tool’s ability to speak over 30 languages to instantly create Spanish and French versions of their top-performing English ads. This allowed them to tap into the growing Spanish-speaking demographic on TikTok Shop US without hiring a bilingual creator.
 
 ### Step 4: Final Rendering and Ad Launch
-Generate the video and link it directly to the TikTok Shop Product Detail Page (PDP). By using PixelMatch to ensure the product lighting was consistent across all frames, the final AI video looked cohesive, bypassing the "low quality" flags that usually plague AI-generated content.
+Generate the video and link it directly to the TikTok Shop Product Detail Page (PDP). By using PixelMatch to ensure the product lighting was consistent across all frames, the final [AI video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial) looked cohesive, bypassing the "low quality" flags that usually plague AI-generated content.
 
 ## Results (with Numbers)
 

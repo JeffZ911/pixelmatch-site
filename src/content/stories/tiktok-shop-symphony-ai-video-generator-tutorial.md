@@ -65,7 +65,7 @@ The brand realized that "good enough" static images weren't stopping the scroll.
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Lock your asset aspect ratio to 9:16 before you begin any AI generation to ensure your product remains the focal point on mobile screens. The seller moved away from manual editing and adopted a two-step AI pipeline using PixelMatch for asset preparation and TikTok Symphony for video execution.
+Lock your asset aspect ratio to 9:16 before you begin any AI generation to ensure your product remains the focal point on mobile screens. The seller moved away from manual editing and adopted a two-step AI pipeline using PixelMatch for asset preparation and [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos) for video execution.
 
 The first phase involved cleaning up raw manufacturer photos. Using PixelMatch, the seller could generate high-resolution, 9:16 lifestyle product images from basic white-background shots. Instead of a sterile bottle of serum against a white void, PixelMatch placed the product in a high-end marble bathroom or a sun-drenched vanity setting. This step is critical because TikTok Symphony’s video generator performs best when the source image already matches the desired "vibe" of the final ad.
 

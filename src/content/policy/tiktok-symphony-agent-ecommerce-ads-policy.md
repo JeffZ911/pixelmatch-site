@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Scaling TikTok creative shouldn't feel like a gamble against the "Ad Rejected" notification. If you are managing a multi-platform store, you know that a single policy violation on a high-performing AI video can pause your revenue stream and tank your ROAS overnight.
+Scaling TikTok creative shouldn't feel like a gamble against the "Ad Rejected" notification. If you are managing a multi-platform store, you know that a single policy violation on a high-performing [AI video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial) can pause your revenue stream and tank your ROAS overnight.
 
 # TikTok Symphony Agent for Ecommerce Ads: 2026 Policy & Specs Guide
 
@@ -131,7 +131,7 @@ No. TikTok’s policy is strict regarding AI disclosure. If the content was gene
 Symphony Agent uses real-time safety filters. If your prompt includes prohibited keywords related to medical claims, weight loss, or restricted substances, the system will block the generation before it starts. Review the TikTok Advertising Policies to ensure your script and product category are eligible for AI-assisted creative.
 
 ### How do I ensure my PixelMatch images work with Symphony?
-To get the best results, export your images from PixelMatch in the 1080 x 1920 px vertical format. When you upload these to Symphony Agent, choose the "Custom Background" option. This allows the Symphony AI to focus its processing power on the avatar and animation rather than trying to fix a low-resolution or incorrectly sized background.
+To get the best results, export your images from PixelMatch in the 1080 x 1920 px vertical format. When you upload these to Symphony Agent, choose the "Custom Background" option. This allows the [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial) to focus its processing power on the avatar and animation rather than trying to fix a low-resolution or incorrectly sized background.
 
 ## Official Source Links
 

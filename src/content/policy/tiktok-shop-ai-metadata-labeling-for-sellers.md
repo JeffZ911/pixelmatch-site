@@ -143,7 +143,7 @@ Review these official resources weekly, as TikTok Shop policies are updated freq
 
 | Source Name | Link | Key Information |
 | :--- | :--- | :--- |
-| **TikTok Safety Center** | AI-Generated Content Policy | Definitions of "Significantly Edited" and labeling rules. |
+| **TikTok Safety Center** | AI-Generated [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) | Definitions of "Significantly Edited" and labeling rules. |
 | **TikTok Newsroom** | C2PA Implementation | Details on how TikTok detects Content Credentials. |
 | **TikTok Seller Center** | Product Image Guidelines | Pixel dimensions and "Product Not as Described" rules. |
 | **TikTok Community Guidelines** | Integrity and Authenticity | Rules on impersonation and fake expert claims. |

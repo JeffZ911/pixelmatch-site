@@ -60,7 +60,7 @@ Audit your current main images today using a simple RGB color picker tool to ens
 | **Compliance Check** | Manual; no built-in Amazon policy guardrails. | Built-in [Amazon Main Image](https://sellercentral.amazon.com/help/hub/reference/G1881) compliance modes. |
 | **Resolution** | Up to 2048x2048 (with upscaling). | Native [1600px+ output](https://sellercentral.amazon.com/help/hub/reference/G1881) for optimal zoom. |
 
-Midjourney requires complex prompting to achieve specific aspect ratios and compliance standards. For example, if you don't explicitly prompt for a "minimalist studio setting with pure white background," Midjourney v7 will often add artistic shadows or reflections that violate [Amazon's strict main image rules](https://sellercentral.amazon.com/help/hub/reference/G1881). PixelMatch automates these technical requirements so you can focus on the creative direction.
+Midjourney requires complex prompting to achieve specific aspect ratios and compliance standards. For example, if you don't explicitly prompt for a "minimalist studio setting with pure [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance)," Midjourney v7 will often add artistic shadows or reflections that violate [Amazon's strict main image rules](https://sellercentral.amazon.com/help/hub/reference/G1881). PixelMatch automates these technical requirements so you can focus on the creative direction.
 
 ## Pricing Comparison
 

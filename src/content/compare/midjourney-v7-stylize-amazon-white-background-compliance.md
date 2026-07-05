@@ -134,7 +134,7 @@ Standardize your main image workflow by setting a 1600x1600 pixel minimum for al
 For the modern multi-platform seller, the most efficient strategy is a **hybrid approach**:
 
 1.  **Use PixelMatch for all Main Images.** Don't fight the Midjourney engine to get a pure white background. Use PixelMatch to batch-generate your primary listing photos. This guarantees compliance, ensures your product fills [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/1881), and keeps your backgrounds at a perfect RGB 255, 255, 255.
-2.  **Use Midjourney v7 for "Hero" Lifestyle Images.** Once your listing is live and compliant, use Midjourney to create those beautiful, atmospheric shots for your A+ Content (EBC) and social media. These are the images where the `--stylize` parameter can shine without risking a suppressed listing.
+2.  **Use [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-for-amazon-product-photography-20260704) for "Hero" Lifestyle Images.** Once your listing is live and compliant, use Midjourney to create those beautiful, atmospheric shots for your A+ Content (EBC) and social media. These are the images where the `--stylize` parameter can shine without risking a suppressed listing.
 3.  **Batch-generate AI product images** in PixelMatch to handle the volume. If you are launching a product with 10 color variations, PixelMatch can generate all 10 compliant main images in the time it takes to write a single Midjourney prompt.
 
 By separating "Compliance" from "Creativity," you protect your Amazon account health while still benefiting from the cutting-edge aesthetics of modern AI.

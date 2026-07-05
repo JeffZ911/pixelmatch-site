@@ -141,7 +141,7 @@ Error 4002 is a "Community Guidelines" violation code. It means the moderation b
 No. TikTok's moderation bot uses computer vision to analyze the actual pixels of the image. Renaming a file will not bypass a rejection triggered by a non-compliant background or a prohibited "before and after" comparison. You must change the visual content of the image itself.
 
 ### What is the best image size for TikTok Shop in 2026?
-The official minimum requirement is 800 x 800 px, but for the best results in Symphony Studio's AI video generator, you should use 1200 x 1200 px. This provides enough detail for the AI to zoom and pan without the video becoming pixelated on high-resolution smartphone screens.
+The official minimum requirement is 800 x 800 px, but for the best results in Symphony Studio's [AI video generator](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial), you should use 1200 x 1200 px. This provides enough detail for the AI to zoom and pan without the video becoming pixelated on high-resolution smartphone screens.
 
 ### Why is my white background image still getting rejected?
 TikTok requires a pure white (#FFFFFF) background for hero images. If your photo has a slight grey tint or a shadow that touches the edge of the frame, the bot may reject it. Using a dedicated background removal tool like PixelMatch ensures the hex code is a perfect match for the platform's requirements.

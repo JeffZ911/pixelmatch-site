@@ -39,7 +39,7 @@ Stop losing Prime Day sales to competitors whose video ads look like high-budget
 
 Audit your current product detail pages today to identify which top-performing ASINs lack a video—these are your highest-priority targets for AI generation before the June 23 kickoff. Amazon Prime Day 2026 runs from June 23-26, making compliant video assets critical for Sponsored Brands and product detail pages.
 
-*   **Amazon's native AI-powered Video Generator** is the safest bet for guaranteed compliance and zero extra cost, though it lacks multi-platform export capabilities.
+*   **Amazon's native AI-powered [Video Generator](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial)** is the safest bet for guaranteed compliance and zero extra cost, though it lacks multi-platform export capabilities.
 *   **Runway** is the premium choice for cinematic, text-to-video B-roll, utilizing their advanced Gen-4.5 model to create hyper-realistic motion.
 *   **Canva Pro** remains the easiest tool for turning static images into simple motion slideshows with text overlays and brand-compliant fonts.
 *   **PixelMatch** is the essential first step: batch-generate lifestyle images at high resolution to feed into these video tools, ensuring your products look consistent across all formats.
