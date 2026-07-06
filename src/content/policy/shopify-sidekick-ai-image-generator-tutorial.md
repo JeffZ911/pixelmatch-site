@@ -96,7 +96,7 @@ Amazon sellers using Shopify as their home base face an even stricter reality. A
 
 AI often struggles with the laws of physics, particularly regarding light and shadow. Common artifacts include:
 *   **Floating Products:** The product appears to "hover" because the AI failed to generate a contact shadow on the new background.
-*   **Reflective Surfaces:** If you sell jewelry or glassware, the AI may fail to update the reflections on the product to match the new background, creating a visual "uncanny valley" effect.
+*   **Reflective Surfaces:** If you sell jewelry or glassware, the AI may fail to update the reflections on the product to match the new background, creating a visual "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" effect.
 *   **Ghost Mannequin Errors:** Sidekick may struggle to fill in the gaps where a mannequin was removed, leading to jagged edges or "melting" textures.
 
 ## How to Fix Each Issue

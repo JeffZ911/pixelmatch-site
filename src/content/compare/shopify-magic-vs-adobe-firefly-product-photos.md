@@ -46,7 +46,7 @@ Compare your current per-[image editing](https://pixelmatch.art/blog/stories/ama
 
 Verify your source files are at least 1024px before uploading to Shopify Magic to prevent double-scaling artifacts that occur when the AI attempts to fill a low-resolution canvas.
 
-| Feature | Shopify Magic | Adobe Firefly | PixelMatch |
+| Feature | Shopify Magic | [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Quick background swaps in-dashboard | Professional creative assets and hero shots | Batch-generating high-volume product catalogs |
 | **Max Resolution** | [1 Megapixel (approx. 1024x1024 px)](https://help.shopify.com/en/manual/shopify-magic/media-generation) | High-resolution exports up to 4K | [2048x2048 px optimized for zoom](https://sellercentral.amazon.com/help/hub/reference/G181) |

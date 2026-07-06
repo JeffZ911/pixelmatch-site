@@ -28,7 +28,7 @@ inline_image_sections:
 
 Stop wasting hours manually prompting AI for every single SKU only to find the background isn't "[Amazon White](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance)" or the resolution is too low for zoom. You need a workflow that scales with your catalog across Shopify, Amazon, and TikTok Shop, not a tool that adds another manual step to your day.
 
-**Quick Answer:** [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is a free AI assistant for quick edits within Shopify. Adobe Firefly offers superior generative quality from $9.99/mo but lacks batch workflows. Sellers needing Amazon-compliant batch generation should use PixelMatch.
+**Quick Answer:** [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is a free AI assistant for quick edits within Shopify. [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) offers superior generative quality from $9.99/mo but lacks batch workflows. Sellers needing Amazon-compliant batch generation should use PixelMatch.
 
 ## TL;DR Verdict
 

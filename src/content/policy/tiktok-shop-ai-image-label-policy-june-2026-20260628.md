@@ -48,7 +48,7 @@ Audit your current listings against this 2026 TikTok Shop spec table to ensure e
 | **File Format** | JPG, JPEG, or PNG | WebP/HEIC Rejected |
 | **File Size Limit** | 5MB per image | Platform Limit |
 | **Image Quantity** | 4 to 9 images per listing | Optimization Standard |
-| **AI Disclosure** | Mandatory for photorealistic content | TikTok Synthetic Media Policy |
+| **[AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705)** | Mandatory for photorealistic content | TikTok Synthetic Media Policy |
 | **Main Image Background** | Pure white (RGB 255, 255, 255) | Listing Quality Rule |
 
 Failing to meet even one of these technical benchmarks—such as uploading a 5.1MB file or a 4:3 aspect ratio image—results in an immediate "Listing Audit Failed" status. For multi-platform sellers moving inventory from Amazon (which allows [up to 10MB files](https://sellercentral.amazon.com/help/hub/reference/external/G1881)) to TikTok, this requires a dedicated compression and resizing workflow.
