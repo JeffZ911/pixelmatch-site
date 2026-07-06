@@ -158,7 +158,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   <a href="https://www.amazon.com/s?k=Amazon+Launches+Project+Amelia+%28AWS+Blog%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Launches Project Amelia (AWS Blog)</a>
-*   <a href="https://www.amazon.com/s?k=Amazon+Rufus+Official+Announcement&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Rufus Official Announcement</a>
+*   <a href="https://www.amazon.com/s?k=Amazon+Rufus+Official+Announcement&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Amazon Rufus](https://pixelmatch.art/blog/stories/amazon-rufus-ai-search-optimization-for-listings-20260706) Official Announcement</a>
 *   [Amazon Image Requirements and Specifications](https://sellercentral.amazon.com/help/hub/reference/external/G181)
 *   <a href="https://www.amazon.com/s?k=Minimizing+AI+Hallucinations+with+Automated+Reasoning+%28AWS%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Minimizing AI Hallucinations with Automated Reasoning (AWS)</a>
 *   Amazon COSMO Algorithm and Rufus SEO (Marketplace Pulse)

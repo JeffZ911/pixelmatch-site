@@ -128,7 +128,7 @@ This usually happens because of "over-smoothing." AI models often remove the nat
 ![Official Source Links](/img/fixing-uncanny-valley-ai-food-photos/inline-5.webp)
 
 
-Always verify current image specs and AI disclosure policies directly with the marketplaces, as these numbers are subject to change during platform updates.
+Always verify current image specs and [AI disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) policies directly with the marketplaces, as these numbers are subject to change during platform updates.
 
 | Source | Link | Key Policy |
 | :--- | :--- | :--- |

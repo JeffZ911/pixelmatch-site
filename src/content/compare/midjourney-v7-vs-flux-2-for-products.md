@@ -131,7 +131,7 @@ Yes. [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-produc
 Shopify generally recommends a [1:1 square ratio with a size of 2048 x 2048 pixels](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-specifications). This ensures the image looks sharp on both desktop and mobile while allowing for high-quality zoom.
 
 ### How do I ensure my AI images don't look "fake" to customers?
-The "uncanny valley" usually comes from bad lighting and impossible shadows. Use reference images of real-world environments to guide the AI's lighting engine. Alternatively, using a batch-processor like PixelMatch ensures that the lighting on the product matches the lighting of the generated background perfectly, which is the key to realism.
+The "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" usually comes from bad lighting and impossible shadows. Use reference images of real-world environments to guide the AI's lighting engine. Alternatively, using a batch-processor like PixelMatch ensures that the lighting on the product matches the lighting of the generated background perfectly, which is the key to realism.
 
 
 <!-- pm-cta:foot -->
