@@ -108,7 +108,7 @@ GPT Image 2.0’s greatest strength—its "Thinking Mode"—is also its primary 
 
 Nano Banana Pro struggles significantly with "spatial hallucination" in complex layouts. If you prompt for a "flat lay of 10 different makeup brushes," Nano Banana will likely merge the handles of two brushes or give one brush three sets of bristles. It lacks the geometric awareness found in OpenAI’s model. Additionally, while the SynthID watermark is great for compliance, it can sometimes be flagged by overly sensitive third-party "AI detectors" used by some niche marketplaces, potentially leading to manual account reviews.
 
-Finally, neither of these models is a "complete" solution for a seller with a massive catalog. They are underlying engines. Using them directly via a chat interface or a basic API script requires manual prompting for every single SKU. This "manual prompting bottleneck" is the number one reason AI initiatives fail in mid-to-large ecommerce operations.
+Finally, neither of these models is a "complete" solution for a seller with a massive catalog. They are underlying engines. Using them directly via a chat interface or a basic API script requires manual prompting for every single SKU. This "manual prompting bottleneck" is the number one reason AI initiatives fail in mid-to-large [ecommerce operations](https://pixelmatch.art/blog/policy/appaca-ai-workspace-for-ecommerce-operations).
 
 ## Recommendation
 

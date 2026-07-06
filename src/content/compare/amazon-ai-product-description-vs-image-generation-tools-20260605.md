@@ -112,7 +112,7 @@ If you sell on Amazon, Shopify, and Etsy, your biggest pain point is aspect rati
 Check your "Suppressed Listings" report in [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) today to identify any images flagged for non-compliant backgrounds, watermarks, or the inclusion of "excluded accessories." AI tools can sometimes be too creative, leading to costly listing removals.
 
 ### AI Description Tool Limitations
-The biggest risk with AI text is the "uncanny valley" of marketing speak. Tools like ChatGPT or the Jungle Scout Listing Builder can sometimes hallucinate features or use banned medical claims (e.g., "cures insomnia") that trigger automatic Amazon account flags. Furthermore, text AI cannot fix a product with bad reviews or a high return rate; it only helps people find the listing, not love the product.
+The biggest risk with AI text is the "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" of marketing speak. Tools like ChatGPT or the Jungle Scout Listing Builder can sometimes hallucinate features or use banned medical claims (e.g., "cures insomnia") that trigger automatic Amazon account flags. Furthermore, text AI cannot fix a product with bad reviews or a high return rate; it only helps people find the listing, not love the product.
 
 ### AI Image Tool Limitations
 Generalist tools like Canva or Adobe Express often require significant manual prompting to get the lighting right. If the AI doesn't understand "Global Illumination," your product will look like a flat sticker placed on a 3D background, which destroys consumer trust. 

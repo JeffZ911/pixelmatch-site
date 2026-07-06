@@ -40,7 +40,7 @@ Run a quick audit of your current listing library against the updated 2026 requi
 | **Minimum Short Side** | [2000px](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Enables high-resolution zoom functionality. |
 | **First Image Width** | [At least 635px](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Ensures thumbnails look crisp in search results. |
 | **Primary Image Rule** | Real product or finished custom item | Prevents "bait and switch" customer complaints. |
-| **AI Disclosure** | Required for synthetic performers | Compliance with New York S.8420-A and Etsy policy. |
+| **[AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705)** | Required for synthetic performers | Compliance with New York S.8420-A and Etsy policy. |
 | **File Format** | .jpg, .gif, or .png | Standard compatibility across mobile and desktop. |
 | **File Size** | [Under 1MB recommended](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) | Optimizes mobile load speed and reduces bounce rates. |
 

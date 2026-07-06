@@ -38,7 +38,7 @@ To fix uncanny valley in AI food photos, avoid physics-defying textures and hype
 
 Audit your current image library against the pixel-minimum thresholds in the table below to identify listings at risk of suppression. Every platform has distinct tolerances for AI-generated content; failing to meet the resolution or background requirements can result in your product being hidden from search results.
 
-| Platform | Min Resolution | Max File Size | Main Image Background | AI Disclosure Rule |
+| Platform | Min Resolution | Max File Size | Main Image Background | [AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) Rule |
 | :--- | :--- | :--- | :--- | :--- |
 | **Amazon Grocery** | [1600 px (longest side)](https://sellercentral.amazon.com/help/hub/reference/G1881) | 10 MB | [Pure White (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) | Not currently mandatory for photos |
 | **Shopify** | [2048 x 2048 px (recommended)](https://help.shopify.com/en/manual/products/product-media/product-media-types) | [20 MB](https://help.shopify.com/en/manual/products/product-media/product-media-types) | Any (lifestyle encouraged) | No platform-wide requirement |

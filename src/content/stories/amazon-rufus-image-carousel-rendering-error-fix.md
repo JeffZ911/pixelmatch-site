@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Your mobile conversion rate is cratering because Amazon’s mobile app is shrinking your lifestyle images into unclickable thumbnails, while the Rufus AI assistant is quietly filtering your products out of conversational search results. If your high-end beauty brand is seeing a sudden dip in Click-Through Rate (CTR) despite "high-quality" photography, you are likely a victim of the [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) image carousel rendering error.
+Your mobile conversion rate is cratering because Amazon’s mobile app is shrinking your lifestyle images into unclickable thumbnails, while the [Rufus AI](https://pixelmatch.art/blog/stories/amazon-rufus-ai-search-optimization-for-listings-20260706) assistant is quietly filtering your products out of conversational search results. If your high-end beauty brand is seeing a sudden dip in Click-Through Rate (CTR) despite "high-quality" photography, you are likely a victim of the [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) image carousel rendering error.
 
 ## Audit your mobile PDP for thumbnail shrinkage immediately
 
