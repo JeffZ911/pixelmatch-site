@@ -79,7 +79,7 @@ Amazon allows AI for background removal, lighting correction, and lifestyle scen
 Audit your suppressed listings for these four triggers. Most "AI Label" violations are caught by Amazon’s computer vision algorithms before a human ever sees your listing.
 
 ### 1. Failure to Disclose
-The most common reason for suppression is simply forgetting to check the "AI-generated content" box when uploading synthetic lifestyle images. Amazon's AI detectors are trained to spot the "uncanny valley" of synthetic textures. If the system detects a synthetic background but sees the disclosure toggle is set to "No," it triggers an automatic "Search Suppressed" status.
+The most common reason for suppression is simply forgetting to check the "AI-generated content" box when uploading synthetic lifestyle images. Amazon's AI detectors are trained to spot the "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" of synthetic textures. If the system detects a synthetic background but sees the disclosure toggle is set to "No," it triggers an automatic "Search Suppressed" status.
 
 ### 2. Fabricating the Product
 Using AI to alter the actual product's design, texture, or features leads to "Item Not As Described" complaints. For example, if you use an AI tool to add a "leather grain" to a synthetic plastic bag to make it look premium, you are violating the [Product Detail Page Rules](https://sellercentral.amazon.com/help/hub/reference/G200390640).

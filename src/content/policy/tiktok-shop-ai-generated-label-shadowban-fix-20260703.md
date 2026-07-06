@@ -41,7 +41,7 @@ TikTok Shop has updated its enforcement protocols to prioritize transparency. Us
 | **Minimum Resolution** | 800×800 px (1:1 Aspect Ratio) | LighterImage Specs |
 | **Maximum File Size** | 5 MB | LighterImage Specs |
 | **Supported Formats** | JPG, PNG | LighterImage Specs |
-| **AI Disclosure** | Mandatory "AI-generated content" toggle | TikTok Seller Academy |
+| **[AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705)** | Mandatory "AI-generated content" toggle | TikTok Seller Academy |
 | **Shadowban Penalty** | 0-200 views & listing suppression | Rewarx Policy Guide |
 | **Strike Policy** | 3 strikes in 90 days = Permanent Closure | Rewarx Policy Guide |
 | **Recovery Window** | 7–14 days after correction | Rewarx Policy Guide |

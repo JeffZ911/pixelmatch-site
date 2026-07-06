@@ -155,4 +155,4 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   Adobe Express Premium Pricing: https://www.adobe.com/express/pricing
 *   Etsy Image Requirements 2026 (Internal [Seller Central](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Update): undisclosed
 *   Stripe Standard Transaction Fees: https://stripe.com/pricing
-*   Adobe Firefly Generative Credit Info: [https://helpx.adobe.com/firefly/using/generative-credits-faq.html](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
+*   [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) Generative Credit Info: [https://helpx.adobe.com/firefly/using/generative-credits-faq.html](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)

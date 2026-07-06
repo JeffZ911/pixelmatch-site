@@ -86,7 +86,7 @@ Navigating Etsy's policies is a moving target. In 2026, the platform's automated
 | :--- | :--- | :--- |
 | Using a photo of a blank product as the main image | **Prohibited** | Listing suppressed from search results [1.2.5]. |
 | "Your Text Here" placeholder in the primary photo | **Prohibited** | Policy violation warning; potential shop shadow-ban. |
-| AI-generated hands with 6 fingers or distorted limbs | **Discouraged** | High buyer bounce rate and "Uncanny Valley" distrust. |
+| AI-generated hands with 6 fingers or distorted limbs | **Discouraged** | High buyer bounce rate and "[Uncanny Valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" distrust. |
 | Placing text in the outer 10% of the image frame | **Technical Error** | Design gets cropped out in mobile search view. |
 | Using a mockup of a different garment style | **Misleading** | "Item Not As Described" cases and forced refunds. |
 

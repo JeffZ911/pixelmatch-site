@@ -60,7 +60,7 @@ TikTok explicitly requires sellers to follow three core principles to remain com
 
 ### TikTok Ads Manager Requirements
 
-When running Spark Ads or standard Video Ads, the labeling requirements become even more stringent. Within the TikTok Ads Manager, you must select the "AI Disclosure" checkbox during the ad creation process. 
+When running Spark Ads or standard Video Ads, the labeling requirements become even more stringent. Within the TikTok Ads Manager, you must select the "[AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705)" checkbox during the ad creation process. 
 
 Furthermore, your landing pages (whether on Shopify, BigCommerce, or TikTok’s native checkout) must maintain consistency with your ad's disclosures. If your ad uses a disclosed [AI avatar](https://pixelmatch.art/blog/stories/tiktok-symphony-ai-avatar-skin-texture-clipping-fix), but your landing page claims that person is the "Founder and CEO," you risk a permanent account suspension for deceptive trade practices. As of May 2026, TikTok's ad-level AI [disclosure requirements](https://pixelmatch.art/blog/policy/etsy-ai-image-disclosure-requirements-2026) apply to all regions, including the US, UK, and SEA markets.
 
