@@ -100,7 +100,7 @@ Batch-apply the generated scene to all product variations to maintain a cohesive
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Avoid the "uncanny valley" of AI product photography. Shoppers in 2026 are savvy; they can spot a fake background if the perspective is off or if the product looks too perfect.
+Avoid the "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" of AI product photography. Shoppers in 2026 are savvy; they can spot a fake background if the perspective is off or if the product looks too perfect.
 
 *   **Hallucinating product details:** Using AI to smooth out stitching or change colors violates Etsy's truth-in-advertising policies. If your AI tool "fixes" a scratch on a vintage item or adds a gemstone that isn't there, you are misleading the customer. Always compare the AI output against the physical product before publishing.
 *   **Ignoring file size limits:** Uploading files over 1MB causes load lag, which Etsy's algorithm penalizes. In 2026, mobile speed is a direct ranking factor. Use a tool that allows you to export at 2400px while stripping unnecessary metadata to keep the file size lean.

@@ -54,7 +54,7 @@ Audit your current mockup library against Etsy’s 2026 requirement of 2000px mi
 | Feature | Canva Pro (2026) | Adobe Express Premium (2026) |
 | :--- | :--- | :--- |
 | **Monthly Price** | $15.00 | $9.99 |
-| **AI Engine** | Magic Studio (Canva Proprietary) | Adobe Firefly |
+| **AI Engine** | Magic Studio (Canva Proprietary) | [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) |
 | **AI Generation Limit** | 500 uses per month | 250 generative credits per month |
 | **Etsy Spec Export** | Up to 5000px (Custom Size) | Up to 6000px (Custom Size) |
 | **File Formats** | PNG, JPG, PDF, SVG, MP4 | PNG, JPG, PDF, SVG, MP4 |

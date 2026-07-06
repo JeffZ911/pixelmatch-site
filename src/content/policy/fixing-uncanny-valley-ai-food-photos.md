@@ -135,7 +135,7 @@ Always verify current image specs and [AI disclosure](https://pixelmatch.art/blo
 | **Amazon Seller Central** | [Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881) | RGB 255, 255, 255 background |
 | **Shopify Help Center** | [Product Media](https://help.shopify.com/en/manual/products/product-media/product-media-types) | 20MB / 4472px limit |
 | **TikTok Shop Academy** | Listing Guidelines | 600x600px / FDA accuracy |
-| **Etsy Legal** | Creativity Standards | Mandatory AI disclosure |
+| **Etsy Legal** | Creativity Standards | Mandatory [AI disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) |
 | **Photoroom Pricing** | Pro Tier | $12.99/mo for batch tools |
 
 

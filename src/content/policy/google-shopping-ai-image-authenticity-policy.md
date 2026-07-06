@@ -82,7 +82,7 @@ Review the "Diagnostics" tab in your [Google Merchant Center](https://pixelmatch
 
 Missing IPTC metadata is the most frequent disapproval reason for advanced sellers. This often occurs when sellers use basic compression tools or CDNs that strip or ignore IPTC data. Even if your AI tool (like Photoroom or Adobe Express) correctly embeds the `trainedAlgorithmicMedia` tag, your website's backend might delete it during the upload process to save a few kilobytes of bandwidth. 
 
-When Google crawls the `image_link` or `additional_image_link` provided in your feed, it expects to see that tag. If the tag is missing but the image is clearly AI-generated, Google may interpret this as an attempt to bypass AI disclosure policies.
+When Google crawls the `image_link` or `additional_image_link` provided in your feed, it expects to see that tag. If the tag is missing but the image is clearly AI-generated, Google may interpret this as an attempt to bypass [AI disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) policies.
 
 ### Synthetic Main Images
 
