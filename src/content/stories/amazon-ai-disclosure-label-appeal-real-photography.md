@@ -145,7 +145,7 @@ While metadata is a powerful tool for proving an image is real, it is not a "get
 ## Frequently Asked Questions
 
 ### What is the difference between AI-generated and AI-assisted images on Amazon?
-AI-generated images are created from scratch using prompts (e.g., "a bottle of serum on a marble table"). These require a disclosure label. AI-assisted images are real photos that use AI for minor edits like background removal or lighting adjustment. According to <a href="https://www.amazon.com/s?k=Amazon+KDP+and+Seller+policies&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon KDP and Seller policies</a>, AI-assisted images typically do not require a disclosure label as long as the product itself is not altered.
+AI-generated images are created from scratch using prompts (e.g., "a bottle of serum on a marble table"). These require a [disclosure label](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705). AI-assisted images are real photos that use AI for minor edits like background removal or lighting adjustment. According to <a href="https://www.amazon.com/s?k=Amazon+KDP+and+Seller+policies&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon KDP and Seller policies</a>, AI-assisted images typically do not require a disclosure label as long as the product itself is not altered.
 
 ### Can I use TinyPNG to compress my images before uploading to Amazon?
 You should be cautious. Many free compression tools strip EXIF and C2PA metadata to reduce file size. If this metadata is removed, Amazon’s automated systems may flag the image as AI-generated because it lacks a provenance trail. If you must compress, use a tool like PixelMatch that is designed to maintain metadata integrity while meeting Amazon's [10MB file size limit](https://sellercentral.amazon.com/help/hub/reference/G1881).
@@ -170,6 +170,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   <a href="https://www.amazon.com/s?k=Amazon+KDP%3A+AI+Content+Guidelines+%28AI-Assisted+vs.+AI-Generated%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon KDP: [AI Content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) Guidelines (AI-Assisted vs. AI-Generated)</a>
 *   New York State Senate: Bill S8420-A (Synthetic Media Disclosure)
 *   Jungle Scout: Amazon Product Photography Costs and Guide
-*   TikTok Shop Seller Help: AI-Generated Content Policy
+*   TikTok Shop Seller Help: AI-Generated [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026)
 *   Content Credentials: Verify Tool and C2PA Standards
 *   App Store: Photoroom Pro Pricing and Features

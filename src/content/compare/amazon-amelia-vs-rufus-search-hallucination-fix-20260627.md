@@ -27,7 +27,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Your conversion rate is dropping because a chatbot told a customer your "waterproof" speaker isn't actually waterproof. Amazon Rufus and Amazon Amelia are rewriting the rules of the marketplace, but their tendency to "hallucinate" means you must audit your listings with surgical precision to protect your bottom line.
+Your conversion rate is dropping because a chatbot told a customer your "waterproof" speaker isn't actually waterproof. [Amazon Rufus](https://pixelmatch.art/blog/stories/amazon-rufus-ai-search-optimization-for-listings-20260706) and Amazon Amelia are rewriting the rules of the marketplace, but their tendency to "hallucinate" means you must audit your listings with surgical precision to protect your bottom line.
 
 ## TL;DR Verdict
 

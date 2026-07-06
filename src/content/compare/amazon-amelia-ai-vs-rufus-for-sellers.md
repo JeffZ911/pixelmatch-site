@@ -165,7 +165,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   <a href="https://www.amazon.com/s?k=Amazon%3A+Project+Amelia+Generative+AI+Seller+Assistant&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon: Project Amelia Generative AI Seller Assistant</a>
-*   <a href="https://www.amazon.com/s?k=Amazon%3A+Rufus+AI+Shopping+Assistant+US+Launch&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon: Rufus AI Shopping Assistant US Launch</a>
+*   <a href="https://www.amazon.com/s?k=Amazon%3A+Rufus+AI+Shopping+Assistant+US+Launch&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon: [Rufus AI](https://pixelmatch.art/blog/stories/amazon-rufus-ai-search-optimization-for-listings-20260706) Shopping Assistant US Launch</a>
 *   [Amazon Seller Central: Pricing and Plans](https://sell.amazon.com/pricing)
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
 *   Photoroom Pricing

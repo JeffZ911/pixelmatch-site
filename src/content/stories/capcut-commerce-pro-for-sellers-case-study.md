@@ -66,7 +66,7 @@ The team was stuck in a loop of resizing, retouching, and re-exporting. A single
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Connect your Shopify product feed to CapCut Commerce Pro to enable direct asset syncing, but only after you have standardized your raw files. The brand realized that the secret to high-converting AI video isn't just the video tool itself—it’s the quality of the "seed" image you feed into the AI.
+Connect your Shopify product feed to CapCut Commerce Pro to enable direct asset syncing, but only after you have standardized your raw files. The brand realized that the secret to high-converting [AI video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial) isn't just the video tool itself—it’s the quality of the "seed" image you feed into the AI.
 
 ### Step 1: Batch-Processing with PixelMatch
 The team abandoned manual Photoshop work in favor of PixelMatch. They uploaded raw, smartphone-captured photos of their beauty products in bulk. PixelMatch’s engine was used to bulk image background remover the original settings and replace them with a standardized, marketplace-compliant white. More importantly, they used the batch-resize feature to output three versions of every photo:

@@ -54,7 +54,7 @@ Verify your image assets against Etsy’s technical and ethical benchmarks to ma
 
 Distinguish between "AI-assisted editing" and "AI-generated products." For physical goods—whether it’s a hand-knitted scarf or a custom-built coffee table—Etsy’s core rule remains unchanged: the buyer must see a photo of the actual item they will receive. Using AI to generate a "perfect" version of a product that doesn't exist in the physical world is a violation of the Handmade Policy.
 
-However, Etsy’s 2026 standards explicitly allow for "Seller-prompted AI creations" in the digital space. If you are selling digital downloads, such as printable wall art or desktop wallpapers generated via Midjourney or DALL-E, you must categorize these as "Designed by a seller" and apply the required AI disclosure in the listing details. This transparency prevents buyer confusion and aligns with Etsy’s commitment to "Keep Commerce Human" even when using machine-learning tools.
+However, Etsy’s 2026 standards explicitly allow for "Seller-prompted AI creations" in the digital space. If you are selling digital downloads, such as printable wall art or desktop wallpapers generated via Midjourney or DALL-E, you must categorize these as "Designed by a seller" and apply the required [AI disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) in the listing details. This transparency prevents buyer confusion and aligns with Etsy’s commitment to "Keep Commerce Human" even when using machine-learning tools.
 
 ### Image Size and Resolution Specs
 

@@ -25,7 +25,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Your rankings are no longer just a matter of keywords; if your product images fail to communicate technical specs to Amazon’s AI vision models, you are invisible to the modern buyer. Audit your current image library before uploading a single new SKU to ensure every asset feeds the Rufus AI engine the high-density data it requires to recommend your products.
+Your rankings are no longer just a matter of keywords; if your product images fail to communicate technical specs to Amazon’s AI vision models, you are invisible to the modern buyer. Audit your current image library before uploading a single new SKU to ensure every asset feeds the [Rufus AI](https://pixelmatch.art/blog/stories/amazon-rufus-ai-search-optimization-for-listings-20260706) engine the high-density data it requires to recommend your products.
 
 [Amazon Rufus](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-product-mismatch-fix) uses OCR (Optical Character Recognition) to analyze images. To rank, ensure your main image meets the [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/18027) rule, while secondary images use text overlays to answer buyer questions.
 
