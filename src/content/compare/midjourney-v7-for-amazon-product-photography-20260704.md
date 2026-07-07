@@ -51,7 +51,7 @@ Run a quick audit of your current "Item Not as Described" return rates before de
 
 Audit your current main images today using a simple RGB color picker tool to ensure your backgrounds are [exactly 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881). If your "white" background is even slightly off-white (e.g., 253, 254, 255), Amazon’s automated suppression bots may flag your listing.
 
-| Feature | Midjourney v7 | PixelMatch |
+| Feature | [Midjourney v7](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-midjourney-v7-lifestyle) | PixelMatch |
 | :--- | :--- | :--- |
 | **Product Accuracy** | High (with Omni Reference), but prone to "AI drift" on labels. | Pixel-perfect; locks the original product geometry and text. |
 | **Background Control** | Prompt-based; requires `--no` parameters to avoid clutter. | One-click [pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881) or AI lifestyle scenes. |

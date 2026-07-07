@@ -113,7 +113,7 @@ When using PixelMatch for multi-platform selling, set up specific export profile
 *   Export A+ Content modules at exactly [1464x600 px](https://sellercentral.amazon.com/help/hub/reference/G202102950) for Premium modules to avoid stretching or distortion.
 
 ### Step 4: Appeal Suppressions
-If a listing is suppressed, do not simply re-upload the same image. Replace the offending image with a compliant version first. Then, check the necessary disclosure boxes in the backend. If the suppression persists, submit a factual appeal through the "Account Health" dashboard. State clearly that the images have been updated to meet the [Visual ID Standard 3.0](https://sellercentral.amazon.com/help/hub/reference/G1881) and that all AI-generated content is now correctly disclosed via the provenance metadata.
+If a listing is suppressed, do not simply re-upload the same image. Replace the offending image with a compliant version first. Then, check the necessary disclosure boxes in the backend. If the suppression persists, submit a factual appeal through the "[Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide)" dashboard. State clearly that the images have been updated to meet the [Visual ID Standard 3.0](https://sellercentral.amazon.com/help/hub/reference/G1881) and that all AI-generated content is now correctly disclosed via the provenance metadata.
 
 ## Frequently Asked Questions
 

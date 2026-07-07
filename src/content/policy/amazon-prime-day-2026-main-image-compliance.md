@@ -148,7 +148,7 @@ If Amazon rejects your image for not appearing "real," you must provide a "Real 
 
 Always refer to the primary source for the most up-to-date policies. Amazon updates these pages frequently, especially in the months leading up to major events like Prime Day.
 
-- **Amazon Seller Central:** [Product Image Requirements](https://sellercentral.amazon.com/gp/help/external/1881). This is the "Bible" for image specs.
+- **[Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central:** [Product Image Requirements](https://sellercentral.amazon.com/gp/help/external/1881). This is the "Bible" for image specs.
 - **Amazon Seller Central:** [Image Issues and Suppression](https://sellercentral.amazon.com/help/hub/reference/G200338160). This page explains why your listing might be hidden.
 - **Amazon Brand Services:** <a href="https://www.amazon.com/s?k=Brand+Registry+Help&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Brand Registry Help</a>. Use this for logo and branding disputes.
 

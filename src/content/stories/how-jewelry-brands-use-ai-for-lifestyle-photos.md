@@ -53,7 +53,7 @@ Before adopting AI, the path to "on-model" photos was paved with high invoices a
 Many sellers try to bypass this by using entry-level AI tools, but jewelry is notoriously difficult for general-purpose models. 
 *   **Background Removal Flaws:** Standard tools like Removebg or the basic "Magic Studio" in Canva often struggle with the "negative space" in jewelry. They might accidentally crop out the thin wire of a fish-hook earring or leave "halos" around a delicate cable chain.
 *   **Detail Distortion:** Even paid tools like Photoroom’s Pro tier at $12.99/mo can sometimes struggle with the high-frequency detail of faceted gemstones. General AI tends to "hallucinate" or smooth out the sharp edges of a princess-cut diamond, making a high-end piece look like cheap costume jewelry.
-*   **Skin Interaction:** Most AI generators fail to realistically depict how a ring sits *into* the skin of a finger rather than just floating on top of it. This "uncanny valley" effect triggers a subconscious distrust in the buyer, which is the opposite of what a lifestyle photo should achieve.
+*   **Skin Interaction:** Most AI generators fail to realistically depict how a ring sits *into* the skin of a finger rather than just floating on top of it. This "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" effect triggers a subconscious distrust in the buyer, which is the opposite of what a lifestyle photo should achieve.
 
 **Actionable Step:** Take one of your current lifestyle photos and zoom in to 400%. If you see "fuzzing" around the edges of the metal or if the chain links look like a solid line, your current post-processing tool is stripping the perceived value from your jewelry.
 

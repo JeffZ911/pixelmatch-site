@@ -58,7 +58,7 @@ First, they utilized basic background removal tools. While these could strip a b
 
 Next, they tested Photoroom's Pro tier at $12.99/mo. While Photoroom is an industry leader for mobile-first editing, the brand found that the batch session limits of 50 images per session slowed down their high-volume workflow. For a catalog of 200 SKUs requiring multiple angles, the manual effort to start new sessions became a labor bottleneck.
 
-Finally, they tried Canva Pro at $15/mo. Canva's "Magic Edit" and background tools are excellent for social media graphics, but they lacked the granular AI lighting controls necessary for professional product photography. The brand struggled to make the shadows of their bottles match the direction and intensity of the AI-generated backgrounds, leading to a "uncanny valley" effect that reduced buyer trust.
+Finally, they tried Canva Pro at $15/mo. Canva's "Magic Edit" and background tools are excellent for social media graphics, but they lacked the granular AI lighting controls necessary for professional product photography. The brand struggled to make the shadows of their bottles match the direction and intensity of the AI-generated backgrounds, leading to a "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" effect that reduced buyer trust.
 
 **Actionable Step:** Inspect your current lifestyle images for "lighting drift." If your product has a shadow falling to the left, but the background highlights suggest the sun is on the right, your conversion rate will likely suffer due to a lack of perceived authenticity.
 

@@ -67,7 +67,7 @@ While Removebg is often cited as the gold standard for transparent cutouts, it l
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your projected monthly cost-per-image before committing to a subscription, as "unlimited" claims often have hidden session caps. For a seller adding 50 new items per month with 5 photos each, you are looking at 250 images minimum—a volume that quickly exhausts entry-level credits.

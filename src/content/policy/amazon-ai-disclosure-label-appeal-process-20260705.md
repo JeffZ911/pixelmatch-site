@@ -38,7 +38,7 @@ If Amazon suppresses your listing for undisclosed [AI content](https://pixelmatc
 *Related: [Etsy AI Disclosure Policy for Handmade Sellers: 2026 Guide](/blog/policy/etsy-ai-disclosure-policy-handmade-sellers) · [Amazon Massive AI Content Policy Update 2026 Guide](/blog/policy/amazon-massive-ai-content-policy-update-2026) · [New 2026 AI Transparency Laws for Sellers: Complete Guide](/blog/policy/new-2026-ai-transparency-laws-for-sellers)*
 
 
-Run a quick audit of your current account health status against this table to determine your next move. Amazon’s automated "Synthetic Media" detectors are currently flagging listings that use AI-generated lifestyle backgrounds without the proper backend toggle selected.
+Run a quick audit of your current [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) status against this table to determine your next move. Amazon’s automated "Synthetic Media" detectors are currently flagging listings that use AI-generated lifestyle backgrounds without the proper backend toggle selected.
 
 | Violation Type | Disclosure Requirement | Typical Resolution Time | Primary Penalty |
 | :--- | :--- | :--- | :--- |
