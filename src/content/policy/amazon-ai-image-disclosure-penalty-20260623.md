@@ -70,7 +70,7 @@ Second, the visual label: For lifestyle images—those showing the product in us
 
 Beyond Amazon’s internal policies, multi-platform sellers must contend with evolving legal landscapes. New York's synthetic performer law, which took effect June 9, 2026, requires specific disclosure for AI-generated humans in advertising. If your Sponsored Brand ads feature an AI-generated model and are served to customers in New York, failure to disclose carries penalties of up to $5,000 per violation. 
 
-This law, known as S7422G, targets "digitally created or altered" performers. For an Amazon seller, this means if you use a tool to swap a face or generate a human body to hold your product, you are legally obligated to label that image. Amazon has integrated these requirements into their ad-approval workflow, meaning your Sponsored Ads may be rejected before they even go live if the "Synthetic Media" toggle is not selected.
+This law, known as S7422G, targets "digitally created or altered" performers. For an [Amazon seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images), this means if you use a tool to swap a face or generate a human body to hold your product, you are legally obligated to label that image. Amazon has integrated these requirements into their ad-approval workflow, meaning your Sponsored Ads may be rejected before they even go live if the "Synthetic Media" toggle is not selected.
 
 ## Common Rejection Reasons
 

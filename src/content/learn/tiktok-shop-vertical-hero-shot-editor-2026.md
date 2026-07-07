@@ -44,7 +44,7 @@ Shoppable Photos have replaced static carousels as the primary driver of non-vid
 
 ### PDP Specs vs. In-Feed Specs
 
-Understanding the distinction between listing requirements and discovery requirements is vital for maintaining account health. TikTok Shop enforces strict technical thresholds:
+Understanding the distinction between listing requirements and discovery requirements is vital for maintaining [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide). TikTok Shop enforces strict technical thresholds:
 
 | Asset Type | Required Aspect Ratio | Min. Resolution | Max File Size | Best Use Case |
 | :--- | :--- | :--- | :--- | :--- |

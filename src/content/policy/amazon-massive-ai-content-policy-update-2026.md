@@ -156,7 +156,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   Amazon Seller Central. (2026). *Product image requirements*. Retrieved from https://sellercentral.amazon.com/help/hub/reference/G1881
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central. (2026). *Product image requirements*. Retrieved from https://sellercentral.amazon.com/help/hub/reference/G1881
 *   Amazon Seller Central. (2026). *Amazon Services Business Solutions Agreement*. Retrieved from https://sellercentral.amazon.com/help/hub/reference/G1791
 *   Photoroom. (2026). *Pricing and Plans*. Retrieved from https://www.photoroom.com/pricing
 *   Pebblely. (2026). *Pricing*. Retrieved from https://pebblely.com/pricing

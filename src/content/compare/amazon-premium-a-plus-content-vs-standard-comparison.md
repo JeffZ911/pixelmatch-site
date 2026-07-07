@@ -82,7 +82,7 @@ Both Standard and Premium A+ Content are [completely free](https://sellercentral
 
 The true cost of A+ Content lies in creative production. Traditional ecommerce photography agencies typically charge between $300 and $1,500 per SKU for custom A+ design, photography, and layout. When you consider that Premium A+ requires seven high-resolution 1464px images plus potentially a 1080px video, the production bill for a brand with 50 SKUs can quickly exceed $25,000.
 
-PixelMatch eliminates this bottleneck by allowing sellers to batch-generate AI lifestyle product images perfectly sized for Amazon's specs. Instead of booking a studio and a lifestyle model for every product variant, you can upload one clean product shot and generate dozens of lifestyle scenes in seconds. This reduces the cost per ASIN from hundreds of dollars to a fraction of the price of a single subscription.
+PixelMatch eliminates this bottleneck by allowing sellers to batch-generate AI lifestyle [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) perfectly sized for Amazon's specs. Instead of booking a studio and a lifestyle model for every product variant, you can upload one clean product shot and generate dozens of lifestyle scenes in seconds. This reduces the cost per ASIN from hundreds of dollars to a fraction of the price of a single subscription.
 
 Compared to other tools like Photoroom's Pro tier at $12.99/mo or Adobe Express, PixelMatch is specifically engineered for the batch-generation workflows required by multi-platform sellers who need to fill seven modules across hundreds of listings simultaneously.
 

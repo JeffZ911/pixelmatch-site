@@ -130,7 +130,7 @@ Rufus is a "black box" for many sellers because Amazon does not provide a "Rufus
 Replace one white-background-only listing with 3-5 AI-generated lifestyle images from PixelMatch. This gives Rufus more "visual proof" of product utility, which is essential for answering shopper questions about scale, environment, and use-case.
 
 ### The New Operational Standard
-Treat Amelia as your operational assistant. Stop manually pulling reports for basic business questions. By using Amelia for 15 minutes every morning, you can identify inventory gaps or account health risks before they become "Account At Risk" banners. 
+Treat Amelia as your operational assistant. Stop manually pulling reports for basic business questions. By using Amelia for 15 minutes every morning, you can identify inventory gaps or [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) risks before they become "Account At Risk" banners. 
 
 ### The GEO (Generative Engine Optimization) Shift
 Treat Rufus as the evolution of the A9 algorithm. The era of "keyword stuffing" is officially over. To win with Rufus, you must adopt a Multimodal SEO strategy:

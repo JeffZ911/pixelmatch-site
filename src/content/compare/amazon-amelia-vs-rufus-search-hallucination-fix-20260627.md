@@ -72,7 +72,7 @@ To manage these tools effectively, you must understand their different data sour
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Both Rufus and Amelia are native features of the Amazon ecosystem and are currently provided at **$0 additional cost** to users. Rufus is available to shoppers in the <a href="https://www.amazon.com/s?k=Amazon+mobile+app+and+desktop+site&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon mobile app and desktop site</a> in supported regions (primarily the US). Amelia is available to sellers within the [Seller Central dashboard](https://sellercentral.amazon.com/help/hub/reference/external/G5W785L899XG9999).

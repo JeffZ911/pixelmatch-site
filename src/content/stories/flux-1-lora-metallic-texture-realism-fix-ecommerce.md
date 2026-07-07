@@ -58,7 +58,7 @@ Standard AI models often treat a gold ring like a yellow-colored object rather t
 The core issues they faced included:
 1.  **Texture Flattening:** Gold and silver lost their "luster," appearing as flat gradients rather than polished surfaces.
 2.  **Geometric Hallucinations:** Basic AI models often added extra prongs to diamond settings or warped the circular band of a ring, violating [Amazon's Product Detail Page rules](https://sellercentral.amazon.com/help/hub/reference/G200390640) which require images to be accurate representations of the product.
-3.  **Inconsistent Lighting:** Using tools like Canva's "Magic Edit" often resulted in the jewelry being lit from the left while the AI-generated background was lit from the right, creating an uncanny valley effect that killed buyer trust.
+3.  **Inconsistent Lighting:** Using tools like Canva's "Magic Edit" often resulted in the jewelry being lit from the left while the AI-generated background was lit from the right, creating an [uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos) effect that killed buyer trust.
 
 They needed a "[flux 1 lora](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow) metallic texture realism fix"—a way to tell the AI exactly how light should bounce off a 14k gold surface without redesigning the product itself.
 

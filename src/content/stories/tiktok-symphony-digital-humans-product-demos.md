@@ -49,7 +49,7 @@ To survive the high-churn environment of TikTok, they needed to test five times 
 ![What Wasn't Working](/img/tiktok-symphony-digital-humans-product-demos/inline-2.webp)
 
 
-Stop using static image slideshows if you want to maintain your TikTok Shop seller health rating. Initially, this beauty brand attempted to cut costs by using automated "photo-to-video" templates. However, TikTok’s official content guidelines explicitly warn against "Still Frame Content." If your video consists of static images covering more than 50% of the screen for the duration of the clip, the platform may restrict your reach or reject the ad entirely for "Low Quality Content."
+Stop using static image slideshows if you want to maintain your TikTok Shop seller [health rating](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide). Initially, this beauty brand attempted to cut costs by using automated "photo-to-video" templates. However, TikTok’s official content guidelines explicitly warn against "Still Frame Content." If your video consists of static images covering more than 50% of the screen for the duration of the clip, the platform may restrict your reach or reject the ad entirely for "Low Quality Content."
 
 The seller also attempted to use general-purpose AI editors to speed up the process. They tried the Photoroom Pro tier at $9.99/mo to clean up product shots. While the background removal was adequate, the workflow hit a wall due to a 50-image limit per session on that specific plan. For a brand trying to batch-process 500+ product variations and angles for a multi-SKU skincare line, this manual bottleneck was a dealbreaker.
 

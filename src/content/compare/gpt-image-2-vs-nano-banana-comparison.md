@@ -57,7 +57,7 @@ Run a resolution calibration test on your existing assets to see if your current
 | **Primary Strength** | Complex Infographics | Hyper-Realistic Lifestyle Scenes |
 | **Generation Speed** | Slower (due to Thinking Mode) | Faster (Optimized for TPU) |
 
-The choice between these two often comes down to the "SynthID" factor. Nano Banana applies an invisible SynthID digital watermark to every image. While invisible to the human eye, this metadata helps platforms identify AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). For sellers worried about future platform transparency mandates, Nano Banana provides a built-in layer of compliance that GPT Image 2.0 currently lacks in its standard output.
+The choice between these two often comes down to the "SynthID" factor. [Nano Banana](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) applies an invisible SynthID digital watermark to every image. While invisible to the human eye, this metadata helps platforms identify AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619). For sellers worried about future platform transparency mandates, Nano Banana provides a built-in layer of compliance that GPT Image 2.0 currently lacks in its standard output.
 
 Furthermore, GPT Image 2.0’s spatial logic is its "killer feature" for multi-pack sellers. If you are selling a "Bundle of 4" and need all four items displayed in a specific geometric pattern, GPT Image 2.0 will respect those constraints. Nano Banana, conversely, may hallucinate a fifth item or merge two items together because it prioritizes the "vibe" of the photo over the rigid logic of the prompt.
 

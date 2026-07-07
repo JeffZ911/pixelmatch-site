@@ -52,7 +52,7 @@ Go to your Etsy Shop Manager, select "Listings," and use the bulk editor to ensu
 ![What Wasn't Working: The Friction of Generic Tools](/img/etsy-creativity-standards-for-ai-sellers-case-study/inline-2.webp)
 
 
-Check your shop's conversion rate against the average Etsy conversion rate of 2-3%; if you are below this, your imagery is likely the culprit. This seller initially relied on overused Canva templates and stock mockup sites. The result was a "uncanny valley" storefront where every t-shirt looked like it was floating on a generic, grey-walled background. These images lacked the emotional resonance needed to stop the scroll on mobile devices.
+Check your shop's conversion rate against the average Etsy conversion rate of 2-3%; if you are below this, your imagery is likely the culprit. This seller initially relied on overused Canva templates and stock mockup sites. The result was a "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" storefront where every t-shirt looked like it was floating on a generic, grey-walled background. These images lacked the emotional resonance needed to stop the scroll on mobile devices.
 
 The seller then tested Photoroom's Pro plan at $9.99/month, which offers solid background removal and AI generation. However, they hit a significant wall with the 50-image batch processing limit. When you are launching a new "Summer Collection" with 15 designs across 5 garment colors, you need 75 high-quality images instantly. Processing these in small batches of 50 created a bottleneck that turned a 2-hour task into a full-day ordeal.
 
