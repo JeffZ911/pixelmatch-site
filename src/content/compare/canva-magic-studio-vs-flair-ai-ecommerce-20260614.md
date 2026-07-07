@@ -74,7 +74,7 @@ Flair AI takes a different architectural approach. Instead of just generating an
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 The cost of AI tools for ecommerce is rarely just the monthly subscription; it is the cost per usable image. Canva’s pricing is straightforward but shares a credit pool across all its "Magic" features. Flair AI uses a tiered system that scales based on the volume of images and the level of commercial licensing required.

@@ -130,7 +130,7 @@ To protect your shop long-term, audit your restricted category items. If you sel
 ## Frequently Asked Questions
 
 ### Can TikTok really tell if I used AI for my product photos?
-Yes. TikTok uses a combination of C2PA metadata (invisible digital stamps left by tools like Adobe Firefly or DALL-E) and visual pattern recognition. Even if you strip the metadata, the platform's algorithms can detect the specific pixel-level "fingerprints" of AI-generated textures.
+Yes. TikTok uses a combination of C2PA metadata (invisible digital stamps left by tools like [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) or DALL-E) and visual pattern recognition. Even if you strip the metadata, the platform's algorithms can detect the specific pixel-level "fingerprints" of AI-generated textures.
 
 ### Does the AI label hurt my conversion rate?
 Current seller data suggests that transparency actually helps. Customers on TikTok value authenticity; an "AI-generated" label is often viewed more favorably than a listing that looks "fake" but tries to hide it. Furthermore, the label prevents the shadowban, which is the biggest threat to your conversion rate.

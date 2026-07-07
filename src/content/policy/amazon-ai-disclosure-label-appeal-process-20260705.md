@@ -97,7 +97,7 @@ Amazon frequently "suggests" AI-generated improvements to your titles and bullet
 ![How to Fix Each Issue](/img/amazon-ai-disclosure-label-appeal-process-20260705/inline-4.webp)
 
 
-Follow these four steps to resolve a "Search Suppressed" or "At Risk" listing status in your Account Health dashboard.
+Follow these four steps to resolve a "Search Suppressed" or "At Risk" listing status in your [Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) dashboard.
 
 ### Auditing Your Account Health Dashboard
 Navigate to the [Account Health page](https://sellercentral.amazon.com/performance/dashboard) in Seller Central. Identify which image or text block triggered the AI policy violation. Look for the "Policy Compliance" section and click on "Listing Policy Violations." If the violation is tagged as "Synthetic Media Disclosure," you know exactly which listing needs the backend toggle updated.

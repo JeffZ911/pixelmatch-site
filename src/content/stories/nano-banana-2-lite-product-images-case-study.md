@@ -109,7 +109,7 @@ The transition to Nano Banana 2 Lite for product images fundamentally changed th
 
 The most significant impact was on agility. Time-to-market for a new SKU decreased from 14 days to just 2 hours. This allowed the brand to capitalize on seasonal trends—such as "Summer Glow" skincare—weeks before their competitors could get their photos back from a studio.
 
-Despite the shift to AI, the brand maintained a 3.2% conversion rate on Shopify. This parity with professional photography proved that the Nano Banana 2 Lite model could produce realistic lighting and shadows that didn't trigger the "uncanny valley" effect often seen in lower-quality AI.
+Despite the shift to AI, the brand maintained a 3.2% conversion rate on Shopify. This parity with professional photography proved that the Nano Banana 2 Lite model could produce realistic lighting and shadows that didn't trigger the "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" effect often seen in lower-quality AI.
 
 Furthermore, the low cost of generation made A/B testing financially viable. On Amazon, they used the "Manage Your Experiments" tool to test two different AI-generated lifestyle backgrounds. Previously, testing a new image would have cost an additional $100+ for a reshoot; now, it costs less than 10 cents.
 

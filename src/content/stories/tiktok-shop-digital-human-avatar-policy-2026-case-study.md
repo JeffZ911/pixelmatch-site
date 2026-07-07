@@ -84,7 +84,7 @@ They tried using Photoroom’s Pro plan at $12.99/mo to speed up background remo
 Lumina Glow replaced their fragmented process with a unified workflow centered on PixelMatch. This allowed them to generate both the static ai bulk image editor assets and the visual foundations for their ai ecommerce avatars.
 
 ### Step 1: The "Seed" Image
-The seller took one high-resolution photo of their product using a smartphone under natural light. This "seed" image ensured the physical product—labels, dimensions, and colors—remained 100% accurate, avoiding the "uncanny valley" of fully hallucinated AI products.
+The seller took one high-resolution photo of their product using a smartphone under natural light. This "seed" image ensured the physical product—labels, dimensions, and colors—remained 100% accurate, avoiding the "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" of fully hallucinated AI products.
 
 ### Step 2: PixelMatch Batch Generation
 Using PixelMatch, they uploaded the seed image and generated 10 different lifestyle scenes (e.g., "Product on a marble bathroom vanity," "Product being held by a hand in sunlight"). PixelMatch automatically output these at the TikTok-recommended 800x800px 1:1 aspect ratio with a file size under 5MB, ensuring maximum sharpness on mobile devices.
