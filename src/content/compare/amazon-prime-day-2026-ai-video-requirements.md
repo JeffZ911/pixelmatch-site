@@ -53,7 +53,7 @@ Download the <a href="https://www.amazon.com/s?k=Amazon+Advertising+Video+Creati
 
 | Feature | Amazon Native AI | Runway (Gen-4.5) | Canva Pro | PixelMatch |
 | :--- | :--- | :--- | :--- | :--- |
-| **Primary Output** | AI-Generated Video | Text-to-Video / Image-to-Video | Motion Graphics / Slideshow | Batch AI Product Images |
+| **Primary Output** | AI-Generated Video | Text-to-Video / Image-to-Video | Motion Graphics / Slideshow | Batch AI [Product Images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) |
 | **Max Resolution** | <a href="https://www.amazon.com/s?k=1920+x+1080+%2816%3A9%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">1920 x 1080 (16:9)</a> | Up to 4K (Upscaled) | [4K (3840 x 2160)](https://www.canva.com/help/video-quality/) | 2048 x 2048+ |
 | **Aspect Ratios** | 16:9, 9:16 | Custom / All | [All Social & Web Specs](https://www.canva.com/help/resize-designs/) | 1:1, 4:5, 16:9 |
 | **Export Formats** | Internal Only | MP4, MOV, ProRes | MP4, GIF, JPG, PNG | JPG, PNG, WEBP |

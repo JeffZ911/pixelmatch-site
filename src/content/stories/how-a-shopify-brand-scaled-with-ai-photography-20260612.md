@@ -130,7 +130,7 @@ You can replicate this success by following a standardized technical checklist. 
 ![Caveats and Honest Limitations](/img/how-a-shopify-brand-scaled-with-ai-photography-20260612/inline-6.webp)
 
 
-While AI photography is a powerful tool for scaling, it is not a complete replacement for human oversight. You must be aware of the technical limitations to avoid "uncanny valley" product photos.
+While AI photography is a powerful tool for scaling, it is not a complete replacement for human oversight. You must be aware of the technical limitations to avoid "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" product photos.
 
 ### Highly Reflective Surfaces
 Products with chrome, high-polish gold, or mirrored surfaces (common in luxury beauty packaging) can still confuse AI models. The AI may struggle to render realistic reflections of the generated environment on the product itself. For these items, you may still need a professional photographer or a high-end 3D render.
