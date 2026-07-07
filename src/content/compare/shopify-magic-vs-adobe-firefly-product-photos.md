@@ -76,7 +76,7 @@ Calculate your Cost Per Image (CPI) by dividing your monthly subscription by the
 Shopify Magic is [available on all Shopify plans at no additional cost](https://help.shopify.com/en/manual/shopify-magic/media-generation). Whether you are on the Basic plan at $39/mo, the Shopify plan at $105/mo, or the Advanced plan at $399/mo, you have unlimited access to the media generation tools. This makes it the most budget-friendly option for early-stage sellers who are already paying for a Shopify subscription.
 
 ### Adobe Firefly: The Credit Economy
-Adobe Firefly operates on a generative credit system. As of 2026, the pricing tiers are structured to accommodate different levels of usage:
+[Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) operates on a generative credit system. As of 2026, the pricing tiers are structured to accommodate different levels of usage:
 *   **Free Tier:** Provides 25 monthly generative credits.
 *   **Standard Plan:** Priced at $9.99/mo for 2,000 credits. This is the sweet spot for most independent sellers.
 *   **Creative Cloud All Apps:** Starting at approximately $59.99/mo, this plan includes 1,000 monthly credits along with access to Photoshop, Illustrator, and Premiere Pro.

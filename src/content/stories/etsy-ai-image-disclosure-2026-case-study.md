@@ -51,7 +51,7 @@ The seller looked toward AI to generate lifestyle backgrounds for their real, ha
 
 Compare the batch processing limits of your current software against your weekly SKU count to identify where your workflow is stalling. The seller initially attempted to use general-purpose design tools and entry-level AI background removers, but found the limitations hampered their ability to scale.
 
-They first tested Canva Pro at $14.99/mo. While Canva is excellent for social media graphics, its background replacement for product photography often produced "uncanny valley" results that didn't align with high-end vintage aesthetics. The AI credits felt restrictive for a seller needing 5–10 photos per SKU for 50 SKUs a week.
+They first tested Canva Pro at $14.99/mo. While Canva is excellent for social media graphics, its background replacement for product photography often produced "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" results that didn't align with high-end vintage aesthetics. The AI credits felt restrictive for a seller needing 5–10 photos per SKU for 50 SKUs a week.
 
 Next, they tried Photoroom’s Pro tier at $12.99/mo. While the quality was higher, Photoroom’s 50-image batch limit per session created a fragmented workflow. For a seller trying to process 250–500 photos in a single afternoon, hitting a "session limit" every few minutes was a significant productivity drain.
 

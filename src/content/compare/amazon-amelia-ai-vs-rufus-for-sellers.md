@@ -93,7 +93,7 @@ Ask Amelia "How did my electronics category perform compared to last year?" and 
 Amelia is the go-to tool for **Operations Managers, Inventory Planners, and [Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) Specialists**. If your day involves reconciling FBA shipments or trying to understand why a specific ASIN was flagged for a policy violation, Amelia is your first line of defense.
 
 *   **Inventory Forecasting:** Ask "How many units of SKU-123 should I send to FBA for the holiday season?" Amelia pulls from your historical sales velocity to give an instant estimate.
-*   **Account Health:** Instead of scrolling through the "Account Health" dashboard, ask "Do I have any pending compliance documents for my beauty products?"
+*   **[Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide):** Instead of scrolling through the "Account Health" dashboard, ask "Do I have any pending compliance documents for my beauty products?"
 *   **Support Escalation:** Amelia can draft the initial communication for Seller Support, ensuring you use the correct terminology that Amazon's internal systems recognize.
 
 ### When to Focus on Rufus

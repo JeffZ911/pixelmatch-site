@@ -132,7 +132,7 @@ Yes, Symphony Creative Studio is currently free for users with a TikTok for Busi
 While the TikTok Shop product listing itself often uses 1:1 (square) images, any image intended for video ads or "Image Ads" should be 9:16 (1080x1920 px). Using 9:16 ensures your product fills the entire mobile screen, which is essential for capturing attention in the feed.
 
 ### Can I use AI-generated videos for organic TikTok posts?
-Yes, you can use Symphony-generated videos for both paid ads and organic posts on your linked TikTok Shop account. However, TikTok's algorithm prioritizes original, engaging content, so it is often best to "remix" AI assets with some behind-the-scenes or real-life footage for organic growth.
+Yes, you can use Symphony-generated videos for both paid ads and organic posts on your linked [TikTok Shop account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide). However, TikTok's algorithm prioritizes original, engaging content, so it is often best to "remix" AI assets with some behind-the-scenes or real-life footage for organic growth.
 
 ### How do I avoid my AI videos being flagged as "low quality"?
 The most common reason for "low quality" flags is low resolution or incorrect aspect ratios. By using PixelMatch to generate assets at a native 1080x1920 px resolution before importing them into Symphony, you ensure the video remains crisp and professional after the platform's internal compression.

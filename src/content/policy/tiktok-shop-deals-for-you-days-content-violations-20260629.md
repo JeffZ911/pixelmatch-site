@@ -133,7 +133,7 @@ If you believe a violation was issued in error—such as an automated flag for "
 *   TikTok Shop Seller Center: Deals for You Days Eligibility & FAQ
 *   TikTok Shop Product Listing Guidelines
 *   TikTok Shop [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) & Creator Enforcement
-*   [TikTok Shop Account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) Health Rating (AHR) Overview
+*   [TikTok Shop Account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) [Health Rating](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) (AHR) Overview
 
 ## Frequently Asked Questions
 

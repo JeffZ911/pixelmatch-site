@@ -64,7 +64,7 @@ The brand attempted to use entry-level AI background removers, but the results w
 Specifically, basic AI tools frequently:
 1.  **Lost Edge Detail:** The fine mist of a spray bottle or the translucent edge of a glass jar would get "eaten" by the background removal algorithm.
 2.  **Floating Product Syndrome:** The tools would place the product on a digital table but fail to generate a "contact shadow"—the tiny, dark shadow where the bottle actually touches the surface.
-3.  **Inconsistent Lighting:** The product might have highlights from a "left-side" light source, while the AI-generated background was lit from the right, creating a subconscious "uncanny valley" effect that lowered buyer trust.
+3.  **Inconsistent Lighting:** The product might have highlights from a "left-side" light source, while the AI-generated background was lit from the right, creating a subconscious "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" effect that lowered buyer trust.
 
 **Actionable Step for Sellers:** Review your current AI-generated images at 200% zoom. Look at the "contact point" where the product meets the surface. If there is no dark line or soft shadow there, your product looks "un-grounded," which can lead to a lower conversion rate because the product doesn't look "real" to the consumer.
 

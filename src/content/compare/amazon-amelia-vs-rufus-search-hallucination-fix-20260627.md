@@ -45,7 +45,7 @@ The ultimate fix for these hallucinations isn't just better keywords—it is fee
 
 *   **Rufus is for the Buyer:** It lives on the product detail page (PDP) and answers questions like "Is this toaster easy to clean?" or "Does this fit a 2024 Ford F-150?"
 *   **Amelia is for the Seller:** It lives in Seller Central and answers questions like "How much did I spend on PPC last week?" or "Write a 5-bullet point list for my new yoga mat."
-*   **The Hallucination Gap:** Both tools struggle with "unstructured" information. If your product images are cluttered or your bullet points are vague, the AI "guesses" the answer, leading to 99% confidence in 100% false information.
+*   **The Hallucination Gap:** Both tools struggle with "unstructured" information. If your [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) are cluttered or your bullet points are vague, the AI "guesses" the answer, leading to 99% confidence in 100% false information.
 *   **Visual Clarity Matters:** Rufus doesn't just read text; it "looks" at images. If your AI-generated lifestyle images have visual artifacts (like a hand with six fingers or a distorted product logo), Rufus may interpret these as product defects.
 
 ## Side-by-Side Feature Table

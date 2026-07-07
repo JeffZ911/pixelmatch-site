@@ -56,7 +56,7 @@ TikTok Shop acts as the Merchant of Record (MOR) for many transactions and is le
 
 Verify your "Tax Information" status in the Seller Center under the "My Account" tab today. You must provide a valid Taxpayer Identification Number (TIN) to pass the verification check. For individual sellers or sole proprietors, this is typically your Social Security Number (SSN). For registered business entities like LLCs, C-Corps, or S-Corps, you must use your Employer Identification Number (EIN).
 
-The most common point of failure is the "Legal Name" field. The name on your TikTok Shop account must perfectly match the name registered with the IRS for that specific TIN, including exact punctuation, suffixes (like "LLC" or "Inc."), and spacing. If your IRS records list "John Doe, LLC" and you enter "John Doe LLC" without the comma, the automated system may flag the ID as invalid.
+The most common point of failure is the "Legal Name" field. The name on your [TikTok Shop account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) must perfectly match the name registered with the IRS for that specific TIN, including exact punctuation, suffixes (like "LLC" or "Inc."), and spacing. If your IRS records list "John Doe, LLC" and you enter "John Doe LLC" without the comma, the automated system may flag the ID as invalid.
 
 ## Common Rejection Reasons
 
@@ -73,7 +73,7 @@ Identify which specific mismatch is triggering your payout freeze before you att
 Never enter your "Doing Business As" (DBA) name or your TikTok Shop's public display name in the Legal Name field. If your store is called "Elite Trends" but your legal entity is "Smith Holdings LLC," using the store name will result in an immediate invalid tax ID error. The IRS database only recognizes the legal entity name associated with the EIN.
 
 ### Incorrect Entity Type
-Selecting the wrong entity type during the tax setup is a frequent error for new sellers. If you registered your TikTok Shop as an "Individual" but provided an EIN, the system will reject it. Conversely, if you selected "Business" but provided your personal SSN, the verification will fail. You must align your TikTok Shop account type with the tax ID type you are providing.
+Selecting the wrong entity type during the tax setup is a frequent error for new sellers. If you registered your TikTok Shop as an "Individual" but provided an EIN, the system will reject it. Conversely, if you selected "Business" but provided your personal SSN, the verification will fail. You must align your TikTok [Shop account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) type with the tax ID type you are providing.
 
 ### Address Discrepancies
 The business address on your W-9 must match the address on your official IRS registration or the bank account connected to your TikTok Shop. If you have recently moved or changed your business headquarters, you must update the IRS first or ensure you are using the address currently on file with the IRS (often found on your original SS-4 or CP575 notice).
