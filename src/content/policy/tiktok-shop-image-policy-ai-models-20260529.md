@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Your TikTok Shop listings live or die by the "Violation Points" system, and uploading non-compliant AI-generated models is the fastest way to trigger a shadowban or a total store suspension. If your product images look like "uncanny valley" hallucinations or fail to disclose synthetic origins, the TikTok algorithm will flag your account before you even make your first sale.
+Your TikTok Shop listings live or die by the "Violation Points" system, and uploading non-compliant AI-generated models is the fastest way to trigger a shadowban or a total store suspension. If your product images look like "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" hallucinations or fail to disclose synthetic origins, the TikTok algorithm will flag your account before you even make your first sale.
 
 # TikTok Shop Image Policy for AI Models: 2026 Seller Guide
 

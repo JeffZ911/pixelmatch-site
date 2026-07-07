@@ -121,7 +121,7 @@ If you are currently paying for a Pro-tier tool, verify that the features includ
 
 
 *   Review the official EU AI Act text for complete details on Article 50 transparency obligations and Article 99 penalty structures.
-*   Consult [Amazon Seller Central](https://sellercentral.amazon.com/) for the latest updates on the July 27 title limit changes and AI-generated image declarations.
+*   Consult [Amazon Seller Central](https://sellercentral.amazon.com/) for the latest updates on the July 27 [title limit](https://pixelmatch.art/blog/stories/amazon-75-character-title-limit-optimization-2026) changes and AI-generated image declarations.
 *   Read the full TikTok Shop Seller Center guidelines on Artificial Intelligence Generated Content (AIGC) and the strike-based enforcement system.
 *   Check the [Etsy Seller Handbook](https://www.etsy.com/seller-handbook/article/1273874841595) for the updated policy on disclosing AI-generated designs and product photography.
 

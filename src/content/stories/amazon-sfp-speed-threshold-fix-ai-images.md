@@ -61,7 +61,7 @@ A single "room set" photoshoot for a sectional sofa typically costs upwards of $
 
 They experimented with entry-level AI tools to cut costs. They tested Photoroom’s Pro tier, which offers batch background removal, and experimented with Canva’s Magic Studio features. While these tools are excellent for small items like jewelry or supplements, they struggled with the complex geometry of large furniture. 
 
-The AI often "hallucinated" the edges of sofa cushions, blurring them into the background, or failed to maintain the correct perspective when placing a 90-inch sofa into a digital room. The lighting frequently looked "pasted on," with shadows falling in directions that defied physics. For a premium $1,200 product, these "uncanny valley" images actually hurt buyer trust more than the basic warehouse shots they replaced. They needed a tool that could handle high-resolution upscaling and precise edge detection for large-scale items.
+The AI often "hallucinated" the edges of sofa cushions, blurring them into the background, or failed to maintain the correct perspective when placing a 90-inch sofa into a digital room. The lighting frequently looked "pasted on," with shadows falling in directions that defied physics. For a premium $1,200 product, these "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" images actually hurt buyer trust more than the basic warehouse shots they replaced. They needed a tool that could handle high-resolution upscaling and precise edge detection for large-scale items.
 
 ## The Workflow They Built
 

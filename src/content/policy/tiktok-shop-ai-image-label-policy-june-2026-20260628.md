@@ -114,7 +114,7 @@ If you are receiving "Invalid File Format" errors, you must convert your assets.
 3.  **Correct Aspect Ratio:** Use a 1:1 canvas. If your image is vertical, add white padding to the sides rather than stretching the image.
 
 ### Correcting Disclosure Violations
-If a listing has been suppressed for "Missing AI Disclosure," you do not necessarily need to delete the listing and start over. 
+If a listing has been suppressed for "Missing [AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705)," you do not necessarily need to delete the listing and start over. 
 
 1.  **Enter 'Edit' Mode:** Go to your Manage Products tab in Seller Center.
 2.  **Locate Media Section:** Scroll to the product images.

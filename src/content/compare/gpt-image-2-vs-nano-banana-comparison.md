@@ -37,7 +37,7 @@ Audit your current product catalog to determine if your primary conversion bottl
 
 OpenAI’s GPT Image 2.0 (released April 2026) is the current industry leader for infographics, size charts, and any image where text legibility is non-negotiable. Its "Thinking Mode" allows the model to plan the spatial arrangement of a 3x3 grid or a complex feature callout before a single pixel is rendered. If your product requires a size chart that customers can actually read, GPT Image 2.0 is the superior choice.
 
-Google’s Nano Banana (powered by the Gemini 3 Pro Image model) is the undisputed king of photorealism. It handles lighting, shadows, and "materiality"—the way light reflects off glass or silk—with a level of sophistication that GPT Image 2.0 often misses. For hero images that need to stop the scroll on a Shopify storefront, Nano Banana Pro delivers a more professional, high-end photography feel.
+Google’s [Nano Banana](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) (powered by the Gemini 3 Pro Image model) is the undisputed king of photorealism. It handles lighting, shadows, and "materiality"—the way light reflects off glass or silk—with a level of sophistication that GPT Image 2.0 often misses. For hero images that need to stop the scroll on a Shopify storefront, Nano Banana Pro delivers a more professional, high-end photography feel.
 
 Both models are fully capable of meeting the rigorous standards of modern marketplaces. They comfortably output high-resolution files that exceed Shopify's 2048 × 2048 px recommendation and Amazon’s requirements for high-detail zoom functionality.
 

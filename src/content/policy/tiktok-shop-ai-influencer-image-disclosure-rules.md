@@ -50,7 +50,7 @@ TikTok's 2026 policy emphasizes that proactive labeling is a "trust signal." Whi
 ![Detailed Requirements](/img/tiktok-shop-ai-influencer-image-disclosure-rules/inline-2.webp)
 
 
-Configure your TikTok Ads Manager default settings to include the AI Disclosure tag for every campaign involving synthetic assets to prevent automated campaign rejection. TikTok’s policy distinguishes between "AI-assisted editing" (like color grading or noise reduction) and "AI-generated content" (where the core subject or scene is synthetic). If the human face in your video does not exist in real life, or if your product is placed in a scene that was never photographed, you are legally and contractually obligated to disclose.
+Configure your TikTok Ads Manager default settings to include the [AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) tag for every campaign involving synthetic assets to prevent automated campaign rejection. TikTok’s policy distinguishes between "AI-assisted editing" (like color grading or noise reduction) and "AI-generated content" (where the core subject or scene is synthetic). If the human face in your video does not exist in real life, or if your product is placed in a scene that was never photographed, you are legally and contractually obligated to disclose.
 
 ### Organic Content vs. Paid Ads
 

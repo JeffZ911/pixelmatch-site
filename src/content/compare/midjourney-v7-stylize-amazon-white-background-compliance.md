@@ -77,7 +77,7 @@ Midjourney’s 2026 pricing tiers are:
 *   **Pro Plan:** $60/month (30 hr/month of GPU time + Stealth Mode).
 *   **Mega Plan:** $120/month (60 hr/month of GPU time + Stealth Mode).
 
-For an Amazon seller, the Pro Plan at $60/month is essentially the entry point. Without Stealth Mode, your unreleased product designs are visible in the public Midjourney gallery, allowing competitors to see your upcoming launches before they hit the market.
+For an [Amazon seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images), the Pro Plan at $60/month is essentially the entry point. Without Stealth Mode, your unreleased product designs are visible in the public Midjourney gallery, allowing competitors to see your upcoming launches before they hit the market.
 
 PixelMatch pricing is built specifically for the ecommerce workflow. Instead of buying "GPU hours," you select a plan based on the number of SKUs you need to process. This allows for predictable scaling as you expand your catalog. Because PixelMatch is a purpose-built tool, you aren't subsidizing the high compute costs of users generating 4K digital art or complex architectural renders; you are paying specifically for the AI models trained on product photography and compliance.
 
