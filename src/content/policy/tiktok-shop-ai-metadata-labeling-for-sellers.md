@@ -74,7 +74,7 @@ TikTok requires disclosure for any content that is "fully generated or significa
 PixelMatch provides a significant advantage here. Unlike general AI art tools that might "hallucinate" new details onto your product, PixelMatch is designed to batch-generate compliant lifestyle backgrounds while locking the product pixels. This ensures that the product's shape, texture, and color remain 100% authentic, which is the cornerstone of TikTok Shop’s product accuracy policy.
 
 ### Product Accuracy Thresholds
-TikTok’s enforcement teams use a "visual match" protocol. If a customer receives a product and files a dispute claiming it looks different from the listing, TikTok's automated system compares the AI-generated listing image to the customer's photo. If the AI has smoothed out a texture or altered a color hex code by more than [Information not yet publicly available as of 2026-05-29], the seller is typically found at fault, leading to a "Product Not as Described" violation.
+TikTok’s enforcement teams use a "visual match" protocol. If a customer receives a product and files a dispute claiming it looks different from the listing, TikTok's automated system compares the AI-[generated listing](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-disclosure-policy-2026-20260707) image to the customer's photo. If the AI has smoothed out a texture or altered a color hex code by more than [Information not yet publicly available as of 2026-05-29], the seller is typically found at fault, leading to a "Product Not as Described" violation.
 
 ## Common Rejection Reasons
 

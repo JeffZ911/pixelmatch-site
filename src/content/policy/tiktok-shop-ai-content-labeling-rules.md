@@ -41,7 +41,7 @@ As of 2026-05-26, TikTok enforces a tiered penalty system for AIGC violations. W
 | **Level 1: Warning** | First-time failure to label AI backgrounds or minor edits. | Content suppressed from the "For You" feed; formal warning issued. | Add the `#aigenerated` tag or use the "AI-generated content" toggle immediately. |
 | **Level 2: Restriction** | Repeated labeling failures or minor product misrepresentation. | 7-day ban on posting new content and 12-24 violation points. | Appeal with original, unedited RAW photos to prove product fidelity. |
 | **Level 3: Suspension** | Significant product alteration (size/color) or fake AI experts. | 14-day to 30-day shop suspension; loss of "Top Rated" seller badges. | Complete a mandatory compliance training module in Seller Center. |
-| **Level 4: Permanent Ban** | Fraudulent claims, fake medical advice, or 48+ violation points. | Permanent closure of the TikTok Shop account and forfeiture of remaining funds. | None; Level 4 bans are typically non-appealable. |
+| **Level 4: Permanent Ban** | Fraudulent claims, fake medical advice, or 48+ violation points. | Permanent closure of the [TikTok Shop account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) and forfeiture of remaining funds. | None; Level 4 bans are typically non-appealable. |
 
 ## Detailed Requirements
 

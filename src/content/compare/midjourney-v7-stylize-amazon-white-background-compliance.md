@@ -111,7 +111,7 @@ PixelMatch is designed for the **operations-focused seller**. If you have 50 new
 ![Where Each Falls Short](/img/midjourney-v7-stylize-amazon-white-background-compliance/inline-5.webp)
 
 
-Check your Amazon "Account Health" dashboard for "Search Suppressed" listings caused by non-compliant images. This is where Midjourney’s lack of ecommerce specialization becomes a liability.
+Check your Amazon "[Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide)" dashboard for "Search Suppressed" listings caused by non-compliant images. This is where Midjourney’s lack of ecommerce specialization becomes a liability.
 
 ### Midjourney v7 Shortfalls
 The biggest weakness of Midjourney [v7 for Amazon](https://pixelmatch.art/blog/compare/midjourney-v7-for-amazon-product-photography-20260704) sellers is **consistency**. Because it is a generative art tool, it does not "understand" what a background is versus what a product is. It sees them as a single cohesive composition. This leads to:

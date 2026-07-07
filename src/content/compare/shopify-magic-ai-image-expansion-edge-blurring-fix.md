@@ -154,7 +154,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   Shopify Help Center: [Shopify Magic Media Generation Specs](https://help.shopify.com/en/manual/shopify-magic/media-generation)
-*   Amazon Seller Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881)
 *   Shopify Pricing: Plan Tiers and Costs
 *   Photoroom: Pricing and Pro Features
 *   Photoroom Technical Docs: Batch Editor Resolution Limits

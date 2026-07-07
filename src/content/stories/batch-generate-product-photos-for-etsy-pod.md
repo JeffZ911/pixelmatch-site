@@ -146,7 +146,7 @@ Export the final images as sRGB JPGs. Ensure the dimensions are set to 2000px on
 
 While batch AI generation is a massive productivity multiplier, it is not a "set it and forget it" solution. Sellers must remain aware of several technical and platform-specific limitations.
 
-First, AI generation can still produce "uncanny valley" effects. You may see unnatural hand placements on a mug or weird background artifacts where the AI tried to merge a model with a chair. A manual review of the batch output is still required before you push these images live to Etsy. One bad image can make your entire shop look like a "scam" site to a discerning buyer.
+First, AI generation can still produce "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" effects. You may see unnatural hand placements on a mug or weird background artifacts where the AI tried to merge a model with a chair. A manual review of the batch output is still required before you push these images live to Etsy. One bad image can make your entire shop look like a "scam" site to a discerning buyer.
 
 Second, Etsy's 2026 thumbnail adjustment feature is a critical factor. Etsy now displays thumbnails in various aspect ratios (square, portrait, and landscape) depending on whether the user is on a mobile app, a desktop search, or an off-site ad. You must ensure the primary design is centered within the "safe zone"—the middle 80% of the image—so it doesn't get cropped out when Etsy switches from a 4:5 portrait view to a 1:1 square view.
 

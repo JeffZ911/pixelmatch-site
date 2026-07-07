@@ -49,7 +49,7 @@ Audit your SKU count and platform list to determine if you need a native assista
 
 Map your current image workflow against these technical constraints to identify production bottlenecks in your 2026 growth plan.
 
-| Feature | [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) | Adobe Firefly | PixelMatch |
+| Feature | [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) | [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | In-admin store management & basic AI edits | High-end creative & lifestyle generation | Multi-platform batch image production |
 | **Max AI Generation Res** | [~1 Megapixel (Approx. 1024x1024 px)](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/generating-images) | [Up to 2048 x 2048 px (varies by aspect ratio)](https://helpx.adobe.com/firefly/using/firefly-faq.html) | High-resolution optimized for marketplace zoom |

@@ -72,8 +72,8 @@ Your main product image is the first point of contact for a customer and the fir
 Participation in Deals for You Days is not just about your content; it is about your ability to deliver. TikTok Shop monitors your backend performance daily.
 
 *   **Late Dispatch Rate (LDR):** Your store's LDR over the last 30 days must be 20% or lower. If you anticipate a surge in orders during the campaign, you must scale your fulfillment operations in advance. High-volume sellers often use third-party logistics (3PL) to maintain these tight windows.
-*   **Account Health Rating (AHR):** This is a point-based system. Penalties trigger at specific thresholds: 150, 100, 50, and 0 points. As your points drop, you face escalating restrictions, starting with a loss of eligibility for platform-wide promotions and ending with total account suspension.
-*   **Creator Metrics:** If you are working with affiliates, their performance affects your brand. TikTok monitors creators via a daily Promotion Performance Score (PPS) and Creator Health Rating (CHR). A creator with a low CHR can negatively impact the visibility of your products on their "Showcase" tab.
+*   **[Account Health Rating](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) (AHR):** This is a point-based system. Penalties trigger at specific thresholds: 150, 100, 50, and 0 points. As your points drop, you face escalating restrictions, starting with a loss of eligibility for platform-wide promotions and ending with total account suspension.
+*   **Creator Metrics:** If you are working with affiliates, their performance affects your brand. TikTok monitors creators via a daily Promotion Performance Score (PPS) and Creator [Health Rating](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) (CHR). A creator with a low CHR can negatively impact the visibility of your products on their "Showcase" tab.
 
 ## Common Rejection Reasons
 
@@ -133,7 +133,7 @@ If you believe a violation was issued in error—such as an automated flag for "
 *   TikTok Shop Seller Center: Deals for You Days Eligibility & FAQ
 *   TikTok Shop Product Listing Guidelines
 *   TikTok Shop [Content Policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) & Creator Enforcement
-*   TikTok Shop Account Health Rating (AHR) Overview
+*   [TikTok Shop Account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) Health Rating (AHR) Overview
 
 ## Frequently Asked Questions
 

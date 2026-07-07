@@ -56,7 +56,7 @@ Configure your TikTok Ads Manager default settings to include the [AI Disclosure
 
 For organic posts, the disclosure happens at the point of upload via the "AI-generated content" toggle. This toggle injects a permanent "AI-generated" label in the bottom-left corner of the video, just above the username. This label is non-removable once the video is live. 
 
-Paid ads require a different workflow. In the TikTok Ads Manager, you must check the AI Disclosure tag at the ad level. Failing to do this can lead to your entire ad account being flagged for "Circulating Misleading Content," a violation that is notoriously difficult to appeal. Unlike organic posts, ads undergo a manual and automated review process that checks for 94.7% accuracy on synthetic faces. If the system detects a virtual influencer that you haven't labeled, the ad will be rejected within minutes.
+Paid ads require a different workflow. In the TikTok Ads Manager, you must check the [AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) tag at the ad level. Failing to do this can lead to your entire ad account being flagged for "Circulating Misleading Content," a violation that is notoriously difficult to appeal. Unlike organic posts, ads undergo a manual and automated review process that checks for 94.7% accuracy on synthetic faces. If the system detects a virtual influencer that you haven't labeled, the ad will be rejected within minutes.
 
 ### Virtual Influencer Transparency
 

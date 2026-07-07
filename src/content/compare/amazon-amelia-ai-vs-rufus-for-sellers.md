@@ -67,7 +67,7 @@ Audit your product listings for "conversational language" to see if Rufus can ex
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your monthly "AI overhead" by totaling your Seller Central subscription and any image generation tools you use to stay competitive. While Amazon's native AI tools don't carry a separate "line item" fee, they are gated by your choice of selling plan and the third-party tools required to optimize for them.
@@ -90,7 +90,7 @@ Rufus is free for shoppers, but it is expensive for sellers who are unprepared. 
 Ask Amelia "How did my electronics category perform compared to last year?" and compare the speed of its response to the time it takes you to manually download, merge, and pivot-table three different Business Reports.
 
 ### When to Use Amelia
-Amelia is the go-to tool for **Operations Managers, Inventory Planners, and Account Health Specialists**. If your day involves reconciling FBA shipments or trying to understand why a specific ASIN was flagged for a policy violation, Amelia is your first line of defense.
+Amelia is the go-to tool for **Operations Managers, Inventory Planners, and [Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) Specialists**. If your day involves reconciling FBA shipments or trying to understand why a specific ASIN was flagged for a policy violation, Amelia is your first line of defense.
 
 *   **Inventory Forecasting:** Ask "How many units of SKU-123 should I send to FBA for the holiday season?" Amelia pulls from your historical sales velocity to give an instant estimate.
 *   **Account Health:** Instead of scrolling through the "Account Health" dashboard, ask "Do I have any pending compliance documents for my beauty products?"

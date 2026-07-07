@@ -127,7 +127,7 @@ Batch-process at least 50 images in PixelMatch before you even open the CapCut e
 
 Tag all AI-generated videos with the "AI-generated" disclosure required by TikTok’s synthetic media policy to avoid account shadow-banning or video removal. While the PixelMatch and CapCut workflow is incredibly efficient, it is not a "set and forget" solution for every product category.
 
-CapCut Commerce Pro’s AI avatars and generated environments are highly effective for mid-market DTC goods, but they may not pass the strict aesthetic or legal compliance reviews for highly regulated niches like medical-grade supplements or high-end luxury jewelry. In these cases, the "uncanny valley" effect of an AI spokesperson can actually decrease brand trust.
+CapCut Commerce Pro’s AI avatars and generated environments are highly effective for mid-market DTC goods, but they may not pass the strict aesthetic or legal compliance reviews for highly regulated niches like medical-grade supplements or high-end luxury jewelry. In these cases, the "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" effect of an AI spokesperson can actually decrease brand trust.
 
 Furthermore, while CapCut offers basic image background removal, it is built primarily as a video engine. For the pixel-perfect precision required to avoid [Amazon's automated image rejection bots](https://sellercentral.amazon.com/help/hub/reference/G1881), PixelMatch is the superior choice. CapCut’s background removal can occasionally struggle with fine details like hair or translucent glass, whereas PixelMatch is designed specifically for these high-stakes ecommerce edge cases.
 

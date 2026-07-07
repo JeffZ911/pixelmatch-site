@@ -59,7 +59,7 @@ Verify your source files are at least 1024px before uploading to Shopify Magic t
 Shopify Magic has a hard ceiling on output quality. The system limits generated images to [1 megapixel (MP)](https://help.shopify.com/en/manual/shopify-magic/media-generation). If you upload a high-resolution 4000x4000 px photo, the tool will scale it down to generate the background, effectively destroying the "Deep Zoom" capability required by marketplaces like Amazon. [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706), conversely, maintains high-fidelity details, making it suitable for large-format hero images and homepage banners.
 
 ### Workflow Integration vs. Standalone Tools
-Shopify Magic lives within your "Products" and "Files" tab. This eliminates the need to download and re-upload files. Adobe Firefly functions as a standalone web app or as a plugin within Photoshop. For a seller, this means Firefly adds three extra steps to the workflow: exporting from the store, editing in Firefly/Photoshop, and re-uploading to the store.
+Shopify Magic lives within your "Products" and "Files" tab. This eliminates the need to download and re-upload files. [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) functions as a standalone web app or as a plugin within Photoshop. For a seller, this means Firefly adds three extra steps to the workflow: exporting from the store, editing in Firefly/Photoshop, and re-uploading to the store.
 
 ## Pricing Comparison
 

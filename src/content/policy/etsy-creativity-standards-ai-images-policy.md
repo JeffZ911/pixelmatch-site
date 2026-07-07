@@ -106,7 +106,7 @@ If your shop currently relies on generic AI mockups for hero images, follow this
 3.  **Reorder Your Gallery:** Set the PixelMatch-enhanced photo of your *real* product as the Hero Image. Move any fully AI-generated mockups (like those featuring synthetic models) to the third or fourth slot, and ensure they have the "AI model used" badge.
 
 ### Recategorize Listings
-Check your "Category" settings for every AI-generated listing. If you see "Photography," change it immediately.
+Check your "Category" settings for every AI-[generated listing](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-disclosure-policy-2026-20260707). If you see "Photography," change it immediately.
 *   **For Digital Art:** Home & Living > Art & Collectibles > Prints > Digital Prints.
 *   **For AI-Generated Textures:** Craft Supplies & Tools > Canvas & Surfaces > Paper > Digital Paper.
 

@@ -38,7 +38,7 @@ As of 2026, Etsy requires sellers to explicitly disclose AI-generated products i
 
 Run a compliance audit on your active inventory today by comparing your listing types against the 2026 Etsy Creativity Standards. If a listing falls into a "Mandatory" disclosure category, update your description immediately to avoid automated flagging.
 
-| Content Type | Etsy Category | AI Disclosure Required? | Action Required |
+| Content Type | Etsy Category | [AI Disclosure](https://pixelmatch.art/blog/policy/amazon-ai-disclosure-label-appeal-process-20260705) Required? | Action Required |
 | :--- | :--- | :--- | :--- |
 | **Full AI-Generated Art** (Printables, Wall Art) | [Designed by a seller](https://www.etsy.com/seller-handbook/article/1275449912004) | **Yes (Mandatory)** | Add disclosure to description; set production partner. |
 | **AI-Enhanced Product Photos** (Background swap) | Handmade / Designed by | **No (Optional)** | Ensure the physical product is not distorted. |
@@ -131,7 +131,7 @@ This hybrid approach satisfies Etsy's 2026 transparency goals because the custom
 ## Frequently Asked Questions
 
 ### Do I need to disclose if I used AI to write my Etsy listing titles and tags?
-No, Etsy’s 2026 disclosure policy focuses on the creative content of the product and the accuracy of the listing images. Using AI for SEO optimization, titles, or tags is considered a business productivity tool and does not require a public disclosure in your description.
+No, Etsy’s 2026 [disclosure policy](https://pixelmatch.art/blog/policy/etsy-ai-disclosure-policy-handmade-sellers) focuses on the creative content of the product and the accuracy of the listing images. Using AI for SEO optimization, titles, or tags is considered a business productivity tool and does not require a public disclosure in your description.
 
 ### Can I still sell AI-generated art if I don't disclose it?
 While you might avoid detection for a short period, Etsy uses sophisticated image-hash recognition to identify AI-generated patterns. Failing to disclose AI use violates the Creativity Standards and can lead to a permanent shop suspension without the possibility of appeal.

@@ -94,7 +94,7 @@ Run your entire catalog through PixelMatch's "Amazon White" workflow. This tool 
 ### Step 2: Build an Approval Dashboard in Appaca
 Skip the messy email chains and Slack threads. Use an **appaca ai workspace for ecommerce operations** to create a custom internal tracker. 
 1.  **Connect your SKU list:** Import your Shopify or Amazon SKU list into Appaca.
-2.  **Add a "Status" field:** Set options for "Needs Image," "AI Generated," "QA Approved," and "Live."
+2.  **Add a "Status" field:** Set options for "Needs Image," "[AI Generated](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-disclosure-policy-2026-20260707)," "QA Approved," and "Live."
 3.  **Automate Notifications:** Set a rule in Appaca: "When Status changes to QA Approved, move file to 'Final Upload' folder."
 This ensures your team only pushes images that have been human-verified for policy compliance.
 

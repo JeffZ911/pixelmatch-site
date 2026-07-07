@@ -46,7 +46,7 @@ Both models are fully capable of meeting the rigorous standards of modern market
 ![Side-by-Side Feature Table](/img/gpt-image-2-vs-nano-banana-comparison/inline-2.webp)
 
 
-Run a resolution calibration test on your existing assets to see if your current images support the "hover-to-zoom" features on Amazon and Walmart. If your current images blur when zoomed, you likely need the 4K output capabilities of Nano Banana Pro to maintain conversion rates.
+Run a resolution calibration test on your existing assets to see if your current images support the "hover-to-zoom" features on Amazon and Walmart. If your current images blur when zoomed, you likely need the 4K output capabilities of [Nano Banana](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) Pro to maintain conversion rates.
 
 | Feature | GPT Image 2.0 | Nano Banana Pro |
 | :--- | :--- | :--- |
