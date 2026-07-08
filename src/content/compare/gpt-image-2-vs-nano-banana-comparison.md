@@ -117,7 +117,7 @@ Finally, neither of these models is a "complete" solution for a seller with a ma
 
 For sellers who need to scale this across their entire catalog without hiring a full-time prompt engineer, use PixelMatch to batch-generate compliant images using these underlying models without the manual prompting hassle. 
 
-The "winner" of the GPT Image 2.0 vs. Nano Banana comparison depends entirely on where the image will live in your funnel:
+The "winner" of the GPT Image 2.0 vs. [Nano Banana](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) comparison depends entirely on where the image will live in your funnel:
 
 1.  **Choose GPT Image 2.0** if you are building out your "Secondary Images." It is the only model that consistently produces readable text and logical layouts for infographics, size charts, and feature callouts.
 2.  **Choose Nano Banana Pro** if you are focused on your "Hero Image" and "Lifestyle Content." Its 4K resolution and superior lighting engine create the high-end "magazine look" that drives clicks on Amazon and Shopify.

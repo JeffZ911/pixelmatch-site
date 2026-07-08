@@ -108,7 +108,7 @@ With a perfectly isolated, high-resolution PNG (transparent background) in hand,
 ![Results: 96% Cost Reduction and Improved CTR](/img/amazon-creative-studio-ai-image-editing-guide/inline-4.webp)
 
 
-By shifting to this AI-driven workflow, Lumina Skin saw immediate improvements in both their balance sheet and their Amazon Seller Central metrics.
+By shifting to this AI-driven workflow, Lumina Skin saw immediate improvements in both their balance sheet and their [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central metrics.
 
 ### Financial Impact
 The cost per listing dropped from $450 (studio fee + shipping + retouching) to approximately $15. This $15 represents the amortized cost of their software subscriptions (PixelMatch and other tools) divided by the number of images produced. For a brand launching dozens of variations, this saved over $10,000 in the first six months.

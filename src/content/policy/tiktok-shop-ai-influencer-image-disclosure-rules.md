@@ -100,7 +100,7 @@ Implement a two-step verification process using PixelMatch’s "Product Lock" fe
 ### Appealing a False Rejection
 
 If TikTok’s automated system flags a real photo as AI (a "False Positive"), do not simply delete and re-upload. This can look like an attempt to bypass the algorithm. Instead:
-1. Open the "Account Health" dashboard.
+1. Open the "[Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide)" dashboard.
 2. Select the rejected content and click "Appeal."
 3. Upload the original RAW file or a "behind-the-scenes" photo of the product shoot. 
 4. Explicitly state: "This image was captured using a [Camera Model] and does not contain synthetic or AI-generated subjects."

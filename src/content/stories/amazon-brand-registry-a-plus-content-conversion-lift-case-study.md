@@ -74,7 +74,7 @@ Third, they tested Photoroom Pro ($12.99/month). While Photoroom offers decent [
 
 The seller transitioned to PixelMatch to automate the production of Amazon-compliant assets. By using a specialized AI photography engine, they moved from a "one-off" creative process to a "batch-processing" mindset. 
 
-Set your PixelMatch export profile to 72 DPI and RGB colorspace before you begin; this ensures your files bypass the common "Invalid File Format" or "Over-sized File" errors in Amazon Seller Central. The brand utilized the following three-stage workflow:
+Set your PixelMatch export profile to 72 DPI and RGB colorspace before you begin; this ensures your files bypass the common "Invalid File Format" or "Over-sized File" errors in [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central. The brand utilized the following three-stage workflow:
 
 ### 1. The "Pure White" Foundation
 For the "Standard Three Images & Text" module, Amazon requires clean, distraction-free imagery. The seller used PixelMatch’s batch editor to process all 45 hero bottles into perfect RGB 255, 255, 255 white backgrounds at exactly 300 x 300 px. This ensured that the three-[image carousel](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix) looked uniform across every SKU in the brand's storefront.

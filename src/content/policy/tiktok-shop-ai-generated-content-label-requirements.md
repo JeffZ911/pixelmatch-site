@@ -116,7 +116,7 @@ Update your existing listings by re-uploading media with the correct disclosure 
 
 ### Auditing and Updating Labels
 
-Check your TikTok Seller Center "Account Health" page daily. If you see "Content Violations," click into the specific listing to see which image or video was flagged. 
+Check your TikTok Seller Center "[Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide)" page daily. If you see "Content Violations," click into the specific listing to see which image or video was flagged. 
 
 1.  **For Videos:** If a video is flagged for missing disclosure, you cannot "edit" the label onto a live video. You must delete the video, re-upload it, and ensure the "AI-generated content" toggle is switched on.
 2.  **For Images:** Replace any AI-generated images that alter product features with high-quality, unedited photos. TikTok Shop requires images to be at least 600 x 600 pixels with a 1:1 aspect ratio, though 1200 x 1200 px is recommended for clarity.

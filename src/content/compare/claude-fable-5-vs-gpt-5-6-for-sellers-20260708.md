@@ -130,7 +130,7 @@ Claude Fable 5's high output token cost ([$50 per million](https://www.anthropic
 ![Recommendation](/img/claude-fable-5-vs-gpt-5-6-for-sellers-20260708/inline-6.webp)
 
 
-Batch-process 100 product images through PixelMatch this week to establish a baseline for your "perfect" platform-compliant listing before scaling your AI-generated copy.
+Batch-process 100 [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) through PixelMatch this week to establish a baseline for your "perfect" platform-compliant listing before scaling your AI-generated copy.
 
 To maximize your ROI in 2026, you should not choose just one model; you should build a hybrid workflow. 
 

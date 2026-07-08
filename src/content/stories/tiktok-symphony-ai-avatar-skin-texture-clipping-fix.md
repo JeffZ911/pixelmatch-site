@@ -83,7 +83,7 @@ After the frames are retouched, they are compiled back into the video sequence. 
 ![Measure the Impact: Performance Metrics of Retouched AI vs. Raw Outputs](/img/tiktok-symphony-ai-avatar-skin-texture-clipping-fix/inline-4.webp)
 
 
-The difference between a raw AI avatar and a retouched version is most visible in the Click-Through Rate (CTR). In a test conducted by our composite beauty seller, the raw Symphony ads were frequently skipped within the first 1.5 seconds. Once the PixelMatch retouching was applied—specifically fixing the "plastic" skin and the product clipping—the ads maintained viewers' attention longer, as they were indistinguishable from standard UGC.
+The difference between a raw [AI avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study) and a retouched version is most visible in the Click-Through Rate (CTR). In a test conducted by our composite beauty seller, the raw Symphony ads were frequently skipped within the first 1.5 seconds. Once the PixelMatch retouching was applied—specifically fixing the "plastic" skin and the product clipping—the ads maintained viewers' attention longer, as they were indistinguishable from standard UGC.
 
 | Metric | Raw [Symphony AI](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) | PixelMatch Retouched | Human UGC (Average) |
 | :--- | :--- | :--- | :--- |

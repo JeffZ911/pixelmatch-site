@@ -59,7 +59,7 @@ Amazon's 2026 policy requires disclosing AI-generated images and text to comply 
 Verify your listing against the specific technical thresholds Amazon uses to define "Synthetic Content." As of 2026, the marketplace has moved from a "voluntary disclosure" model to an "automated enforcement" model.
 
 ### The "Substantially Modified" Threshold
-Sellers must check the "AI-generated content" box in the listing backend for any substantially modified synthetic media. Amazon defines this as any content where AI was used to create a realistic-looking person, place, or thing that does not exist in reality. If you use AI to generate a kitchen background for a coffee mug, you must disclose it. If you only use AI for basic "lighting correction" or "cropping," disclosure is generally not required.
+Sellers must check the "AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)" box in the listing backend for any substantially modified synthetic media. Amazon defines this as any content where AI was used to create a realistic-looking person, place, or thing that does not exist in reality. If you use AI to generate a kitchen background for a coffee mug, you must disclose it. If you only use AI for basic "lighting correction" or "cropping," disclosure is generally not required.
 
 ### Federal Trade Commission (FTC) Compliance
 This isn't just an Amazon rule; it’s a legal one. The FTC treats undisclosed AI imagery as a deceptive practice under Section 5 of the FTC Act. If a customer buys a product because an AI-generated image showed a feature or texture that the physical product does not possess, you are liable for "deceptive advertising."
