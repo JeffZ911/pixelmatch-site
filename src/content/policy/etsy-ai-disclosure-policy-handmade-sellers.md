@@ -125,7 +125,7 @@ If you are using AI for Print-on-Demand (POD), ensure your partners are correctl
 4.  Ensure the "Who made it?" field is set to "Another company or person" (working with you to create your design).
 
 ### Creating a Compliant Mockup Workflow
-To avoid the "misleading mockup" trap, move away from "all-in-one" AI image generators that create the product and the background simultaneously. Instead:
+To avoid the "misleading mockup" trap, move away from "all-in-one" [AI image](https://pixelmatch.art/blog/policy/etsy-ai-image-crackdown-shop-closure-risk) generators that create the product and the background simultaneously. Instead:
 1.  Take a high-quality, [2000px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop) photo of your actual physical product.
 2.  Upload it to a tool like PixelMatch.
 3.  Use the batch generator to swap the background for a lifestyle scene (e.g., "on a wooden table with sunlight").

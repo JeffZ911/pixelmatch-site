@@ -55,7 +55,7 @@ The "invalid media format" error in [TikTok Symphony](https://pixelmatch.art/blo
 
 First, consider the file format. Many AI generation APIs and web interfaces default to the WebP format because it offers superior compression for web viewing. However, the TikTok Shop Seller Center and [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703) strictly require JPG, JPEG, or PNG formats. When a seller attempts to drag a `.webp` file into the Symphony Studio uploader, the system fails to parse the header, resulting in a rejection.
 
-Second, the file size is a major bottleneck. The [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 Pro Ultra model generates images up to 4 megapixels, which provides incredible detail but results in massive file sizes. [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio enforces a strict 5MB limit per image file. A raw, uncompressed 4MP PNG from Flux can easily reach 8MB to 12MB, triggering an automatic rejection upon upload.
+Second, the file size is a major bottleneck. The [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).[1 Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) model generates images up to 4 megapixels, which provides incredible detail but results in massive file sizes. [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio enforces a strict 5MB limit per image file. A raw, uncompressed 4MP PNG from Flux can easily reach 8MB to 12MB, triggering an automatic rejection upon upload.
 
 Finally, the aspect ratio often causes secondary failures. While not always triggering the "invalid format" error specifically, uploading a square (1:1) or landscape (16:9) image into a vertical [video generator](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial) often leads to awkward cropping or "black bars," which TikTok’s automated moderation may flag as low-quality content. [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703) performs best with a 9:16 vertical aspect ratio (typically 720x1280 px or higher).
 
@@ -116,7 +116,7 @@ The increase in Click-Through Rate (CTR) from 1.2% to 2.8% was driven by the abi
 ![Steps to Replicate](/img/tiktok-symphony-studio-invalid-media-format-flux-1-1/inline-5.webp)
 
 
-You can implement this same workflow to bypass TikTok's technical limitations and scale your beauty brand's creative output. Follow these four steps to ensure your Flux 1.1 images never trigger an "invalid format" error again.
+You can implement this same workflow to bypass TikTok's technical limitations and scale your beauty brand's creative output. Follow these four steps to ensure your [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).1 images never trigger an "invalid format" error again.
 
 ### Step 1: Generate High-Resolution Assets with Flux 1.1 Pro
 Use a high-fidelity prompt in Flux 1.1 Pro to create your lifestyle background. To minimize post-processing, specify the orientation in your prompt.
@@ -181,6 +181,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Ads: Image Ad Specifications
 *   [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio FAQ
 *   Black Forest Labs: Flux 1.1 Pro Official Site
-*   Fal.ai: Flux 1.1 Pro Ultra Model Specs
+*   Fal.ai: Flux 1.1 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Model Specs
 *   TikTok Shop Seller Center: Image Quality Guidelines
 *   Pro Photo Studio: Ecommerce Photography Pricing Guide

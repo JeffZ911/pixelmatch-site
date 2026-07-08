@@ -64,7 +64,7 @@ Run a vision-benchmark test today by uploading a competitor’s top-selling list
 
 Claude Fable 5 boasts a [1M token context window](https://www.anthropic.com/news/claude-fable-5-mythos-5), allowing you to upload massive supplier CSVs or entire years of PPC data without truncating the file. This makes it ideal for identifying long-term trends that smaller-window models miss. In contrast, GPT-5.6 Sol integrates seamlessly with OpenAI's broader ecosystem, making it a faster choice for sellers already utilizing the GPT Store for internal team tools.
 
-Both models offer advanced vision capabilities, enabling them to analyze competitor listings and charts. They can tell you *why* a competitor's infographic is working, but they lack the generative precision to create the replacement. For batch-generating compliant product images, PixelMatch fills the gap that these LLMs leave behind.
+Both models offer advanced vision capabilities, enabling them to analyze competitor listings and charts. They can tell you *why* a competitor's infographic is working, but they lack the generative precision to create the replacement. For batch-generating compliant [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study), PixelMatch fills the gap that these LLMs leave behind.
 
 ## Pricing Comparison
 
@@ -166,7 +166,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Anthropic: [Claude Fable 5 Mythos-5 Release Notes](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 *   OpenAI: Previewing GPT-5.6 Sol, Terra, and Luna
-*   Amazon Seller Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central: [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
 *   Shopify Help Center: [Product Media Types and Limits](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   Stripe: Pricing and Fees
 *   PayPal: Merchant Fees for Checkout

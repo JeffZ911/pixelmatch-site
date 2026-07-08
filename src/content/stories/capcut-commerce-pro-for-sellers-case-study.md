@@ -117,7 +117,7 @@ Batch-process at least 50 images in PixelMatch before you even open the CapCut e
     *   Download the processed batch.
 3.  **Upload to CapCut Commerce Pro:** Open the CapCut Commerce Pro dashboard and navigate to the "Product-to-Video" tool.
 4.  **Select an Ecommerce Template:** Choose a template specifically designed for your niche (e.g., "Skincare Reveal" or "Flash Sale").
-5.  **Configure AI Avatars:** Select an AI avatar that matches your brand’s target demographic. Use the "AI Script" generator to write a 15-second script focusing on one specific pain point (e.g., "Dry skin in winter?").
+5.  **Configure AI Avatars:** Select an [AI avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study) that matches your brand’s target demographic. Use the "AI Script" generator to write a 15-second script focusing on one specific pain point (e.g., "Dry skin in winter?").
 6.  **Batch Export and Schedule:** Generate 5-10 variations of the same video by changing only the hook or the background music. Schedule these to post across your connected social channels using the CapCut auto-publishing feature.
 
 ## Caveats and Honest Limitations

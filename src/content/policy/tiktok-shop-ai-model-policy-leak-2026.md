@@ -66,7 +66,7 @@ Your AI-generated visuals must be a 1:1 match for the physical item's color, siz
 TikTok strictly bans AI filters and generative edits for health and beauty "after" effects. This includes skin smoothing, hair regrowth, or simulated weight loss. If your product is a skincare serum, using AI to generate a flawless complexion in the "after" photo is considered a fraudulent claim.
 
 **Rule 3: Mandatory disclosure for all synthetic content.**
-Sellers must use the built-in AI label for any image where the subject or the environment was created by AI. Failing to disclose synthetic content can lead to a 7-day posting restriction or a 30-day account suspension. TikTok uses these labels to build trust with buyers who are increasingly wary of "ghost kitchens" and "ghost brands" using purely synthetic storefronts.
+Sellers must use the built-in [AI label](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack) for any image where the subject or the environment was created by AI. Failing to disclose synthetic content can lead to a 7-day posting restriction or a 30-day account suspension. TikTok uses these labels to build trust with buyers who are increasingly wary of "ghost kitchens" and "ghost brands" using purely synthetic storefronts.
 
 ### June 2026 Livestream Restrictions
 

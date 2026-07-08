@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop guessing whether your new lifestyle images will trigger a listing suppression. As Amazon integrates more automated review systems into Seller Central, failing to correctly disclose AI-generated content is becoming a leading cause of [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) warnings for multi-platform sellers.
+Stop guessing whether your new lifestyle images will trigger a listing suppression. As Amazon integrates more automated review systems into Seller Central, failing to correctly disclose AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements) is becoming a leading cause of [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) warnings for multi-platform sellers.
 
 As of 2026, Amazon requires sellers to disclose substantially AI-generated images (like synthetic lifestyle scenes) via the Image Provenance field. Minor AI edits like background removal to pure white (RGB 255, 255, 255) do not require disclosure.
 

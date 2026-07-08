@@ -155,7 +155,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   **Fal.ai Flux 1.1 Pro Ultra Pricing & Specs:** https://fal.ai/models/fal-ai/flux-pro/v1.1-ultra
 *   **Replicate Flux 1.1 Pro Ultra Technical Details:** https://replicate.com/black-forest-labs/flux-1.1-pro-ultra
 *   **Midjourney Official Subscription Plans:** https://www.midjourney.com/plans
-*   **Amazon Seller Central Product Image Requirements:** [https://sellercentral.amazon.com/help/hub/reference/external/G1881](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
+*   **[Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central Product Image Requirements:** [https://sellercentral.amazon.com/help/hub/reference/external/G1881](https://sellercentral.amazon.com/help/hub/reference/external/G1881)
 *   **Midjourney v6.1 Speed and Feature Analysis:**
 *   **Shopify Product Media Requirements:** [https://help.shopify.com/en/manual/products/product-media/product-media-types](https://help.shopify.com/en/manual/products/product-media/product-media-types)
 *   **Etsy Listing Photo Requirements:** [https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos)

@@ -40,7 +40,7 @@ Audit your active listings immediately to ensure the "I used AI-generative techn
 
 *   **Etsy Compliance:** Etsy's strict enforcement of [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) means missing the checkbox while uploading images with embedded C2PA metadata triggers a policy mismatch. You must label these items as "Designed by a seller" in the production attribution section.
 *   **The Metadata Trap:** Mainstream tools like Canva and Photoroom embed hardcoded C2PA metadata that can trigger Meta's "[Made with AI](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack)" label when cross-posting Etsy listing photos to Instagram, even if the AI was only used for a simple background swap.
-*   **The PixelMatch Advantage:** PixelMatch allows sellers to batch-generate product images with clean metadata, ensuring you control the disclosure process manually without algorithmic false positives or "ghost labels" appearing on your social media marketing.
+*   **The PixelMatch Advantage:** PixelMatch allows sellers to batch-generate [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) with clean metadata, ensuring you control the disclosure process manually without algorithmic false positives or "ghost labels" appearing on your social media marketing.
 
 ## Side-by-Side Feature Table
 
@@ -95,7 +95,7 @@ Photoroom's $12.99 monthly fee is enticing for mobile sellers, but the technical
 Identify your primary bottleneck—whether it is batching speed or metadata compliance—to select the tool that protects your Etsy seller standing.
 
 ### Canva: The Casual Generalist
-Canva is the best fit for sellers who only produce 1–5 new items per month and focus heavily on social media graphics rather than pure product photography. If you are comfortable manually checking the disclosure boxes and don't mind the occasional "Made with AI" label on your Instagram Reels, Canva’s suite of creative tools is sufficient. However, be prepared to spend significant time resizing images to meet Etsy's [2000px requirement](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) if you use their standard templates.
+Canva is the best fit for sellers who only produce 1–5 new items per month and focus heavily on social media graphics rather than pure product photography. If you are comfortable manually checking the disclosure boxes and don't mind the occasional "[Made with AI](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack)" label on your Instagram Reels, Canva’s suite of creative tools is sufficient. However, be prepared to spend significant time resizing images to meet Etsy's [2000px requirement](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) if you use their standard templates.
 
 ### Photoroom: The Mobile Reseller
 If you are a vintage seller or a "thrifter" who shoots items on a smartphone, Photoroom is a powerful ally. Its background removal is top-tier for mobile devices. It is best for sellers who handle unique, one-of-a-kind (OOAK) items where batching isn't a priority. Just ensure you are aware of the 50-image batch limit if you ever decide to scale into private label or wholesale.

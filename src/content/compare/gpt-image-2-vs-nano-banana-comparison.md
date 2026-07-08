@@ -95,7 +95,7 @@ TikTok Shop is a mobile-first platform where speed and "vibe" trump technical pe
 
 ### Multi-Platform Brands
 
-If you sell the same SKU on Amazon, eBay, and your own Shopify site, you need a diverse asset library. GPT Image 2.0 is the "workhorse" for this profile. Use it to create your secondary images: the ones that explain how the product works. Because GPT Image 2.0 can handle text, you can prompt it to create "3-step assembly" graphics or "Comparison vs Competitor" charts with readable headers and bullet points. While Nano Banana handles the "beauty shot," GPT Image 2.0 handles the "education shot" that actually closes the sale.
+If you sell the same SKU on Amazon, eBay, and your own Shopify site, you need a diverse asset library. GPT Image 2.0 is the "workhorse" for this profile. Use it to create your secondary images: the ones that explain how the product works. Because GPT Image 2.0 can handle text, you can prompt it to create "3-step assembly" graphics or "Comparison vs Competitor" charts with readable headers and bullet points. While [Nano Banana](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) handles the "beauty shot," GPT Image 2.0 handles the "education shot" that actually closes the sale.
 
 ## Where Each Falls Short
 

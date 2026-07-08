@@ -112,7 +112,7 @@ To fix a disclosure error, follow these steps in Seller Central:
 5. Select the appropriate level: "Fully Human," "AI-Assisted," or "Fully Synthetic."
 6. Save and Finish.
 
-If the suppression was triggered by an "Inaccurate Image" claim, you may need to submit an appeal. In the **Account Health** dashboard, find the violation and click **Submit Appeal**. Provide a brief statement: "I have updated the metadata to correctly disclose the use of AI-assisted imagery as per the 2026 guidelines."
+If the suppression was triggered by an "Inaccurate Image" claim, you may need to submit an appeal. In the **[Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide)** dashboard, find the violation and click **Submit Appeal**. Provide a brief statement: "I have updated the metadata to correctly disclose the use of AI-assisted imagery as per the 2026 guidelines."
 
 ### Correcting Main Image Backgrounds
 
