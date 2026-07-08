@@ -129,7 +129,7 @@ For sellers managing hundreds of SKUs, doing this manually is impossible. Use a 
 No, TikTok generally does not require the "AI-generated content" label for basic editing tasks like background removal or color correction. The label is mandatory for "synthetic media" that creates realistic scenes, people, or objects that do not exist in reality. If your image is just your product on a pure white background, no label is needed.
 
 ### What happens if I get caught using AI images without a label?
-TikTok will typically issue a "Listing Violation." This results in the listing being hidden from search and the "For You" feed. You will also receive violation points; reaching certain thresholds (like 12, 24, or 48 points) can lead to temporary listing bans, account freezes, or permanent shop closure as outlined in the TikTok Shop Violation Points policy.
+TikTok will typically issue a "Listing Violation." This results in the listing being hidden from search and the "For You" feed. You will also receive violation points; reaching certain thresholds (like 12, 24, or 48 points) can lead to temporary listing bans, account freezes, or permanent [shop closure](https://pixelmatch.art/blog/policy/etsy-ai-image-crackdown-shop-closure-risk) as outlined in the TikTok Shop Violation Points policy.
 
 ### Can I use AI to generate models wearing my clothes?
 Yes, but you must enable the AI-generated content toggle. TikTok's 2026 policy is very strict about "non-existent humans" in advertising. As long as you disclose that the model is AI-generated, you are compliant. However, ensure the clothing itself is an accurate representation of the physical product to avoid "Product Not as Described" returns.

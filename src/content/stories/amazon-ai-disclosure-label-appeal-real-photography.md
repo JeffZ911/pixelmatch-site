@@ -61,7 +61,7 @@ The seller’s existing toolkit was actually working against them:
 *   **Manual Re-Shoots:** The brand considered returning to a traditional commercial studio. However, a professional product photographer in the beauty space typically charges between $200 and $300 per product for a full suite of compliant images. For a catalog of 20 SKUs, this $6,000 investment was unfeasible for a mid-market brand trying to maintain 30% margins.
 *   **Compression Tools:** Services like TinyPNG or JPEG-Optimizer were used to get files under Amazon's [10MB file size limit](https://sellercentral.amazon.com/help/hub/reference/G1881). These tools often strip the very C2PA (Coalition for Content Provenance and Authenticity) manifests that prove an image's "real" status.
 
-The seller was stuck in a "compliance trap." They couldn't use the cheap tools because they triggered the AI label, and they couldn't afford the traditional studio route for every minor listing update.
+The seller was stuck in a "compliance trap." They couldn't use the cheap tools because they triggered the [AI label](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack), and they couldn't afford the traditional studio route for every minor listing update.
 
 **Actionable Step:** Check your export settings in any editing software. If you do not see an option to "Maintain All Metadata" or "Include Content Credentials," stop using that tool for Amazon main images immediately.
 

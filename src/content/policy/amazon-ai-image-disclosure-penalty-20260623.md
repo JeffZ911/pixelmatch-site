@@ -149,7 +149,7 @@ To prevent future penalties, your workflow should look like this:
 No, Amazon does not penalize basic background removal or color correction. These are considered "Fully Human" or standard retouching. The penalty only applies when you use generative AI to *add* elements, such as creating a synthetic kitchen around a product or generating a human model that wasn't in the original photo.
 
 ### What happens if I don't disclose AI images on my Amazon listing?
-Failure to disclose can lead to "Search Suppression," meaning your product will not appear in customer search results. Repeated violations can result in a "Policy Violation" warning on your Account Health page, which may lead to account suspension under [Section 3 of the Business Solutions Agreement](https://sellercentral.amazon.com/help/hub/reference/G1791).
+Failure to disclose can lead to "Search Suppression," meaning your product will not appear in customer search results. Repeated violations can result in a "Policy Violation" warning on your [Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) page, which may lead to account suspension under [Section 3 of the Business Solutions Agreement](https://sellercentral.amazon.com/help/hub/reference/G1791).
 
 ### Do I need to label AI-generated infographics?
 Yes, if the infographic uses AI-generated lifestyle elements or synthetic humans, it must be disclosed. However, if the infographic only uses text, icons, and your original product photography with a flat color background, it does not require an AI [disclosure label](https://pixelmatch.art/blog/stories/tiktok-shop-ai-thumbnail-disclosure-label-bug).

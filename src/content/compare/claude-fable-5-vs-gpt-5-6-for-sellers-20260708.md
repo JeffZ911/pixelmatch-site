@@ -72,7 +72,7 @@ Both models offer advanced vision capabilities, enabling them to analyze competi
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your "cost-per-listing-optimized" by dividing your monthly API bill by the number of SKU updates performed; if your cost exceeds $0.05 per SKU for simple title updates, you are overpaying for reasoning you don't need.

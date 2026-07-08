@@ -70,7 +70,7 @@ TikTok Shop operates under three core principles for AI-generated content (AIGC)
 
 The disclosure workflow differs depending on whether you are posting an organic video or running a paid campaign. For organic content, you must manually toggle the "AI-generated content" switch in the video settings before hitting "Post."
 
-For paid promotions, you must navigate to the TikTok Ads Manager. At the ad-creation level, look for the "AI Disclosure" tag. Checking this box ensures your ad is not rejected during the automated review process. If you use a tool like Canva Pro ($119.99/year) to generate an ad background, the disclosure requirement remains the same as if you used a dedicated AI image generator.
+For paid promotions, you must navigate to the TikTok Ads Manager. At the ad-creation level, look for the "AI Disclosure" tag. Checking this box ensures your ad is not rejected during the automated review process. If you use a tool like Canva Pro ($119.99/year) to generate an ad background, the disclosure requirement remains the same as if you used a dedicated [AI image](https://pixelmatch.art/blog/policy/etsy-ai-image-crackdown-shop-closure-risk) generator.
 
 ### Platform-Initiated Automatic Labeling
 

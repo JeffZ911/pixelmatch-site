@@ -47,7 +47,7 @@ Run a quick audit of your current [account health](https://pixelmatch.art/blog/p
 | **AI-Generated Medical Claims** | Prohibited (must remove) | 5–10 Days | [Account Suspension Risk](https://sellercentral.amazon.com/help/hub/reference/G1791) |
 | **Main Hero Image (Slot 1)** | No AI allowed for product | 24 Hours | Image Suppression |
 
-[Image Placeholder: A mockup of the [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central backend showing the 'AI-generated content' checkbox. Aspect Ratio: 16:9]
+[Image Placeholder: A mockup of the [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central backend showing the 'AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)' checkbox. Aspect Ratio: 16:9]
 
 Amazon's 2026 policy requires disclosing AI-generated images and text to comply with new marketplace transparency standards. Failure to disclose can result in listing suppression or account suspension under [Section 3 of the Business Solutions Agreement](https://sellercentral.amazon.com/help/hub/reference/G1791). For your main hero images, you must still adhere to the classic [pure white background (RGB 255, 255, 255) and 85% product fill](https://sellercentral.amazon.com/help/hub/reference/G1881) rules, which do not permit synthetic product fabrication.
 

@@ -69,7 +69,7 @@ For sellers managing hundreds of SKUs, Photoroom’s 50-image batch limit create
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your monthly "per-image" cost to see if a flat-rate tool like PixelMatch beats the credit-based or restricted-batch systems of general design platforms.
@@ -103,7 +103,7 @@ If you are a vintage seller or a "thrifter" who shoots items on a smartphone, Ph
 ### PixelMatch: The High-Volume Multi-Platform Brand
 PixelMatch is designed for the seller who views ecommerce as a data and systems game. If you sell on Etsy, Shopify, and Amazon, you cannot afford to have different metadata policies for every platform. PixelMatch is best for brands that need to:
 1. **Batch-generate** hundreds of lifestyle images from a single studio product shot.
-2. **Maintain clean metadata** to avoid "Made with AI" labels on platforms where they aren't required.
+2. **Maintain clean metadata** to avoid "[Made with AI](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack)" labels on platforms where they aren't required.
 3. **Ensure compliance** with Etsy's [Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy) by strictly adhering to the "Designed by a seller" workflow.
 
 ## Where Each Falls Short

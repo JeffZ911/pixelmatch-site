@@ -125,7 +125,7 @@ PixelMatch is highly specialized for product photography, meaning it lacks the b
 
 Establish a "Reference First" workflow for your 2026 product launches. If you are doing Amazon product photography, exact product representation is non-negotiable to avoid high return rates and negative reviews. Amazon’s algorithms increasingly favor listings with high "Image-to-Cart" conversion rates, and nothing kills that conversion faster than a product that looks "fake."
 
-1.  **Use Midjourney v7 for brainstorming:** When you are in the "moodboard" phase, use Midjourney to experiment with lighting styles, color palettes, and campaign concepts. It is your creative sandbox.
+1.  **Use [Midjourney v7](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-midjourney-v7-lifestyle) for brainstorming:** When you are in the "moodboard" phase, use Midjourney to experiment with lighting styles, color palettes, and campaign concepts. It is your creative sandbox.
 2.  **Use PixelMatch for production:** Once you have your physical product (or a final 3D render), upload it to PixelMatch. This ensures that every image—from the [Amazon-compliant main image](https://sellercentral.amazon.com/help/hub/reference/G1881) to the lifestyle secondary images—is an accurate representation of what the customer will receive.
 3.  **The Hybrid Strategy:** Many top-tier 1% sellers use both. They use Midjourney to generate a "Background Reference" image, then use PixelMatch to composite their real product into that specific aesthetic. This gives you the creative power of Midjourney with the factual accuracy of PixelMatch.
 

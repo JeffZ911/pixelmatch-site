@@ -174,7 +174,7 @@ Yes, TikTok Shop allows AI-generated images as long as they accurately represent
 The "Good" tier is a quality rating assigned by TikTok to listings that meet specific criteria, including having at least 5 high-quality images, a detailed description, and proper categorization. Reaching this tier often results in better search visibility within the app.
 
 ### Will using an AI avatar get my account banned?
-Using an AI avatar is perfectly legal on TikTok Shop, provided you disclose it using the platform's built-in tools. Bans typically occur when sellers attempt to pass off synthetic humans as real people to deceive customers.
+Using an [AI avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study) is perfectly legal on TikTok Shop, provided you disclose it using the platform's built-in tools. Bans typically occur when sellers attempt to pass off synthetic humans as real people to deceive customers.
 
 ### What are the image size requirements for TikTok Shop in 2026?
 The standard requirement remains a 1:1 aspect ratio with a resolution of at least 800x800 pixels. Files should be in JPG, JPEG, or PNG format and must be under 5MB in size.

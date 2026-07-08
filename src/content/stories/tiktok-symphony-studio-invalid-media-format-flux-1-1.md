@@ -119,7 +119,7 @@ The increase in Click-Through Rate (CTR) from 1.2% to 2.8% was driven by the abi
 You can implement this same workflow to bypass TikTok's technical limitations and scale your beauty brand's creative output. Follow these four steps to ensure your [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).1 images never trigger an "invalid format" error again.
 
 ### Step 1: Generate High-Resolution Assets with Flux 1.1 Pro
-Use a high-fidelity prompt in Flux 1.1 Pro to create your lifestyle background. To minimize post-processing, specify the orientation in your prompt.
+Use a high-fidelity prompt in [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).1 Pro to create your lifestyle background. To minimize post-processing, specify the orientation in your prompt.
 *   **Prompt Tip:** "A luxury skincare bottle on a marble countertop, soft morning sunlight, 8k resolution, cinematic lighting, vertical 9:16 orientation."
 *   **Technical Goal:** Aim for the 4MP Ultra setting to ensure your textures are sharp enough for high-definition video.
 

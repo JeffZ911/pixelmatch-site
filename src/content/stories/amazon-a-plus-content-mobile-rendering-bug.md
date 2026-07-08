@@ -192,7 +192,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Amazon Seller Central: A+ Content Specifications](https://sellercentral.amazon.com/help/hub/reference/G202102950)
-*   Amazon Seller Forums: A+ Content Minimized on Mobile
+*   [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Forums: A+ Content Minimized on Mobile
 *   WebyCorp: Amazon Premium A+ Complete Guide
 *   Flairox: Amazon A+ Content Image Sizes
 *   Cueball Creatives: Common A+ Listing Design Mistakes

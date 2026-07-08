@@ -124,7 +124,7 @@ Once your images are corrected, follow these steps to lift the suppression:
 5.  Remove the old "busy" image and upload the new compliant version.
 6.  Click **"Save and Finish"**.
 
-**Crucial Timing:** Amazon’s system typically takes 15 minutes to 2 hours to process the new image. However, if the suppression was a "Manual Policy Violation," it can take up to 24 hours for the listing to reappear in search results. If the listing is still suppressed after 24 hours, check the "Voice of the Customer" or "Account Health" dashboard to see if there is a secondary reason for the block.
+**Crucial Timing:** Amazon’s system typically takes 15 minutes to 2 hours to process the new image. However, if the suppression was a "Manual Policy Violation," it can take up to 24 hours for the listing to reappear in search results. If the listing is still suppressed after 24 hours, check the "Voice of the Customer" or "[Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide)" dashboard to see if there is a secondary reason for the block.
 
 ## Official Source Links
 
