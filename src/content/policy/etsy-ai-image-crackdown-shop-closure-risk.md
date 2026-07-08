@@ -28,7 +28,7 @@ Audit your top 10 best-selling listings today against the following compliance m
 | **Backgrounds** | AI-generated backgrounds (e.g., using PixelMatch) behind a real product. | AI-generated backgrounds that misrepresent the scale or use-case. | Ensure scale is accurate. |
 | **AI-Generated Art** | Digital art created via prompts (must be disclosed). | AI art listed under the "Photography" category. | Move to "Digital Art" or "Prints." |
 | **Product Retouching** | Color correction, brightness, and [standard AI background removal](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop). | Altering the physical characteristics of the product (size, texture). | Keep product edits minimal. |
-| **Disclosures** | "Made with AI" tag applied to digital downloads or AI-assisted designs. | Hiding AI involvement in the creation of a design or digital item. | Enable the AI disclosure tag. |
+| **Disclosures** | "[Made with AI](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack)" tag applied to digital downloads or AI-assisted designs. | Hiding AI involvement in the creation of a design or digital item. | Enable the AI disclosure tag. |
 
 ## Detailed Requirements
 

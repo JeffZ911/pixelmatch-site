@@ -53,7 +53,7 @@ Compare your current image export settings against Etsy's [2000px minimum recomm
 | :--- | :--- | :--- | :--- |
 | **Metadata Handling** | Clean exports; manual disclosure control | Hardcoded C2PA AI tags | Hardcoded C2PA AI tags |
 | **Batch Processing** | Unlimited catalog variants | Limit of 50 images | Manual / Limited Bulk Create |
-| **Etsy Disclosure Fix** | Prevents metadata mismatches | Triggers "Made with AI" labels | Triggers "Made with AI" labels |
+| **Etsy Disclosure Fix** | Prevents metadata mismatches | Triggers "[Made with AI](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack)" labels | Triggers "Made with AI" labels |
 | **Primary Use Case** | Multi-platform batch scaling | Mobile one-off edits | General graphic design |
 | **Production Role** | "Designed by a seller" | "Designed by a seller" | "Designed by a seller" |
 

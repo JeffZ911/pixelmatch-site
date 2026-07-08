@@ -90,7 +90,7 @@ Sellers often use Amazon's built-in AI listing generator or external LLMs to wri
 ### 4. Ignoring Auto-Published Edits
 Amazon frequently "suggests" AI-generated improvements to your titles and bullet points. If you fail to review these Amazon-initiated edits within the 14-day review window, the changes go live automatically. If those auto-edits contain non-compliant language, your listing can be suppressed for a violation you didn't even write.
 
-[Image Placeholder: Side-by-side comparison of a compliant AI-generated lifestyle image vs. a non-compliant AI image that fabricates the product. Aspect Ratio: 16:9]
+[Image Placeholder: Side-by-side comparison of a compliant AI-generated lifestyle image vs. a non-compliant [AI image](https://pixelmatch.art/blog/policy/etsy-ai-image-crackdown-shop-closure-risk) that fabricates the product. Aspect Ratio: 16:9]
 
 ## How to Fix Each Issue
 

@@ -53,7 +53,7 @@ If your brand is enrolled in the Brand Registry and has access to Premium A+ Con
 ![What Wasn't Working: The 'Error 9006' Confusion](/img/amazon-a-plus-content-error-code-9006-fix/inline-2.webp)
 
 
-Audit your browser logs when Seller Central hangs to identify the true cause of an upload failure. When the team tried to upload the agency’s raw files, the Amazon Seller Central portal would frequently hang on "Uploading..." before throwing a generic failure message: "There was an error while uploading. Please try again."
+Audit your browser logs when Seller Central hangs to identify the true cause of an upload failure. When the team tried to upload the agency’s raw files, the [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central portal would frequently hang on "Uploading..." before throwing a generic failure message: "There was an error while uploading. Please try again."
 
 In many cases, searching for an "[amazon a plus](https://pixelmatch.art/blog/stories/amazon-a-plus-content-mobile-rendering-bug) content [error code](https://pixelmatch.art/blog/policy/tiktok-shop-product-image-error-code-40029-fix-20260627) 9006 fix" leads sellers down a rabbit hole of clearing cookies or changing browsers. In reality, Error 9006 is typically a network or database timeout code that appears in browser developer tools when the connection to Amazon’s S3 storage buckets is severed. This happens because the file is too large for the system to process within the allotted session window.
 

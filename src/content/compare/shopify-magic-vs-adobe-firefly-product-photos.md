@@ -140,7 +140,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Shopify Help Center: Media Generation with Shopify Magic](https://help.shopify.com/en/manual/shopify-magic/media-generation)
-*   Adobe Firefly Pricing and Credits
+*   [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-for-products-20260706) Pricing and Credits
 *   [Adobe: Commercial Safety and Firefly Training](https://www.adobe.com/products/firefly.html)
 *   Shopify Pricing Tiers 2026
 *   [Amazon Seller Central: Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G181)

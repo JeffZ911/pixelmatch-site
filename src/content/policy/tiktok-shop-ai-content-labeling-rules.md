@@ -88,7 +88,7 @@ Audit your current listings for these four "red flag" triggers that TikTok’s a
 
 Avoid using AI to visualize the "benefit" of your product if that benefit is a physical transformation. TikTok’s Medical and Health Policy is particularly aggressive toward [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide). If you use AI to show wrinkles disappearing or teeth whitening in seconds, your content will be removed, and you will likely receive a Level 3 penalty. 
 
-Even if the AI generation is labeled, the *claim* itself is considered fraudulent because the result was not achieved by the product, but by a diffusion model. This extends to "Fake AI Experts." Using a realistic AI-generated doctor or scientist to endorse a supplement is a prohibited practice that leads to immediate shop closure.
+Even if the AI generation is labeled, the *claim* itself is considered fraudulent because the result was not achieved by the product, but by a diffusion model. This extends to "Fake AI Experts." Using a realistic AI-generated doctor or scientist to endorse a supplement is a prohibited practice that leads to immediate [shop closure](https://pixelmatch.art/blog/policy/etsy-ai-image-crackdown-shop-closure-risk).
 
 ### Inconsistent Product Promotion
 
@@ -132,7 +132,7 @@ By using PixelMatch, you ensure that even if you forget to toggle the "AI-genera
 
 Ensure your external sales funnels are compliant with TikTok's "Consistency Rule." If you are using Stripe for payments, remember that their standard fee of 2.9% + 30¢ per successful card charge remains the benchmark for 2026, though you should verify your specific merchant category rates. 
 
-If your TikTok ad includes an AI label, your landing page should also feature a small disclosure if the hero images are AI-generated. This prevents "Click-to-Conversion" friction where a user feels the product in the ad looks different from the product on the checkout page.
+If your TikTok ad includes an [AI label](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack), your landing page should also feature a small disclosure if the hero images are AI-generated. This prevents "Click-to-Conversion" friction where a user feels the product in the ad looks different from the product on the checkout page.
 
 ### Checklist for 2026 TikTok Shop Compliance
 

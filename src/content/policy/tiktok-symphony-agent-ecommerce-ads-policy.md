@@ -115,7 +115,7 @@ If your ad is rejected for "Mismatched Claims," audit your ad captions to ensure
 To find the winning compliant creative faster, utilize Symphony’s ability to generate up to 3 video variations at a time. Use these variations for A/B testing:
 1.  **Variation A:** Focuses on product features with no text overlays.
 2.  **Variation B:** Uses a "No Humans" constraint to focus purely on the product in a high-end environment.
-3.  **Variation C:** Uses an AI Avatar with a direct-to-camera script.
+3.  **Variation C:** Uses an [AI Avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study) with a direct-to-camera script.
 
 If Variation C is blocked for a "Medical Claim," you can immediately pivot to Variation B without losing time in your campaign schedule.
 

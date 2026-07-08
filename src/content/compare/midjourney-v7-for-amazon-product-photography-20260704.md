@@ -108,7 +108,7 @@ Use PixelMatch when:
 ![Where Each Falls Short](/img/midjourney-v7-for-amazon-product-photography-20260704/inline-5.webp)
 
 
-Run a "text-legibility" stress test on your next batch of AI images. Upload a product with a complex label (small ingredients list or specific font) to Midjourney v7. In 2026, while Midjourney's text rendering has improved, it still frequently fails on "fine print," which can lead to compliance issues or customer complaints.
+Run a "text-legibility" stress test on your next batch of AI images. Upload a product with a complex label (small ingredients list or specific font) to [Midjourney v7](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-midjourney-v7-lifestyle). In 2026, while Midjourney's text rendering has improved, it still frequently fails on "fine print," which can lead to compliance issues or customer complaints.
 
 ### Midjourney's Hallucination Problem
 Midjourney v7's biggest flaw for ecommerce is hallucination: it will invent details, alter text, or change the shape of your product. If your supplement bottle has 30 capsules, Midjourney might render it as a slightly different shape or add a "glow" that doesn't exist in reality. For Amazon, this is a recipe for [negative reviews](https://sellercentral.amazon.com/help/hub/reference/G200386250) stating "product does not look like the picture."
