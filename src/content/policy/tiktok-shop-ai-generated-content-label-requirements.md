@@ -9,6 +9,19 @@ published_url: /blog/policy/tiktok-shop-ai-generated-content-label-requirements
 sources: []
 quick_answer: "TikTok Shop requires sellers to label fully or significantly AI-altered media using the platform's \"AI-generated content\" toggle or a visible watermark. Failing to disclose AI use, or using AI to misrepresent product features, can result in listing removals and permanent account bans."
 platform: multi
+hero_image: /img/tiktok-shop-ai-generated-content-label-requirements/hero.webp
+inline_images:
+  - /img/tiktok-shop-ai-generated-content-label-requirements/inline-1.webp
+  - /img/tiktok-shop-ai-generated-content-label-requirements/inline-2.webp
+  - /img/tiktok-shop-ai-generated-content-label-requirements/inline-3.webp
+  - /img/tiktok-shop-ai-generated-content-label-requirements/inline-4.webp
+  - /img/tiktok-shop-ai-generated-content-label-requirements/inline-5.webp
+inline_image_sections:
+  - "Quick Reference Table"
+  - "Detailed Requirements"
+  - "Common Rejection Reasons"
+  - "How to Fix Each Issue"
+  - "Official Source Links"
 ---
 
 Failing to label a synthetic background on TikTok Shop can trigger an immediate listing takedown or a permanent account strike. You must disclose AI-generated media to maintain store health and prevent your products from being shadow-banned in the "For You" feed.
@@ -18,6 +31,9 @@ Failing to label a synthetic background on TikTok Shop can trigger an immediate 
 TikTok Shop requires sellers to label fully or significantly AI-altered media using the platform's "AI-generated content" toggle or a visible watermark. Failing to disclose AI use, or using AI to misrepresent product features, can result in listing removals and permanent account bans.
 
 ## Quick Reference Table
+
+![Quick Reference Table](/img/tiktok-shop-ai-generated-content-label-requirements/inline-1.webp)
+
 <!-- auto-related -->
 *Related: [Etsy AI Image Crackdown: Shop Closure Risks & 2026 Policy Guide](/blog/policy/etsy-ai-image-crackdown-shop-closure-risk) · [TikTok Shop Account Health Rating Transition Guide](/blog/policy/tiktok-shop-account-health-rating-transition-guide) · [Etsy AI Generated Listing Disclosure Policy 2026: Seller Guide](/blog/policy/etsy-ai-generated-listing-disclosure-policy-2026-20260707)*
 
@@ -36,6 +52,9 @@ Audit your current media library against this compliance checklist to identify w
 TikTok Shop enforces a strict violation points system. Accumulating 48 points results in a permanent ban of your seller account. Improperly labeled AI content typically incurs 2–6 points per violation, depending on whether the content is deemed "misleading" or simply "undisclosed."
 
 ## Detailed Requirements
+
+![Detailed Requirements](/img/tiktok-shop-ai-generated-content-label-requirements/inline-2.webp)
+
 
 Activate the AI-generated content toggle in the "More options" menu during the upload flow for every asset that features synthetic elements. TikTok's policy applies to both organic "Shoppable Videos" and static product images uploaded to the Seller Center.
 
@@ -60,6 +79,9 @@ TikTok has integrated the C2PA (Coalition for Content Provenance and Authenticit
 Do not attempt to strip this metadata to hide AI use. TikTok’s algorithm is trained to detect synthetic patterns; if the system detects AI but finds the metadata has been intentionally removed, it may flag the account for "Circumenting Technical Measures," a high-severity violation.
 
 ## Common Rejection Reasons
+
+![Common Rejection Reasons](/img/tiktok-shop-ai-generated-content-label-requirements/inline-3.webp)
+
 
 <!-- pm-cta:mid -->
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
@@ -86,6 +108,9 @@ Many sellers believe that if an image looks "real enough," they don't need the l
 Failure to disclose often leads to "Shadow Suppression," where your videos are technically live but receive zero impressions because they are excluded from the "For You" feed recommendation engine.
 
 ## How to Fix Each Issue
+
+![How to Fix Each Issue](/img/tiktok-shop-ai-generated-content-label-requirements/inline-4.webp)
+
 
 Update your existing listings by re-uploading media with the correct disclosure labels or replacing non-compliant images with authentic ones. If you have already received a violation, your first step should be a "Clean Sweep" of your active listings.
 
@@ -128,6 +153,9 @@ If you submit an ad containing AI-generated content without the "AI Disclosure" 
 While some sellers fear the label reduces trust, TikTok’s data suggests that transparency prevents "Item Not as Described" returns. By clearly labeling synthetic backgrounds, you set accurate expectations for the buyer, which reduces the likelihood of negative reviews and return requests that can damage your shop's long-term rating.
 
 ## Official Source Links
+
+![Official Source Links](/img/tiktok-shop-ai-generated-content-label-requirements/inline-5.webp)
+
 
 *   TikTok Shop Seller Center: AI-Generated Content Policy
 *   TikTok Support: About AI-generated content labels
