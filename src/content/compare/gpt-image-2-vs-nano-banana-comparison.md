@@ -87,7 +87,7 @@ Map your specific marketplace's aesthetic requirements to the model's output sty
 
 ### Amazon FBA Sellers
 
-Amazon’s A+ Content and Brand Story sections demand lifestyle imagery that looks indistinguishable from a $5,000 professional photoshoot. Nano Banana Pro is the superior choice here. It excels at placing products into complex environments—like a kitchen counter with realistic steam rising from a coffee pot or a hiking trail with accurate "golden hour" lighting. Because Amazon customers rely heavily on the "zoom" feature to inspect texture and build quality, the 4K output of Nano Banana Pro ensures your product doesn't pixelate, maintaining a high-trust shopping experience.
+Amazon’s A+ Content and Brand Story sections demand lifestyle imagery that looks indistinguishable from a $5,000 professional photoshoot. [Nano Banana](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) Pro is the superior choice here. It excels at placing products into complex environments—like a kitchen counter with realistic steam rising from a coffee pot or a hiking trail with accurate "golden hour" lighting. Because Amazon customers rely heavily on the "zoom" feature to inspect texture and build quality, the 4K output of Nano Banana Pro ensures your product doesn't pixelate, maintaining a high-trust shopping experience.
 
 ### TikTok Shop Sellers
 

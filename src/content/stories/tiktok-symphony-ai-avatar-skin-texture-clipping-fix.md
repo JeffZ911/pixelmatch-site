@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Scaling TikTok Shop beauty sales usually requires a revolving door of UGC creators costing $150 or more per clip, but switching to AI avatars often trades high production costs for "uncanny valley" skin textures that kill conversion rates. When a beauty brand's digital spokesperson looks more like a plastic mannequin than a human being, the trust required to sell skincare or cosmetics evaporates instantly.
+Scaling TikTok Shop beauty sales usually requires a revolving door of UGC creators costing $150 or more per clip, but switching to AI avatars often trades high production costs for "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" skin textures that kill conversion rates. When a beauty brand's digital spokesperson looks more like a plastic mannequin than a human being, the trust required to sell skincare or cosmetics evaporates instantly.
 
 ## Analyze the Transition from Creator-Led Content to AI-Driven Scaling
 

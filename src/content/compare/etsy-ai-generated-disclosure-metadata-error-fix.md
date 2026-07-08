@@ -39,7 +39,7 @@ Stop losing sales to listing takedowns and shadow-bans caused by mismatched AI d
 Audit your active listings immediately to ensure the "I used AI-generative technology" checkbox is selected for any item featuring AI-assisted imagery. Failing to match your manual disclosure with the hidden C2PA metadata found in files from tools like Canva or Photoroom can lead to automated flags or listing suppression.
 
 *   **Etsy Compliance:** Etsy's strict enforcement of [AI disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography) means missing the checkbox while uploading images with embedded C2PA metadata triggers a policy mismatch. You must label these items as "Designed by a seller" in the production attribution section.
-*   **The Metadata Trap:** Mainstream tools like Canva and Photoroom embed hardcoded C2PA metadata that can trigger Meta's "Made with AI" label when cross-posting Etsy listing photos to Instagram, even if the AI was only used for a simple background swap.
+*   **The Metadata Trap:** Mainstream tools like Canva and Photoroom embed hardcoded C2PA metadata that can trigger Meta's "[Made with AI](https://pixelmatch.art/blog/stories/meta-made-with-ai-label-removal-hack)" label when cross-posting Etsy listing photos to Instagram, even if the AI was only used for a simple background swap.
 *   **The PixelMatch Advantage:** PixelMatch allows sellers to batch-generate product images with clean metadata, ensuring you control the disclosure process manually without algorithmic false positives or "ghost labels" appearing on your social media marketing.
 
 ## Side-by-Side Feature Table

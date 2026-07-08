@@ -42,7 +42,7 @@ For sellers who need flawless, high-volume product presentation, dedicated AI to
 
 | Feature | [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos) | PixelMatch | Photoroom |
 | :--- | :--- | :--- | :--- |
-| **Primary Output** | Video (AI Avatar) | Static (On-Model/Product) | Static (Product/Background) |
+| **Primary Output** | Video ([AI Avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study)) | Static (On-Model/Product) | Static (Product/Background) |
 | **Apparel Fidelity** | Medium (Clipping common) | High (Physics-accurate) | Medium (Background focus) |
 | **Batch Capacity** | Low (One by one) | High (Full catalog) | 50 images per batch |
 | **Multi-Platform** | TikTok Only | Amazon, Shopify, TikTok, Etsy | General Purpose |

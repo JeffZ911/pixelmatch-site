@@ -68,7 +68,7 @@ When comparing these tools, you must look beyond "[AI background](https://pixelm
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/stories/nano-banana-2-lite-product-images-case-study) in 60 seconds — [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 The true cost of an AI photo tool isn't just the monthly subscription; it is the cost per image when you are launching a new 20-SKU line with seven images per listing.

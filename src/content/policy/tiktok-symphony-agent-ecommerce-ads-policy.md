@@ -106,7 +106,7 @@ Batch-convert your horizontal assets into vertical 9:16 backgrounds using PixelM
 
 If Symphony Agent blocks your prompt or produces a low-quality video, the problem usually lies in the source asset. You can fix this by improving your source images with PixelMatch. Instead of uploading a raw, white-background photo from your Shopify store, use PixelMatch to batch-generate clean, high-resolution, 1080 x 1920 px vertical backgrounds. 
 
-By providing Symphony Agent with a pre-formatted vertical image, you reduce the workload on the Dreamina Seedance 2.0 model. This results in cleaner edges around your product and more realistic lighting on the AI avatar, which directly lowers the risk of technical rejections.
+By providing Symphony Agent with a pre-formatted vertical image, you reduce the workload on the Dreamina Seedance 2.0 model. This results in cleaner edges around your product and more realistic lighting on the [AI avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study), which directly lowers the risk of technical rejections.
 
 ### Adjusting Prompts and Captions
 

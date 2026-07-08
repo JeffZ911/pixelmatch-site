@@ -102,7 +102,7 @@ However, even the most realistic image will be labeled if the metadata remains. 
 3.  **Scrubbing:** Before the file ever touches a Meta-owned platform (including WhatsApp or Instagram), it is run through a metadata removal tool.
 4.  **Verification:** The seller uses a "metadata viewer" to ensure the `DigitalSourceType` and any C2PA (Content Provenance and Authenticity) headers are completely purged.
 
-By uploading a "clean" file, the sellers found that Meta’s system no longer detected the industry-standard AI indicators. Because the images produced by PixelMatch avoided the "uncanny valley" of typical AI, they did not trigger the secondary, visual-based detection models.
+By uploading a "clean" file, the sellers found that Meta’s system no longer detected the industry-standard AI indicators. Because the images produced by PixelMatch avoided the "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" of typical AI, they did not trigger the secondary, visual-based detection models.
 
 **Actionable Step for Sellers:** Run a test. Take an AI-generated image and upload it to a private Instagram account. If it gets labeled, delete it, run the file through an EXIF stripper, and re-upload. You will likely see the label disappear.
 

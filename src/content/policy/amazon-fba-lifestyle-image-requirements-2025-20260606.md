@@ -142,7 +142,7 @@ Always verify updates directly through the following official channels:
 *   **[Category-Specific Style Guides](https://sellercentral.amazon.com/help/hub/reference/G201102630):** Essential for sellers in Apparel, Jewelry, and Home, as these categories often have additional rules regarding models and props.
 *   **[Amazon Search Suppression Policy](https://sellercentral.amazon.com/help/hub/reference/G200832300):** Explains the consequences of non-compliance and how to recover a suppressed listing.
 
-By staying compliant with the [amazon fba](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) lifestyle image requirements 2025, you protect your account health and provide a professional, trustworthy experience for your customers. Use AI tools to handle the repetitive task of background removal and resolution adjustment, allowing you to focus on the creative strategy of your lifestyle imagery.
+By staying compliant with the [amazon fba](https://pixelmatch.art/blog/stories/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study) lifestyle image requirements 2025, you protect your [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) and provide a professional, trustworthy experience for your customers. Use AI tools to handle the repetitive task of background removal and resolution adjustment, allowing you to focus on the creative strategy of your lifestyle imagery.
 
 
 <!-- pm-cta:foot -->

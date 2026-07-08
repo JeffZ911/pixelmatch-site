@@ -28,7 +28,7 @@ Your Amazon listing is suppressed, your "Buy Box" has vanished, and your [accoun
 
 # Amazon AI Image Disclosure Penalty: 2026 Seller Compliance Guide
 
-**Quick Answer:** Amazon's 2026 policy requires sellers to declare AI-generated or AI-assisted images in the listing backend and add visible on-image labels. Failure to disclose can trigger immediate listing suppression and account health warnings.
+**Quick Answer:** Amazon's 2026 policy requires sellers to declare AI-generated or AI-assisted images in the listing backend and add visible on-image labels. Failure to disclose can trigger immediate listing suppression and [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) warnings.
 
 ## Quick Reference Table
 

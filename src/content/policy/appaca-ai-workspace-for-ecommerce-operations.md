@@ -142,7 +142,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-1. Amazon Seller Central. (2024). *Product image requirements*. Retrieved from https://sellercentral.amazon.com/help/hub/reference/1881
+1. [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central. (2024). *Product image requirements*. Retrieved from https://sellercentral.amazon.com/help/hub/reference/1881
 2. Shopify Help Center. (2024). *Uploading and managing files*. Retrieved from https://help.shopify.com/en/manual/shopify-admin/productivity-tools/file-uploads
 3. Shopify Help Center. (2024). *Product media*. Retrieved from https://help.shopify.com/en/manual/products/product-media/add-media
 4. Etsy Help. (2024). *How to Protect Listing Images*. Retrieved from https://help.etsy.com/hc/en-us/articles/360000338067-How-to-Protect-Listing-Images
