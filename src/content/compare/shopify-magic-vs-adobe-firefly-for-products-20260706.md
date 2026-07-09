@@ -41,7 +41,7 @@ Shopify Magic and [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-ma
 Audit your existing catalog today to see if your current images meet the [optimal resolution requirements](https://sellercentral.amazon.com/help/hub/reference/G16881) for Amazon's zoom feature. If you are using Shopify Magic, you may already be falling behind.
 
 *   **Shopify Magic** is a free, native tool that handles basic background removal and generation, but its [1 megapixel (MP) resolution limit](https://help.shopify.com/en/manual/shopify-magic/media-generation) barely meets modern marketplace requirements and often results in pixelation on high-density mobile screens.
-*   **Adobe Firefly** provides professional-grade, [commercially safe outputs](https://www.adobe.com/products/firefly.html) with precise editing controls and high-resolution exports, but it remains a "one-at-a-time" tool that requires significant manual labor per SKU.
+*   **[Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal)** provides professional-grade, [commercially safe outputs](https://www.adobe.com/products/firefly.html) with precise editing controls and high-resolution exports, but it remains a "one-at-a-time" tool that requires significant manual labor per SKU.
 *   **PixelMatch** bridges this gap for multi-platform sellers who need to batch-generate high-resolution, marketplace-compliant images for Amazon, Etsy, and Shopify simultaneously without the manual "Photoshop tax."
 
 ## Side-by-Side Feature Table

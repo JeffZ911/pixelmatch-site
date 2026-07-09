@@ -28,7 +28,7 @@ Stop losing sales to "unnatural" AI glares or Amazon listing suppressions. Using
 
 Marketplace Policy Guide: Using [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).2 for Glass Bottle Reflections
 
-When using Flux 1.2 for glass bottle reflections, ensure the AI-generated reflections are inherent to the material. Amazon requires a [pure white RGB 255,255,255 background](https://sellercentral.amazon.com/help/hub/reference/external/G181), while TikTok Shop mandates at least 1 image but rewards listings with 5 or more for a "Good" quality score.
+When using [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).2 for glass bottle reflections, ensure the AI-generated reflections are inherent to the material. Amazon requires a [pure white RGB 255,255,255 background](https://sellercentral.amazon.com/help/hub/reference/external/G181), while TikTok Shop mandates at least 1 image but rewards listings with 5 or more for a "Good" quality score.
 
 ## Quick Reference Table
 
@@ -149,7 +149,7 @@ Technically, you only need one image to list a product. However, TikTok's intern
 - [Shopify Help Center: Image size guidelines](https://help.shopify.com/en/manual/products/product-variant-images/product-image-size)
 - [Etsy Help: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop)
 - TikTok Shop Seller Center: Product Listing Guidelines
-- Black Forest Labs: Flux 1.2 Pro Ultra Release Notes
+- Black Forest Labs: Flux 1.2 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Release Notes
 
 
 <!-- pm-cta:foot -->

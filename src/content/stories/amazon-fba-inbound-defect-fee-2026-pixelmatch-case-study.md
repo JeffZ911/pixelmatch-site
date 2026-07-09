@@ -104,7 +104,7 @@ The increase in CTR from 0.8% to 2.1% was the result of moving from "good enough
 ![Steps to Replicate](/img/amazon-fba-inbound-defect-fee-2026-pixelmatch-case-study/inline-5.webp)
 
 
-Run a "Calibration Batch" of 5 SKUs today to test how your current raw photography reacts to AI background removal. Follow these steps to build a high-volume, low-cost image engine:
+Run a "Calibration Batch" of 5 SKUs today to test how your current raw photography reacts to [AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix). Follow these steps to build a high-volume, low-cost image engine:
 
 1.  **Map Your Fee Exposure:** Use the [Amazon FBA Revenue Calculator](https://sellercentral.amazon.com/revcal) to input your 2026 inbound placement and defect fees. Identify exactly how many cents per unit you need to "save" to maintain your 2025 margins.
 2.  **Standardize Your "Raw" Input:** Do not try to take "artistic" photos. Use a high-contrast background (light grey or white) and consistent LED lighting. The cleaner the raw photo, the more accurately PixelMatch can identify product edges for the [85% frame fill](https://sellercentral.amazon.com/help/hub/reference/external/G1881) requirement.

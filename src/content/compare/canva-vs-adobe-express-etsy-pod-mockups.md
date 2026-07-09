@@ -58,7 +58,7 @@ Audit your current mockup library against Etsy’s 2026 requirement of 2000px mi
 | **AI Generation Limit** | 500 uses per month | 250 generative credits per month |
 | **Etsy Spec Export** | Up to 5000px (Custom Size) | Up to 6000px (Custom Size) |
 | **File Formats** | PNG, JPG, PDF, SVG, MP4 | PNG, JPG, PDF, SVG, MP4 |
-| **Background Removal** | One-click (High accuracy) | One-click (Industry-leading accuracy) |
+| **[Background Removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal)** | One-click (High accuracy) | One-click (Industry-leading accuracy) |
 | **Mockup Library** | 8,000+ Smart Mockups | 5,000+ Mockup Templates |
 | **Cloud Storage** | 1TB | 100GB |
 | **Batch Processing** | Limited (Bulk Create via CSV) | Limited (Add-on required) |

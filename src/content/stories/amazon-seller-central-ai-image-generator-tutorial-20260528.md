@@ -123,7 +123,7 @@ Shoot flat-lay or eye-level product photos using a smartphone. You do not need a
 
 ### Step 2: Batch Upload and Background Removal
 Upload your raw images to PixelMatch. Use the background removal tool to strip away your home or office background.
-*   **Pro Tip:** If your beauty product has a clear cap or is a glass bottle, use the "Transparency" setting to ensure the AI correctly identifies what should stay and what should be removed.
+*   **Pro Tip:** If your beauty product has a clear cap or is a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce), use the "Transparency" setting to ensure the AI correctly identifies what should stay and what should be removed.
 
 ### Step 3: Apply the Amazon Main Image Preset
 Select the "Amazon Main" preset. This will automatically center the product and scale it so that it [fills at least 85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881). This is a hard requirement; if your product looks "small" in the search results, your CTR will suffer, and Amazon may suppress the listing.

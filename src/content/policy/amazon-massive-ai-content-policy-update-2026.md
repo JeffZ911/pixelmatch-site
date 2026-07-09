@@ -66,7 +66,7 @@ PixelMatch provides a safer path for high-volume sellers by focusing on batch-ge
 
 Your main image (the "HERO" image) is subject to the strictest scrutiny. It must be a professional photograph of the actual product. AI can be used for "technical retouching"—such as removing a reflection or cleaning up a scratch—but it cannot be used to create the product from scratch. 
 
-Secondary images and A+ Content are where the 2026 disclosure rules are most active. If you use a synthetic model to hold your product, or an AI-generated kitchen to display your cookware, the "AI-generated content" checkbox must be selected. Amazon's goal is transparency; they want customers to know when they are looking at a "simulated" environment versus a real-world photograph.
+Secondary images and A+ Content are where the 2026 disclosure rules are most active. If you use a synthetic model to hold your product, or an AI-generated kitchen to display your cookware, the "AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)" checkbox must be selected. Amazon's goal is transparency; they want customers to know when they are looking at a "simulated" environment versus a real-world photograph.
 
 ### Text and Title Guidelines
 

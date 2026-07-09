@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Stop wasting hours manually resizing [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 Pro images only to have [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio reject them with a generic "invalid media format" error. This technical wall often stops beauty brands from scaling their video ad creative just as they find a winning aesthetic that converts.
+Stop wasting hours manually resizing [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) images only to have [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio reject them with a generic "invalid media format" error. This technical wall often stops beauty brands from scaling their video ad creative just as they find a winning aesthetic that converts.
 
 ## The Seller's Situation
 
@@ -181,6 +181,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   TikTok Ads: Image Ad Specifications
 *   [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Studio FAQ
 *   Black Forest Labs: [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).1 Pro Official Site
-*   Fal.ai: Flux 1.1 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Model Specs
+*   Fal.ai: [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).1 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Model Specs
 *   TikTok Shop Seller Center: Image Quality Guidelines
 *   Pro Photo Studio: Ecommerce Photography Pricing Guide

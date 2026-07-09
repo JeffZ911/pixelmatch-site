@@ -124,7 +124,7 @@ Open your image properties (Right-click > Properties on Windows, or Cmd+I on Mac
 Select the "Amazon A+ Standard Header" template in PixelMatch. This automatically locks your canvas to [970 x 600 px](https://sellercentral.amazon.com/help/hub/reference/G202102960). By generating the image *within* these dimensions rather than cropping a larger image later, you ensure the composition is perfectly centered for Amazon's module.
 
 ### 4. Optimize for Mobile Cropping
-When generating your AI background, keep the product and any essential visual elements toward the center. Amazon sometimes applies slight crops to A+ Content when viewed on smaller mobile screens.
+When generating your [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix), keep the product and any essential visual elements toward the center. Amazon sometimes applies slight crops to A+ Content when viewed on smaller mobile screens.
 
 ### 5. Export as JPG at 80% Quality
 Export your final assets as JPGs. While PNGs are great for logos, they are inefficient for lifestyle photography. A JPG at 80% quality is indistinguishable from a 100% quality file to the human eye but is often 70% smaller in file weight, guaranteeing a smooth upload to Seller Central.
