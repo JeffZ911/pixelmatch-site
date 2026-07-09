@@ -133,7 +133,7 @@ Etsy recommends a minimum of [2000 pixels on the shortest side](https://help.ets
 Most professional tools like Photoroom and Canva offer a limited free tier, but they typically include a watermark or restrict high-resolution exports. For Etsy sellers, paying for a Pro tier is usually necessary to access the [2000px resolution](https://help.etsy.com/hc/en-us/articles/360000338067-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) required for the "Zoom" feature on listings.
 
 ### How do I prevent my AI images from looking fake?
-The key to realistic AI product photos is the contact shadow. Ensure the tool you use, such as PixelMatch or Booth.AI, generates shadows that anchor the product to the surface. Avoid backgrounds with "busy" patterns that might distract from the product or cause the AI to create messy edges during the background removal phase.
+The key to realistic AI product photos is the contact shadow. Ensure the tool you use, such as PixelMatch or Booth.AI, generates shadows that anchor the product to the surface. Avoid backgrounds with "busy" patterns that might distract from the product or cause the AI to create messy edges during the [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal) phase.
 
 
 <!-- pm-cta:foot -->

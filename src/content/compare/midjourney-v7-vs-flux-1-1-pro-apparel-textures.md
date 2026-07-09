@@ -166,6 +166,6 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Shopify Image Size and Resolution Guide](https://help.shopify.com/en/manual/products/product-definitions/product-images)
 *   Midjourney Official Subscription Plans
 *   Replicate [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Pricing
-*   Fal.ai [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro Model Details
+*   Fal.ai [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Model Details
 *   Black Forest Labs (Flux) Official Site
 *   U.S. Copyright Office AI Guidance

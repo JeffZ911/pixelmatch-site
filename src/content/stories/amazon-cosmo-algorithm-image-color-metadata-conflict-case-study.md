@@ -133,7 +133,7 @@ If you suspect your store is suffering from a COSMO metadata conflict, follow th
 While AI-driven image generation is a powerful tool for COSMO optimization, it is not a silver bullet for every product category.
 
 **Reflective and Complex Surfaces**
-Sellers dealing with highly reflective products, such as mirrors, polished chrome jewelry, or intricate glassware, may find that AI background removal occasionally creates "artifacts" or "ghosting" around the edges. In these cases, PixelMatch is excellent for the initial batch, but you may still require a manual retoucher for the final 5% of polish to ensure the reflections don't look artificial.
+Sellers dealing with highly reflective products, such as mirrors, polished chrome jewelry, or intricate glassware, may find that [AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) occasionally creates "artifacts" or "ghosting" around the edges. In these cases, PixelMatch is excellent for the initial batch, but you may still require a manual retoucher for the final 5% of polish to ensure the reflections don't look artificial.
 
 **The Role of Behavioral Signals**
 Fixing an [image metadata](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) conflict is only one pillar of the COSMO algorithm. COSMO also heavily weights behavioral signals, such as the content of your Q&A section and the specific phrases used in customer reviews. If your images are perfect but your reviews consistently mention that the "Navy" curtains look "Purple" in sunlight, the algorithm will eventually trust the human reviews over your AI-optimized images.

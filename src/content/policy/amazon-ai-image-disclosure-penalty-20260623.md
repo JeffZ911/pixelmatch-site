@@ -38,7 +38,7 @@ Your Amazon listing is suppressed, your "Buy Box" has vanished, and your [accoun
 *Related: [Etsy AI Search Visibility Penalty 2026: Seller Guide](/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) · [Etsy 2026 Search Update: Image Quality Standards Guide](/blog/policy/etsy-2026-search-update-image-quality-standards-20260622) · [Etsy AI Generated Image Policy 2026: Rules & Specs](/blog/policy/etsy-ai-generated-image-policy-2026-20260621)*
 
 
-Audit your top 10 high-volume listings today by navigating to the "Product Details" tab in Seller Central; if you used AI to swap a background or generate a lifestyle model, you must update the "AI-Generated Content" attribute immediately to avoid Prime Day suppression.
+Audit your top 10 high-volume listings today by navigating to the "Product Details" tab in Seller Central; if you used AI to swap a background or generate a lifestyle model, you must update the "AI-[Generated Content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)" attribute immediately to avoid Prime Day suppression.
 
 | Disclosure Category | Definition | Required Action | Risk Level |
 | :--- | :--- | :--- | :--- |

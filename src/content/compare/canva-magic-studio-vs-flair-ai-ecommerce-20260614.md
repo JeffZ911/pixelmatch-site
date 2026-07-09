@@ -42,7 +42,7 @@ Canva Magic Studio operates as a broad marketing suite; it is the industry stand
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Social media posts & ads | Lifestyle product photography | Batch marketplace compliance |
 | **AI Generation** | Text-to-image (Dream Lab) | Drag-and-drop scene builder | Batch SKU-to-lifestyle |
-| **Background Removal** | 1-click (Pro only) | Included in all tiers | Automated batch removal |
+| **[Background Removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal)** | 1-click (Pro only) | Included in all tiers | Automated batch removal |
 | **Amazon Compliance** | Manual adjustment needed | Good for lifestyle; poor for Main | [Pure White (255,255,255)](https://sellercentral.amazon.com/help/hub/reference/1881) focus |
 | **Monthly Cost** | $15.00/mo (Pro) | $10.00/mo (Pro) | Pay-per-generation/Subscription |
 | **Ease of Use** | High (Drag & Drop) | Medium (Prompt & Canvas) | High (Upload & Run) |

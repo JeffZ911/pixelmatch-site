@@ -81,7 +81,7 @@ The TikTok Shop moderation team uses AI-driven image recognition to scan every l
 
 ### Promotional Text and Stickers
 
-Adding "50% OFF," "Limited Time," or "Flash Sale" banners to the main image is the most frequent cause for listing suspension. TikTok treats these as marketing or promotion stickers, which are strictly prohibited on the first image. The platform wants a uniform look in the Shop tab; they provide the promotional badges, so you don't have to.
+Adding "50% OFF," "Limited Time," or "Flash Sale" banners to the main image is the most frequent cause for [listing suspension](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-suspension-appeal-guide-20260709). TikTok treats these as marketing or promotion stickers, which are strictly prohibited on the first image. The platform wants a uniform look in the Shop tab; they provide the promotional badges, so you don't have to.
 
 ### Blurry or Pixelated Uploads
 

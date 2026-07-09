@@ -46,7 +46,7 @@ Open your [Amazon Seller Central](https://pixelmatch.art/blog/stories/amazon-sel
 ![Side-by-Side Feature Table](/img/photoroom-vs-canva-amazon-sellers-2026/inline-2.webp)
 
 
-Upload a test image with a complex edge—like a glass bottle, a mesh sneaker, or a product with fine hair—to both tools simultaneously to compare how they handle transparency. You will notice Photoroom's background removal is significantly more "aware" of [product depth](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) than Canva's general-purpose tool.
+Upload a test image with a complex edge—like a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce), a mesh sneaker, or a product with fine hair—to both tools simultaneously to compare how they handle transparency. You will notice Photoroom's background removal is significantly more "aware" of [product depth](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) than Canva's general-purpose tool.
 
 | Feature | Photoroom Pro (2026) | Canva Pro (2026) | PixelMatch |
 | :--- | :--- | :--- | :--- |

@@ -57,7 +57,7 @@ Run a calibration shoot with a single "difficult" item—something with hair, me
 Compare the background removal accuracy on a transparent object or a product with fine details like jewelry before you sync your entire library. While both tools use advanced segmentation models, they prioritize different outcomes: Photoroom prioritizes "cleanliness," while Pixelcut prioritizes "velocity."
 
 ### Background Removal and Edge Precision
-Photoroom is widely regarded as the gold standard for background removal. It handles complex edges—such as the fine bristles of a makeup brush or the transparent neck of a glass bottle—with fewer artifacts than Pixelcut. If your brand relies on high-end cosmetics or intricate jewelry, Photoroom’s AI-powered "Magic Studio" reduces the need for manual featheredging in Photoshop.
+Photoroom is widely regarded as the gold standard for background removal. It handles complex edges—such as the fine bristles of a makeup brush or the transparent neck of a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce)—with fewer artifacts than Pixelcut. If your brand relies on high-end cosmetics or intricate jewelry, Photoroom’s AI-powered "Magic Studio" reduces the need for manual featheredging in Photoshop.
 
 Pixelcut, conversely, is optimized for the "reseller" workflow. It is incredibly fast on mobile devices, but it can struggle with highly reflective surfaces. You may find yourself using the "Refine" tool more often in Pixelcut to fix "eaten" edges on light-colored products.
 

@@ -87,7 +87,7 @@ The most frequent cause of a shadowban is failing to use the required labeling. 
 TikTok’s 2026 classifiers look for "visual hallucinations." Common triggers include:
 *   **Inconsistent Lighting:** Shadows falling in two different directions because the AI-generated background doesn't match the original product's lighting.
 *   **Floating Products:** Products that don't have a realistic "contact shadow" where they meet the surface.
-*   **Geometry Errors:** Blurry edges where the product meets the background, often caused by poor-quality background removal tools.
+*   **Geometry Errors:** [Blurry edges](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) where the product meets the background, often caused by poor-quality background removal tools.
 
 ### 3. Technical Format Violations
 While many modern AI tools export in WebP for web speed, TikTok Shop strictly requires JPG or PNG formats. Uploading a WebP file can lead to a "Processing Error," while files exceeding the 5 MB limit will fail to render correctly in the TikTok app's internal browser, leading to a bounce rate that the algorithm interprets as a "bad listing."

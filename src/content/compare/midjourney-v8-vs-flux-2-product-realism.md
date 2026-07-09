@@ -60,7 +60,7 @@ To choose the right tool, you must match the AI's output capabilities to the str
 | **Best For** | Lifestyle "Mood" shots and Social Media | Hero images, A+ Content, and Shopify listings |
 | **Image Format** | .png, .jpg, .webp | .png, .jpg, .webp, .exr |
 
-**Actionable Step:** Check your primary platform's maximum file size. [Shopify supports images up to 20MB](https://help.shopify.com/en/manual/products/product-definitions/product-images) and 4472 x 4472 pixels. If you are using Flux 2's 4-megapixel output, ensure your export settings don't exceed the platform's file weight limit while maintaining that high-resolution clarity.
+**Actionable Step:** Check your primary platform's maximum file size. [Shopify supports images up to 20MB](https://help.shopify.com/en/manual/products/product-definitions/product-images) and 4472 x 4472 pixels. If you are [using Flux](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce) 2's 4-megapixel output, ensure your export settings don't exceed the platform's file weight limit while maintaining that high-resolution clarity.
 
 ## Pricing Comparison
 

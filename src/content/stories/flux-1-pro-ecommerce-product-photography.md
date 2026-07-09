@@ -105,7 +105,7 @@ Cost per listing dropped from an estimated $150 to just $3.50, factoring in the 
 
 The impact on conversion was immediate. Amazon secondary images featuring Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) lifestyle backgrounds saw a composite CTR increase from 1.2% to 3.4%. In one specific test of a "Weighted Blanket" SKU, replacing a flat "bed-only" shot with a Flux-generated scene of a person reading in a cozy, sunlit bedroom led to a 22% increase in unit sales over 30 days. The photorealistic shadows and textures provided by Flux.1 Pro meant that customers no longer questioned if the product was "real" or "photoshopped."
 
-**Actionable Step:** Track your "Unit Session Percentage" (conversion rate) in Amazon Seller Central's Business Reports. Update the images for your bottom 10% performing SKUs using Flux.[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) and monitor the change over a 14-day window.
+**Actionable Step:** Track your "Unit Session Percentage" (conversion rate) in Amazon Seller Central's Business Reports. Update the images for your bottom 10% performing SKUs [using Flux](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-vs-dev-for-product-shadows) and monitor the change over a 14-day window.
 
 ## Steps to Replicate
 

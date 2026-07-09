@@ -84,7 +84,7 @@ Lifestyle images (slots 2 through 9) allow for more creativity but must still ad
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-The most frequent reason for listing suspension on TikTok Shop is the "False Display of Information." This often occurs when a seller shows a multi-pack or a full case in the main image, but the listing is only for a single unit. This leads to account suspensions for false advertising, as noted by sellers in the r/TikTokshop community [1.1.6].
+The most frequent reason for [listing suspension](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-suspension-appeal-guide-20260709) on TikTok Shop is the "False Display of Information." This often occurs when a seller shows a multi-pack or a full case in the main image, but the listing is only for a single unit. This leads to account suspensions for false advertising, as noted by sellers in the r/TikTokshop community [1.1.6].
 
 ### Quantity and Packaging Mismatches
 If you sell a single bottle of vitamin supplements, your main image must show one bottle. Showing three bottles to "look better" in the frame is a direct violation. If you sell a product that comes in a box, show the box and the product together so the buyer understands exactly what will arrive in the mail. 

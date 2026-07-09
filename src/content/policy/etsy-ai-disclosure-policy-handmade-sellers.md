@@ -44,7 +44,7 @@ Audit your current shop inventory against this checklist to ensure every listing
 | :--- | :--- | :--- |
 | **AI-Generated Art** | Allowed | Must be disclosed in the description; must be "Designed by" the seller using original prompts. |
 | **AI Prompt Bundles** | **Prohibited** | Cannot be sold as a standalone digital product; results in immediate takedown. |
-| **AI Background Mockups** | Allowed | Must accurately represent the physical product; disclosure recommended for synthetic human models. |
+| **[AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) Mockups** | Allowed | Must accurately represent the physical product; disclosure recommended for synthetic human models. |
 | **AI-Enhanced Photos** | Allowed | Permitted for color correction or background removal; must not alter the product's physical features. |
 | **Production Partners** | Required | If using a POD service (e.g., Printful) for AI designs, they must be linked in the listing. |
 | **Listing Category** | Mandatory | Must select "Designed by me" rather than "Made by me" for AI-generated digital items. |

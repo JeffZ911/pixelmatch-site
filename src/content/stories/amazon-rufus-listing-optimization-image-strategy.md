@@ -165,7 +165,7 @@ While photo costs drop, remember that your net profit is still subject to platfo
 
 **Actionable Step:** Create a "3-Point AI Check" for every image: 
 1. Are the product proportions accurate relative to the furniture? 
-2. Are there any "ghost" artifacts or blurry edges? 
+2. Are there any "ghost" artifacts or [blurry edges](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix)? 
 3. Does the background lighting match the [product lighting](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting)? 
 If an image fails any of these, re-generate or manually edit before publishing.
 
