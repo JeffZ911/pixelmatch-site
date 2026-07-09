@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Failing to disclose AI-generated backgrounds on TikTok Shop can lead to immediate listing suppression or a "shadowban" of your product feed. As TikTok tightens its integration with the C2PA (Coalition for Content Provenance and Authenticity) standard, sellers must master the technical requirements of AI metadata labeling to protect their account health and maintain buyer trust.
+Failing to disclose AI-generated backgrounds on TikTok Shop can lead to immediate listing suppression or a "shadowban" of your product feed. As TikTok tightens its integration with the C2PA (Coalition for Content Provenance and Authenticity) standard, sellers must master the technical requirements of AI metadata labeling to protect their [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) and maintain buyer trust.
 
 # TikTok Shop AI Metadata Labeling for Sellers: 2026 Policy Guide
 

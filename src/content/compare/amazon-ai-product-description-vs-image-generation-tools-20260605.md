@@ -79,7 +79,7 @@ The cost of these tools varies significantly based on whether they are part of a
 | :--- | :--- | :--- |
 | **Helium 10 (Platinum)** | $129 / month | AI Listing Builder + Keyword Research |
 | **Jungle Scout (Professional)** | $129 / month | Listing Grader + AI Review Analysis |
-| **Photoroom (Pro)** | $12.99 / month | Mobile-first background removal |
+| **Photoroom (Pro)** | $12.99 / month | Mobile-first [background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) |
 | **Pebblely (Basic)** | $19 / month | 1,000 images per month |
 | **PixelMatch** | Competitive Flat Rate | Batch-generating compliant Amazon images |
 | **ChatGPT Plus** | $20 / month | Generic text and DALL-E [image generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes) |

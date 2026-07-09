@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Getting flagged for content violations during TikTok Shop's biggest sales event can freeze your revenue and tank your account health instantly. If you are participating in the Deals for You Days campaign, a single non-compliant image or an unsupported product claim can lead to immediate de-listing or even a permanent ban from future high-traffic events.
+Getting flagged for content violations during TikTok Shop's biggest sales event can freeze your revenue and tank your [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) instantly. If you are participating in the Deals for You Days campaign, a single non-compliant image or an unsupported product claim can lead to immediate de-listing or even a permanent ban from future high-traffic events.
 
 To avoid TikTok Shop Deals for You Days content violations, sellers must maintain a Shop Performance Score of 3.5+ and keep Late Dispatch Rates under 20%. Images must be 600x600 to 6000x6000 pixels with no promotional text.
 

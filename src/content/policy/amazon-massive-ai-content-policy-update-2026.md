@@ -91,7 +91,7 @@ AI often struggles with spatial awareness. A common rejection reason is "Mislead
 
 ### Non-Compliant Backgrounds
 
-Standard AI background removers often leave "fringe" or "halos" around the product—tiny clusters of pixels from the original photo that the AI didn't quite erase. In the 2026 update, these artifacts are often flagged as "Image Quality Issues." To avoid this, use a tool like PixelMatch that is specifically calibrated for [Amazon main image requirements](https://sellercentral.amazon.com/help/hub/reference/G1881), ensuring a razor-sharp edge and a mathematically perfect white background.
+Standard [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) removers often leave "fringe" or "halos" around the product—tiny clusters of pixels from the original photo that the AI didn't quite erase. In the 2026 update, these artifacts are often flagged as "Image Quality Issues." To avoid this, use a tool like PixelMatch that is specifically calibrated for [Amazon main image requirements](https://sellercentral.amazon.com/help/hub/reference/G1881), ensuring a razor-sharp edge and a mathematically perfect white background.
 
 ## How to Fix Each Issue
 

@@ -157,7 +157,7 @@ No, if you are selling a physical handmade item and only use AI for the backgrou
 Technically yes, but it is risky. If the AI-generated color does not perfectly match the physical item in the customer's hand, you will face "Item Not As Described" cases. It is always better to take a real photo of each color variation and use AI only for the background.
 
 ### Does Etsy penalize AI-generated images in search?
-Etsy does not penalize AI-generated backgrounds, but it does penalize low-quality images. If your AI tool produces "artifacts" (blurry edges, weird shadows, or distorted backgrounds), the algorithm may perceive the listing as low-quality and lower its [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626). High-resolution, clean AI edits often perform better than poorly lit traditional photos.
+Etsy does not penalize AI-generated backgrounds, but it does penalize low-quality images. If your AI tool produces "artifacts" ([blurry edges](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix), weird shadows, or distorted backgrounds), the algorithm may perceive the listing as low-quality and lower its [search ranking](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626). High-resolution, clean AI edits often perform better than poorly lit traditional photos.
 
 
 <!-- pm-cta:foot -->

@@ -127,7 +127,7 @@ Use AI avatars to handle the "volume" part of your strategy—testing hooks, exp
 No, TikTok does not inherently penalize [AI content](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) as long as it is properly labeled as AI-generated. The platform actually encourages the use of its Symphony suite to help sellers create more engaging content. However, if the AI content is low-resolution or violates the 50% static frame rule, it will face reach restrictions.
 
 ### What is the minimum resolution for a TikTok Video Shopping Ad?
-The absolute minimum resolution for TikTok ads is 540×960 pixels, but the platform strongly recommends 1080×1920 pixels for high-definition vertical displays. Using PixelMatch ensures your source product images are upscaled and optimized so they don't appear blurry when the AI avatar "holds" them in the video.
+The absolute minimum resolution for TikTok ads is 540×960 pixels, but the platform strongly recommends 1080×1920 pixels for high-definition vertical displays. Using PixelMatch ensures your source product images are upscaled and optimized so they don't appear blurry when the [AI avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study) "holds" them in the video.
 
 ### Can I use Symphony Digital Humans for free?
 TikTok currently offers various Symphony tools within the Ads Manager, but some advanced "[Digital Human](https://pixelmatch.art/blog/compare/tiktok-shop-symphony-digital-human-clothing-clipping-fix-20260703)" features may be in limited beta or require specific ad spend thresholds. Check your TikTok Ads Manager dashboard for the most current availability and any associated credit costs for rendering.

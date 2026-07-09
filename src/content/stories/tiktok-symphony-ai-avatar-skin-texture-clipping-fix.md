@@ -100,7 +100,7 @@ By shifting to this hybrid model, the seller reduced their cost per listing from
 ![Replicate the Retouching Steps for Your TikTok Shop Creative](/img/tiktok-symphony-ai-avatar-skin-texture-clipping-fix/inline-5.webp)
 
 
-Follow this technical checklist to batch-process your AI avatar videos. This process ensures that your content passes TikTok’s quality filters and appeals to the aesthetic sensibilities of beauty buyers.
+Follow this technical checklist to batch-process your [AI avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study) videos. This process ensures that your content passes TikTok’s quality filters and appeals to the aesthetic sensibilities of beauty buyers.
 
 1.  **Generate and Download:** Produce your video in Symphony Creative Studio. Ensure the lighting preset in Symphony matches the product photography you intend to use.
 2.  **Identify Artifact Zones:** Scrub through the video to find "clipping" moments. These usually occur when the avatar's hand passes in front of their face or when they lift the product into the frame.

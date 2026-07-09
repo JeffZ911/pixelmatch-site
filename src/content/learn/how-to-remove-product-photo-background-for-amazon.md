@@ -62,7 +62,7 @@ Run a calibration check on your current workflow by following these five steps t
 ### Preparing Your Raw Photos
 Capture your product photos against a neutral, solid-colored backdrop. While AI tools can remove complex backgrounds, a high-contrast setup (e.g., a black product on a light gray background) reduces "edge bleed" and ensures the AI doesn't accidentally clip the product's silhouette. 
 
-Ensure the entire product is in focus. Use a narrow aperture (f/8 to f/11) to avoid "bokeh" or blurred edges on the product itself, as blurry edges make it difficult for background removal software to distinguish between the product and the environment.
+Ensure the entire product is in focus. Use a narrow aperture (f/8 to f/11) to avoid "bokeh" or blurred edges on the product itself, as [blurry edges](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) make it difficult for background removal software to distinguish between the product and the environment.
 
 ### Removing and Replacing the Background
 Upload your raw files to your chosen processing tool. If you are using PixelMatch, the system will automatically detect the product boundaries and strip the background in a single batch. 

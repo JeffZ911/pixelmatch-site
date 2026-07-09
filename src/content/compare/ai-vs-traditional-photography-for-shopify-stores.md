@@ -59,7 +59,7 @@ The primary friction in ecommerce isn't just taking a photo; it is making that p
 | :--- | :--- | :--- |
 | **Shopify 1:1 Aspect Ratio** | Manual crop per image | Native 1:1 generation |
 | **TikTok Shop 9:16 Format** | Requires separate shoot/setup | One-click [background expansion](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) |
-| **[Amazon White](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) BG (RGB 255)** | Standard studio service | Automated background removal |
+| **[Amazon White](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) BG (RGB 255)** | Standard studio service | Automated [background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) |
 | **Seasonal Swaps** | Requires new props/booking | Instant prompt-based updates |
 | **Resolution Control** | Fixed at time of shoot | AI Upscaling to 4K+ |
 
