@@ -127,7 +127,7 @@ Integrate your AI-generated lifestyle backgrounds into a structured batch workfl
 ## Frequently Asked Questions
 
 ### Can I use Midjourney images on Amazon without getting banned?
-Yes, provided the image accurately represents the product. Amazon's [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881) state that images must not be misleading. If the AI generates a version of your product that differs from the physical item (e.g., different color, missing features), you risk a listing suspension. Use AI for backgrounds, but keep the product itself 100% authentic.
+Yes, provided the image accurately represents the product. Amazon's [Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/G1881) state that images must not be misleading. If the AI generates a version of your product that differs from the physical item (e.g., different color, missing features), you risk a [listing suspension](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-suspension-appeal-guide-20260709). Use AI for backgrounds, but keep the product itself 100% authentic.
 
 ### Does Krea 2-Turbo support high-resolution exports for print?
 Krea 2-Turbo generates at a lower native resolution to maintain its speed, but it includes a built-in "Enhancer" (upscaler) that can push images to 4K resolution. This is sufficient for digital storefronts and social media, but for large-scale print advertising, you may need a dedicated third-party upscaler like Topaz Photo AI.

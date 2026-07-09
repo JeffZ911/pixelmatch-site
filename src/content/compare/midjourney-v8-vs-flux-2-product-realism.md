@@ -133,7 +133,7 @@ This workflow gives you Flux 2's 4-megapixel realism without the 90GB VRAM heada
 ## Frequently Asked Questions
 
 ### Can I use Midjourney v8 images on Amazon?
-Yes, but with caution. Amazon requires your main "Hero" image to be a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G16881) and show the actual product with minimal props. Midjourney often adds artistic flair or slight product distortions that can lead to listing suspension if a competitor reports your image as misleading. Always use a background removal tool after generating in Midjourney to ensure a compliant white background.
+Yes, but with caution. Amazon requires your main "Hero" image to be a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G16881) and show the actual product with minimal props. Midjourney often adds artistic flair or slight product distortions that can lead to [listing suspension](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-suspension-appeal-guide-20260709) if a competitor reports your image as misleading. Always use a background removal tool after generating in Midjourney to ensure a compliant white background.
 
 ### Does Flux 2 handle text on products perfectly?
 While Flux 2 is significantly better than Midjourney, it is not 100% perfect on very long ingredient lists or tiny legal disclaimers. It excels at brand names and large labels. For the fine print on the back of a bottle, it is still best to use the AI for the "scene" and then overlay your high-resolution label file using a tool like PixelMatch or Photoshop to ensure 100% legibility.

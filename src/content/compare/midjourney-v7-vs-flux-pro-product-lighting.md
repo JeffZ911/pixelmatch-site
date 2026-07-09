@@ -47,7 +47,7 @@ High-stakes product photography often fails not because of the camera, but becau
 *   **For multi-platform sellers** needing high-volume, consistent product photos, Flux Pro's API-first architecture makes it the better engine for batch workflows.
 *   Instead of wrestling with raw APIs or Discord interfaces, ecommerce sellers can use PixelMatch to harness these AI capabilities for automated, marketplace-ready batch generation.
 
-**Actionable Step for Today:** Run a "Lighting Stress Test" by prompting both models with a highly reflective object (e.g., a silver watch or a glass bottle) using the prompt: `[Product Name] on a dark marble surface, hard side-lighting, 8k photorealistic, ray-traced reflections.` Compare the "light leak" and reflection accuracy to see which model handles your specific inventory better.
+**Actionable Step for Today:** Run a "Lighting Stress Test" by prompting both models with a highly reflective object (e.g., a silver watch or a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce)) using the prompt: `[Product Name] on a dark marble surface, hard side-lighting, 8k photorealistic, ray-traced reflections.` Compare the "light leak" and reflection accuracy to see which model handles your specific inventory better.
 
 ## Side-by-Side Feature Table
 

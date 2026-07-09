@@ -56,7 +56,7 @@ Configure your image export workflow to force RGB 255, 255, 255 for all main her
 
 Amazon strictly enforces a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) for the main hero image. This means your AI-generated lifestyle backgrounds—such as a rustic kitchen counter or a sun-drenched picnic table—are only permitted on secondary images (the "carousel"). For the main image, the food or packaging must occupy at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881). 
 
-If you are selling packaged food, the packaging must be the primary focus. AI tools often struggle with the "shiny" texture of plastic wrappers, creating an uncanny reflection that doesn't exist in reality. To comply with Amazon's standards, ensure your AI output does not include any "ghosting" effects or blurry edges where the product meets the white background. Amazon's automated systems use edge-detection to verify that the product has been professionally cut out.
+If you are selling packaged food, the packaging must be the primary focus. AI tools often struggle with the "shiny" texture of plastic wrappers, creating an uncanny reflection that doesn't exist in reality. To comply with Amazon's standards, ensure your AI output does not include any "ghosting" effects or [blurry edges](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) where the product meets the white background. Amazon's automated systems use edge-detection to verify that the product has been professionally cut out.
 
 ### Shopify & TikTok Shop Rules
 

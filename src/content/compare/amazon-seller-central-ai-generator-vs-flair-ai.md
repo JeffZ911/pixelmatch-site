@@ -50,7 +50,7 @@ Standardize your aspect ratios across channels by using this comparison to ident
 | Feature | [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-seller-central-error-code-img-9002-fix) Central AI | Flair AI | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Primary Use Case** | Quick [lifestyle backgrounds](https://pixelmatch.art/blog/stories/krea-2-turbo-ecommerce-lifestyle-backgrounds) for Amazon Ads | Creative, manual scene composition | High-volume, multi-platform batching |
-| **Main [Image Generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes)** | No (Limited to lifestyle/backgrounds) | Possible (Manual background removal) | Yes (Automated 255,255,255 white) |
+| **Main [Image Generation](https://pixelmatch.art/blog/stories/amazon-project-amelia-image-generation-error-codes)** | No (Limited to lifestyle/backgrounds) | Possible (Manual [background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix)) | Yes (Automated 255,255,255 white) |
 | **Pricing** | [Included with Seller Account](https://sellercentral.amazon.com/) | Free (10 images/mo) to $35/mo | Tiered by SKU volume |
 | **Batch Processing** | Single image only | Single image only | Full catalog batching |
 | **Commercial License** | Included for Amazon use | Pro+ Plan ($35/mo) only | Included on all paid plans |

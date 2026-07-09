@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Your Amazon listing is suppressed, your "Buy Box" has vanished, and your [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) dashboard is flashing red—all because you missed a single metadata checkbox. In 2026, failing to disclose AI-generated content is no longer a minor oversight; it is a direct violation of the [Amazon Business Solutions Agreement](https://sellercentral.amazon.com/help/hub/reference/G1791) that triggers immediate automated penalties.
+Your Amazon listing is suppressed, your "Buy Box" has vanished, and your [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) dashboard is flashing red—all because you missed a single metadata checkbox. In 2026, failing to disclose AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements) is no longer a minor oversight; it is a direct violation of the [Amazon Business Solutions Agreement](https://sellercentral.amazon.com/help/hub/reference/G1791) that triggers immediate automated penalties.
 
 # Amazon AI Image Disclosure Penalty: 2026 Seller Compliance Guide
 

@@ -139,7 +139,7 @@ Go to your [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-
 ![Recommendation](/img/flux-1-1-pro-vs-dev-for-product-shadows/inline-6.webp)
 
 
-Stop using FLUX.1 [dev] for any revenue-generating activity. The legal risk of the non-commercial license far outweighs the $0.02 savings per image.
+Stop [using FLUX](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce).1 [dev] for any revenue-generating activity. The legal risk of the non-commercial license far outweighs the $0.02 savings per image.
 
 If you have a dedicated developer or a technical co-founder, [FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) via API is an incredible engine for generating lifestyle imagery. It provides the speed and realism necessary for high-volume testing.
 
@@ -162,7 +162,7 @@ Shadows provide "grounding," which tells the customer's brain that the product i
 To run FLUX.1 [dev] at full precision, you need at least 16GB to 24GB of VRAM. While "quantized" versions (4-bit or 8-bit) can run on 8GB or 12GB cards, you will often see a significant drop in shadow quality and fine detail, which defeats the purpose of using a high-end model for product photography.
 
 ### Is FLUX 1.1 Pro better than Midjourney for shadows?
-[FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro is generally preferred for ecommerce because of its superior "prompt adherence." If you tell FLUX to place a shadow at a specific 45-degree angle, it is more likely to follow that instruction than Midjourney, which often prioritizes "aesthetic" over "accuracy."
+[FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) is generally preferred for ecommerce because of its superior "prompt adherence." If you tell FLUX to place a shadow at a specific 45-degree angle, it is more likely to follow that instruction than Midjourney, which often prioritizes "aesthetic" over "accuracy."
 
 
 <!-- pm-cta:foot -->

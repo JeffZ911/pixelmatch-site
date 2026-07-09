@@ -66,7 +66,7 @@ Flair AI takes a different architectural approach. Instead of just generating an
 | **AI Editing** | Magic Edit (Object replacement) | Magic Sketch & Component Placement |
 | **Batch Processing** | Very limited (Bulk Create for text) | Limited (Single-product variations) |
 
-**Actionable Step:** Before committing to a tool, run a "Shadow Test." Upload a product with a complex shape (like a clear glass bottle) and generate a "marble countertop" background. Compare the contact shadows where the bottle meets the surface; if the shadow is missing or disconnected, the image will likely be flagged by customers as "fake."
+**Actionable Step:** Before committing to a tool, run a "Shadow Test." Upload a product with a complex shape (like a clear [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce)) and generate a "marble countertop" background. Compare the contact shadows where the bottle meets the surface; if the shadow is missing or disconnected, the image will likely be flagged by customers as "fake."
 
 ## Pricing Comparison
 

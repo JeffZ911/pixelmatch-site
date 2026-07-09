@@ -105,7 +105,7 @@ Navigate to the [Account Health page](https://sellercentral.amazon.com/performan
 ### Updating the Listing Backend
 Open the "Manage All Inventory" tab and select "Edit" on the affected SKU.
 1. Go to the **Product Details** or **Images** tab (the location of the toggle can vary by category).
-2. Locate the "AI-Generated Content" attribute.
+2. Locate the "AI-[Generated Content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)" attribute.
 3. Select "Yes" if the image contains synthetic elements.
 4. Save and finish.
 

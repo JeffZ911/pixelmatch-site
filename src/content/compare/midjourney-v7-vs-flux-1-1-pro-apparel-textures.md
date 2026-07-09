@@ -123,7 +123,7 @@ No AI model is a "magic button" that replaces a professional workflow entirely. 
 ### Comparison with Traditional Tools
 While tools like Photoroom or Canva are great for simple background removal, they cannot generate the complex, draped apparel textures from scratch that Midjourney and Flux excel at. They are "editors," whereas Midjourney and Flux are "creators."
 
-**Actionable Step:** If using Flux, implement a post-processing sharpening step. Set up a "Sharpening Macro" in Photoshop or use an AI upscaler to bring back the crispness in fabric weaves that Flux might smooth over.
+**Actionable Step:** If [using Flux](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce), implement a post-processing sharpening step. Set up a "Sharpening Macro" in Photoshop or use an AI upscaler to bring back the crispness in fabric weaves that Flux might smooth over.
 
 ## Recommendation
 
@@ -165,7 +165,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 *   [Amazon Product Image Requirements](https://sellercentral.amazon.com/help/hub/reference/external/G181)
 *   [Shopify Image Size and Resolution Guide](https://help.shopify.com/en/manual/products/product-definitions/product-images)
 *   Midjourney Official Subscription Plans
-*   Replicate [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro Pricing
+*   Replicate [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Pricing
 *   Fal.ai [Flux 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).1 Pro Model Details
 *   Black Forest Labs (Flux) Official Site
 *   U.S. Copyright Office AI Guidance

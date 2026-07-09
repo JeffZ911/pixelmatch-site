@@ -72,7 +72,7 @@ Secondary images are where you win the "Shop by Style" placement. Use these slot
 ### Optimizing for Rufus AI and Amazon Lens
 
 Rufus and Amazon Lens ([visual search](https://pixelmatch.art/blog/policy/amazon-rufus-visual-search-image-optimization-guide)) rely on "object detection" and "semantic segmentation." To optimize for these:
-1. **Maintain High Contrast:** Ensure the product stands out sharply from the AI-generated background. Blurry edges (a common AI artifact) confuse the Amazon Lens tool, making it harder for customers to find your product via a photo upload.
+1. **Maintain High Contrast:** Ensure the product stands out sharply from the AI-generated background. [Blurry edges](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) (a common AI artifact) confuse the Amazon Lens tool, making it harder for customers to find your product via a photo upload.
 2. **Use Contextual Props:** If selling a waterproof speaker, use AI to generate a poolside or hiking scene. Rufus identifies these props to answer specific customer queries about "durable" or "outdoor" gear.
 3. **Avoid Over-Styling:** While Shop by Style rewards aesthetics, Rufus needs to see the product clearly. Ensure the product remains the focal point, occupying at least 50% of the secondary image to maintain "visual weight."
 

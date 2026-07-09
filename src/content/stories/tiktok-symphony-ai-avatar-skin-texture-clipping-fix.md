@@ -113,7 +113,7 @@ Follow this technical checklist to batch-process your [AI avatar](https://pixelm
 ![Address the Technical Limitations and Compliance Requirements](/img/tiktok-symphony-ai-avatar-skin-texture-clipping-fix/inline-6.webp)
 
 
-While PixelMatch can dramatically improve the visual quality of an AI avatar, it is not a "magic button" for all video issues. Sellers must still navigate the specific constraints of the TikTok platform and the current state of generative AI.
+While PixelMatch can dramatically improve the visual quality of an [AI avatar](https://pixelmatch.art/blog/stories/tiktok-shop-ai-avatar-ban-controversy-2024-case-study), it is not a "magic button" for all video issues. Sellers must still navigate the specific constraints of the TikTok platform and the current state of generative AI.
 
 ### Lip-Sync and Audio Matching
 PixelMatch is a visual retouching tool; it cannot fix "mushy" lip-syncing if the original Symphony generation was poor. If the avatar’s mouth movements do not match the audio, you must re-generate the base video in Symphony before starting the retouching process. Poor lip-syncing is a major "uncanny valley" trigger that no amount of skin texture can fix.
