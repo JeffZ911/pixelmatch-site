@@ -166,7 +166,7 @@ Once you export your compliant images, rename them using Amazon’s preferred na
 While AI can fix most "IMG-9002" related rejections, it is not a magic wand for poor photography.
 
 ### Transparency and Complex Edges
-AI background removal is highly advanced but can occasionally struggle with certain beauty packaging. If you are selling a clear glass serum bottle with a transparent liquid, the AI might accidentally "clip" through the glass if the reflections are too strong. Similarly, products with "fuzzy" edges (like a makeup brush with loose bristles) may require a manual touch-up to look perfectly natural.
+[AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) is highly advanced but can occasionally struggle with certain beauty packaging. If you are selling a clear glass serum bottle with a transparent liquid, the AI might accidentally "clip" through the glass if the reflections are too strong. Similarly, products with "fuzzy" edges (like a makeup brush with loose bristles) may require a manual touch-up to look perfectly natural.
 
 ### Lighting Still Matters
 PixelMatch can change your background to white, but it cannot fix "flat" or "muddy" lighting on the product itself. If your original `IMG-9002.JPG` was shot in a dark room, the product will look dull even on a pure white background. Ensure your source photos have even, bright illumination to avoid a "photoshopped" look that can decrease customer trust.

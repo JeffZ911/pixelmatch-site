@@ -103,7 +103,7 @@ Audit your catalog immediately. If you have thousands of SKUs, prioritize your "
 ### Auditing Your Existing Image Catalog
 
 1.  **Identify Synthetic Assets:** Create a spreadsheet of all ASINs that use AI-generated lifestyle images or backgrounds from tools like Canva, Adobe Express, or Midjourney.
-2.  **Verify Disclosure Status:** Log into Seller Central, go to 'Inventory' > 'Manage All Inventory', and click 'Edit' on the affected ASINs. Check the 'Compliance' tab for the 'AI-generated content' checkbox.
+2.  **Verify Disclosure Status:** Log into Seller Central, go to 'Inventory' > 'Manage All Inventory', and click 'Edit' on the affected ASINs. Check the 'Compliance' tab for the 'AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)' checkbox.
 3.  **Cross-Reference Specs:** Ensure every image is at least [1,000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) to maintain the "Zoom" function.
 4.  **Check the Agent Policy:** If you are using a third-party tool to automate these updates, verify that the tool uses the <a href="https://www.amazon.com/s?k=Amazon+Selling+Partner+API+%28SP-API%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Selling Partner API (SP-API)</a> and does not rely on browser-based "bots" or scrapers that violate the [March 4, 2026 Agent Policy](https://sellercentral.amazon.com/help/hub/reference/G1791).
 

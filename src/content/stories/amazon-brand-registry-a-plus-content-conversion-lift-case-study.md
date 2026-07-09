@@ -53,7 +53,7 @@ Traditional photography was the bottleneck. At a quote of $45 per edited lifesty
 ![What Wasn't Working](/img/amazon-brand-registry-a-plus-content-conversion-lift-case-study/inline-2.webp)
 
 
-Calculate your "Visual Debt" by multiplying your total SKU count by five—the typical number of unique images needed to maximize a Standard A+ Content template. For this beauty brand, the debt was 225 images. Their previous attempts to bridge this gap using general-purpose design tools and entry-level AI background removers failed for three specific reasons.
+Calculate your "Visual Debt" by multiplying your total SKU count by five—the typical number of unique images needed to maximize a Standard A+ Content template. For this beauty brand, the debt was 225 images. Their previous attempts to bridge this gap using general-purpose design tools and entry-level [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) removers failed for three specific reasons.
 
 First, the cost-to-scale ratio of traditional agencies was unsustainable for seasonal updates. Beauty trends shift monthly; a "winter hydration" theme is irrelevant by April. Paying $45 per image meant the brand was "locked" into their imagery for at least a year to justify the ROI, preventing them from reacting to market trends.
 

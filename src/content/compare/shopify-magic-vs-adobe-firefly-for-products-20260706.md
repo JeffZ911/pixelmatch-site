@@ -51,7 +51,7 @@ Audit your existing catalog today to see if your current images meet the [optima
 
 Cross-reference your current marketplace list against this spec table to identify where your current workflow might be creating compliance risks.
 
-| Feature | Shopify Magic | Adobe Firefly | PixelMatch |
+| Feature | Shopify Magic | [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal) | PixelMatch |
 | :--- | :--- | :--- | :--- |
 | **Max Resolution** | [1 Megapixel (1024x1024)](https://help.shopify.com/en/manual/shopify-magic/media-generation) | High Resolution (4K+ supported) | High Resolution (Up to 3000px+) |
 | **Batch Processing** | None (Single image only) | Limited (Via Adobe Express/API) | Native (100+ SKUs at once) |

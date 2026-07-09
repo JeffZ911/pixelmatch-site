@@ -55,7 +55,7 @@ Before uploading Flux-generated images to Amazon, open your image in an editor a
 ![Detailed Requirements](/img/using-flux-1-2-glass-bottle-reflections-ecommerce/inline-2.webp)
 
 
-Using Flux 1.2 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) (released February 2026) allows sellers to generate 4MP photorealistic glass reflections, but these raw outputs must be tailored to each platform's strict rules. Unlike older models that struggled with the "milky" appearance of transparent glass, Flux 1.2 creates hyper-accurate refractions. However, accuracy does not always equal compliance.
+Using [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).2 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) (released February 2026) allows sellers to generate 4MP photorealistic glass reflections, but these raw outputs must be tailored to each platform's strict rules. Unlike older models that struggled with the "milky" appearance of transparent glass, Flux 1.2 creates hyper-accurate refractions. However, accuracy does not always equal compliance.
 
 ### Amazon Main Image Strictness
 Amazon's automated "Image Acceptance" algorithm scans for more than just a white background. It looks for "added effects." When prompting Flux 1.2, you must distinguish between "material reflections" (light hitting the bottle) and "environmental reflections" (the bottle reflecting a fake marble floor). Amazon strictly prohibits the latter in main images. The reflection must look like natural light hitting the glass bottle, not a mirrored floor or dramatic studio gel.

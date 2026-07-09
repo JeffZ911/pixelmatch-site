@@ -58,7 +58,7 @@ Set your export settings in your design tool to exactly [1,600px on the longest 
 
 Amazon's updated Selling Partner Acceptable Use Policy applies to lifestyle imagery, infographics, and main hero shots altered beyond basic color correction or background removal. While AI tools are permitted, the [transparency requirements](https://pixelmatch.art/blog/stories/tiktok-shop-image-metadata-transparency-requirements-2026) are rigid. Main images must still adhere to strict guidelines, including a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) and the product filling at least 85% of the frame. Furthermore, all images must meet the [minimum 1,000px on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) requirement, though [1,600px or more](https://sellercentral.amazon.com/help/hub/reference/G1881) is the standard for enabling the "Zoom" feature that converts shoppers.
 
-[IMAGE PLACEHOLDER: Screenshot of the [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central backend showing the new AI-generated content dropdown field with 'fully human', 'AI-assisted', and 'fully synthetic' options. Aspect Ratio: 16:9]
+[IMAGE PLACEHOLDER: Screenshot of the [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central backend showing the new AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements) dropdown field with 'fully human', 'AI-assisted', and 'fully synthetic' options. Aspect Ratio: 16:9]
 
 ### Backend Metadata vs. On-Image Labels
 

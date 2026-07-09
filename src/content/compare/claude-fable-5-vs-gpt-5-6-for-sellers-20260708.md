@@ -136,7 +136,7 @@ To maximize your ROI in 2026, you should not choose just one model; you should b
 
 1.  **Use GPT-5.6 Terra** for high-volume, low-complexity tasks. This includes translating product titles, drafting standard social media descriptions, and responding to basic customer inquiries about shipping times.
 2.  **Reserve Claude Fable 5** for high-stakes, complex reasoning. Use it to analyze a year's worth of PPC data to find wasted spend, or to execute multi-step catalog migrations where data mapping must be 100% accurate.
-3.  **Bypass LLMs for visual content.** Do not waste time trying to "prompt" a text AI into giving you a good product photo. Use PixelMatch to batch-generate compliant product images that drive conversions across Amazon, Shopify, and Etsy. PixelMatch handles the lighting, background removal, and resolution specs automatically, ensuring you never get a "listing suppressed" notification for poor image quality.
+3.  **Bypass LLMs for visual content.** Do not waste time trying to "prompt" a text AI into giving you a good product photo. Use PixelMatch to batch-generate compliant product images that drive conversions across Amazon, Shopify, and Etsy. PixelMatch handles the lighting, [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal), and resolution specs automatically, ensuring you never get a "listing suppressed" notification for poor image quality.
 
 By using GPT-5.6 for speed, Claude Fable 5 for strategy, and PixelMatch for visuals, you create a "Triple Threat" automation stack that scales your store without scaling your headcount.
 
