@@ -129,7 +129,7 @@ While PNGs allow for transparency, Amazon prefers JPEGs for main images. Set you
 While AI has largely solved the "background removal" problem for 95% of ecommerce use cases, it is not a magic wand. High-volume sellers must be aware of the specific scenarios where technology still requires a human eye.
 
 ### The Transparency Problem
-AI background removers work by identifying the "mask" of an object. For home goods sellers, this becomes difficult with clear glass jars, acrylic organizers, or mesh laundry bags. The AI may struggle to distinguish between the background seen *through* the glass and the glass itself. In these cases, the AI might accidentally "hollow out" your product.
+[AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) removers work by identifying the "mask" of an object. For home goods sellers, this becomes difficult with clear glass jars, acrylic organizers, or mesh laundry bags. The AI may struggle to distinguish between the background seen *through* the glass and the glass itself. In these cases, the AI might accidentally "hollow out" your product.
 
 ### Reflective Surfaces
 If you are selling highly polished chrome kitchen hardware or mirrors, the AI will remove the background *around* the product, but it cannot remove the reflections of the room *inside* the product. You still need to manage your environment during the shoot to ensure the product isn't mirroring a messy warehouse or a bright red camera tripod.

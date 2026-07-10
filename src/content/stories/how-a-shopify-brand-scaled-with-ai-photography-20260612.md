@@ -141,7 +141,7 @@ You must maintain basic photography principles. If you take a source photo from 
 ### Credit and Volume Planning
 Pricing for AI tools is rarely a flat "forever" fee. While PixelMatch is designed for the batch-consistency needed for a massive catalog update, you must calculate your expected monthly volume. If you are updating 120 SKUs with 5 images each, that is 600 generations. Ensure your chosen plan's credit limit covers your seasonal spikes without unexpected overage charges.
 
-**Actionable Step:** Before committing your entire catalog, run a "calibration shoot" with your most difficult product (e.g., a highly reflective glass bottle). If the AI handles the reflections and edges correctly, you can safely proceed with the rest of the catalog.
+**Actionable Step:** Before committing your entire catalog, run a "calibration shoot" with your most difficult product (e.g., a highly reflective [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce)). If the AI handles the reflections and edges correctly, you can safely proceed with the rest of the catalog.
 
 ## Frequently Asked Questions
 

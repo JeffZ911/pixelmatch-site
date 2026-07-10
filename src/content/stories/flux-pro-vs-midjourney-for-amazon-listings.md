@@ -155,7 +155,7 @@ Amazon's hover-to-zoom feature works best at 1600 pixels or higher. Use the buil
 While the [Flux Pro](https://pixelmatch.art/blog/compare/flux-pro-product-depth-map-controlnet-guide) and PixelMatch workflow is a massive leap forward, it is not a "magic button." Professional sellers must be aware of the current limitations of AI.
 
 ### Transparency and Refraction
-AI still struggles with complex transparent materials. If your beauty product is a clear glass bottle filled with a translucent liquid, the AI may have difficulty perfectly rendering the way light bends through the glass. In these cases, you may need to do a "partial mask" where you keep the original glass reflections from your smartphone photo.
+AI still struggles with complex transparent materials. If your beauty product is a clear [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce) filled with a translucent liquid, the AI may have difficulty perfectly rendering the way light bends through the glass. In these cases, you may need to do a "partial mask" where you keep the original glass reflections from your smartphone photo.
 
 ### Shadow Consistency
 If your original product photo has a very strong, baked-in shadow from a desk lamp, the AI might struggle to place a "new" shadow in the opposite direction. For the best results, always start with the most neutrally lit photo possible.

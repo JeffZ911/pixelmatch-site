@@ -62,7 +62,7 @@ POD sellers often struggle with "halo effects" around transparent PNG edges when
 | **API Access** | Yes | Yes (Extra Cost) | No | Limited |
 | **[AI Background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-halo-effect-fix) Realism** | High (Product-Focused) | High | Very High (Creative) | Moderate |
 | **Amazon Compliance Mode** | Yes (Pure White) | Yes | No | No |
-| **Background Removal** | Included | Included | Included | Included |
+| **[Background Removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal)** | Included | Included | Included | Included |
 
 ### Technical Spec Requirements for 2026
 When evaluating these tools, ensure they can output the following minimum specifications for your target platforms:

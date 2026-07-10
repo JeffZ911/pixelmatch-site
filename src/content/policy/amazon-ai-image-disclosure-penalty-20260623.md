@@ -98,7 +98,7 @@ Lastly, the "Main Image" trap remains the #1 cause of suppressed listings. Selle
 ![How to Fix Each Issue](/img/amazon-ai-image-disclosure-penalty-20260623/inline-4.webp)
 
 
-Create a "Standard Operating Procedure" (SOP) for your design team that mandates a final check of the "AI-Generated Content" attribute for every new SKU upload to prevent "Policy Violation" warnings from appearing in your [Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) dashboard.
+Create a "Standard Operating Procedure" (SOP) for your design team that mandates a final check of the "AI-[Generated Content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)" attribute for every new SKU upload to prevent "Policy Violation" warnings from appearing in your [Account Health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) dashboard.
 
 If your listing has already been suppressed, do not panic. The fix is usually a matter of metadata alignment. For suppressed listings, immediately update the listing backend to declare the assets as AI-assisted or fully synthetic. Once the metadata matches the visual content, Amazon's system typically crawls and reinstates the listing within 24 to 48 hours.
 

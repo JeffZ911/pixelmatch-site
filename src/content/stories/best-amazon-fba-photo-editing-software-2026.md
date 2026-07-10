@@ -122,7 +122,7 @@ For your secondary image slots, use the AI scene generator. For beauty, focus on
 ### Step 4: Final QA and Bulk Upload
 Export the entire batch. Before uploading, use a batch-rename tool to ensure your filenames include the SKU or ASIN (e.g., `B0XXXXXXXX.MAIN.jpg`). This allows for faster bulk uploading via the "Add Products via Upload" tool in Seller Central.
 
-**Actionable Step:** Use a smartphone tripod. Even a $15 tripod eliminates the micro-shakes that cause "jagged edges" during the AI background removal process.
+**Actionable Step:** Use a smartphone tripod. Even a $15 tripod eliminates the micro-shakes that cause "jagged edges" during the [AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) process.
 
 ## Caveats and Honest Limitations
 
