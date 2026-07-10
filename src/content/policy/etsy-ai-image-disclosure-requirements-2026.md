@@ -59,7 +59,7 @@ Audit your current listings against the table below to identify which items requ
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Navigate to your Etsy Shop Manager and update the "Production Partners" section or individual listing attributes if you use AI tools to generate the core design of your digital products. Etsy's 2026 stance focuses on transparency: buyers must know when a "creative spark" was assisted by an algorithm.
+Navigate to your Etsy Shop Manager and update the "Production Partners" section or individual listing attributes if you use AI tools to generate the core design of your [digital products](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products). Etsy's 2026 stance focuses on transparency: buyers must know when a "creative spark" was assisted by an algorithm.
 
 ### Listing Description Rules
 

@@ -140,7 +140,7 @@ You can apply this same "image fix" to your store today by following this techni
 While [AI image](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) generation is the fastest way to fix your LQT, it is not a "set and forget" solution for every product type.
 
 ### Technical Limitations with Transparency
-AI background removal tools, including PixelMatch, can occasionally struggle with highly transparent or reflective packaging. If you sell serums in clear glass bottles or products with intricate lace packaging, the AI may "over-erase" the edges. You should plan for a 5% manual touch-up rate where you may need to use a mask-refinement tool to restore edge detail.
+[AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) tools, including PixelMatch, can occasionally struggle with highly transparent or reflective packaging. If you sell serums in clear glass bottles or products with intricate lace packaging, the AI may "over-erase" the edges. You should plan for a 5% manual touch-up rate where you may need to use a mask-refinement tool to restore edge detail.
 
 ### The LQT is More Than Just Images
 Achieving the "Good" tier requires more than just high-quality photos. You must also complete structured descriptions and category-specific attributes. For beauty sellers, this includes:

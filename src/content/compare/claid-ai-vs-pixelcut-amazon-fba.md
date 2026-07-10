@@ -123,7 +123,7 @@ Choose PixelMatch if you are a multi-platform brand owner. If you sell on Amazon
 No tool is a magic wand. Understanding the limitations of Claid AI and Pixelcut will save you hours of troubleshooting.
 
 ### Pixelcut’s Limitations
-While Pixelcut is fast, its desktop experience is often secondary to the mobile app. For a seller sitting at a workstation with hundreds of product photos, the mobile-first interface becomes a bottleneck. Furthermore, its AI-generated backgrounds can sometimes struggle with complex reflections on metallic or glass products, leading to a "cut-out" look that appears cheap to discerning Amazon shoppers.
+While Pixelcut is fast, its desktop experience is often secondary to the mobile app. For a seller sitting at a workstation with hundreds of [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos), the mobile-first interface becomes a bottleneck. Furthermore, its AI-generated backgrounds can sometimes struggle with complex reflections on metallic or glass products, leading to a "cut-out" look that appears cheap to discerning Amazon shoppers.
 
 ### Claid AI’s Limitations
 Claid AI is powerful, but its learning curve is steep. The distinction between their "Web" tool and "API" tool can be confusing, and the pricing tiers are significantly higher than other tools in the space. For a standard FBA seller, paying $39 to $99 a month just to get a [white background](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background) might feel like overkill when their primary need is simple, compliant batching.

@@ -104,7 +104,7 @@ European marketplaces will delist products lacking machine-readable metadata or 
 Audit your existing image catalog before the August 2, 2026 deadline to identify and label all synthetic media. Transitioning to a compliant workflow now prevents a "fire drill" when platforms begin mass-deleting non-compliant assets.
 
 ### Step 1: Metadata Sanitization
-Ensure your image generation workflow automatically embeds the required machine-readable metadata to satisfy EU AI Act detection requirements. Tools that follow the C2PA (Coalition for Content Provenance and Authenticity) standard are preferred, as they provide a verifiable "content credential" that tells platforms exactly which parts of the image were generated. If you are using older AI tools, you may need to use a metadata editor to manually add IPTC "AI System Used" tags to your master files.
+Ensure your image generation workflow automatically embeds the required machine-readable metadata to satisfy [EU AI Act](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images) detection requirements. Tools that follow the C2PA (Coalition for Content Provenance and Authenticity) standard are preferred, as they provide a verifiable "content credential" that tells platforms exactly which parts of the image were generated. If you are using older AI tools, you may need to use a metadata editor to manually add IPTC "AI System Used" tags to your master files.
 
 ### Step 2: Use Pixel-Preserving AI
 Use PixelMatch to batch-generate compliant lifestyle backgrounds; the tool preserves your core product pixels to prevent misleading alterations. The biggest risk with standard generative AI is that it "re-imagines" the product, changing the position of buttons, the texture of fabric, or the exact shade of a color. PixelMatch uses a "product-first" architecture that locks the original pixels of your product and only generates the environment around it. This ensures you meet the [Amazon main image requirements 2026](https://sellercentral.amazon.com/) for accuracy while still benefiting from AI-driven lifestyle scenes.
@@ -120,7 +120,7 @@ If you are currently paying for a Pro-tier tool, verify that the features includ
 ![Official Source Links](/img/new-2026-ai-transparency-laws-for-sellers/inline-5.webp)
 
 
-*   Review the official EU AI Act text for complete details on Article 50 transparency obligations and Article 99 penalty structures.
+*   Review the official EU [AI Act](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images) text for complete details on Article 50 transparency obligations and Article 99 penalty structures.
 *   Consult [Amazon Seller Central](https://sellercentral.amazon.com/) for the latest updates on the July 27 [title limit](https://pixelmatch.art/blog/stories/amazon-75-character-title-limit-optimization-2026) changes and AI-generated image declarations.
 *   Read the full TikTok Shop Seller Center guidelines on Artificial Intelligence Generated Content (AIGC) and the strike-based enforcement system.
 *   Check the [Etsy Seller Handbook](https://www.etsy.com/seller-handbook/article/1273874841595) for the updated policy on disclosing AI-generated designs and product photography.
@@ -128,7 +128,7 @@ If you are currently paying for a Pro-tier tool, verify that the features includ
 ## Frequently Asked Questions
 
 ### Do I need to disclose AI if I only used it to remove a background?
-Generally, no. Most platforms, including [Amazon](https://sellercentral.amazon.com/) and the EU AI Act, distinguish between "assistive AI" (background removal, cropping, color correction) and "generative AI" (creating new scenes or people). If the AI did not "substantially alter" the product or create a synthetic person, disclosure is typically not required.
+Generally, no. Most platforms, including [Amazon](https://sellercentral.amazon.com/) and the [EU AI](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images) Act, distinguish between "assistive AI" (background removal, cropping, color correction) and "generative AI" (creating new scenes or people). If the AI did not "substantially alter" the product or create a synthetic person, disclosure is typically not required.
 
 ### What happens if I miss the July 27 Amazon title deadline?
 Amazon will use its own AI to [automatically truncate or rewrite](https://sellercentral.amazon.com/) your titles to meet the 75-character limit. You will have a [14-day window](https://sellercentral.amazon.com/) to review and approve these changes, but if you do nothing, the AI-generated title will go live, which could negatively impact your SEO if it removes high-converting keywords.

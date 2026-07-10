@@ -160,7 +160,7 @@ Yes, you can use AI models, but you must enable the "AI-generated content" toggl
 If TikTok's automated system detects synthetic content that isn't labeled, you may face a 7-day posting restriction for a first offense. Repeated violations can lead to a 30-day suspension or the permanent removal of the affected listings from the shop.
 
 ### Is AI-generated voiceover allowed in TikTok Shop videos?
-AI voiceovers are generally allowed in short-form videos (TikToks), provided they are labeled if they sound indistinguishable from a real person. However, as of June 2026, AI voices are strictly banned from promotional livestreams intended to sell products.
+[AI voiceovers](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products) are generally allowed in short-form videos (TikToks), provided they are labeled if they sound indistinguishable from a real person. However, as of June 2026, AI voices are strictly banned from promotional livestreams intended to sell products.
 
 ### Does TikTok ban all AI-edited photos?
 No, TikTok does not ban all AI editing. Basic enhancements like brightness adjustment, background removal, or minor retouching are permitted. The labeling requirement specifically applies to "significantly altered" or "entirely synthetic" content, such as AI-generated people or entirely fabricated scenes.

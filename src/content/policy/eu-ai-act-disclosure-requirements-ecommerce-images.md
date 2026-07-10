@@ -65,7 +65,7 @@ The European Commission's Code of Practice emphasizes the use of C2PA Content Cr
 When you use batch-generating AI product images via enterprise-grade tools, the software should inject a manifest into the image header. This manifest includes:
 *   The name of the AI model used.
 *   The date and time of generation.
-*   The specific edits made (e.g., "background replacement").
+*   The specific edits made (e.g., "[background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement)").
 
 Platforms like Amazon and TikTok are increasingly using automated scanners to read this metadata. If a file is flagged as synthetic but lacks the C2PA manifest, it may be automatically suppressed or relegated in search rankings to prevent "deepfake" consumer deception.
 

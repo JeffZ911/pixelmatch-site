@@ -104,7 +104,7 @@ Not every ecommerce store has the same creative needs. A private label [Amazon s
 ### 1. The Boutique Brand Builder: Midjourney v7
 If you are selling a "feeling" rather than just a product, Midjourney is your tool. It understands lighting, texture, and composition better than any other model. 
 *   **Use Case:** Creating a cohesive Instagram aesthetic or Shopify homepage banners.
-*   **Workflow:** Use the Web Editor to upload a "Style Reference" image of your brand's color palette. Midjourney will apply that exact lighting and mood to your product prompts.
+*   **Workflow:** Use the [Web Editor](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) to upload a "Style Reference" image of your brand's color palette. Midjourney will apply that exact lighting and mood to your product prompts.
 
 ### 2. The Technical/Enterprise Seller: Google Imagen 3
 If your product has a lot of text (supplements, skincare, tech gadgets), Imagen 3 is a necessity. It is significantly less likely to hallucinate the spelling of your brand or the "Net Weight" on your packaging.

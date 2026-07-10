@@ -51,7 +51,7 @@ Audit your current asset resolution against platform minimums before choosing a 
 
 | Feature | Google Product Studio | [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) | PixelMatch |
 | :--- | :--- | :--- | :--- |
-| **Primary Use Case** | Feed optimization & background removal | High-end lifestyle & creative hero shots | Batch-generating compliant catalog images |
+| **Primary Use Case** | Feed optimization & [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal) | High-end lifestyle & creative hero shots | Batch-generating compliant catalog images |
 | **Ease of Use** | High (No prompting required) | Low (Requires complex prompt engineering) | High (Template-driven) |
 | **Batch Processing** | Limited (One by one or small groups) | None (Single-image focus) | High (50+ SKUs at once) |
 | **Upscaling** | Built-in "Increase Resolution" toggle | Manual "Upscale" buttons (2x, 4x) | Automatic to platform specs |

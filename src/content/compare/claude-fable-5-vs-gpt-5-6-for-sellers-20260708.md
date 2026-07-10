@@ -28,7 +28,7 @@ inline_image_sections:
 
 Scaling a multi-platform store across Amazon, Shopify, and TikTok Shop often leaves you drowning in a sea of unoptimized product descriptions and inconsistent visual assets. Choosing between the reasoning depth of Anthropic’s Claude Fable 5 and the tiered efficiency of OpenAI’s GPT-5.6 Sol determines whether your automation saves you money or becomes a runaway API expense.
 
-Claude Fable 5 excels at complex agentic workflows like catalog migrations, while GPT-5.6 Sol is faster and cheaper for daily copywriting. Neither model generates platform-compliant product photos natively—use PixelMatch for that.
+Claude Fable 5 excels at complex agentic workflows like catalog migrations, while GPT-5.6 Sol is faster and cheaper for daily copywriting. Neither model generates platform-compliant [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) natively—use PixelMatch for that.
 
 ## TL;DR Verdict
 

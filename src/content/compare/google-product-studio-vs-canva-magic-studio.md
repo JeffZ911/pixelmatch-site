@@ -52,7 +52,7 @@ Enable the "Increase Resolution" toggle in [Google Merchant Center](https://pixe
 ### Google Product Studio Features
 Google’s toolset is built directly into [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-ai-image-labeling-guide) Center Next, meaning your edits sync directly with your product feed. 
 *   **Scene Generation:** You type a prompt like "on a marble kitchen counter with sunlight," and Google generates four lifestyle options.
-*   **Background Removal:** Instantly strips busy backgrounds to meet the "clean" look preferred by Google’s algorithm.
+*   **[Background Removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal):** Instantly strips busy backgrounds to meet the "clean" look preferred by Google’s algorithm.
 *   **Resolution Upscaling:** Improves the clarity of small images without making them look pixelated.
 
 ### Canva Magic Studio Features
