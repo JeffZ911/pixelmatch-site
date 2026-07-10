@@ -113,7 +113,7 @@ Monitor your rejection rates in TikTok Shop Seller Center. If your AI-generated 
 
 Execute a hybrid content strategy to maximize both engagement and professional credibility. Do not rely on a single tool to do everything; instead, use each for its specific strength.
 
-1.  **For Video Ads:** Use [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos). To avoid the clothing clipping fix headache, use the avatar's "Stock" clothing rather than trying to overlay your own custom apparel if the physics aren't lining up. Mention your product in the script and use "Green Screen" effects to show the product behind the avatar.
+1.  **For [Video Ads](https://pixelmatch.art/blog/stories/using-kling-ai-for-cinematic-product-video-ads):** Use [TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos). To avoid the clothing clipping fix headache, use the avatar's "Stock" clothing rather than trying to overlay your own custom apparel if the physics aren't lining up. Mention your product in the script and use "Green Screen" effects to show the product behind the avatar.
 2.  **For Product Listings:** Use PixelMatch. Download your renders in PNG or JPG format at a minimum of 600 x 600 pixels. These images will serve as your high-conversion "Main Images" on TikTok Shop, Amazon, and Shopify.
 3.  **For Social Media Teasers:** Use Photoroom to quickly turn a lifestyle snap into a polished "Deal of the Day" graphic.
 

@@ -144,7 +144,7 @@ Follow this checklist to generate ai [product backgrounds](https://pixelmatch.ar
 Do not skip the tripod. Even a slight blur in the source photo will be magnified when the AI attempts to upscale the image. Ensure the product is the star of the frame and that there are no harsh, direct reflections that obscure the brand name or logo.
 
 ### 2. Isolate the Product
-Upload your batch to PixelMatch. Use the **AI background removal tool** to strip away your office or warehouse background. Check the edges, especially around fine details like brush bristles or pump nozzles. 
+Upload your batch to PixelMatch. Use the **[AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) tool** to strip away your office or warehouse background. Check the edges, especially around fine details like brush bristles or pump nozzles. 
 
 ### 3. Engineer Your Brand Backgrounds
 Enter a descriptive prompt. If you are selling a "Luxury" item, use keywords like *marble, gold accents, silk, or architectural shadows*. If you are selling "Clean/Organic" beauty, use *linen, sunlight, water ripples, or botanical elements*. 

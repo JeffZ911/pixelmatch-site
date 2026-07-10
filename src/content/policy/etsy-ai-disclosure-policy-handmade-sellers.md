@@ -50,7 +50,7 @@ Audit your current shop inventory against this checklist to ensure every listing
 | **Listing Category** | Mandatory | Must select "Designed by me" rather than "Made by me" for AI-generated digital items. |
 
 ### Summary of 2026 Enforcement
-Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) emphasize that for an item to be sold on the platform, it must involve human creativity. While AI is a tool in that process, the seller must be the one driving the tool through original prompts. Automated systems now scan listing descriptions and metadata for keywords related to artificial intelligence; if the system identifies AI-generated content without a corresponding disclosure, the listing is flagged for review or automatic removal.
+Etsy's [Creativity Standards](https://pixelmatch.art/blog/stories/etsy-creativity-standards-for-ai-sellers-case-study) emphasize that for an item to be sold on the platform, it must involve human creativity. While AI is a tool in that process, the seller must be the one driving the tool through original prompts. Automated systems now scan listing descriptions and metadata for keywords related to artificial intelligence; if the system identifies AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements) without a corresponding disclosure, the listing is flagged for review or automatic removal.
 
 ## Detailed Requirements: Master the "Designed by a Seller" Category
 

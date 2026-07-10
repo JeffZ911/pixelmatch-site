@@ -84,7 +84,7 @@ Calculate your "Cost Per Export" by dividing the monthly subscription fee by you
 
 ### Free Tier Limits
 Most tools offer a "freemium" entry point, but these are rarely sufficient for active POD businesses.
-*   **Photoroom:** Offers a free tier with 250 watermarked exports. This is useful for testing background removal quality but unusable for live listings.
+*   **Photoroom:** Offers a free tier with 250 watermarked exports. This is useful for testing [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal) quality but unusable for live listings.
 *   **Pebblely:** Provides 40 free images per month. For a POD seller, this covers roughly eight product designs if you generate five variations per design.
 *   **Canva:** The free version includes basic background removal but lacks the Magic Studio features required for realistic AI staging.
 *   **PixelMatch:** Focuses on a high-value entry point that prioritizes batch volume over restrictive per-image credits.

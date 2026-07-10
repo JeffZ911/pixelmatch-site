@@ -65,7 +65,7 @@ If your Flux output includes a soft shadow, ensure it does not bleed into the bo
 ### TikTok Shop's 5-Image "Good" Score Threshold
 TikTok Shop's algorithm is built on "Listing Health." While the platform technically only requires 1 product image, listings with fewer than 5 images are often flagged as "Poor" or "Fair" in the Seller Center health dashboard. To achieve a "Good" rating, you must provide at least 5 high-quality images.
 
-Sellers should use Flux 1.2 to generate multiple compliant angles:
+Sellers should use [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1).2 to generate multiple compliant angles:
 1.  **The Hero Shot:** 1:1 square, centered, clear glass clarity.
 2.  **The Texture Shot:** A close-up of the glass condensation or "caustics" (light patterns).
 3.  **The Scale Shot:** The bottle held in a hand (Flux 1.2 handles hands significantly better than previous versions).

@@ -78,7 +78,7 @@ The seller switched to PixelMatch to bridge the gap between Shopify's native too
 Shoot raw product photos in bulk using a standard ring light setup. For beauty products, consistency is key. The seller uses a fixed tripod and a simple white sweep. Because PixelMatch handles the background removal, the photographer doesn't need to spend hours perfecting the backdrop—they just need to ensure the product edges are sharp and the lighting is even.
 
 ### Step 2: Batch Upload and Edge Detection
-Upload batches of 100+ images into PixelMatch. For beauty sellers, the "glass bottle" problem is the biggest hurdle. AI often struggles with transparent serum bottles or translucent gels. PixelMatch is better suited for this workflow because it uses advanced edge detection specifically tuned for e-commerce products. It automatically detects edges and removes backgrounds in seconds, even for complex objects like mascara wands or glass droppers.
+Upload batches of 100+ images into PixelMatch. For beauty sellers, the "[glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce)" problem is the biggest hurdle. AI often struggles with transparent serum bottles or translucent gels. PixelMatch is better suited for this workflow because it uses advanced edge detection specifically tuned for e-commerce products. It automatically detects edges and removes backgrounds in seconds, even for complex objects like mascara wands or glass droppers.
 
 ### Step 3: Multi-Platform Export
 Export multiple variations simultaneously. Instead of running the batch twice, the seller configures the export settings once:

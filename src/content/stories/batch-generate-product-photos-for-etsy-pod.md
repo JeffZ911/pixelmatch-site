@@ -129,7 +129,7 @@ Upload the batch to PixelMatch. Select your base product type from the library. 
 *   **Home Decor:** 18x18 Square Pillow, 11x14 Framed Canvas.
 
 ### Step 3: Configure AI Background Prompts
-Choose AI background prompts tailored to your specific niche. If you are selling "Dark Academia" style shirts, use prompts like "Moody library, mahogany bookshelves, soft candlelight, cinematic lighting." If you are selling "Summer Beach" mugs, use "Bright sunny boardwalk, turquoise ocean background, high-key lighting."
+Choose [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) prompts tailored to your specific niche. If you are selling "Dark Academia" style shirts, use prompts like "Moody library, mahogany bookshelves, soft candlelight, cinematic lighting." If you are selling "Summer Beach" mugs, use "Bright sunny boardwalk, turquoise ocean background, high-key lighting."
 
 ### Step 4: Run the Batch and Quality Audit
 Run the batch generator. Once the images are generated, perform a "Rapid Review." Scan for any AI artifacts (like a model with six fingers or a distorted handle on a mug). In a batch of 100, you can typically expect 95+ to be perfect, but manual review is a non-negotiable step for Etsy quality control.

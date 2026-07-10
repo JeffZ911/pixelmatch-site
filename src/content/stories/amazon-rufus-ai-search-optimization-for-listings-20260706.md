@@ -140,7 +140,7 @@ The "Rufus Effect" became visible in the brand's Business Reports within 30 days
 You can apply this same Rufus-first optimization strategy to your store today by following these steps.
 
 1.  **Audit for "Context Gaps":** Open your top 10 listings and ask Rufus three questions about them (e.g., "How do I store this?", "Is it a good gift?", "Can I use it at the beach?"). If your images don't visually answer those questions, you have a context gap.
-2.  **Standardize Your Main Images:** Use an AI background replacement tool to ensure every main image in your catalog is [pure white RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/1881). Do not settle for "close enough."
+2.  **Standardize Your Main Images:** Use an [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) replacement tool to ensure every main image in your catalog is [pure white RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/1881). Do not settle for "close enough."
 3.  **Generate "Intent Clusters":** Don't just make "nice" backgrounds. Use PixelMatch to generate scenes that represent specific buyer intents:
     *   **The "Usage" Scene:** The product in action or in its natural environment.
     *   **The "Scale" Scene:** The product next to common items (phone, keys, coins) to show size.

@@ -108,7 +108,7 @@ To fix a disclosure error, follow these steps in Seller Central:
 1. Go to **Inventory** > **Manage All Inventory**.
 2. Click **Edit** on the suppressed SKU.
 3. Navigate to the **Product Details** or **Images** tab (the location varies slightly by category).
-4. Scroll to the **AI-Generated Content** attribute.
+4. Scroll to the **AI-[Generated Content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)** attribute.
 5. Select the appropriate level: "Fully Human," "AI-Assisted," or "Fully Synthetic."
 6. Save and Finish.
 

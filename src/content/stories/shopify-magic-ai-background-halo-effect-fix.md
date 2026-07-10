@@ -51,7 +51,7 @@ To maintain a premium brand image and ensure fast mobile loading, the brand need
 
 To scale their content production without the $150/hour cost of a local studio, the brand initially turned to [Shopify Magic’s media generation](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation). This tool is convenient because it lives directly inside the Shopify file editor, allowing sellers to generate backgrounds for free. 
 
-However, the brand quickly encountered the "halo effect." This occurs when the background removal AI fails to distinguish between the translucent edge of a glass bottle and the original white background. The result is a jagged, white fringe that makes the product look like a cheap sticker placed on top of a lifestyle scene. 
+However, the brand quickly encountered the "halo effect." This occurs when the background removal AI fails to distinguish between the translucent edge of a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce) and the original white background. The result is a jagged, white fringe that makes the product look like a cheap sticker placed on top of a lifestyle scene. 
 
 They tested popular third-party alternatives to solve this:
 *   **Photoroom:** While the Pro tier at $12.99/month offered better edge detection than basic tools, it still struggled to replicate the way light passes through frosted glass (caustics).
@@ -77,7 +77,7 @@ The brand replaced their fragmented editing process with a centralized workflow 
 Stop shooting white products on white backgrounds. The brand began shooting their raw photos on a light grey or contrasting solid background. This provides the AI with enough edge contrast to define the shape of the bottle without the "bleed" that happens with pure white-on-white setups.
 
 ### Step 2: Batch Processing with Edge-Aware Masking
-Instead of uploading one by one to a web editor, the brand uploaded their entire 50-SKU collection to PixelMatch. They selected the "Transparent Object" optimization setting. This tells the AI to look for refractions and to preserve the original glass transparency rather than treating the bottle as a solid block of color.
+Instead of uploading one by one to a [web editor](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement), the brand uploaded their entire 50-SKU collection to PixelMatch. They selected the "Transparent Object" optimization setting. This tells the AI to look for refractions and to preserve the original glass transparency rather than treating the bottle as a solid block of color.
 
 ### Step 3: Lifestyle Background Generation
 The brand used descriptive prompts like "Minimalist marble bathroom counter, soft morning sunlight, bokeh greenery in background." PixelMatch generated these backgrounds *behind* the product while maintaining the natural shadows and the way the marble texture would be visible through the serum bottle.
