@@ -114,7 +114,7 @@ If your product has a lot of text (supplements, skincare, tech gadgets), Imagen 
 ### 3. The Multi-Platform Scaler: PixelMatch
 If you need to batch-process hundreds of SKUs into compliant, ready-to-upload images without manual prompting, foundation models will fail you. Midjourney and Imagen 3 are "creation" tools, not "workflow" tools.
 *   **Use Case:** You have 200 products. You need a pure [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) for Amazon, a lifestyle shot for Shopify, and a 9:16 vertical shot for TikTok Shop for every single SKU.
-*   **Workflow:** Upload your raw product photos to PixelMatch. The AI automatically removes backgrounds, applies consistent lighting, and resizes to platform specs in one click.
+*   **Workflow:** Upload your raw [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) to PixelMatch. The AI automatically removes backgrounds, applies consistent lighting, and resizes to platform specs in one click.
 
 **Actionable Step:** Identify your bottleneck. Is it "creative ideas" (use Midjourney) or "manual labor" (use PixelMatch)?
 

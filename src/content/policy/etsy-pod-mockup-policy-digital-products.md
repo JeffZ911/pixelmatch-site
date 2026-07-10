@@ -52,7 +52,7 @@ Run a full audit of your shop’s visual assets to ensure they meet the minimum 
 ![Configure your "Designed by" attributes to meet Etsy's June 2025 standards](/img/etsy-pod-mockup-policy-digital-products/inline-2.webp)
 
 
-Apply the "Designed by a seller" category correctly to avoid your shop being flagged for resale violations. Under the June 2025 update, Etsy clarified that both Print-on-Demand (POD) and digital products belong in this category, provided the seller is the creator of the original design. This policy shift means that simply buying a pre-made mockup and slapping a basic font on it may no longer qualify as "original design" if the design lacks sufficient creative input.
+Apply the "Designed by a seller" category correctly to avoid your shop being flagged for resale violations. Under the June 2025 update, Etsy clarified that both Print-on-Demand (POD) and [digital products](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products) belong in this category, provided the seller is the creator of the original design. This policy shift means that simply buying a pre-made mockup and slapping a basic font on it may no longer qualify as "original design" if the design lacks sufficient creative input.
 
 ### Print-on-Demand (POD) Mockup Rules
 

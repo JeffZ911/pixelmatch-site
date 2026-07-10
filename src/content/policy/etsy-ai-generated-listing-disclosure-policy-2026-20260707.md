@@ -86,7 +86,7 @@ Analyze your shop's "Deactivated" folder to see if any listings were flagged by 
 1.  **Mislabeling as "Handmade":** The most frequent cause for account "shadow-banning" is labeling AI art as "Handmade" when it should be "Designed by a seller." Etsy’s 6.5% transaction fee applies regardless, but the categorization affects how your listing appears in filtered searches.
 2.  **Misleading Primary Photos:** If your primary photo is a 100% AI-generated image that looks nothing like the physical product the customer receives, you violate the Seller Policy regarding misrepresentation. 
 3.  **Selling Prohibited Digital Goods:** Etsy has explicitly banned "AI Prompt Bundles" (e.g., "100 Midjourney Prompts for Florists"). These listings are often removed within 24 hours of posting.
-4.  **Missing "Synthetic Media" Labels:** With the 2026 enforcement of state-level AI laws, listings that use realistic AI human models without disclosure are being flagged for "Legal Compliance" reviews, often leading to temporary shop holds.
+4.  **Missing "Synthetic Media" Labels:** With the 2026 enforcement of state-level AI laws, listings that use [realistic AI](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products) human models without disclosure are being flagged for "Legal Compliance" reviews, often leading to temporary shop holds.
 
 ### Misusing the Photography Category
 

@@ -49,7 +49,7 @@ The seller looked toward AI to generate lifestyle backgrounds for their real, ha
 ![What Wasn't Working: The Cost of Confusion and Competitor Tools](/img/etsy-ai-image-disclosure-2026-case-study/inline-2.webp)
 
 
-Compare the batch processing limits of your current software against your weekly SKU count to identify where your workflow is stalling. The seller initially attempted to use general-purpose design tools and entry-level AI background removers, but found the limitations hampered their ability to scale.
+Compare the batch processing limits of your current software against your weekly SKU count to identify where your workflow is stalling. The seller initially attempted to use general-purpose design tools and entry-level [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) removers, but found the limitations hampered their ability to scale.
 
 They first tested Canva Pro at $14.99/mo. While Canva is excellent for social media graphics, its background replacement for product photography often produced "[uncanny valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" results that didn't align with high-end vintage aesthetics. The AI credits felt restrictive for a seller needing 5–10 photos per SKU for 50 SKUs a week.
 

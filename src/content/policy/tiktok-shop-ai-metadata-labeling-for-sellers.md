@@ -69,7 +69,7 @@ If this metadata is present, TikTok applies a label that says "AI-generated" dir
 TikTok requires disclosure for any content that is "fully generated or significantly edited by AI." For ecommerce sellers, this includes:
 *   **AI Models:** Replacing a real human model with an AI-generated person.
 *   **Generative Fill:** Adding objects into a scene that were not there during the original photoshoot (e.g., adding a synthetic plant or furniture next to your product).
-*   **Background Replacement:** Swapping a studio background for a photorealistic lifestyle setting.
+*   **[Background Replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement):** Swapping a studio background for a photorealistic lifestyle setting.
 
 PixelMatch provides a significant advantage here. Unlike general AI art tools that might "hallucinate" new details onto your product, PixelMatch is designed to batch-generate compliant lifestyle backgrounds while locking the product pixels. This ensures that the product's shape, texture, and color remain 100% authentic, which is the cornerstone of TikTok Shop’s product accuracy policy.
 

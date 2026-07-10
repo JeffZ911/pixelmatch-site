@@ -117,7 +117,7 @@ Don't resize images manually. Use a workflow that automatically upscales and pad
 Batch-generate the required 5 to 9 image variations for TikTok Shop using a consistent seed in Flux 1.2. This ensures the glass reflections look identical across the entire set. If the lighting changes between the hero shot and the lifestyle shot, customers may suspect the product is "fake" or overly edited. 
 
 ### Fixing Shadow Violations
-If a generated image has a non-compliant shadow (e.g., a "drop shadow" that is too dark), use automated background replacement to enforce the [RGB 255, 255, 255 standard](https://sellercentral.amazon.com/help/hub/reference/external/G181). The challenge with glass is preserving the "alpha channel" (transparency). Standard background removers often leave a "white halo" around the glass. PixelMatch's specialized glass-edge detection preserves the transparent edge definition while nuking the non-compliant background pixels.
+If a generated image has a non-compliant shadow (e.g., a "drop shadow" that is too dark), use automated [background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) to enforce the [RGB 255, 255, 255 standard](https://sellercentral.amazon.com/help/hub/reference/external/G181). The challenge with glass is preserving the "alpha channel" (transparency). Standard background removers often leave a "white halo" around the glass. PixelMatch's specialized glass-edge detection preserves the transparent edge definition while nuking the non-compliant background pixels.
 
 ### Actionable Step: Create a "Compliance Template"
 Set your export settings in your post-processing tool to the following "Safe Zone" specs:

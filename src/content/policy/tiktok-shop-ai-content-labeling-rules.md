@@ -88,7 +88,7 @@ Audit your current listings for these four "red flag" triggers that TikTok’s a
 
 Avoid using AI to visualize the "benefit" of your product if that benefit is a physical transformation. TikTok’s Medical and Health Policy is particularly aggressive toward [AI content](https://pixelmatch.art/blog/stories/tiktok-shop-ai-content-disclosure-badge-guide). If you use AI to show wrinkles disappearing or teeth whitening in seconds, your content will be removed, and you will likely receive a Level 3 penalty. 
 
-Even if the AI generation is labeled, the *claim* itself is considered fraudulent because the result was not achieved by the product, but by a diffusion model. This extends to "Fake AI Experts." Using a realistic AI-generated doctor or scientist to endorse a supplement is a prohibited practice that leads to immediate [shop closure](https://pixelmatch.art/blog/policy/etsy-ai-image-crackdown-shop-closure-risk).
+Even if the AI generation is labeled, the *claim* itself is considered fraudulent because the result was not achieved by the product, but by a diffusion model. This extends to "Fake AI Experts." Using a [realistic AI](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products)-generated doctor or scientist to endorse a supplement is a prohibited practice that leads to immediate [shop closure](https://pixelmatch.art/blog/policy/etsy-ai-image-crackdown-shop-closure-risk).
 
 ### Inconsistent Product Promotion
 

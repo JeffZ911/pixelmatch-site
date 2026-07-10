@@ -77,7 +77,7 @@ Verify your current catalog's highest-selling SKU's resolution before choosing a
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Tally your total cost of ownership (TCO) by including the "hidden" costs of third-party upscalers and background removal tools like Remove.bg ($9/mo for 40 credits) or Adobe Express ($9.99/mo).
+Tally your total cost of ownership (TCO) by including the "hidden" costs of third-party upscalers and [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal) tools like Remove.bg ($9/mo for 40 credits) or Adobe Express ($9.99/mo).
 
 *   **Midjourney Pricing:** Requires a monthly subscription, starting at the Basic Plan for $10/mo (approx. 200 generations). The Pro Plan at $60/mo is necessary for "Stealth Mode," preventing your competitors from seeing your jewelry prompts in the public gallery.
 *   **Flux.1 [schnell]:** This version is open-source and free for personal and commercial use under an Apache 2.0 license. However, running it locally requires a high-end GPU (like an NVIDIA RTX 3090 or 4090) which can cost over $1,500.

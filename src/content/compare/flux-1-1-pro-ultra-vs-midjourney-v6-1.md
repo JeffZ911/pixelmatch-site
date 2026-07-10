@@ -58,7 +58,7 @@ Audit your current image pixel dimensions against the table below to see if your
 | **Workflow Fit** | Batch automation & SaaS integration | Manual "one-off" creative work |
 | **Pricing Model** | Pay-per-image (~$0.06) | Monthly Subscription ($10 - $120) |
 
-Flux 1.1 Pro Ultra delivers up to 4MP natively, which is a critical threshold for multi-platform sellers. Amazon's [1600px zoom requirement](https://sellercentral.amazon.com/help/hub/reference/external/G1881) is easily met by Flux without the "hallucination" artifacts often introduced by secondary upscalers. In contrast, Midjourney v6.1 relies on its "Subtle" and "Creative" upscalers to reach these resolutions, which can occasionally alter the fine texture of your product's material.
+[Flux 1](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce).1 Pro Ultra delivers up to 4MP natively, which is a critical threshold for multi-platform sellers. Amazon's [1600px zoom requirement](https://sellercentral.amazon.com/help/hub/reference/external/G1881) is easily met by Flux without the "hallucination" artifacts often introduced by secondary upscalers. In contrast, Midjourney v6.1 relies on its "Subtle" and "Creative" upscalers to reach these resolutions, which can occasionally alter the fine texture of your product's material.
 
 Speed is the second major differentiator. Flux 1.1 Pro Ultra can generate images in 10 seconds per sample in Ultra mode. While Midjourney v6.1 is significantly faster than version 6, it still lags behind Flux in raw throughput, making it less ideal for a seller trying to refresh 500 listings in a single afternoon.
 

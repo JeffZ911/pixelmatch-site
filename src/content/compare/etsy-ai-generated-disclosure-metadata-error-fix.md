@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop losing sales to listing takedowns and shadow-bans caused by mismatched AI disclosures. If you use AI-enhanced product photos, you must align your Etsy listing settings with the hidden metadata embedded in your image files to avoid policy violations.
+Stop losing sales to listing takedowns and shadow-bans caused by mismatched AI disclosures. If you use AI-enhanced [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos), you must align your Etsy listing settings with the hidden metadata embedded in your image files to avoid policy violations.
 
 ## TL;DR Verdict
 
