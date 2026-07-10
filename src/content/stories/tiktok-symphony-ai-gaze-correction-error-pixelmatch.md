@@ -103,7 +103,7 @@ Analyze your dwell time metrics to confirm that users are actually engaging with
 Implement a 7-slide "hook-to-texture" sequence to maximize user engagement in your carousels. If you are currently struggling with [AI video](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) tools or encountering errors when trying to fix avatar movements, follow this blueprint to stabilize your TikTok Shop sales.
 
 ### Step 1: Pause Underperforming AI Video
-If your current video ads have a CTR below 1% or are being flagged for synthetic media, pause them immediately. Continuing to spend on ads that trigger the tiktok [symphony ai](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) gaze correction error is a waste of budget.
+If your current [video ads](https://pixelmatch.art/blog/stories/using-kling-ai-for-cinematic-product-video-ads) have a CTR below 1% or are being flagged for synthetic media, pause them immediately. Continuing to spend on ads that trigger the tiktok [symphony ai](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-to-listing-workflow) gaze correction error is a waste of budget.
 
 ### Step 2: Design a 7-Slide Carousel Structure
 Don't just upload random photos. Structure your carousel like a story:

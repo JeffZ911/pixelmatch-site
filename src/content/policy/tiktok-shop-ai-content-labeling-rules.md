@@ -100,7 +100,7 @@ Many general-purpose AI tools like [Canva](https://www.canva.com/help/ai-generat
 
 Failing to label AI-generated backgrounds is the most common reason for Level 1 Warnings. Even if the product itself is 100% real, if the environment (the beach, the mountains, the luxury living room) is AI-generated, TikTok requires a disclosure. 
 
-Sellers often assume that "background replacement" is a minor edit. However, TikTok's 2026 policy classifies any "realistic scene generation" as AIGC. If a buyer thinks you shot the product in a professional studio but you actually used a generative model, the lack of a label is considered a breach of trust.
+Sellers often assume that "[background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement)" is a minor edit. However, TikTok's 2026 policy classifies any "realistic scene generation" as AIGC. If a buyer thinks you shot the product in a professional studio but you actually used a generative model, the lack of a label is considered a breach of trust.
 
 ## How to Fix Each Issue
 

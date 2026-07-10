@@ -49,7 +49,7 @@ Run a calibration test today by generating the same product prompt in both engin
 
 Audit your current image pixel dimensions against the table below to see if your current generation tool is actually meeting the requirements for high-DPI displays on platforms like Amazon and Shopify.
 
-| Feature | Flux 1.1 Pro Ultra | Midjourney v6.1 |
+| Feature | [Flux 1](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce).1 Pro Ultra | Midjourney v6.1 |
 | :--- | :--- | :--- |
 | **Max Native Resolution** | Up to 4MP (e.g., 2048x2048) | ~1MP (1024x1024) natively; requires upscaler for more |
 | **Generation Speed** | ~10 seconds per image | ~25% faster than v6 (approx. 30-50s) |

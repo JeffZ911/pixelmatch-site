@@ -45,7 +45,7 @@ Run a full audit of your shop’s visual assets to ensure they meet the minimum 
 | **Prohibited Elements** | Blank items with "Your Text Here" as the primary image. | Mockups that imply a physical frame or paper is included. |
 
 ### Image Reference: Policy Quick View
-(A quick reference table summarizing Etsy's 2026 mockup policies for POD and digital products, including image dimensions and AI rules. Aspect ratio: 16:9)
+(A quick reference table summarizing Etsy's 2026 mockup policies for POD and [digital products](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products), including image dimensions and AI rules. Aspect ratio: 16:9)
 
 ## Configure your "Designed by" attributes to meet Etsy's June 2025 standards
 

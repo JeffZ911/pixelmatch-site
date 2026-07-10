@@ -106,7 +106,7 @@ Follow these four steps to ensure your catalog is ready for the June 23rd cutoff
 Identify every image in your Seller Central "Image Manager" that is under [1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881). These images will not allow customers to zoom in, which is a major deterrent for beauty shoppers wanting to see product textures or ingredient lists.
 
 ### Step 2: Batch Remove Backgrounds
-Upload your raw product photos to an AI background remover for products. Ensure the tool is set to replace the background with exactly [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881). Even a slight off-white (like 254, 255, 255) can trigger Amazon's automated suppression bots.
+Upload your raw product photos to an [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) remover for products. Ensure the tool is set to replace the background with exactly [RGB 255, 255, 255](https://sellercentral.amazon.com/help/hub/reference/G1881). Even a slight off-white (like 254, 255, 255) can trigger Amazon's automated suppression bots.
 
 ### Step 3: Enforce the 85% Fill Rule
 Use the auto-crop feature to ensure the product fills at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/G1881). For beauty products like slim eyeliner pencils or small jars, this often requires removing significant "dead space" that exists in original studio shots.

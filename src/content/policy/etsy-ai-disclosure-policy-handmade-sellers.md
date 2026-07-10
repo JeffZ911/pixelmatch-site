@@ -77,7 +77,7 @@ There is a critical distinction between selling an AI-generated product (like a 
 
 If you use AI to generate lifestyle backgrounds, you must ensure the physical product remains accurately represented. For example, if you sell a physical coffee mug, you can use PixelMatch to batch-generate compliant AI backgrounds that place your mug in a cozy kitchen. Because PixelMatch keeps the original product photo intact and only replaces the environment, you avoid the "Item Not as Described" claims that occur when AI-generated mockups accidentally change the shape or texture of the product itself.
 
-Furthermore, be aware of state-specific laws. New York’s Senate Bill A8887 (and similar legislation in other jurisdictions) requires disclosure when "synthetic media" (AI-generated humans) are used in a way that could mislead consumers. If your mockup features a highly realistic AI-generated person wearing your jewelry, a brief note stating "Model images are AI-generated" protects you from both Etsy's policies and legal scrutiny.
+Furthermore, be aware of state-specific laws. New York’s Senate Bill A8887 (and similar legislation in other jurisdictions) requires disclosure when "synthetic media" (AI-generated humans) are used in a way that could mislead consumers. If your mockup features a highly [realistic AI](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products)-generated person wearing your jewelry, a brief note stating "Model images are AI-generated" protects you from both Etsy's policies and legal scrutiny.
 
 ## Common Rejection Reasons: Why Listings Disappear
 

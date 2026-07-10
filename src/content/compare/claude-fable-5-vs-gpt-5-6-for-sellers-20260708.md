@@ -115,7 +115,7 @@ Hardcode your platform fee constants (e.g., Stripe's 2.9% + 30¢) into your syst
 
 ### Visual Content Creation
 
-The most common mistake sellers make in 2026 is attempting to use LLM-adjacent image generators for their primary product photos. While GPT-5.6 can prompt DALL-E 4, the results often lack the "photorealism" required for high-end ecommerce. These models cannot reliably batch-generate lifestyle product photos with consistent lighting or remove backgrounds with the surgical precision of tools like Photoroom or PixelMatch. If your product doesn't look exactly like the photo, you will face a wave of "Item Not As Described" returns.
+The most common mistake sellers make in 2026 is attempting to use LLM-adjacent image generators for their primary [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos). While GPT-5.6 can prompt DALL-E 4, the results often lack the "photorealism" required for high-end ecommerce. These models cannot reliably batch-generate lifestyle product photos with consistent lighting or remove backgrounds with the surgical precision of tools like Photoroom or PixelMatch. If your product doesn't look exactly like the photo, you will face a wave of "Item Not As Described" returns.
 
 ### Real-Time Financial Accuracy
 

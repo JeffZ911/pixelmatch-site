@@ -130,7 +130,7 @@ Schedule a batch-processing trial for your next product launch to compare the ti
 
 1.  **Use Shopify Magic** if you are a "solopreneur" on a tight budget who only sells on Shopify and needs a quick, free way to clean up a few product shots.
 2.  **Use [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal)** if you are a creative director or a brand owner who needs to create high-impact, commercially safe lifestyle images for Instagram ads or hero banners.
-3.  **Use PixelMatch** if your goal is to scale a multi-platform catalog quickly. If you need to ensure every shot meets Amazon, Etsy, and TikTok Shop specs automatically, PixelMatch is the only tool designed for the high-volume ecommerce workflow. It eliminates the resolution issues of Shopify Magic and the manual labor of Adobe Firefly, allowing you to go from raw photo to multi-channel listing in minutes.
+3.  **Use PixelMatch** if your goal is to scale a multi-platform catalog quickly. If you need to ensure every shot meets Amazon, Etsy, and TikTok Shop specs automatically, PixelMatch is the only tool designed for the high-volume ecommerce workflow. It eliminates the resolution issues of Shopify Magic and the manual labor of [Adobe Firefly](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal), allowing you to go from raw photo to multi-channel listing in minutes.
 
 ## Frequently Asked Questions
 
