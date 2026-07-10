@@ -136,7 +136,7 @@ When you navigate to your Policy Violations page and select "View & Appeal," you
 *   **The Evidence:** Attach a "behind-the-scenes" photo of your physical product sitting on your desk or in your workshop. This proves the item is real and you are a legitimate maker.
 
 ### Using Compliant AI Tools
-Switching to a compliant workflow is the best way to prevent a second strike. While tools like Pebblely or Booth.AI offer great results, ensure you are using their "background replacement" features rather than their "product generation" features. 
+Switching to a compliant workflow is the best way to prevent a second strike. While tools like Pebblely or Booth.AI offer great results, ensure you are using their "[background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement)" features rather than their "product generation" features. 
 
 **Compliance Checklist for Tools:**
 *   **Removebg / Adobe Express:** Excellent for clean, white-background shots which are rarely flagged.

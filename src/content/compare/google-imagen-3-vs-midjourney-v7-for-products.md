@@ -61,7 +61,7 @@ When you are managing a catalog of 50+ SKUs, the interface and technical output 
 
 | Feature | [Midjourney v7](https://pixelmatch.art/blog/policy/midjourney-v7-leak-product-photography-prompts-guide) | Google Imagen 3 |
 | :--- | :--- | :--- |
-| **Primary Access** | Web Editor / Discord | Vertex AI / Gemini / API |
+| **Primary Access** | [Web Editor](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) / Discord | Vertex AI / Gemini / API |
 | **Best For** | Lifestyle / Editorial | Photorealistic Mockups |
 | **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Improved, but prone to "AI gibberish" | High accuracy for labels/packaging |
 | **Consistency** | Strong (Style Reference / Character Reference) | Moderate (Requires Seed/API tuning) |
@@ -152,7 +152,7 @@ The "winner" depends on your role in the business.
 ## Frequently Asked Questions
 
 ### Can I use Midjourney or Imagen images as my Amazon Main Image?
-Only if they meet the strict [Amazon Image Standards](https://sellercentral.amazon.com/help/hub/reference/G1881). This includes a pure [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) (RGB 255, 255, 255), no watermarks, and the product occupying at least 85% of the frame. Midjourney often fails the "pure white" test without significant post-processing or background removal.
+Only if they meet the strict [Amazon Image Standards](https://sellercentral.amazon.com/help/hub/reference/G1881). This includes a pure [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance) (RGB 255, 255, 255), no watermarks, and the product occupying at least 85% of the frame. Midjourney often fails the "pure white" test without significant post-processing or [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal).
 
 ### Which AI tool is better for generating text on product labels?
 Google Imagen 3 is significantly better at [text rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615) than [Midjourney v7](https://pixelmatch.art/blog/compare/google-product-studio-vs-midjourney-v7-20260617). While Midjourney has improved, it still frequently makes spelling errors or uses "gibberish" characters on smaller label details. Imagen 3 was specifically trained to handle dense text, making it the better choice for packaging mockups.

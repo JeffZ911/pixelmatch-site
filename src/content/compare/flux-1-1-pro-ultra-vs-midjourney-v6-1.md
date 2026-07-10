@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop wasting thousands of dollars on physical lifestyle shoots that end up looking dated three months after you upload them to your Shopify storefront. As of July 8, 2026, the choice between Flux 1.1 Pro Ultra and Midjourney v6.1 is no longer just about "which image looks prettier"—it is about which model fits into your automated multi-platform inventory workflow without breaking your margins.
+Stop wasting thousands of dollars on physical lifestyle shoots that end up looking dated three months after you upload them to your Shopify storefront. As of July 8, 2026, the choice between [Flux 1](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce).1 Pro Ultra and Midjourney v6.1 is no longer just about "which image looks prettier"—it is about which model fits into your automated multi-platform inventory workflow without breaking your margins.
 
 ## TL;DR Verdict
 

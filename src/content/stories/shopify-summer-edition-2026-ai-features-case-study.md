@@ -125,7 +125,7 @@ You can implement this high-efficiency workflow today by following these five st
 
 While AI tools have drastically reduced the barrier to entry for high-end photography, they are not a "set and forget" solution. Multi-platform sellers must remain aware of specific technical hurdles.
 
-AI background removal still struggles with highly transparent packaging. For beauty brands, this often includes clear glass serum bottles or translucent plastic. The AI may accidentally "erase" parts of the bottle's edge along with the background. These specific SKUs may require a manual touch-up or a higher-contrast raw photo to help the AI distinguish the glass from the environment.
+[AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) still struggles with highly transparent packaging. For beauty brands, this often includes clear glass serum bottles or translucent plastic. The AI may accidentally "erase" parts of the bottle's edge along with the background. These specific SKUs may require a manual touch-up or a higher-contrast raw photo to help the AI distinguish the glass from the environment.
 
 While Shopify Magic is excellent for drafting initial copy, the AI-generated text can sound generic if you do not provide specific brand voice prompts. Always review the output for "hallucinations"—errors where the AI might claim a product has ingredients it does not actually contain.
 

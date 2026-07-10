@@ -106,7 +106,7 @@ Batch-process your product photos using PixelMatch to replace low-quality AI bac
 
 ### Updating Listing Descriptions
 
-You do not need to write a long disclaimer. A simple, clear sentence at the bottom of your "Product Details" or "Description" section is sufficient to satisfy Etsy’s disclosure requirements.
+You do not need to write a long disclaimer. A simple, clear sentence at the bottom of your "Product Details" or "Description" section is sufficient to satisfy Etsy’s [disclosure requirements](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images).
 
 **Template for AI Art:**
 > "This artwork was created with the assistance of AI generative tools and finished by hand in Photoshop."

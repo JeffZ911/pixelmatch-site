@@ -44,7 +44,7 @@ Audit your current media library against this compliance checklist to identify w
 | :--- | :--- | :--- | :--- |
 | **AI-Generated Lifestyle Backgrounds** | Yes | Required | Enable "AI-generated content" toggle. |
 | **Synthetic Human Models/Faces** | Yes | Required | Use disclosure toggle + clear watermark. |
-| **AI Voiceovers (Cloned or Synthetic)** | Yes | Required | Disclose via caption or platform toggle. |
+| **[AI Voiceovers](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products) (Cloned or Synthetic)** | Yes | Required | Disclose via caption or platform toggle. |
 | **Basic Retouching (Brightness/Contrast)** | No | Allowed | No disclosure needed. |
 | **Altering Product Color/Dimensions** | **NO** | **Prohibited** | Do not use; leads to "Not as Described" bans. |
 | **Faking "Before/After" Results** | **NO** | **Prohibited** | Do not use; results in immediate rejection. |

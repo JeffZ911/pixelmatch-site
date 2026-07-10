@@ -160,7 +160,7 @@ The most effective way to maintain color accuracy is to use a perfectly color-co
 Yes, TikTok allows AI-generated content, but they have recently introduced labels for AI-generated content (AIGC). If your video looks indistinguishable from reality, you should use the "AI-generated" toggle during the upload process in TikTok Ads Manager to remain compliant with their transparency policies.
 
 ### Which is better for product ads: Kling AI or Runway Gen-3?
-Kling AI currently excels at realistic physics and "liquid" simulations, making it ideal for beauty and beverage brands. Runway Gen-3 offers high-end cinematic control but can be more expensive. For most ecommerce sellers, Kling's Standard and Pro pricing offers a better balance of cost and output quality for high-volume ad testing.
+Kling AI currently excels at realistic physics and "liquid" simulations, making it ideal for beauty and beverage brands. [Runway Gen](https://pixelmatch.art/blog/policy/runway-gen-3-vs-luma-dream-machine-ecommerce-policy)-3 offers high-end cinematic control but can be more expensive. For most ecommerce sellers, Kling's Standard and Pro pricing offers a better balance of cost and output quality for high-volume ad testing.
 
 
 <!-- pm-cta:foot -->

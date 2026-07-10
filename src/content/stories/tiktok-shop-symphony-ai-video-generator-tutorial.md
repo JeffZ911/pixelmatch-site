@@ -129,7 +129,7 @@ Finally, remember that AI accelerates production, but it does not replace strate
 Yes, Symphony Creative Studio is currently free for users with a TikTok for Business account. It is designed to encourage advertisers to spend more on the platform by making it easier to create high-quality ads without external software costs.
 
 ### What is the best aspect ratio for TikTok Shop product photos?
-While the TikTok Shop product listing itself often uses 1:1 (square) images, any image intended for video ads or "Image Ads" should be 9:16 (1080x1920 px). Using 9:16 ensures your product fills the entire mobile screen, which is essential for capturing attention in the feed.
+While the TikTok Shop product listing itself often uses 1:1 (square) images, any image intended for [video ads](https://pixelmatch.art/blog/stories/using-kling-ai-for-cinematic-product-video-ads) or "Image Ads" should be 9:16 (1080x1920 px). Using 9:16 ensures your product fills the entire mobile screen, which is essential for capturing attention in the feed.
 
 ### Can I use AI-generated videos for organic TikTok posts?
 Yes, you can use Symphony-generated videos for both paid ads and organic posts on your linked [TikTok Shop account](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide). However, TikTok's algorithm prioritizes original, engaging content, so it is often best to "remix" AI assets with some behind-the-scenes or real-life footage for organic growth.

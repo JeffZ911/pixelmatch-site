@@ -38,7 +38,7 @@ Run a 7-day A/B test in your Sponsored Brands dashboard comparing a static lifes
 
 *   **[Amazon AI](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) [Video Generator](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial)** is built strictly for <a href="https://www.amazon.com/s?k=Sponsored+Brands+campaigns&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Sponsored Brands campaigns</a>, automatically pulling ASIN data to create compliant ads that meet Amazon's strict moderation guidelines without manual export.
 *   **Canva [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial)** serves as a general-purpose AI engine that excels at off-Amazon marketing, though it requires more manual effort to align with <a href="https://www.amazon.com/s?k=Amazon%E2%80%99s+video+ad+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon’s video ad specs</a>.
-*   **The Content Bottleneck:** Neither tool creates the high-resolution base product photos required for a professional look. You must first use a tool like PixelMatch to batch-generate the static assets that serve as the "source material" for these video generators.
+*   **The Content Bottleneck:** Neither tool creates the high-resolution base [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) required for a professional look. You must first use a tool like PixelMatch to batch-generate the static assets that serve as the "source material" for these video generators.
 
 ## Side-by-Side Feature Table
 

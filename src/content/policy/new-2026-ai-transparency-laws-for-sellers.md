@@ -38,7 +38,7 @@ A single undisclosed AI-generated lifestyle image can now trigger an automatic l
 
 # New 2026 AI Transparency Laws for Sellers: The Ultimate Compliance Guide
 
-**Quick Answer:** By August 2026, the EU AI Act requires machine-readable AI labels, while Amazon and TikTok Shop mandate disclosures for AI-generated humans and lifestyle scenes. Non-compliance risks €35M EU fines or permanent TikTok shop closures.
+**Quick Answer:** By August 2026, the [EU AI Act](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images) requires machine-readable AI labels, while Amazon and TikTok Shop mandate disclosures for AI-generated humans and lifestyle scenes. Non-compliance risks €35M EU fines or permanent TikTok shop closures.
 
 ## Quick Reference Table
 
@@ -52,7 +52,7 @@ Run a full audit of your active listing catalog today against the following plat
 
 | Platform / Law | Key Requirement | Deadline | Non-Compliance Penalty |
 | :--- | :--- | :--- | :--- |
-| **EU AI Act** | Machine-readable AI marking for all synthetic images | August 2, 2026 | €35M or 7% of global turnover |
+| **EU [AI Act](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images)** | Machine-readable AI marking for all synthetic images | August 2, 2026 | €35M or 7% of global turnover |
 | **Amazon** | Disclose AI-generated human models; [75-character title limit](https://sellercentral.amazon.com/) | July 27, 2026 | Listing suppression / AI title rewrite |
 | **TikTok Shop** | Mandatory "AI-generated" tag; no exaggerated effects | Active Now | 3 strikes in 90 days = Permanent Closure |
 | **Etsy** | Transparency label for AI-generated/edited content | Active Now | Search ranking demotion |
@@ -66,7 +66,7 @@ Run a full audit of your active listing catalog today against the following plat
 Check your image metadata today using a standard IPTC viewer to ensure your AI tools are embedding "AI System Used" and "AI Prompt Information" tags, as IPTC Standard 2025.1 now requires these fields for synthetic media.
 
 ### EU AI Act Article 50 Mandates
-Under Article 50 of the EU AI Act, any AI system generating image content must mark outputs in a machine-readable format that is detectable as artificial. This is no longer just about a visible watermark; the requirement focuses on technical metadata (XMP/IPTC) that allows search engines and marketplace filters to automatically identify synthetic media. While the general deadline is August 2, 2026, the AI Omnibus agreement provides a small window until December 2, 2026, for generative systems already on the market to implement these technical watermarking standards.
+Under Article 50 of the [EU AI](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images) Act, any AI system generating image content must mark outputs in a machine-readable format that is detectable as artificial. This is no longer just about a visible watermark; the requirement focuses on technical metadata (XMP/IPTC) that allows search engines and marketplace filters to automatically identify synthetic media. While the general deadline is August 2, 2026, the AI Omnibus agreement provides a small window until December 2, 2026, for generative systems already on the market to implement these technical watermarking standards.
 
 ### Amazon's AI Disclosure Updates
 Amazon's updated 2026 policies require sellers to declare if AI-generated people appear in their listing images, while enforcing a [75-character product title limit](https://sellercentral.amazon.com/) starting July 27. This title limit is a structural shift: Amazon will use AI to [automatically rewrite and truncate](https://sellercentral.amazon.com/) titles that exceed this limit, potentially stripping out your most valuable keywords. To maintain control, you must manually shorten titles and move technical details to the new [125-character "Item Highlights" field](https://sellercentral.amazon.com/), which remains searchable and visible in search results.

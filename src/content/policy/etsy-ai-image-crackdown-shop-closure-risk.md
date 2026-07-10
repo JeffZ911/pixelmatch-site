@@ -118,7 +118,7 @@ You can batch-edit real product photos to maintain compliance while scaling your
 
 To stay compliant while using PixelMatch:
 1.  **Upload a real photo** of your physical inventory.
-2.  **Use the background replacement feature** to place the product in a professional studio or lifestyle setting.
+2.  **Use the [background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) feature** to place the product in a professional studio or lifestyle setting.
 3.  **Verify the product's appearance** has not been altered; the AI should only touch the pixels *around* your item.
 4.  **Export at 2000px** to meet Etsy’s high-resolution standards.
 

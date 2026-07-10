@@ -155,7 +155,7 @@ While its Firefly-powered background generation is high-quality, it lacks the e-
 
 
 ### Does Etsy allow AI-generated mockups?
-Yes. Etsy allows AI-generated mockups, particularly for Print on Demand and digital products. However, for physical handmade goods, the primary (first) image must be a photo of the real product. All AI-assisted images should be disclosed using the "Designed by: You and AI" setting in the listing manager.
+Yes. Etsy allows AI-generated mockups, particularly for Print on Demand and [digital products](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products). However, for physical handmade goods, the primary (first) image must be a photo of the real product. All AI-assisted images should be disclosed using the "Designed by: You and AI" setting in the listing manager.
 
 ### What is the best image size for Etsy in 2026?
 Etsy recommends a minimum of 2000px on the shortest side. For the best result on high-resolution displays and to ensure sharp "zoom-in" capabilities, aim for 3000 x 2250 pixels in a 4:3 aspect ratio.
