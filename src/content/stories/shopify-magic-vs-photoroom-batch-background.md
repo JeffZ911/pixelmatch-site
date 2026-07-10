@@ -129,7 +129,7 @@ You can implement this high-efficiency workflow regardless of your current team 
 
 While AI has revolutionized e-commerce photography, it is not a complete replacement for human oversight.
 
-First, AI background removal isn't magic. Highly reflective surfaces, such as chrome lipstick tubes or gold-foiled packaging, can sometimes trick the AI into removing parts of the product itself. In these cases, you may still need 30 seconds of manual touch-up to restore the "lost" reflections.
+First, [AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) isn't magic. Highly reflective surfaces, such as chrome lipstick tubes or gold-foiled packaging, can sometimes trick the AI into removing parts of the product itself. In these cases, you may still need 30 seconds of manual touch-up to restore the "lost" reflections.
 
 Second, consider your volume. If you only sell on Shopify and process fewer than 50 images a month, the native Shopify Magic tool is likely sufficient for your needs. Even with the [1 megapixel resolution limit](https://help.shopify.com/en/manual/shopify-magic/media-generation), the convenience of a free, built-in tool outweighs the need for high-resolution batch processing for very small catalogs.
 

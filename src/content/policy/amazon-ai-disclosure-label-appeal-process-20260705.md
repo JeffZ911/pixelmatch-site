@@ -120,7 +120,7 @@ Compare this to other tools like Photoroom's Pro tier at $12.99/mo or Adobe Expr
 If the suppression has escalated to a listing deactivation, you must submit a formal appeal through the [Account Health dashboard](https://sellercentral.amazon.com/help/hub/reference/G200205250). Your POA should be concise:
 *   **Root Cause:** Acknowledge that the listing contained AI-generated lifestyle imagery without the required disclosure label.
 *   **Actions Taken:** State that you have updated the backend toggle to "Yes" and replaced any images that misrepresented the physical product.
-*   **Preventative Steps:** Detail how you will use compliant tools like PixelMatch to ensure future images maintain product integrity while meeting disclosure requirements.
+*   **Preventative Steps:** Detail how you will use compliant tools like PixelMatch to ensure future images maintain product integrity while meeting [disclosure requirements](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images).
 
 ## Official Source Links
 

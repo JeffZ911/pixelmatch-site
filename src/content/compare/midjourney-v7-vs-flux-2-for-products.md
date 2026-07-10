@@ -51,7 +51,7 @@ Check your current listing images against the [Amazon 1600px-on-the-longest-side
 | **[Product Consistency](https://pixelmatch.art/blog/stories/flux-1-lora-product-consistency-workflow)** | High (via Omni Reference) but prone to "hallucinating" small details. | Ultra-High (Multi-reference system) for near-perfect preservation. |
 | **Typography Accuracy** | Improved, but struggles with long technical specs or small fonts. | Industry-leading; renders exact packaging text and labels flawlessly. |
 | **Max Native Resolution** | ~2MP (Requires internal or external upscaling). | Up to 4MP natively (ideal for [large-format Etsy prints](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop)). |
-| **Primary Interface** | Discord and Midjourney Web Alpha. | API, Open-weights (Dev), or third-party (Fal.ai, Replicate). |
+| **Primary Interface** | Discord and [Midjourney Web](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) Alpha. | API, Open-weights (Dev), or third-party (Fal.ai, Replicate). |
 | **Best Ecommerce Use** | Lifestyle "Hero" images and social media creative. | Main "White Background" images and technical packaging shots. |
 | **Aspect Ratio Control** | Flexible `--ar` parameters; handles vertical/horizontal well. | Precise pixel-dimension control via API. |
 

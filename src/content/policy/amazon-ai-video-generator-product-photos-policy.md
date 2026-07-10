@@ -74,7 +74,7 @@ Scan your video timeline for any frame where the product occupies less than 50% 
 
 Avoid the "[Uncanny Valley](https://pixelmatch.art/blog/policy/fixing-uncanny-valley-ai-food-photos)" of AI generation. Amazon explicitly prohibits <a href="https://www.amazon.com/s?k=blurry+frames+and+simple+slideshows&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">blurry frames and simple slideshows</a>. If your video looks like a series of static images with a simple "Ken Burns" zoom effect, it will be rejected. The motion must be fluid and "video-like."
 
-Furthermore, do not use <a href="https://www.amazon.com/s?k=360-degree+rotational+views&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">360-degree rotational views</a> in Sponsored Products video ads. While these are popular on Shopify or custom sites, Amazon reserves rotational views for specific interactive widgets on the PDP, not for video ad slots. 
+Furthermore, do not use <a href="https://www.amazon.com/s?k=360-degree+rotational+views&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">360-degree rotational views</a> in Sponsored Products [video ads](https://pixelmatch.art/blog/stories/using-kling-ai-for-cinematic-product-video-ads). While these are popular on Shopify or custom sites, Amazon reserves rotational views for specific interactive widgets on the PDP, not for video ad slots. 
 
 Common visual triggers for rejection include:
 *   **Letterboxing:** Any black bars on the top, bottom, or sides.

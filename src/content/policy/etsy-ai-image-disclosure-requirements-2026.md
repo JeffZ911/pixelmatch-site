@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Scaling your shop with AI shouldn't mean risking a permanent suspension or a legal notice from the State of New York. As marketplace algorithms and consumer protection laws evolve, staying compliant with disclosure requirements is the only way to protect your seller account and maintain buyer trust.
+Scaling your shop with AI shouldn't mean risking a permanent suspension or a legal notice from the State of New York. As marketplace algorithms and consumer protection laws evolve, staying compliant with [disclosure requirements](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images) is the only way to protect your seller account and maintain buyer trust.
 
 Etsy has updated its policies to reflect the growing use of generative tools, categorizing AI-assisted items under specific "[Creativity Standards](https://pixelmatch.art/blog/policy/etsy-creativity-standards-ai-images-policy)." Furthermore, regional laws like the New York [AI Transparency](https://pixelmatch.art/blog/policy/etsy-ai-transparency-label-search-ranking-impact-20260626) Act now impose strict requirements on how you present AI-generated human likenesses to customers. This guide breaks down exactly how to navigate these rules in 2026.
 

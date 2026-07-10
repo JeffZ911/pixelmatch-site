@@ -71,7 +71,7 @@ These technical failures have financial consequences. When you are paying a 2.7%
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-The brand replaced their fragmented editing process with a centralized workflow using PixelMatch. The goal was to move from manual, one-by-one editing to a batch system that respected the physics of glass. PixelMatch uses a diffusion model specifically trained on ecommerce datasets, which understands that a glass bottle shouldn't have a hard, opaque edge—it should blend with the background.
+The brand replaced their fragmented editing process with a centralized workflow using PixelMatch. The goal was to move from manual, one-by-one editing to a batch system that respected the physics of glass. PixelMatch uses a diffusion model specifically trained on ecommerce datasets, which understands that a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce) shouldn't have a hard, opaque edge—it should blend with the background.
 
 ### Step 1: Contrast-Optimized Source Photography
 Stop shooting white products on white backgrounds. The brand began shooting their raw photos on a light grey or contrasting solid background. This provides the AI with enough edge contrast to define the shape of the bottle without the "bleed" that happens with pure white-on-white setups.

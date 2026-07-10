@@ -72,7 +72,7 @@ The result is a digital artifact: a serum bottle that looks like it has a fuzzy 
 
 The seller moved their asset preparation to PixelMatch to handle the heavy lifting of isolation and optimization. The goal was to create a "Gold Standard" PNG that TikTok’s AI could interpret without confusion. 
 
-The beauty niche is notoriously difficult for AI because of transparent glass, reflective caps, and liquid contents. Traditional background removers often "eat" into the glass or leave the liquid looking opaque. PixelMatch’s edge detection is tuned for these specific ecommerce challenges, ensuring the transparency of a glass bottle is maintained while the background is removed.
+The beauty niche is notoriously difficult for AI because of transparent glass, reflective caps, and liquid contents. Traditional background removers often "eat" into the glass or leave the liquid looking opaque. PixelMatch’s edge detection is tuned for these specific ecommerce challenges, ensuring the transparency of a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce) is maintained while the background is removed.
 
 The new workflow followed these technical parameters:
 

@@ -140,7 +140,7 @@ Shopify has not yet released official data on the average conversion lift of Sid
 
 PixelMatch requires a paid subscription for high-volume batch processing. While the per-image cost is significantly lower than a freelancer, it is an additional fixed monthly expense that must be justified by the volume of your catalog.
 
-AI staging works best for flat-lay apparel or mannequin shots. Complex reflective materials (like jewelry, high-gloss leather, or sequins) may still require manual retouching. AI often struggles with "refraction"—how light bounces through a diamond or off a mirror-finish watch—and can produce "muddy" details in these specific areas. For high-end jewelry, a hybrid approach of AI background removal and manual highlight painting in Photoshop is still the industry standard.
+AI staging works best for flat-lay apparel or mannequin shots. Complex reflective materials (like jewelry, high-gloss leather, or sequins) may still require manual retouching. AI often struggles with "refraction"—how light bounces through a diamond or off a mirror-finish watch—and can produce "muddy" details in these specific areas. For high-end jewelry, a hybrid approach of [AI background removal](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix) and manual highlight painting in Photoshop is still the industry standard.
 
 **Actionable Step:** Verify your output quality by viewing your AI-edited images on both an OLED smartphone screen and a standard laptop monitor. Because AI can sometimes create subtle "halos" around product edges, checking the image on high-contrast screens will help you catch artifacts before they go live to your customers.
 

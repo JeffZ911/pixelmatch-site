@@ -59,7 +59,7 @@ Second, the file size is a major bottleneck. The [Flux 1](https://pixelmatch.art
 
 Finally, the aspect ratio often causes secondary failures. While not always triggering the "invalid format" error specifically, uploading a square (1:1) or landscape (16:9) image into a vertical [video generator](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-ai-video-generator-tutorial) often leads to awkward cropping or "black bars," which TikTok’s automated moderation may flag as low-quality content. [Symphony Studio](https://pixelmatch.art/blog/stories/tiktok-shop-symphony-studio-error-code-4002-fix-20260703) performs best with a 9:16 vertical aspect ratio (typically 720x1280 px or higher).
 
-| Constraint | [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).1 Pro Output (Typical) | [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Requirement | Result |
+| Constraint | [Flux 1](https://pixelmatch.art/blog/compare/krea-2-turbo-vs-flux-1-schnell).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Output (Typical) | [TikTok Symphony](https://pixelmatch.art/blog/policy/tiktok-symphony-agent-ecommerce-ads-policy) Requirement | Result |
 | :--- | :--- | :--- | :--- |
 | **File Format** | WebP or high-res PNG | JPG, JPEG, or PNG | **Error/Rejection** |
 | **File Size** | 6MB - 12MB | Under 5MB | **Error/Rejection** |

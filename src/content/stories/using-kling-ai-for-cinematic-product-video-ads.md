@@ -54,7 +54,7 @@ The primary challenge was the sheer volume of creative required. To maintain a c
 ![What Wasn't Working: Identify the "Label Drift" in Your Current AI Outputs](/img/using-kling-ai-for-cinematic-product-video-ads/inline-2.webp)
 
 
-The brand initially attempted to use AI video generators like Runway Gen-3 and Luma Dream Machine by feeding them raw smartphone photos taken in their warehouse. The results were disastrous for ecommerce.
+The brand initially attempted to use AI video generators like [Runway Gen](https://pixelmatch.art/blog/policy/runway-gen-3-vs-luma-dream-machine-ecommerce-policy)-3 and [Luma Dream Machine](https://pixelmatch.art/blog/policy/runway-gen-3-vs-luma-dream-machine-ecommerce-policy) by feeding them raw smartphone photos taken in their warehouse. The results were disastrous for ecommerce.
 
 1.  **Warped Brand Identity:** The AI models struggled to maintain the integrity of the product labels. As the camera panned, the brand name would "drift" or morph into gibberish, which is an immediate grounds for <a href="https://www.amazon.com/s?k=Amazon+ad+rejection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon ad rejection</a> under their "unprofessional image" and "legibility" clauses.
 2.  **Inconsistent Lighting:** Raw photos often contain "noise" or uneven shadows. When Kling AI or similar tools attempt to animate these photos, they interpret the shadows as moving objects, resulting in flickering or "pulsing" light that looks like a technical glitch.

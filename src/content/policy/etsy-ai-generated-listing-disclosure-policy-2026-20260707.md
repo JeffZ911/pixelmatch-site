@@ -140,7 +140,7 @@ While you might avoid detection for a short period, Etsy uses sophisticated imag
 Yes, if you sell to customers located in New York, you must comply with New York’s consumer protection and disclosure laws. Since Etsy does not allow you to easily block specific states from purchasing, it is safest for all US-based sellers to include the "Synthetic Media" label on realistic AI human models.
 
 ### Is AI-enhanced photography considered "AI-generated" by Etsy?
-No. Etsy differentiates between an item *created* by AI and a photo *enhanced* by AI. If the physical item in the photo is real and the AI is only used for background replacement or lighting correction, it is not classified as an "AI-generated" listing.
+No. Etsy differentiates between an item *created* by AI and a photo *enhanced* by AI. If the physical item in the photo is real and the AI is only used for [background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) or lighting correction, it is not classified as an "AI-generated" listing.
 
 ## Official Source Links
 

@@ -29,7 +29,7 @@ Stop wasting thousands on lifestyle videographers for 10-second social clips whe
 
 # Runway Gen 3 vs Luma Dream Machine for Ecommerce: Specs, Pricing & Platform Policies
 
-For ecommerce, Luma Dream Machine's Plus plan at $29.99/mo offers faster product visualization, while Runway Gen-3's $15/mo standard tier excels at cinematic b-roll. Both require strict adherence to TikTok Shop's AIGC labeling rules and Amazon's AI disclosure policies to avoid listing suspension.
+For ecommerce, Luma Dream Machine's Plus plan at $29.99/mo offers faster product visualization, while Runway Gen-3's $15/mo standard tier excels at cinematic b-roll. Both require strict adherence to TikTok Shop's AIGC labeling rules and Amazon's AI disclosure policies to avoid [listing suspension](https://pixelmatch.art/blog/policy/etsy-ai-generated-listing-suspension-appeal-guide-20260709).
 
 ## Quick Reference Table
 
