@@ -125,7 +125,7 @@ Map your multi-channel growth plan; if you are expanding to TikTok Shop or Amazo
 
 *   **Use Shopify Magic** for quick, one-off edits if you only sell on Shopify and have a low SKU count. It is the fastest way to get a single product live.
 *   **Use Adobe Firefly** if you are creating hero banners, highly stylized marketing assets, or social media content where "pixel perfection" is more important than speed.
-*   **Switch to PixelMatch** if you need to batch-remove backgrounds and generate platform-compliant product photos at scale. If you sell on more than one platform (e.g., Shopify + Amazon + eBay), the time saved in batch processing and automatic resizing will pay for the service in a single afternoon.
+*   **Switch to PixelMatch** if you need to batch-remove backgrounds and generate platform-compliant [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) at scale. If you sell on more than one platform (e.g., Shopify + Amazon + eBay), the time saved in batch processing and automatic resizing will pay for the service in a single afternoon.
 
 The "best" tool is the one that removes the most friction from your specific business model. For the modern multi-platform seller, that means moving away from manual, one-by-one editing and embracing AI tools designed for volume.
 

@@ -95,7 +95,7 @@ Etsy's search algorithm prioritizes "high-quality photography," which they defin
 TikTok Shop is a mobile-first platform. While the app UI is vertical, the product listing images must be square (1:1). If a seller uploads a horizontal 16:9 Flux generation, the TikTok Seller Center will either crop the bottle's top and bottom or display it with black bars. Both scenarios lead to "Poor" listing quality scores and high cart abandonment.
 
 ### 4. Over-Prompting and "Material Confusion"
-Over-prompting Flux 1.2 can create exaggerated, unnatural glass refractions or added water droplets that trigger Amazon's "added effects" or "props that confuse the customer" violation. If the AI adds a "splash" effect that isn't physically part of the product, it violates the [Amazon Main Image policy](https://sellercentral.amazon.com/help/hub/reference/external/G181).
+Over-prompting [Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).2 can create exaggerated, unnatural glass refractions or added water droplets that trigger Amazon's "added effects" or "props that confuse the customer" violation. If the AI adds a "splash" effect that isn't physically part of the product, it violates the [Amazon Main Image policy](https://sellercentral.amazon.com/help/hub/reference/external/G181).
 
 ### Actionable Step: The "Blur & Squint" Test
 Squint at your Flux-generated glass bottle. If the reflections are more prominent than the brand label, the AI has over-processed the image. Re-run the generation with a lower "prompt strength" or use PixelMatch to flatten the highlights while maintaining the bottle's shape.

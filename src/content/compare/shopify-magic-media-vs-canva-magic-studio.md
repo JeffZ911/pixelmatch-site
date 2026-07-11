@@ -74,7 +74,7 @@ Shopify [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-ma
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Calculate your "Cost Per Image" by dividing your monthly Canva Pro or Shopify subscription by the number of unique product photos you produce. For high-volume sellers, the "free" price of Shopify [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial) can actually be more expensive in terms of labor hours spent than a paid batch tool.
+Calculate your "Cost Per Image" by dividing your monthly Canva Pro or Shopify subscription by the number of unique [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) you produce. For high-volume sellers, the "free" price of Shopify [Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial) can actually be more expensive in terms of labor hours spent than a paid batch tool.
 
 ### Shopify Magic Media
 Shopify includes its AI media tools at [no additional cost](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/media-generation) across all plan tiers (Basic, Shopify, Advanced, and Plus). This makes it the most accessible option for a new seller. However, the cost is hidden in the time it takes to edit each image manually. If you have 100 products, and each takes 2 minutes to prompt and generate, you have spent over 3 hours on one platform's images.

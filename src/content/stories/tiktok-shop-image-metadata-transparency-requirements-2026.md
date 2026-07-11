@@ -59,7 +59,7 @@ More critically, this previous workflow generated fully synthetic product render
 
 Listings were getting flagged because the images lacked proper metadata transparency and failed to use the mandatory "AI-generated content" toggle. By uploading images that looked "too perfect" without the proper disclosure, the brand was inadvertently signaling to TikTok’s moderation bot that they were attempting to deceive customers with synthetic results.
 
-**Actionable Step:** Check your current AI tool’s export settings. If the tool does not preserve the original pixel data of your product and instead "regenerates" the item to fit the scene, stop using it for TikTok Shop immediately. You must use a tool that performs "background replacement" while locking the product pixels.
+**Actionable Step:** Check your current AI tool’s export settings. If the tool does not preserve the original pixel data of your product and instead "regenerates" the item to fit the scene, stop using it for TikTok Shop immediately. You must use a tool that performs "[background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement)" while locking the product pixels.
 
 ## The Workflow They Built
 

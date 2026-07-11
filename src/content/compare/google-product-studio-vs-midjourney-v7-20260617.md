@@ -127,7 +127,7 @@ Stop wasting hours on manual prompting and single-image edits. Use PixelMatch to
 ## Frequently Asked Questions
 
 ### Can I use Midjourney images directly on Amazon?
-No, not without post-processing. Amazon requires a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) for all main images. Midjourney often includes shadows or off-white tints that will trigger an automatic listing suppression. You must use a tool like PixelMatch or a background remover to ensure compliance.
+No, not without post-processing. Amazon requires a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881) for all main images. Midjourney often includes shadows or off-white tints that will trigger an automatic [listing suppression](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-listing-suppression-tools). You must use a tool like PixelMatch or a background remover to ensure compliance.
 
 ### Does Google Product Studio own the rights to my images?
 According to Google's terms of service, you retain ownership of the original product images you upload, but Google uses the [generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) to improve its machine learning models. Always review the latest [Merchant Center](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) Next agreement for specific commercial usage rights in your region.
