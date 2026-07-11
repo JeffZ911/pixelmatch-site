@@ -72,7 +72,7 @@ Sellers should use [Flux 1](https://pixelmatch.art/blog/compare/flux-1-1-pro-ult
 4.  **The Lifestyle Shot:** The bottle in a natural environment (e.g., a bathroom vanity for skincare).
 5.  **The Ingredient Shot:** The bottle next to the raw materials (e.g., glass bottle next to aloe leaves).
 
-While tools like Photoroom offer a Pro tier at $12.99/mo for basic background removal, PixelMatch is optimized for batch-generating platform-specific aspect ratios and compliance checks from a single Flux 1.2 generation. This is critical because a 4MP Flux output is often too large for TikTok's 5MB limit, requiring automated compression that doesn't destroy the glass detail.
+While tools like Photoroom offer a Pro tier at $12.99/mo for basic background removal, PixelMatch is optimized for batch-generating platform-specific aspect ratios and compliance checks from a single [Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).2 generation. This is critical because a 4MP Flux output is often too large for TikTok's 5MB limit, requiring automated compression that doesn't destroy the glass detail.
 
 ## Common Rejection Reasons
 

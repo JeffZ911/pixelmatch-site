@@ -99,7 +99,7 @@ Midjourney is best for art directors, agency producers, and brands creating high
 Flair AI is best for independent Shopify and Amazon sellers who need quick, on-brand lifestyle shots for a handful of SKUs without learning complex prompting. If you have a bottle of hot sauce and want it to look like it’s sitting on a rustic wooden table with fresh peppers nearby, Flair AI lets you place the bottle, select a "Rustic" template, and hit generate. The bottle remains your bottle—the labels don't turn into gibberish.
 
 ### The Multi-Platform Power Seller (PixelMatch)
-Multi-platform sellers with large catalogs should look toward batch-generation tools. If you are managing 50+ ASINs across Amazon, Walmart, and eBay, the "one-by-one" workflow of Flair AI becomes a massive bottleneck. You need a system that takes a folder of raw product photos and returns a folder of platform-compliant lifestyle images.
+Multi-platform sellers with large catalogs should look toward batch-generation tools. If you are managing 50+ ASINs across Amazon, Walmart, and eBay, the "one-by-one" workflow of Flair AI becomes a massive bottleneck. You need a system that takes a folder of raw [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) and returns a folder of platform-compliant lifestyle images.
 
 ## Where Each Falls Short
 

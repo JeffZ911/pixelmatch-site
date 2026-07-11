@@ -52,7 +52,7 @@ Run a calibration test by generating a single product shot with a glass or metal
 ![Side-by-Side Feature Table](/img/flux-1-1-pro-vs-dev-for-product-shadows/inline-2.webp)
 
 
-Check your current hardware's VRAM capacity before attempting to run these models locally. If you have less than 16GB of dedicated VRAM, running FLUX.1 [dev] at full precision will lead to system crashes or agonizingly slow generation times of over two minutes per image.
+Check your current hardware's VRAM capacity before attempting to run these models locally. If you have less than 16GB of dedicated VRAM, [running FLUX](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).1 [dev] at full precision will lead to system crashes or agonizingly slow generation times of over two minutes per image.
 
 | Feature | [FLUX 1](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures).[1 Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) | FLUX.1 [dev] |
 | :--- | :--- | :--- |

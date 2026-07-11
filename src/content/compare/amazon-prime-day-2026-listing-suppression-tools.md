@@ -59,7 +59,7 @@ Set your AI output to a minimum of 1600 pixels on the longest side to ensure you
 | **85% Fill Automation** | Precision margin controls | Manual resizing/Basic auto-crop |
 | **Min. Resolution** | Upscaling to 2000px+ | High-res exports (Pro only) |
 | **Multi-Platform** | Amazon, Shopify, TikTok Shop, Etsy | Mobile-first (iOS/Android focus) |
-| **Compliance Guard** | AI-check for text/logos | Basic background removal |
+| **Compliance Guard** | AI-check for text/logos | Basic [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal) |
 
 Amazon requires main images to be a [minimum of 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/1881) to enable the zoom function. Both tools automatically handle this upscaling, but PixelMatch allows for a "Safety Margin" calibration. Amazon mandates that the product fills [at least 85% of the image frame](https://sellercentral.amazon.com/help/hub/reference/1881). PixelMatch offers automated margin controls to guarantee this exact ratio across bulk uploads, preventing automated rejections that often plague manual edits.
 

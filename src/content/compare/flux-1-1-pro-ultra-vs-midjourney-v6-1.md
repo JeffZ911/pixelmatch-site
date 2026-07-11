@@ -73,7 +73,7 @@ Speed is the second major differentiator. [Flux 1](https://pixelmatch.art/blog/p
 
 Calculate your monthly image volume today to choose a billing model that won't eat into your customer acquisition cost (CAC). If you are generating 1,000+ images a month for A/B testing social ads, the pay-as-you-go model of Flux usually beats the high-tier subscription costs of Midjourney.
 
-Flux 1.1 Pro Ultra operates on a pay-per-image model via API providers like fal.ai and Replicate, typically costing around $0.06 per image. This granular pricing is perfect for sellers who have "burst" needs—such as a seasonal product launch—where you might generate 2,000 images in one week and zero the next. You only pay for what you use, and there is no "use it or lose it" credit system on many API platforms.
+[Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).1 Pro Ultra operates on a pay-per-image model via API providers like fal.ai and Replicate, typically costing around $0.06 per image. This granular pricing is perfect for sellers who have "burst" needs—such as a seasonal product launch—where you might generate 2,000 images in one week and zero the next. You only pay for what you use, and there is no "use it or lose it" credit system on many API platforms.
 
 Midjourney v6.1 requires a flat monthly subscription, starting at $10 per month for the Basic plan, which gives you roughly 3.3 hours of GPU time. For high-volume sellers, the Pro Plan at $60/month or the Mega Plan at $120/month is necessary to access "Stealth Mode" (hiding your images from the public gallery) and faster generation speeds. 
 

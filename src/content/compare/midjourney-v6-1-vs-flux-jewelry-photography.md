@@ -125,7 +125,7 @@ Select your tool based on your current SKU volume and technical comfort level.
 ## Frequently Asked Questions
 
 ### Can I use Midjourney images for my Amazon main listing?
-You can use Midjourney for lifestyle images, but it is difficult to use for main listings. Amazon requires a **pure white RGB 255,255,255 background** for the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy), which Midjourney rarely generates perfectly. You would need to use a separate background removal tool to ensure compliance with [Amazon's image standards](https://sellercentral.amazon.com/help/hub/reference/G1881).
+You can use Midjourney for lifestyle images, but it is difficult to use for main listings. Amazon requires a **pure white RGB 255,255,255 background** for the [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy), which Midjourney rarely generates perfectly. You would need to use a separate [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal) tool to ensure compliance with [Amazon's image standards](https://sellercentral.amazon.com/help/hub/reference/G1881).
 
 ### Is Flux.1 better than Midjourney for rendering silver and gold?
 Yes, Flux.1 [pro] generally handles "specular reflections" (the way light hits metal) more accurately than [Midjourney v6](https://pixelmatch.art/blog/stories/midjourney-v6-1-vs-flux-1-for-white-background).1. Midjourney tends to make metal look "painterly" or overly smoothed, whereas Flux.1 captures the sharp highlights and micro-textures that make jewelry look like a physical object.

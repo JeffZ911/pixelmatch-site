@@ -44,7 +44,7 @@ High-stakes product photography often fails not because of the camera, but becau
 
 *   **[Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance)** is the undisputed champion of aesthetic, atmospheric lighting. It applies a magazine polish that is perfect for brand concept shots and social media hero images.
 *   **Flux Pro** offers unmatched physical coherence and photorealistic lighting. It excels at accurate material rendering, such as reflections in glass or matte textures, which is critical for conversion-driven product detail pages.
-*   **For multi-platform sellers** needing high-volume, consistent product photos, Flux Pro's API-first architecture makes it the better engine for batch workflows.
+*   **For multi-platform sellers** needing high-volume, consistent [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos), Flux Pro's API-first architecture makes it the better engine for batch workflows.
 *   Instead of wrestling with raw APIs or Discord interfaces, ecommerce sellers can use PixelMatch to harness these AI capabilities for automated, marketplace-ready batch generation.
 
 **Actionable Step for Today:** Run a "Lighting Stress Test" by prompting both models with a highly reflective object (e.g., a silver watch or a [glass bottle](https://pixelmatch.art/blog/policy/using-flux-1-2-glass-bottle-reflections-ecommerce)) using the prompt: `[Product Name] on a dark marble surface, hard side-lighting, 8k photorealistic, ray-traced reflections.` Compare the "light leak" and reflection accuracy to see which model handles your specific inventory better.
