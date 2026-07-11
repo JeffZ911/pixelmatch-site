@@ -137,7 +137,7 @@ No, Etsy’s 2026 [disclosure policy](https://pixelmatch.art/blog/policy/etsy-ai
 While you might avoid detection for a short period, Etsy uses sophisticated image-hash recognition to identify AI-generated patterns. Failing to disclose AI use violates the Creativity Standards and can lead to a permanent shop suspension without the possibility of appeal.
 
 ### Does the New York synthetic performer law apply if I live in California?
-Yes, if you sell to customers located in New York, you must comply with New York’s consumer protection and disclosure laws. Since Etsy does not allow you to easily block specific states from purchasing, it is safest for all US-based sellers to include the "Synthetic Media" label on realistic AI human models.
+Yes, if you sell to customers located in New York, you must comply with New York’s consumer protection and disclosure laws. Since Etsy does not allow you to easily block specific states from purchasing, it is safest for all US-based sellers to include the "Synthetic Media" label on [realistic AI](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products) human models.
 
 ### Is AI-enhanced photography considered "AI-generated" by Etsy?
 No. Etsy differentiates between an item *created* by AI and a photo *enhanced* by AI. If the physical item in the photo is real and the AI is only used for [background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) or lighting correction, it is not classified as an "AI-generated" listing.

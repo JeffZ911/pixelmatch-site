@@ -82,7 +82,7 @@ Tally your total cost of ownership (TCO) by including the "hidden" costs of thir
 *   **Midjourney Pricing:** Requires a monthly subscription, starting at the Basic Plan for $10/mo (approx. 200 generations). The Pro Plan at $60/mo is necessary for "Stealth Mode," preventing your competitors from seeing your jewelry prompts in the public gallery.
 *   **Flux.1 [schnell]:** This version is open-source and free for personal and commercial use under an Apache 2.0 license. However, running it locally requires a high-end GPU (like an NVIDIA RTX 3090 or 4090) which can cost over $1,500.
 *   **Flux.1 [pro] API:** Accessed via platforms like Replicate, costing approximately $0.04 per image. This is a pay-as-you-go model, which is better for sellers with fluctuating inventory.
-*   **Hidden Costs:** Both Midjourney and Flux lack native "Amazon-ready" background removal. To meet the [Amazon Main Image requirement of RGB 255,255,255 white](https://sellercentral.amazon.com/help/hub/reference/G1881), you will likely spend an additional $10–$50/month on post-processing tools.
+*   **Hidden Costs:** Both Midjourney and Flux lack native "Amazon-ready" [background removal](https://pixelmatch.art/blog/compare/shopify-magic-vs-adobe-firefly-background-removal). To meet the [Amazon Main Image requirement of RGB 255,255,255 white](https://sellercentral.amazon.com/help/hub/reference/G1881), you will likely spend an additional $10–$50/month on post-processing tools.
 
 ## Best For (By Seller Profile)
 

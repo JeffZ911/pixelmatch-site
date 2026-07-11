@@ -50,7 +50,7 @@ The financial pressure is compounded by the platform's fee structure. TikTok Sho
 Audit your "Content Health" log in the TikTok Shop Seller Center; if you see high bounce rates or low "Watch Time" metrics, your creative is likely the bottleneck. This brand initially attempted to solve the problem by hiring freelance creators at $45 per video variant. While the quality was acceptable, the cost-per-creative made it impossible to test the 5–10 different "hooks" required to find a winner. 
 
 They also experimented with standard design tools, but found significant limitations:
-*   **Static Tooling:** While Canva Pro at $15/mo or Photoroom's Pro tier at $12.99/mo are excellent for background removal, they do not offer native, high-fidelity AI video generation that integrates with TikTok's commerce features.
+*   **Static Tooling:** While Canva Pro at $15/mo or Photoroom's Pro tier at $12.99/mo are excellent for background removal, they do not offer native, high-fidelity [AI video](https://pixelmatch.art/blog/stories/ltx-director-2-0-ai-video-workflow) generation that integrates with TikTok's commerce features.
 *   **Resolution Failures:** Uploading non-optimized assets to generic AI video tools often resulted in blurry exports. TikTok requires a specific 1080×1920 px resolution and 9:16 aspect ratio for its full-screen experience. 
 *   **Compression Issues:** Many third-party tools export files that exceed the 287.6MB maximum file size limit, leading to upload errors or aggressive platform-side compression that ruins the visual appeal of cosmetics.
 

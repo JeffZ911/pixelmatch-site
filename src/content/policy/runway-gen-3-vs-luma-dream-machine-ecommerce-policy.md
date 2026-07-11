@@ -75,7 +75,7 @@ TikTok Shop is significantly stricter than Amazon due to its focus on "authentic
 *   **Health & Beauty Restrictions:** TikTok Shop is particularly sensitive to the beauty niche. The policy explicitly forbids using AI to create fake "after" effects like skin smoothing, hair regrowth, or instant teeth whitening. If you are selling a skincare serum, using Luma to "animate" a model's skin becoming clearer will result in an immediate listing takedown.
 *   **Prohibited Misrepresentation:** You cannot use Runway Gen-3 to misrepresent product color, size, or features. If your physical product has a matte finish but the AI makes it look metallic or glossy, the video violates TikTok’s "Product Consistency" policy.
 
-**Actionable Step:** Before uploading any AI video to TikTok Shop, open the "More Options" menu in the upload screen and toggle the "AI-generated content" switch to "On" to ensure your account remains in good standing.
+**Actionable Step:** Before uploading any [AI video](https://pixelmatch.art/blog/stories/ltx-director-2-0-ai-video-workflow) to TikTok Shop, open the "More Options" menu in the upload screen and toggle the "AI-generated content" switch to "On" to ensure your account remains in good standing.
 
 ## Common Rejection Reasons
 
@@ -97,7 +97,7 @@ If you use Luma Dream Machine to create a lifestyle video of a "family at a dinn
 ### Misleading Claims and Performance
 Using Runway Gen-3 to simulate impossible product performance is a fast track to a "Section 3" suspension on Amazon. For example, if you sell a "water-resistant" watch but use AI to show it surviving a 100-meter deep-sea dive, you are making a fraudulent performance claim. Amazon's [A+ Content guidelines](https://sellercentral.amazon.com/help/hub/reference/G200390640) require that all visual demonstrations be substantiated by the product's actual specifications.
 
-**Actionable Step:** Create a "hallucination checklist." Compare your AI-generated video frame-by-frame against your physical product. If the AI added a logo, changed a texture, or altered the number of buttons, discard the clip and re-generate using an image-to-video workflow.
+**Actionable Step:** Create a "hallucination checklist." Compare your AI-generated video frame-by-frame against your physical product. If the AI added a logo, changed a texture, or altered the number of buttons, discard the clip and re-generate using an image-to-[video workflow](https://pixelmatch.art/blog/stories/ltx-director-2-0-ai-video-workflow).
 
 ## How to Fix Each Issue
 
