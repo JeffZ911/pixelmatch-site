@@ -51,7 +51,7 @@ Audit your "Content Health" log in the TikTok Shop Seller Center; if you see hig
 
 They also experimented with standard design tools, but found significant limitations:
 *   **Static Tooling:** While Canva Pro at $15/mo or Photoroom's Pro tier at $12.99/mo are excellent for background removal, they do not offer native, high-fidelity [AI video](https://pixelmatch.art/blog/stories/ltx-director-2-0-ai-video-workflow) generation that integrates with TikTok's commerce features.
-*   **Resolution Failures:** Uploading non-optimized assets to generic AI video tools often resulted in blurry exports. TikTok requires a specific 1080×1920 px resolution and 9:16 aspect ratio for its full-screen experience. 
+*   **Resolution Failures:** Uploading non-optimized assets to generic [AI video](https://pixelmatch.art/blog/stories/ltx-director-2-0-ai-video-workflow) tools often resulted in blurry exports. TikTok requires a specific 1080×1920 px resolution and 9:16 aspect ratio for its full-screen experience. 
 *   **Compression Issues:** Many third-party tools export files that exceed the 287.6MB maximum file size limit, leading to upload errors or aggressive platform-side compression that ruins the visual appeal of cosmetics.
 
 The brand realized that "good enough" static images weren't stopping the scroll. They needed a workflow that combined high-end product photography with automated motion.

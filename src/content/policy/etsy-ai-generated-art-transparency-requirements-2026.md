@@ -129,7 +129,7 @@ If your shop relies on lifestyle images to sell physical goods, you must ensure 
 **Action Step:** For product mockups, use tools like PixelMatch to ensure the core product remains a true photograph. 
 1.  Upload a high-quality, [2000×2000 px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop) photo of your actual product.
 2.  Use PixelMatch to swap the background for a high-converting lifestyle scene.
-3.  In your listing, add a small disclaimer: *"Product backgrounds are AI-generated to showcase the item in a lifestyle setting."*
+3.  In your listing, add a small disclaimer: *"[Product backgrounds](https://pixelmatch.art/blog/policy/krea-2-turbo-vs-flux-product-backgrounds) are AI-generated to showcase the item in a lifestyle setting."*
 
 This approach satisfies Etsy's transparency requirements while allowing you to compete with the high-end aesthetics of major brands.
 

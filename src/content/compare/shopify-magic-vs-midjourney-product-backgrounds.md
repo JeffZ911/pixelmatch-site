@@ -60,7 +60,7 @@ Use the following table to map your current image workflow against your platform
 | **Background Removal** | Built-in / Automatic | Manual / Requires external tool |
 
 ### Workflow Comparison
-Shopify Magic is restricted to the Shopify admin dashboard, whereas Midjourney operates independently via Discord or its web interface. Output quality differs significantly: Shopify Magic caps generated images at [1 megapixel (MP) resolution](https://help.shopify.com/en/manual/shopify-magic/media-generation), while Midjourney offers high-definition upscaling. Neither tool offers native batch processing for generating hundreds of product backgrounds simultaneously, meaning you will spend significant time clicking "Generate" for every single SKU.
+Shopify Magic is restricted to the Shopify admin dashboard, whereas Midjourney operates independently via Discord or its web interface. Output quality differs significantly: Shopify Magic caps generated images at [1 megapixel (MP) resolution](https://help.shopify.com/en/manual/shopify-magic/media-generation), while Midjourney offers high-definition upscaling. Neither tool offers native batch processing for generating hundreds of [product backgrounds](https://pixelmatch.art/blog/policy/krea-2-turbo-vs-flux-product-backgrounds) simultaneously, meaning you will spend significant time clicking "Generate" for every single SKU.
 
 ## Pricing Comparison
 

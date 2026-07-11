@@ -82,7 +82,7 @@ Modern Hearth & Home switched to PixelMatch specifically because it solved the r
 The brand optimized their workflow into a three-stage process:
 
 ### 1. The Calibration Shoot
-Instead of complex staging, the seller set up a simple flat-lay station using a cheap $40 lightbox. They used a 5000K (daylight balanced) LED bulb to ensure the product's colors were captured accurately. This "base photo" provided the clean edges and true-to-life textures that PixelMatch needs to perform high-quality background replacement.
+Instead of complex staging, the seller set up a simple flat-lay station using a cheap $40 lightbox. They used a 5000K (daylight balanced) LED bulb to ensure the product's colors were captured accurately. This "base photo" provided the clean edges and true-to-life textures that PixelMatch needs to perform high-quality [background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement).
 
 ### 2. Batch AI Generation
 They uploaded these base photos to PixelMatch and selected lifestyle templates that matched their target buyer demographic—specifically "Mid-Century Modern Living Room" and "Scandinavian Minimalist Kitchen." Because PixelMatch is designed for ecommerce sellers, it automatically maintained the [JPG and PNG format requirements](https://help.etsy.com/hc/en-us/articles/115013196707-Listing-Images) while ensuring the shadows cast by the product matched the light source in the AI-generated room.

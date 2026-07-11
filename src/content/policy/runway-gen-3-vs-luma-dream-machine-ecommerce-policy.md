@@ -133,7 +133,7 @@ Runway Gen-3’s "Motion Brush" is a critical tool for sellers. Instead of letti
 Copyright law regarding AI is currently evolving. However, both Runway's terms and Luma's terms state that on their paid tiers, they grant you the commercial rights to use the output. Note that the US Copyright Office generally does not allow you to *register* a copyright for purely AI-generated content without "significant human authorship."
 
 ### Can I use AI videos in Amazon Sponsored Brands ads?
-Yes, but they must meet higher quality bars than standard A+ content. Amazon's <a href="https://www.amazon.com/s?k=Ad+Policies&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ad Policies</a> require that videos be high-resolution (1080p) and free of "distracting elements." If your AI video has "flickering" or "morphing" artifacts—common in Luma and Runway—the ad will likely be rejected during the manual review process.
+Yes, but they must meet higher quality bars than standard A+ content. Amazon's <a href="https://www.amazon.com/s?k=Ad+Policies&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ad Policies</a> require that videos be high-resolution (1080p) and free of "distracting elements." If your [AI video](https://pixelmatch.art/blog/stories/ltx-director-2-0-ai-video-workflow) has "flickering" or "morphing" artifacts—common in Luma and Runway—the ad will likely be rejected during the manual review process.
 
 ### Will using AI videos hurt my SEO on TikTok?
 No, as long as you use the AIGC Label. TikTok has stated that they do not penalize AI content; they only penalize *unlabeled* AI content. In fact, the high visual quality of Runway Gen-3 can often lead to better watch time and engagement metrics than a low-quality "real" video.
@@ -148,7 +148,7 @@ This is the most common "rejection" issue. The best fix is to use "Keyframe" mod
 
 *   Runway Gen-3 Pricing & Specs
 *   Luma Dream Machine Pricing
-*   TikTok Shop AI-Generated Content (AIGC) Policy
+*   [TikTok Shop AI](https://pixelmatch.art/blog/policy/tiktok-shop-ai-label-requirement-update)-Generated Content (AIGC) Policy
 *   [Amazon Seller Central AI Guidelines](https://sellercentral.amazon.com/help/hub/reference/G200390640)
 *   [Amazon Premium A+ Content Video Requirements](https://sellercentral.amazon.com/help/hub/reference/G69A3639A57Z87V)
 
