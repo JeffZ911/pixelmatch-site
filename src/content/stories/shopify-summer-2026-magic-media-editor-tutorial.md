@@ -116,7 +116,7 @@ Calculate your current "Photography Lead Time." If it takes more than 7 days fro
 Follow this four-step process to prepare your Summer 2026 catalog without the $45/image price tag.
 
 ### Step 1: Export and Clean Your Raw Assets
-Collect your raw product photos. For the best results with AI background generators, use photos taken under neutral, bright lighting. If your photos still have backgrounds, you can use a bulk tool to remove them, but PixelMatch typically handles the background replacement in one step. Ensure your source files are at least 2048px on the shortest side to maintain quality.
+Collect your raw product photos. For the best results with AI background generators, use photos taken under neutral, bright lighting. If your photos still have backgrounds, you can use a bulk tool to remove them, but PixelMatch typically handles the [background replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) in one step. Ensure your source files are at least 2048px on the shortest side to maintain quality.
 
 ### Step 2: Batch Generate in PixelMatch
 Upload your folder of 200 images to PixelMatch. 

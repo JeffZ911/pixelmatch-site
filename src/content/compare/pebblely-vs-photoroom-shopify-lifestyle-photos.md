@@ -149,7 +149,7 @@ Follow this decision matrix to select your tool for the 2026 selling season.
 | To generate 1,000+ images for Shopify, Amazon, and TikTok | **PixelMatch** |
 
 ### Step-by-Step Action Plan for Shopify Sellers:
-1.  **Standardize your "Hero" shots:** Take your base product photos on a neutral background with clear lighting.
+1.  **Standardize your "Hero" shots:** Take your base [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) on a neutral background with clear lighting.
 2.  **Run a 10-SKU test:** Upload 10 items to both Pebblely (Free) and Photoroom (Free).
 3.  **Check for "AI Artifacts":** Look at the edges where the product meets the new background. If the product looks "pasted on," Photoroom’s shadow settings usually fix this better than Pebblely’s presets.
 4.  **Verify specs:** Export a test image and check the file info. Ensure it is exactly 2048 x 2048 px. If the tool defaults to 1024 px, you must toggle the "HD" or "Pro" export settings to avoid blurry images on Shopify’s product zoom.

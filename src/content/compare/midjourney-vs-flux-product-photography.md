@@ -35,7 +35,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop losing sales to "AI-looking" product photos that hallucinate your brand logo or fail to meet Amazon's strict white-background requirements. As of June 2026, the choice between Midjourney and Flux is no longer about which looks "prettier"—it is about which model fits into a high-volume, multi-platform ecommerce workflow without requiring constant manual retouching.
+Stop losing sales to "AI-looking" [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) that hallucinate your brand logo or fail to meet Amazon's strict white-background requirements. As of June 2026, the choice between Midjourney and Flux is no longer about which looks "prettier"—it is about which model fits into a high-volume, multi-platform ecommerce workflow without requiring constant manual retouching.
 
 ## Midjourney vs Flux for Professional Product Photography: 2026 Guide
 
