@@ -93,7 +93,7 @@ Instead of downloading images one by one, the seller exported their product cata
 ### Step 2: Batch Configuration in PixelMatch
 The brand imported the CSV into the PixelMatch batch editor. Rather than manually setting dimensions, they selected the **TikTok Shop Platform Template**. This preset automatically enforces the following logic across the entire batch:
 *   **Canvas Normalization:** Every image is forced into a 1:1 square container.
-*   **AI Background Replacement:** The original background is stripped and replaced with hex code #FFFFFF (Pure White).
+*   **AI [Background Replacement](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement):** The original background is stripped and replaced with hex code #FFFFFF (Pure White).
 *   **Smart Centering:** The AI identifies the product (e.g., a lipstick tube) and scales it to fit the center of the frame, ensuring it meets TikTok’s "Product Visibility" score requirements.
 *   **Format Optimization:** All files are converted to JPG/PNG and compressed to stay under the 5MB ceiling while maintaining high resolution.
 

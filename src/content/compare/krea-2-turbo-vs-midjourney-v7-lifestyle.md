@@ -77,7 +77,7 @@ Midjourney v7 no longer offers a permanent free tier. To use images commercially
 
 Krea AI offers a more flexible entry point but matches Midjourney at the professional level. Their Pro tier is $30/month and offers unlimited image generations. For high-volume sellers who want to experiment without a "metered" feel, Krea's unlimited model is attractive. Krea also maintains a free tier that allows for 50 image generations per day, though these are subject to slower speeds and do not include the advanced "Enhancer" features required to meet the [2000-pixel minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-for-Listing-Photos) recommended for Etsy listings.
 
-| Plan Tier | Midjourney v7 Price | Krea 2-Turbo Price |
+| Plan Tier | Midjourney v7 Price | [Krea 2](https://pixelmatch.art/blog/policy/krea-2-turbo-vs-flux-product-backgrounds)-Turbo Price |
 | :--- | :--- | :--- |
 | **Free Tier** | None (Limited promos only) | 50 images/day |
 | **Basic/Starter** | $10/month (3.3 hrs GPU) | $10/month (Limited) |

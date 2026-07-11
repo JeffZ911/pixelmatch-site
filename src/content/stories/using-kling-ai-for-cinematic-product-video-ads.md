@@ -116,7 +116,7 @@ The brand subscribed to the Kling AI Pro tier at $37/month, which provided 3,000
 
 The increase in CTR was particularly notable on Amazon. Because the AI-generated videos used cinematic lighting and macro-photography styles that were previously too expensive to produce, the ads stood out against the "static" lifestyle images used by competitors. On TikTok, the ability to test 10 different "hooks" per week allowed the brand to find a winning creative that eventually lowered their Customer Acquisition Cost (CAC) by 30%.
 
-**Actionable Step:** Open your Amazon Advertising Console and identify any campaign with a CTR below 0.5%. These are your primary candidates for a Kling AI video refresh.
+**Actionable Step:** Open your Amazon Advertising Console and identify any campaign with a CTR below 0.5%. These are your primary candidates for a Kling [AI video](https://pixelmatch.art/blog/stories/ltx-director-2-0-ai-video-workflow) refresh.
 
 ## Steps to Replicate: Your Kling AI Prompting Framework
 

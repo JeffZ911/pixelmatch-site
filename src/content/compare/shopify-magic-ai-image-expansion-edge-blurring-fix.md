@@ -122,7 +122,7 @@ While Photoroom Pro is excellent for mobile use, its 2000x2000 px batch limit ca
 
 Stop uploading your photos to Shopify first. Shopify's internal image processing pipeline often applies compression the moment a file is uploaded to the "Media" section. To fix edge blurring, you must use a "Source-First" workflow:
 
-1.  **Keep the Raw Files:** Take your product photos in the highest resolution possible (usually 12MP or higher on modern smartphones).
+1.  **Keep the Raw Files:** Take your [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) in the highest resolution possible (usually 12MP or higher on modern smartphones).
 2.  **Generate Before Uploading:** Use PixelMatch to expand your backgrounds and generate lifestyle scenes using the original, uncompressed raw files.
 3.  **Verify Dimensions:** Ensure your final export is at least [1600x1600 px](https://sellercentral.amazon.com/help/hub/reference/G1881) to remain compliant with Amazon's 2026 standards.
 4.  **Upload the Final Asset:** Only upload the finished, high-resolution [AI image](https://pixelmatch.art/blog/compare/shopify-summer-edition-2026-ai-image-tools-20260621) to Shopify. This ensures that the only compression that happens is Shopify's standard CDN delivery, rather than the destructive 1MP AI scaling.
