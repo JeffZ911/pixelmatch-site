@@ -88,7 +88,7 @@ This is the most common automated flag. It covers a range of technical errors:
 *   **Borders:** Any black or colored bars used to force a non-square image into a 1:1 slot.
 
 ### 'Misleading Claims'
-TikTok Shop’s AI scans the text on your product packaging within the image. If your product photo shows a bottle that says "Cures Insomnia" but your text description avoids medical claims to stay compliant, the image itself will trigger a rejection for "Misleading Claims." The visual and the verbal must be in 100% alignment.
+TikTok Shop’s AI scans the text on your [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) within the image. If your product photo shows a bottle that says "Cures Insomnia" but your text description avoids medical claims to stay compliant, the image itself will trigger a rejection for "Misleading Claims." The visual and the verbal must be in 100% alignment.
 
 ### 'Duplicate Listings'
 If you manage multiple TikTok Shops or have previously deleted and re-uploaded a listing, the system may recognize the image file's digital signature. Reusing the exact same image file across different SKUs—even for color variations—can trigger this flag. Each SKU should ideally have a unique primary image to avoid being caught in the "spam" filter.

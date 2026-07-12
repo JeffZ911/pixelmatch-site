@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Scaling a beauty brand often dies in the "photography bottleneck," where $45-per-image studio fees and three-week lead times for physical packaging mockups kill your profit margins. You can now bypass the physical prototyping phase entirely by using Flux 1.2 Pro to generate photorealistic packaging designs that meet the strict compliance standards of Amazon, Shopify, and TikTok Shop.
+Scaling a beauty brand often dies in the "photography bottleneck," where $45-per-image studio fees and three-week lead times for physical packaging mockups kill your profit margins. You can now bypass the physical prototyping phase entirely by using [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Pro to generate photorealistic packaging designs that meet the strict compliance standards of Amazon, Shopify, and TikTok Shop.
 
 ## The Seller's Situation
 

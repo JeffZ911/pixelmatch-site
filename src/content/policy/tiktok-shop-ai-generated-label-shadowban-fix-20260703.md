@@ -123,7 +123,7 @@ PixelMatch is designed specifically for the multi-platform seller who needs to m
 *   **Workflow Integration:** You can batch-generate compliant product images that already fit the 1:1 aspect ratio, saving hours of manual cropping in Shopify or TikTok Seller Center.
 
 ### Avoiding the Three-Strike Ban
-To protect your shop long-term, audit your restricted category items. If you sell supplements or beauty products, remove any AI images that show skin texture changes or weight loss results. Stick to lifestyle photography where the AI only generates the *environment* (the room or background), not the *person* or the *result*.
+To protect your shop long-term, audit your restricted category items. If you sell supplements or beauty products, remove any AI images that show skin texture changes or weight loss results. Stick to [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) where the AI only generates the *environment* (the room or background), not the *person* or the *result*.
 
 **Actionable Step:** Set a calendar reminder for 90 days from your last "violation notice." TikTok’s strike system operates on a rolling 90-day window. If you stay clean for 90 days, your "strike count" resets to zero.
 

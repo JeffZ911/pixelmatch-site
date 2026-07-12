@@ -148,7 +148,7 @@ Platform policies regarding AI-generated content are evolving. While Amazon curr
 This is usually caused by using a non-square aspect ratio (like 4:5 or 2:3). The Amazon mobile app uses a square container for the image carousel; if your image is vertical, the app adds white padding to the sides to make it fit, which shrinks the actual product. To fix this, ensure all images are cropped to a 1:1 square ratio at [2000 x 2000 pixels](https://sellercentral.amazon.com/help/hub/reference/G1881).
 
 ### Does Amazon Rufus actually "read" the text inside my images?
-Yes. Rufus uses Optical Character Recognition (OCR) to extract text from product packaging and infographics. This data is used to answer customer questions about ingredients, dimensions, and usage instructions. If your images are low-resolution, Rufus may fail to read this text, leading to your product being excluded from specific conversational queries.
+Yes. Rufus uses Optical Character Recognition (OCR) to extract text from [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) and infographics. This data is used to answer customer questions about ingredients, dimensions, and usage instructions. If your images are low-resolution, Rufus may fail to read this text, leading to your product being excluded from specific conversational queries.
 
 ### What is the minimum resolution for Amazon images in 2026?
 While the technical minimum is lower, Amazon recommends [2000 x 2000 pixels](https://sellercentral.amazon.com/help/hub/reference/G1881) for optimal zoom functionality. High-resolution images are essential for Rufus's Computer Vision to accurately identify product features and for customers to see fine details on mobile screens.

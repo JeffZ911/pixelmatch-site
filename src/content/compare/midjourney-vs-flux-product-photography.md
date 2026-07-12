@@ -92,7 +92,7 @@ Midjourney operates on a subscription-only model with no free trial. As of June 
 
 ### Flux (Black Forest Labs) Pricing (2026)
 Flux uses a pay-per-use API model, making it highly scalable for sellers who only pay for what they generate. According to the Black Forest Labs 2026 price list:
-*   **Flux.2 Pro:** Starts at $0.03 per megapixel. A standard 1024x1024 image costs exactly $0.03.
+*   **Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study):** Starts at $0.03 per megapixel. A standard 1024x1024 image costs exactly $0.03.
 *   **Flux.2 [klein]:** A high-throughput model for ultra-low-cost batching, priced at $0.015 per megapixel.
 *   **Self-Hosting:** The Flux.2 [dev] model is "open-weight," meaning you can host it on your own server for $0 (plus hardware costs), though this requires significant technical expertise.
 

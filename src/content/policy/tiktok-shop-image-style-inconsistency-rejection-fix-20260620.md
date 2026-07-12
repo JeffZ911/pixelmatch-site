@@ -84,7 +84,7 @@ The most frequent cause of rejection is the presence of added graphics. This inc
 *   **Promotional Badges:** "Best Seller," "New Arrival," or price tags.
 *   **Collages:** Combining multiple photos into the main image slot.
 
-If your main image is not a pure white background, it is an automatic candidate for rejection. Even high-end lifestyle photography is prohibited in the first slot; save those for slots 2 through 9.
+If your main image is not a pure white background, it is an automatic candidate for rejection. Even high-end [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) is prohibited in the first slot; save those for slots 2 through 9.
 
 ### Misleading Content and False Displays
 TikTok's moderation team (and AI) compares your images against your product title and description. If your image shows a blue vacuum cleaner but your description says "Red," the listing will be flagged for misleading content. This also applies to quantity; if your image shows a pack of three but the listing is for a single unit, you face a "false display of information" violation.
