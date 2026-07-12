@@ -122,7 +122,7 @@ Additionally, Flux's per-image API pricing can add up quickly if you are rapidly
 
 Standardize your output to 2048 x 2048 pixels to ensure your assets meet the requirements for Amazon, Shopify, and TikTok Shop simultaneously. This resolution is the "sweet spot" for 2026 ecommerce, providing enough detail for mobile zoom without creating massive file sizes that slow down page load times.
 
-For scalable ecommerce product photography, **Flux 1.1 Pro Ultra is the superior engine.** Its precise spatial control, unmatched text capabilities, and official API access make it a legitimate business tool rather than just a creative toy. It allows you to maintain [Amazon image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881) across thousands of SKUs with minimal human intervention.
+For scalable ecommerce product photography, **[Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).1 Pro Ultra is the superior engine.** Its precise spatial control, unmatched text capabilities, and official API access make it a legitimate business tool rather than just a creative toy. It allows you to maintain [Amazon image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881) across thousands of SKUs with minimal human intervention.
 
 Midjourney v6.1 remains a fantastic supplementary tool. Use it for your "Big Idea" brainstorming or for generating one-off hero banners that need that extra 5% of artistic magic. But do not try to build a high-volume ecommerce workflow on top of it; the lack of automation will eventually become a bottleneck for your store's growth.
 

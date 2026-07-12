@@ -105,7 +105,7 @@ Implement these technical fixes to ensure your Vine campaign runs smoothly. By a
 
 ### Packaging Tweaks for Reviewers
 
-Standardize your packaging design to be "reviewer-friendly." Since you cannot control how a Vine Voice takes a photo, you must control what is available for them to photograph.
+Standardize your [packaging design](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) to be "reviewer-friendly." Since you cannot control how a Vine Voice takes a photo, you must control what is available for them to photograph.
 
 *   **Move Barcodes to the Bottom:** Place your FNSKU or UPC barcode on the bottom panel of your packaging. Reviewers rarely photograph the bottom of a box; they focus on the front, back, and sides. This simple move prevents the "barcode rejection" bot from triggering.
 *   **Use Matte Packaging:** High-gloss boxes create "hot spots" (glare) when reviewers use a camera flash. This glare can obscure product details and lead to low-quality images. Matte finishes photograph better in home environments.

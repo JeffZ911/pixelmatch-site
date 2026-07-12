@@ -127,7 +127,7 @@ Neither Shopify nor Canva understands that an image for TikTok Shop needs differ
 ![Recommendation](/img/shopify-magic-media-vs-canva-magic-studio/inline-6.webp)
 
 
-Export a batch of 50 RAW product photos and time how long it takes to manually remove backgrounds in Canva vs. using an automated batch tool. This data point will tell you exactly when it is time to upgrade your tech stack.
+Export a batch of 50 RAW [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) and time how long it takes to manually remove backgrounds in Canva vs. using an automated batch tool. This data point will tell you exactly when it is time to upgrade your tech stack.
 
 *   **Use Shopify Magic Media** for quick, one-off background swaps when you are already inside your Shopify admin and the resolution isn't your top priority. It is perfect for testing a new product idea before committing to a full photoshoot.
 *   **Use [Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio** for your social media and ad creatives. When you need to turn a product photo into a "lifestyle" shot for an Instagram Story, Canva’s creative flexibility is unmatched.

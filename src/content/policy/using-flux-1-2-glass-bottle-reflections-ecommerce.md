@@ -108,7 +108,7 @@ Squint at your Flux-generated glass bottle. If the reflections are more prominen
 Correcting AI errors manually is a bottleneck. Use these systematic fixes to ensure 100% compliance across all storefronts.
 
 ### Prompting for Compliance
-To get the best base image, prompt Flux 1.2 specifically for "studio lighting, pure white background, natural inherent glass reflection." This ensures the base generation is close to Amazon compliance from the start. Avoid words like "dramatic," "cinematic," or "backlit," as these encourage the AI to create shadows that are difficult to remove later.
+To get the best base image, prompt [Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).2 specifically for "studio lighting, pure white background, natural inherent glass reflection." This ensures the base generation is close to Amazon compliance from the start. Avoid words like "dramatic," "cinematic," or "backlit," as these encourage the AI to create shadows that are difficult to remove later.
 
 ### Batch Resizing for Platforms
 Don't resize images manually. Use a workflow that automatically upscales and pads Flux 1.2 outputs to meet Shopify's [2048 x 2048 px recommendation](https://help.shopify.com/en/manual/products/product-variant-images/product-image-size) and Etsy's [2000 px minimum](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop) without distorting the bottle. PixelMatch handles this by adding "smart padding" to the edges of the bottle, ensuring the 85% product-to-frame ratio is maintained.

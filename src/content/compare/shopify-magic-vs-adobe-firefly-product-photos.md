@@ -82,7 +82,7 @@ Shopify Magic is [available on all Shopify plans at no additional cost](https://
 *   **Creative Cloud All Apps:** Starting at approximately $59.99/mo, this plan includes 1,000 monthly credits along with access to Photoshop, Illustrator, and Premiere Pro.
 
 ### The Hidden Cost of Manual Prompting
-While Shopify Magic is free and Firefly is relatively inexpensive, both tools carry a high "time cost." Because neither tool offers a native batch-generation engine for product photos, a seller with 100 SKUs must manually prompt, generate, and save each image 100 times. PixelMatch’s pricing structure provides more predictable costs for large catalogs by allowing you to process an entire collection in a single action, saving hours of manual labor.
+While Shopify Magic is free and Firefly is relatively inexpensive, both tools carry a high "time cost." Because neither tool offers a native batch-generation engine for [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos), a seller with 100 SKUs must manually prompt, generate, and save each image 100 times. PixelMatch’s pricing structure provides more predictable costs for large catalogs by allowing you to process an entire collection in a single action, saving hours of manual labor.
 
 ## Best For (By Seller Profile)
 

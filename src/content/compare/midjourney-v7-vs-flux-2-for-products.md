@@ -122,10 +122,10 @@ Skip the hours of prompting and let the technology handle the heavy lifting whil
 ## Frequently Asked Questions
 
 ### Can I use Midjourney v7 images for my Amazon Main Image?
-Technically yes, but it is difficult. Amazon requires a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/G1881). Midjourney often adds soft shadows or reflections that technically violate this, which can lead to listing suppression. [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism) or a dedicated tool like PixelMatch is better for Main Images.
+Technically yes, but it is difficult. Amazon requires a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/G1881). Midjourney often adds soft shadows or reflections that technically violate this, which can lead to [listing suppression](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-listing-suppression-tools). [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism) or a dedicated tool like PixelMatch is better for Main Images.
 
 ### Does Flux 2 really handle text better than Midjourney?
-Yes. [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism) uses a different architecture that allows it to follow prompt instructions for text with nearly 100% accuracy. If your product packaging has a specific brand name or "Organic" certification logo, Flux 2 will render it correctly, whereas [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) may still occasionally "scramble" the letters.
+Yes. [Flux 2](https://pixelmatch.art/blog/compare/midjourney-v8-vs-flux-2-product-realism) uses a different architecture that allows it to follow prompt instructions for text with nearly 100% accuracy. If your [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) has a specific brand name or "Organic" certification logo, Flux 2 will render it correctly, whereas [Midjourney v7](https://pixelmatch.art/blog/compare/google-imagen-3-vs-midjourney-v7-for-products) may still occasionally "scramble" the letters.
 
 ### What is the best aspect ratio for Shopify product images in 2026?
 Shopify generally recommends a [1:1 square ratio with a size of 2048 x 2048 pixels](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-specifications). This ensures the image looks sharp on both desktop and mobile while allowing for high-quality zoom.
