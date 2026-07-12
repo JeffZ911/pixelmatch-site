@@ -55,7 +55,7 @@ Review your "About" section and listing descriptions to ensure they align with t
 
 ### Primary Image Authenticity
 
-Etsy’s [Listing Image Requirements](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop) mandate that the primary photo must be a real photograph of the actual finished product. You cannot use a computer-generated render or a "hallucinated" AI image that creates a product from a prompt as your main thumbnail. For physical goods, the image must prove to the buyer that the item exists in its final form. 
+Etsy’s [Listing Image Requirements](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop) mandate that the primary photo must be a real photograph of the actual finished product. You cannot use a computer-generated render or a "hallucinated" [AI image](https://pixelmatch.art/blog/policy/meta-ai-image-labeling-backlash-sellers) that creates a product from a prompt as your main thumbnail. For physical goods, the image must prove to the buyer that the item exists in its final form. 
 
 To stay compliant, ensure your primary image meets the technical threshold of [2000 pixels on the shortest side](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop) with a resolution of 72PPI. Files must be under 10MB. While tools like PixelMatch can enhance these photos by replacing dull backgrounds with high-conversion lifestyle scenes, the core product must remain an unmanipulated photograph of the inventory you hold.
 

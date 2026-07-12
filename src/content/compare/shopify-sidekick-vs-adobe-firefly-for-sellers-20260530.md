@@ -96,7 +96,7 @@ Choose PixelMatch if you are a multi-platform seller who needs to format hundred
 ![Where Each Falls Short](/img/shopify-sidekick-vs-adobe-firefly-for-sellers-20260530/inline-5.webp)
 
 
-Test your current AI outputs against Amazon’s "Pure White" validator or TikTok's size requirements to ensure you aren't risking a listing suppression.
+Test your current AI outputs against Amazon’s "Pure White" validator or TikTok's size requirements to ensure you aren't risking a [listing suppression](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-listing-suppression-tools).
 
 [Shopify Sidekick](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) is a "walled garden" tool. Its primary limitation is its lack of multi-platform awareness. It cannot automatically format images for your Etsy shop or TikTok Shop, and its generative resolution is limited to approximately [1 Megapixel (~1024x1024 px)](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/shopify-magic/generating-images). While Shopify allows you to [upload images up to 4472 x 4472 px](https://help.shopify.com/en/manual/online-store/images/theme-images#upload-limits), Sidekick’s AI generation does not currently produce images at that maximum ceiling. This can result in "soft" or blurry images when customers try to use the high-resolution zoom feature on desktop.
 

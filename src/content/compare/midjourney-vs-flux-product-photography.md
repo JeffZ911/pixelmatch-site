@@ -61,7 +61,7 @@ Run a side-by-side A/B test on a single low-performing SKU today to see the conv
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-Apply the `--style raw` parameter in Midjourney or use the "Production" preset in Flux.2 Pro to immediately reduce "AI gloss" and improve the realism of your product textures.
+Apply the `--style raw` parameter in Midjourney or use the "Production" preset in Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) to immediately reduce "AI gloss" and improve the realism of your product textures.
 
 | Feature | Midjourney (v7.1) | Flux.2 Pro |
 | :--- | :--- | :--- |

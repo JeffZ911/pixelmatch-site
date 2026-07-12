@@ -41,7 +41,7 @@ Leaking a prototype image before a product launch can tank your sales ranking be
 
 Before choosing between a local setup and a cloud-based solution, run a benchmark on your current hardware. If you do not own a high-end dedicated GPU, the "free" nature of local AI quickly becomes an expensive hardware investment.
 
-*   **Running Flux locally** (using the FLUX.2 klein 4B model or FLUX.1 dev) offers absolute privacy for unreleased product assets, as no data leaves your machine.
+*   **Running Flux locally** (using the FLUX.2 klein 4B model or FLUX.[1 dev](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error)) offers absolute privacy for unreleased product assets, as no data leaves your machine.
 *   **Hardware bottlenecks** are the primary hurdle; local setups require heavy hardware, specifically a [24GB RTX 4090 for full FP16](https://github.com/comfyanonymous/ComfyUI) precision, and involve complex node-based workflows in ComfyUI.
 *   **PixelMatch** provides a secure cloud alternative tailored for ecommerce, automatically formatting outputs to meet platform specs like [Amazon's 2000x2000 px recommendation](https://sellercentral.amazon.com/help/hub/reference/G1881) and [Shopify's 20 MB file limit](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor).
 *   **Verdict:** Choose local Flux if you have zero-trust security requirements and significant engineering time; choose PixelMatch for immediate, scalable ecommerce output that is ready for multi-channel listing.
@@ -52,7 +52,7 @@ Before choosing between a local setup and a cloud-based solution, run a benchmar
 
 Use this checklist to audit your current image assets against platform rules and determine which workflow can handle your upcoming catalog refresh.
 
-| Feature | Local Flux 1.2 Setup | PixelMatch Cloud |
+| Feature | Local [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Setup | PixelMatch Cloud |
 | :--- | :--- | :--- |
 | **Data Privacy** | 100% Offline / Air-gapped | Secure Cloud (Encrypted) |
 | **Hardware Required** | [RTX 3090/4090 (24GB VRAM)](https://github.com/comfyanonymous/ComfyUI) | Any browser / laptop |
@@ -132,7 +132,7 @@ Yes, Amazon explicitly accepts [JPEG, TIFF, PNG, and GIF](https://sellercentral.
 TikTok Shop requires a minimum resolution of 800x800 px for main product images, with a 1:1 aspect ratio. For lifestyle shots used in the product description, they recommend 1080x1920 px (9:16) to fit the mobile-first nature of the platform.
 
 ### Is Flux 1.2 Pro Ultra available for local download?
-No, the FLUX 1.2 Pro Ultra model is currently API-only. Local users are generally limited to the FLUX.1 Dev, FLUX.1 Schnell, or the FLUX.2 Klein 4B models, which are designed to fit into consumer-grade hardware.
+No, the FLUX 1.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) Ultra model is currently API-only. Local users are generally limited to the FLUX.1 Dev, FLUX.1 Schnell, or the FLUX.2 Klein 4B models, which are designed to fit into consumer-grade hardware.
 
 
 <!-- pm-cta:foot -->

@@ -85,7 +85,7 @@ Most TikTok Shop sellers do not get banned for using AI; they get banned for *la
 
 ### Structural Hallucinations and Texture Drift
 
-A common rejection reason is "Inconsistent Product Promotion." This occurs when an AI image generator adds features that don't exist on the physical product—known as structural hallucinations. If you are selling a backpack with two zippers, but your AI-generated lifestyle shot shows three zippers or a "phantom" pocket, the listing will be rejected for misleading customers.
+A common rejection reason is "Inconsistent Product Promotion." This occurs when an [AI image](https://pixelmatch.art/blog/policy/meta-ai-image-labeling-backlash-sellers) generator adds features that don't exist on the physical product—known as structural hallucinations. If you are selling a backpack with two zippers, but your AI-generated lifestyle shot shows three zippers or a "phantom" pocket, the listing will be rejected for misleading customers.
 
 Texture drift is equally dangerous. If you sell a matte-finish water bottle, but your AI background generator adds a glossy sheen or a metallic reflection to the bottle to make the lighting look "better," you have misrepresented the material. TikTok's quality control bots are increasingly adept at spotting these inconsistencies against your primary, non-AI product photos.
 

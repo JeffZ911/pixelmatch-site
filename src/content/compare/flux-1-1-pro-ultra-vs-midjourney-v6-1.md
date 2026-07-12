@@ -134,7 +134,7 @@ If you want to leverage Flux's capabilities without coding your own API integrat
 Yes, provided you ensure the output meets [Amazon's main image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881), such as a pure white background (RGB 255, 255, 255). Flux is particularly good for this because its high resolution (4MP) exceeds Amazon’s 1600px zoom requirement, ensuring your customers can see every detail of your product.
 
 ### Which AI is better for rendering text on product packaging?
-Flux 1.1 Pro Ultra is significantly better at text rendering than Midjourney v6.1. While Midjourney can handle short words or phrases in quotes, Flux can accurately render entire sentences and brand names with consistent font styling. This makes Flux the better choice for creating "Lifestyle" images where your product's label must be perfectly legible.
+[Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).1 Pro Ultra is significantly better at text rendering than Midjourney v6.1. While Midjourney can handle short words or phrases in quotes, Flux can accurately render entire sentences and brand names with consistent font styling. This makes Flux the better choice for creating "Lifestyle" images where your product's label must be perfectly legible.
 
 ### Is Midjourney's pricing better than Flux's API pricing?
 It depends on your volume. If you generate more than 1,000 images a month, Midjourney’s $30 or $60 flat-rate plans are often more cost-effective. However, for most sellers who need high-quality, "one-shot" accuracy for specific catalog updates, Flux’s ~$0.06 per image cost is more efficient because it reduces the time spent "rerolling" bad results.

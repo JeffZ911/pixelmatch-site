@@ -84,7 +84,7 @@ Listing suppression is the primary risk when using AI-generated text. Marketplac
 
 ### Promotional Text Violations
 
-Amazon is the most aggressive platform regarding text on images. They strictly reject main images if SD3 generates text that floats off the product or includes promotional claims like ["Best Seller," "Top Rated," or "Free Shipping"](https://sellercentral.amazon.com/help/hub/reference/external/G1811). Amazon's "Hero" [image policy](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) requires the product to be the only thing in the frame, with no extra text that isn't physically part of the product packaging.
+Amazon is the most aggressive platform regarding text on images. They strictly reject main images if SD3 generates text that floats off the product or includes promotional claims like ["Best Seller," "Top Rated," or "Free Shipping"](https://sellercentral.amazon.com/help/hub/reference/external/G1811). Amazon's "Hero" [image policy](https://pixelmatch.art/blog/policy/etsy-ai-generated-image-policy-2026-20260621) requires the product to be the only thing in the frame, with no extra text that isn't physically part of the [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study).
 
 TikTok Shop follows a similar path but focuses on "cleanliness." TikTok will suppress listings if images contain watermarks, borders, or heavy filters—all of which are common artifacts in raw AI outputs if not properly managed via negative prompting.
 
