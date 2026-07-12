@@ -112,7 +112,7 @@ If your LDR is dragging your AHR toward the 150-point danger zone, you must tigh
 *   **Switch to "Fulfilled by TikTok":** If your warehouse can't keep up, using TikTok's official logistics can often shield you from certain shipping-related AHR penalties, as the platform takes responsibility for the "Last Mile" delivery.
 
 ### Auditing and Cleaning Listings
-Review your Product Detail Pages (PDPs) for "Attribute Mismatch." Ensure that the "Brand" field matches the "Brand" shown on the product packaging in your photos. If you are selling a generic product, the brand attribute must be set to "No Brand" or "Generic" to avoid "Intellectual Property" flags. 
+Review your Product Detail Pages (PDPs) for "Attribute Mismatch." Ensure that the "Brand" field matches the "Brand" shown on the [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) in your photos. If you are selling a generic product, the brand attribute must be set to "No Brand" or "Generic" to avoid "Intellectual Property" flags. 
 
 | Problem Area | Before Optimization | After Optimization (Compliant) |
 | :--- | :--- | :--- |

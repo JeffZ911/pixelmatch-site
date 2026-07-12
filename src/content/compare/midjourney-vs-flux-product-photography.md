@@ -63,7 +63,7 @@ Run a side-by-side A/B test on a single low-performing SKU today to see the conv
 
 Apply the `--style raw` parameter in Midjourney or use the "Production" preset in Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) to immediately reduce "AI gloss" and improve the realism of your product textures.
 
-| Feature | Midjourney (v7.1) | Flux.2 Pro |
+| Feature | Midjourney (v7.1) | Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) |
 | :--- | :--- | :--- |
 | **Primary Strength** | Artistic lifestyle & hero banners | Photorealistic accuracy & packaging text |
 | **[Text Rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615)** | Improved, but still prone to "gibberish" in small fonts | Near-perfect rendering of labels and logos |

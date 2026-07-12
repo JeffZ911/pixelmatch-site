@@ -152,7 +152,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 
-*   **Fal.ai Flux 1.1 Pro Ultra Pricing & Specs:** https://fal.ai/models/fal-ai/flux-pro/v1.1-ultra
+*   **Fal.ai [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).1 Pro Ultra Pricing & Specs:** https://fal.ai/models/fal-ai/flux-pro/v1.1-ultra
 *   **Replicate Flux 1.1 Pro Ultra Technical Details:** https://replicate.com/black-forest-labs/flux-1.1-pro-ultra
 *   **Midjourney Official Subscription Plans:** https://www.midjourney.com/plans
 *   **[Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central Product Image Requirements:** [https://sellercentral.amazon.com/help/hub/reference/external/G1881](https://sellercentral.amazon.com/help/hub/reference/external/G1881)

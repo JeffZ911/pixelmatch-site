@@ -62,7 +62,7 @@ Audit your current image library against the 2 MB limit before you start the upl
 Set your Photoshop, Canva, or AI generation workspace to RGB color mode at the start of every project to prevent the "washed out" color effect that occurs when Amazon’s web-based system tries to interpret print-centric CMYK files. If you are working with a professional photographer, explicitly request "Web-Ready RGB Exports" to avoid manual conversion later.
 
 ### File Types & Color Space
-Amazon’s A+ Content system is built for high-speed web delivery. While PNG files offer superior clarity for text-heavy graphics, they often exceed the 2 MB limit when saved at high resolutions. Use JPG for complex lifestyle photography to maintain the balance between visual fidelity and file size. 
+Amazon’s A+ Content system is built for high-speed web delivery. While PNG files offer superior clarity for text-heavy graphics, they often exceed the 2 MB limit when saved at high resolutions. Use JPG for complex [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) to maintain the balance between visual fidelity and file size. 
 
 Avoid CMYK color spaces entirely. CMYK is designed for physical ink on paper; when uploaded to Amazon, the colors will often shift, making vibrant products look dull or "muddy." Stick to the sRGB [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix), which is the standard for 99% of consumer screens used by Amazon shoppers.
 

@@ -118,7 +118,7 @@ To meet the white-background requirement for your primary image, you must strip 
 PixelMatch is specifically designed for the multi-platform workflow. Instead of editing one by one, you can upload your raw product photos and batch-generate TikTok-compliant white backgrounds alongside Amazon-compliant and Etsy-style lifestyle shots in a single session. This ensures that your "Main Image" is perfectly clinical for the TikTok Shop tab while your secondary images remain engaging.
 
 ### Audit for Hidden Text and Watermarks
-Review your secondary images for brand URLs or social media handles. TikTok treats these as "External Redirection," which is a high-level violation. Use an "Object Removal" tool to paint over any URLs or watermarks on your product packaging if they appear too prominent in your lifestyle shots. 
+Review your secondary images for brand URLs or social media handles. TikTok treats these as "External Redirection," which is a high-level violation. Use an "Object Removal" tool to paint over any URLs or watermarks on your [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) if they appear too prominent in your lifestyle shots. 
 
 ### Increase Image Count to Boost Listing Tier
 If your listing is live but not getting impressions, check your "Listing [Quality Score](https://pixelmatch.art/blog/policy/etsy-search-quality-score-image-requirements-2026)" in the TikTok Seller Center. If you have fewer than 5 images, your listing is likely being deprioritized. 

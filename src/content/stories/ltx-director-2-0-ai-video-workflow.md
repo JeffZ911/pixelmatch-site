@@ -67,7 +67,7 @@ Furthermore, cloud-based tools like Runway or Pika Labs can become cost-prohibit
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-To solve the consistency and cost issues, the seller moved toward a hybrid workflow combining professional AI image generation with local video control. This setup allows for "surgical" edits and zero-cost iterations after the initial hardware investment.
+To solve the consistency and cost issues, the seller moved toward a hybrid workflow combining professional [AI image](https://pixelmatch.art/blog/policy/meta-ai-image-labeling-backlash-sellers) generation with local video control. This setup allows for "surgical" edits and zero-cost iterations after the initial hardware investment.
 
 ### Phase 1: Generating the Foundation with PixelMatch
 The workflow begins by using PixelMatch to generate clean, high-resolution base images of the decor products. Instead of a flat white background, the seller uses PixelMatch’s batch processing to place their product in specific lifestyle contexts—such as a sun-drenched Scandinavian living room or a moody, dark-academic study. Because PixelMatch maintains the integrity of the original product's geometry and texture, the resulting images are "grounded" in reality. These serve as the "Keyframes" for the video.

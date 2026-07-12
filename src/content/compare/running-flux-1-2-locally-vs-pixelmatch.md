@@ -105,7 +105,7 @@ For example, while you would have to manually resize and pad images for TikTok S
 Monitor your VRAM usage using `nvidia-smi` if you choose the local route, as Flux models are notorious for crashing systems with less than 16GB of dedicated memory.
 
 ### Local Flux Limitations
-The learning curve for local Flux is steep. Managing Python environments, ComfyUI updates, and model weights takes significant time away from product sourcing and customer service. Furthermore, the most advanced versions of the technology are often gated. For instance, the flagship FLUX 1.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) Ultra (released Feb 2026) is an API-only model, meaning local users are restricted to smaller, less capable, or older "Dev" and "Schnell" variants. You may find that your local "private" images lack the photorealistic polish of the latest cloud-based models.
+The learning curve for local Flux is steep. Managing Python environments, ComfyUI updates, and model weights takes significant time away from product sourcing and customer service. Furthermore, the most advanced versions of the technology are often gated. For instance, the flagship [FLUX 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) Ultra (released Feb 2026) is an API-only model, meaning local users are restricted to smaller, less capable, or older "Dev" and "Schnell" variants. You may find that your local "private" images lack the photorealistic polish of the latest cloud-based models.
 
 ### PixelMatch Limitations
 PixelMatch requires a stable internet connection and relies on cloud uptime. While it is highly customizable for ecommerce workflows, it does not offer the absolute, granular control of a custom ComfyUI workflow. If you need to "wire" a specific custom LoRA (Low-Rank Adaptation) for a very niche artistic style that isn't standard in product photography, a local setup provides more flexibility for that specific 1% of use cases.
@@ -132,7 +132,7 @@ Yes, Amazon explicitly accepts [JPEG, TIFF, PNG, and GIF](https://sellercentral.
 TikTok Shop requires a minimum resolution of 800x800 px for main product images, with a 1:1 aspect ratio. For lifestyle shots used in the product description, they recommend 1080x1920 px (9:16) to fit the mobile-first nature of the platform.
 
 ### Is Flux 1.2 Pro Ultra available for local download?
-No, the FLUX 1.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) Ultra model is currently API-only. Local users are generally limited to the FLUX.1 Dev, FLUX.1 Schnell, or the FLUX.2 Klein 4B models, which are designed to fit into consumer-grade hardware.
+No, the FLUX 1.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) Ultra model is currently API-only. Local users are generally limited to the FLUX.[1 Dev](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error), FLUX.1 Schnell, or the FLUX.2 Klein 4B models, which are designed to fit into consumer-grade hardware.
 
 
 <!-- pm-cta:foot -->
