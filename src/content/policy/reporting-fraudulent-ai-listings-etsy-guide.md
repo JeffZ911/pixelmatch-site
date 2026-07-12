@@ -104,7 +104,7 @@ Save your original, unedited product photos in a dedicated "Compliance Folder" t
 If your listing was falsely reported and removed, do not simply relist it. This can lead to a permanent shop ban. Instead, appeal false takedowns by providing raw photos of your physical product to Etsy support. Include photos of the product from different angles, perhaps held in your hand, to prove it is not a 2D AI-generated hallucination. Ensure your description explicitly states "created with AI assistance" if you are selling digital AI art to avoid future flags.
 
 ### Ensuring Compliant AI Use
-For physical products, use tools like PixelMatch to generate realistic AI backgrounds that don't alter the actual product's appearance. PixelMatch is designed to keep the product's geometry and texture 100% intact while only modifying the environment. This keeps you compliant with Etsy’s requirement that the main product image accurately reflects the physical item being shipped. 
+For physical products, use tools like PixelMatch to generate [realistic AI](https://pixelmatch.art/blog/compare/ai-voiceovers-etsy-digital-products) backgrounds that don't alter the actual product's appearance. PixelMatch is designed to keep the product's geometry and texture 100% intact while only modifying the environment. This keeps you compliant with Etsy’s requirement that the main product image accurately reflects the physical item being shipped. 
 
 ### Best Practices for Listing Photos
 *   **Main Image Integrity:** Your first photo should be as clear as possible. While AI backgrounds are allowed, avoid "stylized" AI filters that change the color or texture of the item.

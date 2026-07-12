@@ -57,7 +57,7 @@ Verify your product creation method against the Etsy Creativity Standards checkl
 
 Sellers must explicitly label any active listing where the product, mockup, or written description was generated or heavily modified by AI tools. This includes the use of "text-to-image" prompts to create the primary hero photo. The marketplace's stance is clear: AI assistance that preserves the actual physical product (such as background removal or lighting adjustments) is permitted, but generating a synthetic product that does not physically exist is banned.
 
-Undisclosed AI listings have caused significant buyer trust issues across the platform. According to data from early 2026, refund rates on flagged synthetic items reached 19.3% in the first quarter of 2026. This high return rate is often driven by "expectation vs. reality" gaps, where a buyer receives a physical item that looks nothing like the hyper-perfected AI render used in the listing.
+Undisclosed [AI listings](https://pixelmatch.art/blog/policy/reporting-fraudulent-ai-listings-etsy-guide) have caused significant buyer trust issues across the platform. According to data from early 2026, refund rates on flagged synthetic items reached 19.3% in the first quarter of 2026. This high return rate is often driven by "expectation vs. reality" gaps, where a buyer receives a physical item that looks nothing like the hyper-perfected AI render used in the listing.
 
 ### Image Generation vs. Image Enhancement
 

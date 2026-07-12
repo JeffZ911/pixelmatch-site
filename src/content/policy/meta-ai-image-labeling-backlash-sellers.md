@@ -34,14 +34,14 @@ Your Meta Ads reach is plummeting because a small "AI info" tag appeared on your
 *Related: [Reporting Fraudulent AI Listings on Etsy Guide (2026 Policy)](/blog/policy/reporting-fraudulent-ai-listings-etsy-guide) · [Krea 2 Turbo vs Flux for Product Backgrounds Policy](/blog/policy/krea-2-turbo-vs-flux-product-backgrounds) · [TikTok Shop AI Label Requirement Update: 2026 Seller Guide](/blog/policy/tiktok-shop-ai-label-requirement-update)*
 
 
-Review this comparison table before your next campaign launch to ensure your assets meet the specific technical and disclosure requirements of each major sales channel.
+Review this comparison table before your next campaign launch to ensure your assets meet the specific technical and [disclosure requirements](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images) of each major sales channel.
 
 | Platform | Recommended Dimensions | Max File Size | AI Disclosure Policy |
 | :--- | :--- | :--- | :--- |
 | **Meta Ads (Feed)** | 1080 x 1350 px (4:5 ratio) | 30 MB | Mandatory "AI info" label for generative edits. |
 | **Meta Ads (Reels)** | 1080 x 1920 px (9:16 ratio) | 30 MB | Mandatory disclosure via Ads Manager toggle. |
 | **Amazon (Main)** | 2000 x 2000 px | [10 MB](https://sellercentral.amazon.com/) | Pure white background [(RGB 255, 255, 255)](https://sellercentral.amazon.com/) required; no AI labels allowed on Main. |
-| **Shopify** | 2048 x 2048 px | [20 MB](https://help.shopify.com/) | No mandatory platform-wide AI label; recommends high-res for zoom. |
+| **Shopify** | 2048 x 2048 px | [20 MB](https://help.shopify.com/) | No mandatory platform-wide [AI label](https://pixelmatch.art/blog/policy/tiktok-shop-ai-label-requirement-update); recommends high-res for zoom. |
 | **TikTok Shop** | 1200 x 1200 px (1:1) | 5 MB | Mandatory "AI-generated" label for synthetic content. |
 
 ## Detailed Requirements

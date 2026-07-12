@@ -69,7 +69,7 @@ The most frequent violation of the amazon prime [day 2026 main](https://pixelmat
 
 Amazon's [Product Bundling Policy](https://sellercentral.amazon.com/gp/help/external/200442350) is explicit: the main image must show the specific products in the bundle and nothing else. This rule extends to text and graphics. You are prohibited from adding:
 *   Borders or frames.
-*   Watermarks or seller logos (unless they are part of the physical product packaging).
+*   Watermarks or seller logos (unless they are part of the physical [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study)).
 *   Promotional text like "Limited Time Offer" or "Prime Day Exclusive."
 *   In-set images or "ghost" products that aren't in the box.
 

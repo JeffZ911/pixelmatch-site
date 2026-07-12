@@ -24,7 +24,7 @@ inline_image_sections:
   - "Where Each Falls Short"
 ---
 
-Stop losing customers to blurry, low-resolution product photos that fail to trigger the zoom feature on Amazon or Etsy. If you are choosing between Shopify Magic and Flair AI, you are likely trying to balance the cost of professional photography against the need for high-converting lifestyle images.
+Stop losing customers to blurry, low-resolution [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) that fail to trigger the zoom feature on Amazon or Etsy. If you are choosing between Shopify Magic and Flair AI, you are likely trying to balance the cost of professional photography against the need for high-converting lifestyle images.
 
 ## TL;DR Verdict
 

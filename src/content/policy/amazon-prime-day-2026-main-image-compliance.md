@@ -89,7 +89,7 @@ Understanding why Amazon rejects images allows you to audit your catalog proacti
 
 ### Promotional Overlays
 
-Adding promotional text like "Best Seller," "Free Shipping," or "Prime Day Deal" directly violates [Amazon's Product Image Requirements](https://sellercentral.amazon.com/gp/help/external/1881). Sellers often try to "hack" the CTR (Click-Through Rate) by adding badges or warranty icons to the main image. During Prime Day, Amazon’s automated sweeps are more aggressive. If the AI detects text that isn't part of the physical product packaging, the listing will be suppressed immediately.
+Adding promotional text like "Best Seller," "Free Shipping," or "Prime Day Deal" directly violates [Amazon's Product Image Requirements](https://sellercentral.amazon.com/gp/help/external/1881). Sellers often try to "hack" the CTR (Click-Through Rate) by adding badges or warranty icons to the main image. During Prime Day, Amazon’s automated sweeps are more aggressive. If the AI detects text that isn't part of the physical [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study), the listing will be suppressed immediately.
 
 ### Brand Registry Photo Rejections
 

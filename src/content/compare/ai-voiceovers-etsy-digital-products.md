@@ -60,7 +60,7 @@ Map your product's script length and complexity to these feature sets to ensure 
 | **Primary Strength** | Hyper-realistic emotional range | Professional timeline syncing | All-in-one video/audio editor |
 | **Voice Count** | 1,000+ (Community + Official) | 200+ voices | 500+ voices |
 | **Language Support** | 32+ languages | 20+ languages | 100+ languages |
-| **Unique Feature** | Instant Voice Cloning | Canva & Google Slides Integration | Built-in AI Image Generator |
+| **Unique Feature** | Instant Voice Cloning | Canva & Google Slides Integration | Built-in [AI Image](https://pixelmatch.art/blog/policy/meta-ai-image-labeling-backlash-sellers) Generator |
 | **Commercial Rights** | Included in Paid Plans | Included in Paid Plans | Included in Basic & Pro |
 | **Best For** | Faceless YouTube Kits | Digital Course Creators | Multi-Channel Marketers |
 

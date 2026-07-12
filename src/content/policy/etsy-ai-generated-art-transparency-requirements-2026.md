@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Stop guessing which AI listings will trigger a "Deactivated" notification and start aligning your shop with the latest platform enforcement. Failing to properly disclose AI usage on Etsy in 2026 doesn't just risk a single listing takedown—it puts your entire account at risk for "Item Not as Described" cases that permanently tank your Search Visibility.
+Stop guessing which [AI listings](https://pixelmatch.art/blog/policy/reporting-fraudulent-ai-listings-etsy-guide) will trigger a "Deactivated" notification and start aligning your shop with the latest platform enforcement. Failing to properly disclose AI usage on Etsy in 2026 doesn't just risk a single listing takedown—it puts your entire account at risk for "Item Not as Described" cases that permanently tank your Search Visibility.
 
 Etsy allows AI-generated art, but sellers must categorize it as "Designed by a seller" and explicitly disclose AI usage in the listing description. Selling AI prompt bundles is strictly prohibited.
 
