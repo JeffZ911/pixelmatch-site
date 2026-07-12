@@ -56,7 +56,7 @@ Run a batch RGB check on your "Search Suppressed" listings to identify non-white
 Distinguish between your Hero image (Slot 1) and your conversion-focused secondary images (Slots 2-9). The "busy background" error applies almost exclusively to the main image.
 
 *   **Main Image:** Must be a "clinical" shot. The product must be out of the packaging, shown in a professional manner, and isolated on a pure white background. No lifestyle elements, no human models (unless for apparel), and no "in-use" shots are permitted here.
-*   **Secondary Images:** This is where you *want* busy backgrounds. Use lifestyle photography, infographics, and comparison charts to drive conversion. Amazon encourages "busy" environments in these slots to show the product in context.
+*   **Secondary Images:** This is where you *want* busy backgrounds. Use [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026), infographics, and comparison charts to drive conversion. Amazon encourages "busy" environments in these slots to show the product in context.
 
 ### Technical Specs for 2026
 

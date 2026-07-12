@@ -94,7 +94,7 @@ As of 2026-05-19, TikTok’s automated "Visual QA" bots are highly effective at 
 ### Prohibited Text and Badges
 Many sellers migrating from platforms like eBay or their own Shopify stores are used to adding "Free Shipping" or "2026 Model" text directly onto their images using Canva or Adobe Express. On TikTok Shop, this is a "Misleading Visual" violation. 
 *   **Prohibited:** "100% Cure," "Best Seller," "FDA Approved" (unless verified), and "Money Back Guarantee" badges.
-*   **Allowed:** Text that is part of the physical product packaging itself.
+*   **Allowed:** Text that is part of the physical [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) itself.
 
 If you must include technical specs, use the "Product Description" or "Bullet Points" section. TikTok prefers the image to remain a pure visual representation of the physical item.
 

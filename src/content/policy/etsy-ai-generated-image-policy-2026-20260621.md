@@ -53,7 +53,7 @@ Audit your current shop inventory against these technical and policy thresholds 
 ![Detailed Requirements](/img/etsy-ai-generated-image-policy-2026-20260621/inline-2.webp)
 
 
-Update your listing descriptions immediately if you utilize generative AI for product design or lifestyle photography. Etsy’s 2026 enforcement focuses on the distinction between "Seller-Designed" and "AI-Generated" content, requiring a human-in-the-loop for every listing.
+Update your listing descriptions immediately if you utilize generative AI for product design or [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026). Etsy’s 2026 enforcement focuses on the distinction between "Seller-Designed" and "AI-Generated" content, requiring a human-in-the-loop for every listing.
 
 ### Creativity Standards Updates
 

@@ -78,7 +78,7 @@ If your product description mentions a "3-piece set" or "includes a carrying cas
 Cross-reference your "Product Category" in Seller Center with your [image metadata](https://pixelmatch.art/blog/policy/google-merchant-center-ai-image-metadata-requirements-2026-20260619) to ensure they match exactly, as the system compares image content against the selected category's specific requirements. TikTok Shop’s rejection reasons often seem vague, but they usually fall into four distinct buckets.
 
 ### 'Unqualified Image of Product'
-This rejection is frequently triggered when the listing lacks the required variety of angles. For high-risk categories like Electronics or Health & Personal Care, TikTok may require up to 6 different views: front, back, top, bottom, left, and right. If you only provide three views, the listing will be suspended until the additional angles are provided. This rejection also occurs if the image does not show the actual product packaging, which TikTok uses to verify brand authenticity.
+This rejection is frequently triggered when the listing lacks the required variety of angles. For high-risk categories like Electronics or Health & Personal Care, TikTok may require up to 6 different views: front, back, top, bottom, left, and right. If you only provide three views, the listing will be suspended until the additional angles are provided. This rejection also occurs if the image does not show the actual [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study), which TikTok uses to verify brand authenticity.
 
 ### 'Low Quality Or Non Compliant Images'
 This is the most common automated flag. It covers a range of technical errors:

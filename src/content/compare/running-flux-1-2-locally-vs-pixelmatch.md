@@ -132,7 +132,7 @@ Yes, Amazon explicitly accepts [JPEG, TIFF, PNG, and GIF](https://sellercentral.
 TikTok Shop requires a minimum resolution of 800x800 px for main product images, with a 1:1 aspect ratio. For lifestyle shots used in the product description, they recommend 1080x1920 px (9:16) to fit the mobile-first nature of the platform.
 
 ### Is Flux 1.2 Pro Ultra available for local download?
-No, the FLUX 1.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) Ultra model is currently API-only. Local users are generally limited to the FLUX.[1 Dev](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error), FLUX.1 Schnell, or the FLUX.2 Klein 4B models, which are designed to fit into consumer-grade hardware.
+No, the [FLUX 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) Ultra model is currently API-only. Local users are generally limited to the FLUX.[1 Dev](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error), FLUX.1 Schnell, or the FLUX.2 Klein 4B models, which are designed to fit into consumer-grade hardware.
 
 
 <!-- pm-cta:foot -->

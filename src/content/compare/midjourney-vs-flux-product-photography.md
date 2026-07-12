@@ -74,7 +74,7 @@ Apply the `--style raw` parameter in Midjourney or use the "Production" preset i
 | **Batching** | Manual or via unofficial "bot" workarounds | High-scale automation via PixelMatch |
 
 ### Actionable Step: The "Text Stress Test"
-To see the difference today, prompt both models with: *"A professional studio shot of a skincare bottle labeled 'GLOW SERUM' with 15% Vitamin C."* You will find that Flux.2 Pro renders the text with 95%+ accuracy, while Midjourney may still struggle with the smaller font sizes or specific percentages.
+To see the difference today, prompt both models with: *"A professional studio shot of a skincare bottle labeled 'GLOW SERUM' with 15% Vitamin C."* You will find that Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) renders the text with 95%+ accuracy, while Midjourney may still struggle with the smaller font sizes or specific percentages.
 
 ## Pricing Comparison
 
