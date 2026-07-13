@@ -139,7 +139,7 @@ While AI tools like PixelMatch significantly reduce the friction of content crea
 
 *   **Video Disclosure is Separate:** TikTok's [AI content policy](https://pixelmatch.art/blog/policy/amazon-massive-ai-content-policy-update-2026) applies differently to videos. Even if your product photos are labeled, any shoppable short video that uses AI filters or synthetic voiceovers must have the disclosure enabled in the video upload settings.
 *   **Source Quality Matters:** AI cannot fix fundamentally blurry or out-of-focus source photos. If your raw smartphone shot is grainy, the "cutout" will have jagged edges, which TikTok's quality algorithm may flag as "low-quality content," reducing your organic reach.
-*   **Restricted Category Sensitivity:** In the beauty and health categories, TikTok's prohibited products policy is extremely sensitive to "before and after" imagery. Never use AI to generate "after" results on human skin; keep the AI focused strictly on the product packaging and environmental props.
+*   **Restricted Category Sensitivity:** In the beauty and health categories, TikTok's prohibited products policy is extremely sensitive to "before and after" imagery. Never use AI to generate "after" results on human skin; keep the AI focused strictly on the [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) and environmental props.
 *   **Enterprise Pricing:** For sellers managing thousands of SKUs, pricing for high-volume API access varies by plan and isn't published as a flat rate. High-volume sellers should expect to request a custom quote to handle the bandwidth required for daily catalog synchronization.
 
 ## Frequently Asked Questions

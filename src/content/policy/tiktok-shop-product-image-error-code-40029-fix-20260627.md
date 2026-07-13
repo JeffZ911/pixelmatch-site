@@ -61,7 +61,7 @@ TikTok Shop’s security architecture uses OAuth 2.0 to protect your store data.
 Once the API connection is restored, your images must still pass TikTok's automated validation engine. If the connection is fixed but the images are non-compliant, you will encounter secondary errors like `invalid_file_upload`. 
 
 *   **Resolution and Ratio:** Every product image must be at least 600x600 pixels. While 800x800 or 1000x1000 is recommended for zoom clarity, the aspect ratio must remain a strict 1:1 square.
-*   **File Constraints:** TikTok supports JPG, JPEG, and PNG formats. If you are uploading high-detail lifestyle photography, ensure the file size is under 5MB.
+*   **File Constraints:** TikTok supports JPG, JPEG, and PNG formats. If you are uploading high-detail [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026), ensure the file size is under 5MB.
 *   **Variant Limits:** You can upload a maximum of 9 images for the main product listing. For products with multiple SKUs (like different colors), you are limited to 3 photos per variant.
 
 ## Common Rejection Reasons

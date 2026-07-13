@@ -127,7 +127,7 @@ Select the "Amazon A+ Standard Header" template in PixelMatch. This automaticall
 When generating your [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-removal-blurry-edges-fix), keep the product and any essential visual elements toward the center. Amazon sometimes applies slight crops to A+ Content when viewed on smaller mobile screens.
 
 ### 5. Export as JPG at 80% Quality
-Export your final assets as JPGs. While PNGs are great for logos, they are inefficient for lifestyle photography. A JPG at 80% quality is indistinguishable from a 100% quality file to the human eye but is often 70% smaller in file weight, guaranteeing a smooth upload to Seller Central.
+Export your final assets as JPGs. While PNGs are great for logos, they are inefficient for [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026). A JPG at 80% quality is indistinguishable from a 100% quality file to the human eye but is often 70% smaller in file weight, guaranteeing a smooth upload to Seller Central.
 
 ## Caveats and Honest Limitations
 

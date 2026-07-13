@@ -72,7 +72,7 @@ This mandate applies to all image-related attributes in your feed, including `im
 
 ### 2026 Resolution Enforcement Updates
 
-Google is currently in a transition period regarding [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix). According to the 2026 Product Data Specification Update, Google began issuing warnings for low-resolution images on April 14, 2026. While your products might still show today with smaller images, strict enforcement begins on January 31, 2027.
+Google is currently in a transition period regarding [image quality](https://pixelmatch.art/blog/compare/tiktok-shop-mall-invitation-image-quality-fix). According to the 2026 [Product Data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713) Specification Update, Google began issuing warnings for low-resolution images on April 14, 2026. While your products might still show today with smaller images, strict enforcement begins on January 31, 2027.
 
 To future-proof your store, you must move away from the bare minimum 500 x 500 pixel requirement. Google now explicitly recommends 1500 x 1500 pixels for optimal performance across high-density displays. If you are using AI to upscale old assets, ensure the upscaler preserves the IPTC tags mentioned above, as many "free" upscalers strip metadata to save file space.
 

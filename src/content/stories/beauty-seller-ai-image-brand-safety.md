@@ -55,7 +55,7 @@ Before transitioning to an AI-driven workflow, this seller spent an average of $
 ![What Wasn't Working: The Brand Safety Trap of Consumer AI](/img/beauty-seller-ai-image-brand-safety/inline-2.webp)
 
 
-To solve the cost and speed problem, the seller initially experimented with consumer-grade AI image generators. However, they quickly encountered the "Brand Safety Trap." 
+To solve the cost and speed problem, the seller initially experimented with consumer-grade [AI image](https://pixelmatch.art/blog/policy/meta-ai-image-labeling-backlash-sellers) generators. However, they quickly encountered the "Brand Safety Trap." 
 
 The July 2026 launch of Meta's Muse Image AI tool served as a wake-up call for the industry. While powerful, the tool faced massive privacy backlash because it was trained on public social media data without explicit creator consent. For a professional beauty brand, using "black box" AI models like Muse presented three catastrophic risks:
 

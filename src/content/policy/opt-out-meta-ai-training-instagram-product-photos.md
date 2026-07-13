@@ -166,7 +166,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 ## Sources
 *   Meta Privacy Center: Generative AI
-*   Fast Company: Meta Muse Image Opt-Out Guide
+*   Fast Company: [Meta Muse](https://pixelmatch.art/blog/stories/beauty-seller-ai-image-brand-safety) Image Opt-Out Guide
 *   Instagram Help Center: Sharing and Reuse Settings
 *   Meta Data Subject Rights Request Form
 *   Photoroom Pricing and Features

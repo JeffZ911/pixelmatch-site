@@ -45,11 +45,11 @@ Run a quick audit of your current [account health](https://pixelmatch.art/blog/p
 | **Undisclosed Lifestyle AI** | Mandatory toggle in backend | 24–48 Hours | Search Suppression |
 | **Fabricated Product Features** | Prohibited (must remove) | 3–7 Days | Listing Deactivation |
 | **AI-Generated Medical Claims** | Prohibited (must remove) | 5–10 Days | [Account Suspension Risk](https://sellercentral.amazon.com/help/hub/reference/G1791) |
-| **Main Hero Image (Slot 1)** | No AI allowed for product | 24 Hours | Image Suppression |
+| **Main Hero Image (Slot 1)** | No AI allowed for product | 24 Hours | [Image Suppression](https://pixelmatch.art/blog/stories/prime-day-2026-ai-image-suppression-fix) |
 
 [Image Placeholder: A mockup of the [Amazon Seller](https://pixelmatch.art/blog/stories/amazon-sfp-speed-threshold-fix-ai-images) Central backend showing the 'AI-[generated content](https://pixelmatch.art/blog/policy/tiktok-shop-ai-generated-content-label-requirements)' checkbox. Aspect Ratio: 16:9]
 
-Amazon's 2026 policy requires disclosing AI-generated images and text to comply with new marketplace transparency standards. Failure to disclose can result in listing suppression or account suspension under [Section 3 of the Business Solutions Agreement](https://sellercentral.amazon.com/help/hub/reference/G1791). For your main hero images, you must still adhere to the classic [pure white background (RGB 255, 255, 255) and 85% product fill](https://sellercentral.amazon.com/help/hub/reference/G1881) rules, which do not permit synthetic product fabrication.
+Amazon's 2026 policy requires disclosing AI-generated images and text to comply with new marketplace transparency standards. Failure to disclose can result in [listing suppression](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-listing-suppression-tools) or account suspension under [Section 3 of the Business Solutions Agreement](https://sellercentral.amazon.com/help/hub/reference/G1791). For your main hero images, you must still adhere to the classic [pure white background (RGB 255, 255, 255) and 85% product fill](https://sellercentral.amazon.com/help/hub/reference/G1881) rules, which do not permit synthetic product fabrication.
 
 ## Detailed Requirements
 

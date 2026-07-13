@@ -135,7 +135,7 @@ Yes, but only if they are "inherent" to the product. This means the reflection m
 While Flux outputs high-quality PNGs, you should convert these to WebP or JPEG for Shopify. Shopify supports files [up to 20 MB](https://help.shopify.com/en/manual/products/product-variant-images/product-image-size), but for page speed optimization, keeping images under 1 MB while maintaining the [2048 x 2048 px](https://help.shopify.com/en/manual/products/product-variant-images/product-image-size) resolution is recommended.
 
 ### Why does my glass bottle look "grey" after background removal?
-This is usually "color contamination." The AI model (Flux 1.2) reflects the original background color inside the glass. When you remove that background, the "trapped" color remains. To fix this, you must use a background removal tool that supports "decontamination" or specifically prompt Flux for a "pure white background" to minimize initial color bleed.
+This is usually "color contamination." The AI model ([Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2) reflects the original background color inside the glass. When you remove that background, the "trapped" color remains. To fix this, you must use a background removal tool that supports "decontamination" or specifically prompt Flux for a "pure white background" to minimize initial color bleed.
 
 ### How many images do I actually need for TikTok Shop?
 Technically, you only need one image to list a product. However, TikTok's internal "Listing Optimizer" will rate your listing as "Poor" or "Fair" unless you upload at least 5 images. For maximum conversion and search visibility, aim for the maximum limit of 9 images.

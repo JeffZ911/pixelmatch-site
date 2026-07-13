@@ -97,7 +97,7 @@ Flux uses a pay-per-use API model, making it highly scalable for sellers who onl
 *   **Self-Hosting:** The Flux.2 [dev] model is "open-weight," meaning you can host it on your own server for $0 (plus hardware costs), though this requires significant technical expertise.
 
 ### Actionable Step: Calculate Your Break-Even
-If you are a high-volume seller generating 2,000+ images a month for A/B testing, Flux.2 Pro’s API model ($60 total) is comparable to Midjourney’s Pro plan in cost but significantly faster due to the lack of manual Discord prompting.
+If you are a high-volume seller generating 2,000+ images a month for A/B testing, Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study)’s API model ($60 total) is comparable to Midjourney’s Pro plan in cost but significantly faster due to the lack of manual Discord prompting.
 
 ## Best For (By Seller Profile)
 
