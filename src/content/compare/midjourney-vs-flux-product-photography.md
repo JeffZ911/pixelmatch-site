@@ -129,7 +129,7 @@ Verify your product's physical dimensions against a generated AI sample before p
 Midjourney is a closed ecosystem. There is no official way to connect it to your Shopify backend or an automated spreadsheet. Furthermore, Midjourney is "opinionated"—it wants to make things look beautiful, even if that means changing the shape of your product's cap or the thickness of its glass. For a professional seller, this results in "Item Not As Described" returns.
 
 ### Flux's Weakness: The Technical Barrier
-Raw Flux is not user-friendly. Unless you are comfortable using API documentation, ComfyUI, or Python, you cannot easily access its full power. While the Flux.2 Pro pricing is low, the cost of building a custom interface to use it can be thousands of dollars. 
+Raw Flux is not user-friendly. Unless you are comfortable using API documentation, ComfyUI, or Python, you cannot easily access its full power. While the Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) pricing is low, the cost of building a custom interface to use it can be thousands of dollars. 
 
 ### The Workflow Gap
 Neither Midjourney nor Flux natively understands "Marketplace Compliance." They don't know that an Amazon [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) cannot have a shadow that touches the edge of the frame, or that a TikTok Shop image needs a specific "safe zone" for UI overlays.

@@ -110,7 +110,7 @@ Flux 2, while technically superior for realism, has a massive barrier to entry f
 
 Neither tool natively understands marketplace-specific rules. They won't automatically ensure your [main image](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy) has a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G16881) as required by Amazon. You still need a post-processing step to ensure compliance.
 
-**Actionable Step:** Before investing in a local AI rig, benchmark your current computer. If you don't have a dedicated NVIDIA RTX 4090 or better, skip the local Flux 2 setup and use a cloud-based batch tool like PixelMatch to avoid the $2,000+ hardware cost.
+**Actionable Step:** Before investing in a [local AI](https://pixelmatch.art/blog/compare/ambit-local-ai-library-ecommerce-assets) rig, benchmark your current computer. If you don't have a dedicated NVIDIA RTX 4090 or better, skip the local Flux 2 setup and use a cloud-based batch tool like PixelMatch to avoid the $2,000+ hardware cost.
 
 ## Recommendation
 

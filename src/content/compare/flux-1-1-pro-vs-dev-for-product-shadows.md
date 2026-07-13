@@ -148,7 +148,7 @@ However, for the vast majority of ecommerce sellers, a purpose-built tool like *
 ### Final Verdict Callout
 *   **Choose [FLUX 1](https://pixelmatch.art/blog/stories/tiktok-symphony-studio-invalid-media-format-flux-1-1).[1 Pro](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1)** if you need an API to build a custom internal tool and have a high budget for experimentation.
 *   **Choose FLUX.1 [dev]** only for personal learning and non-commercial AI research.
-*   **Choose PixelMatch** if you want to batch-generates AI product images that are commercially safe, platform-compliant, and ready to upload in minutes.
+*   **Choose PixelMatch** if you want to batch-generates [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) that are commercially safe, platform-compliant, and ready to upload in minutes.
 
 ## Frequently Asked Questions
 

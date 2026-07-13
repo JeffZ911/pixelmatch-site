@@ -148,7 +148,7 @@ Start by auditing your current catalog. If your images don't meet the [2048px Sh
 As of the Summer Edition 2026, Shopify Magic limits AI-generated images to [1 megapixel](https://help.shopify.com/en/manual/shopify-magic/media-generation), which typically results in a 1024x1024 px file. While this is suitable for thumbnails, it is lower than the [2048x2048 px recommendation](https://help.shopify.com/en/manual/online-store/images) for high-quality zoom on product pages.
 
 ### Does Photoroom allow for commercial use of AI images?
-Yes, Photoroom's Pro plan at $9.99/mo includes a commercial license for the images you create. This allows you to use the generated backgrounds for your Shopify store, social media ads, and marketplace listings without copyright concerns.
+Yes, Photoroom's Pro plan at $9.99/mo includes a commercial license for the images you create. This allows you to use the generated backgrounds for your Shopify store, social media ads, and [marketplace listings](https://pixelmatch.art/blog/compare/revvel-standards-csv-marketplace-listings) without copyright concerns.
 
 ### How many images can I generate with Pebblely's basic plan?
 Pebblely's basic plan costs $19/mo and allows for 200 image generations. If you need more, you must upgrade to the Pro plan at $39/mo, which covers 500 images, or pay for additional credit packs.

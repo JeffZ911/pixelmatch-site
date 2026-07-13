@@ -136,7 +136,7 @@ According to Google's terms of service, you retain ownership of the original pro
 You should use the `--sref` (Style Reference) and `--cref` (Character/Product Reference) parameters. By providing a URL to an existing brand photo after these tags, you can tell [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) to mimic the lighting, color palette, and product details of your original asset across new generations.
 
 ### Which tool is better for increasing the resolution of old photos?
-Google Product Studio has a dedicated "Increase Resolution" feature designed specifically for ecommerce assets. While [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) has upscaling buttons, they are designed to upscale images *it* generated, not necessarily external photos you upload. For existing vendor assets, Google or a dedicated AI upscaler is more effective.
+Google Product Studio has a dedicated "Increase Resolution" feature designed specifically for [ecommerce assets](https://pixelmatch.art/blog/compare/ambit-local-ai-library-ecommerce-assets). While [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-1-1-pro-apparel-textures) has upscaling buttons, they are designed to upscale images *it* generated, not necessarily external photos you upload. For existing vendor assets, Google or a dedicated AI upscaler is more effective.
 
 
 <!-- pm-cta:foot -->

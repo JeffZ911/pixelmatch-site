@@ -75,7 +75,7 @@ The choice between these tools depends on where your generation happens. Ambit a
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Ambit is 100% free and open-source under a GPL-3.0 license, but it requires you to provide your own local storage and GPU hardware for the actual image generation. To run the generation tools that Ambit indexes, such as Stable Diffusion, many sellers invest in high-end hardware like the NVIDIA RTX 4090 with 24GB VRAM, which carries a significant upfront cost.
@@ -140,7 +140,7 @@ No, Ambit is a library management tool, not a generator. You must use external s
 Yes. PixelMatch is designed to handle specific marketplace requirements, including the [Amazon requirement for a pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) and the necessary pixel dimensions for the hover-to-zoom feature.
 
 ### Is my data safe in a local tool like Ambit?
-Since Ambit runs locally on your machine, your data stays on your hard drive. However, this also means you are responsible for your own backups. If your hard drive fails, your entire AI image library and its indexed metadata will be lost unless you have a secondary backup solution.
+Since Ambit runs locally on your machine, your data stays on your hard drive. However, this also means you are responsible for your own backups. If your hard drive fails, your entire [AI image](https://pixelmatch.art/blog/policy/meta-ai-image-labeling-backlash-sellers) library and its indexed metadata will be lost unless you have a secondary backup solution.
 
 ### Which tool is better for a team with multiple employees?
 PixelMatch is significantly better for teams. Because it is cloud-based, multiple users can log in from different locations to view, generate, and approve assets. Ambit is a local desktop application, making it difficult to share a synchronized library across a distributed team without complex network drive setups.

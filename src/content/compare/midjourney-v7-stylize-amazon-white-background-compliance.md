@@ -135,7 +135,7 @@ For the modern multi-platform seller, the most efficient strategy is a **hybrid 
 
 1.  **Use PixelMatch for all Main Images.** Don't fight the Midjourney engine to get a pure white background. Use PixelMatch to batch-generate your primary listing photos. This guarantees compliance, ensures your product fills [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/1881), and keeps your backgrounds at a perfect RGB 255, 255, 255.
 2.  **Use [Midjourney v7](https://pixelmatch.art/blog/compare/midjourney-v7-for-amazon-product-photography-20260704) for "Hero" Lifestyle Images.** Once your listing is live and compliant, use Midjourney to create those beautiful, atmospheric shots for your A+ Content (EBC) and social media. These are the images where the `--stylize` parameter can shine without risking a suppressed listing.
-3.  **Batch-generate AI product images** in PixelMatch to handle the volume. If you are launching a product with 10 color variations, PixelMatch can generate all 10 compliant main images in the time it takes to write a single Midjourney prompt.
+3.  **Batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images)** in PixelMatch to handle the volume. If you are launching a product with 10 color variations, PixelMatch can generate all 10 compliant main images in the time it takes to write a single Midjourney prompt.
 
 By separating "Compliance" from "Creativity," you protect your Amazon [account health](https://pixelmatch.art/blog/policy/tiktok-shop-account-health-rating-transition-guide) while still benefiting from the cutting-edge aesthetics of modern AI.
 
@@ -148,7 +148,7 @@ Amazon's automated systems check for a pure white background, which must be exac
 For lifestyle images where you want high realism, a stylize value between 250 and 750 is usually best. However, for white background images, you should use `--s 0` or `--s 50` to minimize background artifacts, though this often reduces the overall quality of the product's texture.
 
 ### Does Midjourney v7 have a batch mode for ecommerce?
-No, Midjourney does not have a native "ecommerce batch mode" that can take a list of SKUs and generate compliant images for each. It requires manual prompting for every image. Tools like PixelMatch are built specifically to handle batch ai product photography for large catalogs.
+No, Midjourney does not have a native "ecommerce batch mode" that can take a list of SKUs and generate compliant images for each. It requires manual prompting for every image. Tools like PixelMatch are built specifically to handle batch [ai product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) photography for large catalogs.
 
 ### What are the Amazon product image guidelines for 2026?
 The core requirements remain strict: the main image must have a [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/1881), the product must fill at least [85% of the frame](https://sellercentral.amazon.com/help/hub/reference/1881), and the image must be at least [1000 pixels](https://sellercentral.amazon.com/help/hub/reference/1881) on the longest side (though 1600px is recommended for zoom).

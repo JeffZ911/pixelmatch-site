@@ -180,7 +180,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   Etsy Creativity Standards (2024-2026): https://www.etsy.com/legal/creativity/
 *   Etsy Help Center - Filing an Appeal: https://help.etsy.com/hc/en-us/articles/115015672628-How-to-File-an-Appeal-for-a-Permanently-Suspended-Account
-*   Rewarx - Etsy AI Refund and Violation Stats: https://rewarx.com/etsy-banned-ai-prompts-what-sellers-should-do-next/
+*   Rewarx - [Etsy AI](https://pixelmatch.art/blog/policy/optimizing-listings-for-etsy-ai-slop-filter) Refund and Violation Stats: https://rewarx.com/etsy-banned-ai-prompts-what-sellers-should-do-next/
 *   Rewarx - 68 Percent of Etsy Sellers Violating Rules: https://rewarx.com/68-percent-etsy-sellers-broke-this-new-rule/
 *   Photoroom Pricing: https://www.photoroom.com/pricing
 *   Etsy Seller Policy: https://www.etsy.com/legal/sellers/

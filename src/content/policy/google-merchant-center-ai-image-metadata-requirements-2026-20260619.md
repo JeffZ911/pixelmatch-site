@@ -183,5 +183,5 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 
 *   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center Help: Use AI-generated images in [Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation)
 *   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Help: image_link: Definition
-*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center Help: 2026 product data specification updates
+*   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center Help: 2026 [product data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713) specification updates
 *   IPTC.org: Digital Source Type News Metadata

@@ -66,7 +66,7 @@ They also experimented with Photoroom's Pro tier at $12.99/mo, but quickly hit t
 
 In early 2026, Lumina Skin integrated the [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Pro Ultra model into their design pipeline via PixelMatch. Unlike earlier iterations of generative AI, Flux 1.2 Pro was engineered specifically to handle high-density text and complex material physics. This allowed the brand to skip the physical mockup phase entirely.
 
-The workflow centered on "Digital-First Prototyping." Instead of waiting for a bottle to arrive in the mail, the design team uploaded their flat 2D label artwork (the "die-line") into PixelMatch. The Flux 1.2 engine then "wrapped" this design onto a 3D-generated bottle with perfect perspective and lighting. 
+The workflow centered on "Digital-First Prototyping." Instead of waiting for a bottle to arrive in the mail, the design team uploaded their flat 2D label artwork (the "die-line") into PixelMatch. The [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 engine then "wrapped" this design onto a 3D-generated bottle with perfect perspective and lighting. 
 
 To ensure the images were ready for immediate multi-platform deployment, PixelMatch’s pipeline automatically upscaled the outputs to meet Amazon’s [recommended 2000×2000 px resolution](https://sellercentral.amazon.com/help/hub/reference/1881). This specific resolution is critical because it triggers the "hover-to-zoom" functionality on Amazon and Shopify, which has been shown to significantly increase conversion rates by allowing customers to read small-print ingredient lists.
 

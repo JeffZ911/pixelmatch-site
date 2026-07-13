@@ -65,7 +65,7 @@ The challenge for multi-platform sellers is that many image optimization pipelin
 
 The physical product depicted in the image must be the actual product being sold; fully synthetic main images of non-existent items violate the core [product data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713) specification. This is the "Misrepresentation" trap. You can use AI to change the environment (e.g., placing a coffee mug on a marble countertop), but you cannot use AI to "hallucinate" features onto the mug itself. 
 
-If your product is a blue cotton shirt, using generative AI to add a pocket that doesn't exist on the physical SKU is a direct violation of the Misrepresentation policy. Google's automated systems compare your product images against other data points in your feed, such as titles and descriptions. Discrepancies between the AI-enhanced visual and the text-based attributes lead to "Inaccurate product data" warnings.
+If your product is a blue cotton shirt, using generative AI to add a pocket that doesn't exist on the physical SKU is a direct violation of the Misrepresentation policy. Google's automated systems compare your product images against other data points in your feed, such as titles and descriptions. Discrepancies between the AI-enhanced visual and the text-based attributes lead to "Inaccurate [product data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713)" warnings.
 
 ## Common Rejection Reasons
 

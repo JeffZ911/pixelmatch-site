@@ -94,7 +94,7 @@ When GMC processed the feeds, the Supplemental Feed "overwrote" the default Shop
 
 Compare your "Before" and "After" CTR in the GMC "Performance" report to quantify the impact of switching to lifestyle imagery. For Lumina Decor, the results of fixing the metadata and moving to AI-generated backgrounds were immediate and measurable.
 
-By automating their lifestyle photography through PixelMatch and the supplemental feed workflow, they eliminated the need for $45.00-per-image studio sessions. While basic product photography often costs between $20 and $50 per image, lifestyle shots involving set design and lighting typically sit at the higher end of that range. By moving to an AI-driven model, their cost per finished lifestyle image dropped to approximately $4.50—a figure that accounts for the PixelMatch subscription, AWS hosting fees, and the internal labor required to manage the supplemental feed.
+By automating their [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) through PixelMatch and the supplemental feed workflow, they eliminated the need for $45.00-per-image studio sessions. While basic product photography often costs between $20 and $50 per image, lifestyle shots involving set design and lighting typically sit at the higher end of that range. By moving to an AI-driven model, their cost per finished lifestyle image dropped to approximately $4.50—a figure that accounts for the PixelMatch subscription, AWS hosting fees, and the internal labor required to manage the supplemental feed.
 
 | Metric | Before (Studio Photos) | After (Metadata-Safe AI) |
 | :--- | :--- | :--- |
