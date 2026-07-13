@@ -35,7 +35,7 @@ Scaling a 200-SKU home goods catalog often requires a studio budget that eats yo
 ![The Seller's Situation](/img/shopify-magic-media-ai-image-generation-guide/inline-1.webp)
 
 
-Audit your current per-listing photography spend by totaling your photographer fees, shipping costs to the studio, and the hourly rate of the staff member managing the shoot. For our composite seller—a mid-sized home goods brand managing a growing catalog of 200+ SKUs—this audit revealed a staggering reality. Traditional lifestyle photography was costing upwards of $45 per listing. With 200 items, that is a $9,000 investment before a single dollar of ad spend is deployed.
+Audit your current per-listing photography spend by totaling your photographer fees, shipping costs to the studio, and the hourly rate of the staff member managing the shoot. For our composite seller—a mid-sized home goods brand managing a growing catalog of 200+ SKUs—this audit revealed a staggering reality. Traditional [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) was costing upwards of $45 per listing. With 200 items, that is a $9,000 investment before a single dollar of ad spend is deployed.
 
 Beyond the financial cost, the "time-to-market" was a significant pain point. Coordinating with a studio, shipping physical samples, and waiting for the editing cycle meant it took an average of 14 days to get a new product live. This delay prevented the seller from quickly testing new variations or seasonal bundles. To scale, they needed a workflow that could produce high-quality, platform-compliant images in hours, not weeks, without sacrificing the professional "Retina-ready" look that modern consumers expect.
 

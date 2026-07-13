@@ -28,7 +28,7 @@ Scaling TikTok creative shouldn't feel like a gamble against the "Ad Rejected" n
 
 # TikTok Symphony Agent for Ecommerce Ads: 2026 Policy & Specs Guide
 
-[TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos) Agent is an AI creative suite launched in June 2026. To maintain account health, ensure all vertical ecommerce assets are 1080x1920 px and adhere to strict AI-labeling policies to avoid ad rejection.
+[TikTok Symphony](https://pixelmatch.art/blog/stories/tiktok-symphony-digital-humans-product-demos) Agent is an AI creative suite launched in June 2026. To maintain account health, ensure all vertical [ecommerce assets](https://pixelmatch.art/blog/compare/ambit-local-ai-library-ecommerce-assets) are 1080x1920 px and adhere to strict AI-labeling policies to avoid ad rejection.
 
 ## Quick Reference Table
 

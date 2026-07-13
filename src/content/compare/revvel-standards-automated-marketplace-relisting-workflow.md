@@ -47,7 +47,7 @@ Achieving the [revvel standards](https://pixelmatch.art/blog/compare/revvel-stan
 ![Side-by-Side Feature Table](/img/revvel-standards-automated-marketplace-relisting-workflow/inline-2.webp)
 
 
-Audit your current image library for [RGB 255, 255, 255 compliance](https://sellercentral.amazon.com/help/hub/reference/G1881) using a color picker tool before your next bulk upload to ensure you meet the revvel standards for automated marketplace relisting.
+Audit your current image library for [RGB 255, 255, 255 compliance](https://sellercentral.amazon.com/help/hub/reference/G1881) using a color picker tool before your next bulk upload to ensure you meet the [revvel standards](https://pixelmatch.art/blog/compare/revvel-standards-csv-marketplace-listings) for automated [marketplace relisting](https://pixelmatch.art/blog/policy/revvel-standards-marketplace-relisting-pipeline).
 
 | Feature | Photoroom | Pebblely | PixelMatch |
 | :--- | :--- | :--- | :--- |

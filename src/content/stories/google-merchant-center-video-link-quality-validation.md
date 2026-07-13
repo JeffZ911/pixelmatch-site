@@ -34,7 +34,7 @@ Your high-performing [Google Shopping](https://pixelmatch.art/blog/policy/google
 
 Managing a high-growth beauty brand requires more than just aesthetic product shots; it demands technical precision across every platform feed. This case study focuses on a composite multi-platform seller generating $50,000 to $100,000 in monthly revenue. With a catalog of over 200 SKUs—ranging from organic serums to professional-grade makeup palettes—this seller distributes products across Shopify, Amazon, and Google Shopping.
 
-The primary challenge emerged with the rollout of the 2026 Google product data specification update. This update turned the previously optional `[video_link]` attribute into a high-stakes technical requirement. To maintain visibility in Performance Max and standard Shopping campaigns, the seller had to ensure every video asset met strict serving and quality validation checks. 
+The primary challenge emerged with the rollout of the 2026 Google [product data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713) specification update. This update turned the previously optional `[video_link]` attribute into a high-stakes technical requirement. To maintain visibility in Performance Max and standard Shopping campaigns, the seller had to ensure every video asset met strict serving and quality validation checks. 
 
 ## The Seller's Situation: Audit Your GMC Deadlines Today
 

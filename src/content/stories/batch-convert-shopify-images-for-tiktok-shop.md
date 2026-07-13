@@ -70,7 +70,7 @@ Finally, they tested Photoroom’s Pro tier at $12.99/mo. While Photoroom is an 
 To solve the bottleneck, the seller moved to PixelMatch to automate the entire image adaptation pipeline. This shifted the workflow from a multi-day manual project to a 45-minute automated task.
 
 ### Step 1: Data Extraction
-The seller began by exporting their active product data from Shopify. Instead of downloading images one by one, they exported a CSV of their products, which contains the "Image Src" column. This column provides the direct URL for every high-resolution asset hosted on Shopify's servers.
+The seller began by exporting their active [product data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713) from Shopify. Instead of downloading images one by one, they exported a CSV of their products, which contains the "Image Src" column. This column provides the direct URL for every high-resolution asset hosted on Shopify's servers.
 
 ### Step 2: Batch Import and Resizing
 They imported these URLs directly into PixelMatch. The goal was to convert the [2048 x 2048 px Shopify assets](https://help.shopify.com/en/manual/online-store/images/theme-images) into optimized 1200 x 1200 px files. This specific resolution is the "sweet spot" for TikTok Shop: it is well above the 600 x 600 px minimum, providing enough detail for customers to see ingredients on labels, but it keeps the file size significantly lower than the 10MB limit.

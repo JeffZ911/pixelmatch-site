@@ -127,7 +127,7 @@ If you already have a massive local hard drive filled with ComfyUI outputs and j
 
 For sellers scaling across Amazon, Shopify, and other marketplaces, time is your most valuable asset. PixelMatch eliminates the friction of local hardware and manual folder organization. It allows you to move from a raw product shot to a marketplace-ready asset in a single browser tab, ensuring your images always meet the latest platform specs.
 
-Start using PixelMatch to seamlessly batch-generate, organize, and export your ecommerce product images in the cloud. By moving your workflow to the cloud, you bypass the hardware arms race and focus on what actually moves the needle: launching products faster.
+Start using PixelMatch to seamlessly batch-generate, organize, and export your ecommerce [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in the cloud. By moving your workflow to the cloud, you bypass the hardware arms race and focus on what actually moves the needle: launching products faster.
 
 **Actionable Step:** Set a 30-minute timer and try to generate a set of 10 lifestyle images for a new SKU using both methods. If the local setup (generating, finding, resizing, and checking specs) takes longer than the cloud-based generation, the SaaS model will pay for itself in labor savings within the first month.
 

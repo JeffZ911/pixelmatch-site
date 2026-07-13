@@ -39,7 +39,7 @@ Leaking a prototype image before a product launch can tank your sales ranking be
 <!-- auto-related -->
 *Related: [Photoroom vs Pebblely: Revvel Standards for Automated Marketplace Reli](/blog/compare/revvel-standards-automated-marketplace-relisting-workflow) · [Generating Realistic AI Voiceovers for Etsy Digital Products (2026)](/blog/compare/ai-voiceovers-etsy-digital-products) · [Shopify Magic vs Adobe Firefly for Background Removal](/blog/compare/shopify-magic-vs-adobe-firefly-background-removal)*
 
-Before choosing between a local setup and a cloud-based solution, run a benchmark on your current hardware. If you do not own a high-end dedicated GPU, the "free" nature of local AI quickly becomes an expensive hardware investment.
+Before choosing between a local setup and a cloud-based solution, run a benchmark on your current hardware. If you do not own a high-end dedicated GPU, the "free" nature of [local AI](https://pixelmatch.art/blog/compare/ambit-local-ai-library-ecommerce-assets) quickly becomes an expensive hardware investment.
 
 *   **Running Flux locally** (using the FLUX.2 klein 4B model or FLUX.[1 dev](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error)) offers absolute privacy for unreleased product assets, as no data leaves your machine.
 *   **Hardware bottlenecks** are the primary hurdle; local setups require heavy hardware, specifically a [24GB RTX 4090 for full FP16](https://github.com/comfyanonymous/ComfyUI) precision, and involve complex node-based workflows in ComfyUI.
@@ -57,7 +57,7 @@ Use this checklist to audit your current image assets against platform rules and
 | **Data Privacy** | 100% Offline / Air-gapped | Secure Cloud (Encrypted) |
 | **Hardware Required** | [RTX 3090/4090 (24GB VRAM)](https://github.com/comfyanonymous/ComfyUI) | Any browser / laptop |
 | **Setup Time** | 4–8 hours (Python/Git/ComfyUI) | Instant (SaaS login) |
-| **Batch Processing** | Manual node-wiring / Queues | One-click [batch AI product photography] |
+| **Batch Processing** | Manual node-wiring / Queues | One-click [batch [AI product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) photography] |
 | **Amazon Compliance** | Manual (requires RGB 255 check) | Automated [[amazon main image requirements](/blog/policy/amazon-main-image-requirements-2026)] |
 | **Image Resolution** | Variable (Raw output) | Up to [2000x2000 px (Amazon Spec)](https://sellercentral.amazon.com/help/hub/reference/G1881) |
 | **File Formats** | Raw PNG/WebP | Optimized JPEG, PNG, TIFF, GIF |

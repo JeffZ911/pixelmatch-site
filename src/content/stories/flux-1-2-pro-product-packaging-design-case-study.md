@@ -70,7 +70,7 @@ The workflow centered on "Digital-First Prototyping." Instead of waiting for a b
 
 To ensure the images were ready for immediate multi-platform deployment, PixelMatch’s pipeline automatically upscaled the outputs to meet Amazon’s [recommended 2000×2000 px resolution](https://sellercentral.amazon.com/help/hub/reference/1881). This specific resolution is critical because it triggers the "hover-to-zoom" functionality on Amazon and Shopify, which has been shown to significantly increase conversion rates by allowing customers to read small-print ingredient lists.
 
-**Actionable Step for Sellers:** When prompting Flux 1.2 Pro, use a "Material-First" structure. Instead of prompting "a bottle of serum," use: "Professional studio photography of a 30ml matte amber glass dropper bottle, realistic liquid refraction, high-resolution label text, soft top-down lighting, 8k resolution."
+**Actionable Step for Sellers:** When prompting [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Pro, use a "Material-First" structure. Instead of prompting "a bottle of serum," use: "Professional studio photography of a 30ml matte amber glass dropper bottle, realistic liquid refraction, high-resolution label text, soft top-down lighting, 8k resolution."
 
 | Feature | Traditional Studio | Generic AI Tools | Flux 1.2 Pro (via PixelMatch) |
 | :--- | :--- | :--- | :--- |

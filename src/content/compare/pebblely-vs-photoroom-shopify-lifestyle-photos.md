@@ -41,7 +41,7 @@ Before committing to a subscription, run a test upload of your most complex prod
 
 *   **Choose Pebblely** if you are a solo founder who needs "Instagram-ready" aesthetic scenes (like a candle on a marble countertop) without learning how to write complex AI prompts.
 *   **Choose Photoroom** if you are a high-volume reseller who shoots products on a phone and needs to remove backgrounds and apply consistent templates to 50+ items at once.
-*   **Choose PixelMatch** if you manage 100+ SKUs across Shopify, Amazon, and TikTok Shop and need to batch-generate AI product images that automatically adjust to different platform specs in one click.
+*   **Choose PixelMatch** if you manage 100+ SKUs across Shopify, Amazon, and TikTok Shop and need to batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) that automatically adjust to different platform specs in one click.
 
 ## Side-by-Side Feature Table
 
@@ -115,7 +115,7 @@ If you are flipping electronics, vintage clothing, or sneakers, your priority is
 **Winner: PixelMatch**
 Neither Pebblely nor Photoroom is built for the "Power Seller" who lists on Shopify, Amazon, and TikTok Shop simultaneously. Shopify wants 2048 x 2048 px lifestyle shots. Amazon's pure white background rules require a 1600px minimum with no extra props. TikTok Shop favors 9:16 vertical lifestyle layouts.
 
-PixelMatch is better suited for this workflow because it allows you to batch-generate AI product images in multiple aspect ratios and platform-specific styles from a single source image. Instead of manually resizing and re-generating for three different platforms, you set your "Brand Kit" and let the AI handle the platform-specific compliance.
+PixelMatch is better suited for this workflow because it allows you to batch-generate [AI product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) images in multiple aspect ratios and platform-specific styles from a single source image. Instead of manually resizing and re-generating for three different platforms, you set your "Brand Kit" and let the AI handle the platform-specific compliance.
 
 ## Where Each Falls Short
 

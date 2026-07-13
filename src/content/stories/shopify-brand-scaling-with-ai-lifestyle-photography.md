@@ -61,7 +61,7 @@ The brand needed a solution that offered the batch-processing power of a SaaS to
 ![The Workflow They Built](/img/shopify-brand-scaling-with-ai-lifestyle-photography/inline-3.webp)
 
 
-Lumina Skin transitioned to PixelMatch to build a custom AI lifestyle photography engine. Instead of treating every photo as a one-off project, they built a repeatable "Brand Kit" within the PixelMatch dashboard. This allowed them to define the "DNA" of their brand visuals once and apply it to every SKU in batch.
+Lumina Skin transitioned to PixelMatch to build a custom AI [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) engine. Instead of treating every photo as a one-off project, they built a repeatable "Brand Kit" within the PixelMatch dashboard. This allowed them to define the "DNA" of their brand visuals once and apply it to every SKU in batch.
 
 ### Setting Up the Brand Kit
 The creative director defined three core "Scenes" in PixelMatch:
