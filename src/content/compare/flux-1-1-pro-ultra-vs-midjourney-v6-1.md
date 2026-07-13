@@ -68,7 +68,7 @@ Speed is the second major differentiator. [Flux 1](https://pixelmatch.art/blog/p
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your monthly image volume today to choose a billing model that won't eat into your customer acquisition cost (CAC). If you are generating 1,000+ images a month for A/B testing social ads, the pay-as-you-go model of Flux usually beats the high-tier subscription costs of Midjourney.

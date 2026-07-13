@@ -60,7 +60,7 @@ The brand then turned to generic AI tools like Photoroom and Canva. While Photor
 *   **File Size Bloat:** High-resolution exports from generic design tools frequently exceeded the 5 MB maximum file size, causing Symphony Studio to hang or error out during the upload phase.
 *   **Bot-Triggering Artifacts:** Low-quality AI generation often left "halos" or jagged edges around the product. TikTok’s moderation bot identifies these artifacts as "low-quality content," which can trigger a rejection for poor user experience.
 
-The brand needed a way to generate "bot-safe" assets that looked like high-end lifestyle photography without the $45 price tag.
+The brand needed a way to generate "bot-safe" assets that looked like high-end [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) without the $45 price tag.
 
 ## The Workflow They Built
 

@@ -143,7 +143,7 @@ Skip the technical headache of managing API keys or Discord prompts and use a pu
 
 1.  **For the Solo Artist/Boutique:** If you only have 5-10 products and need highly artistic, "moody" photos for Instagram, stick with **Midjourney’s $30 Standard Plan**. Its creative flair is worth the manual effort of prompting.
 2.  **For the Professional Seller:** If you are scaling a brand and need accuracy, [text rendering](https://pixelmatch.art/blog/policy/stable-diffusion-3-product-text-rendering-guide-20260615), and speed, **Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study)** is the mandatory choice. It ensures your packaging looks real and your brand colors stay consistent.
-3.  **For the Scale-Focused Merchant:** To get the benefits of Flux without the coding requirement, use **PixelMatch**. It leverages the Flux.2 Pro model to batch-generate marketplace-compliant [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) in seconds. You get the photorealism of Flux and the ease of a "point-and-click" interface that handles the resizing and background removal for you.
+3.  **For the Scale-Focused Merchant:** To get the benefits of Flux without the coding requirement, use **PixelMatch**. It leverages the Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) model to batch-generate marketplace-compliant [product photos](https://pixelmatch.art/blog/policy/opt-out-meta-ai-training-instagram-product-photos) in seconds. You get the photorealism of Flux and the ease of a "point-and-click" interface that handles the resizing and background removal for you.
 
 
 <!-- pm-cta:foot -->

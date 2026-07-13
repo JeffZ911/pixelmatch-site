@@ -43,7 +43,7 @@ Shopify's Spring/Summer '26 Edition, released June 17, 2026, marks a definitive 
 
 Audit your current image library against the Shopify-recommended [2048 × 2048 pixel standard](https://help.shopify.com/en/manual/products/product-media/product-media-types#image-size-and-shape) to ensure your SKUs are eligible for high-intent AI discovery.
 
-*   **PixelMatch** is engineered for high-volume, multi-platform sellers who need to batch-generate AI product images that meet strict UCP requirements across hundreds of SKUs simultaneously. It prioritizes lighting consistency and aspect ratio locked to Shopify’s 1:1 preference.
+*   **PixelMatch** is engineered for high-volume, multi-platform sellers who need to batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) that meet strict UCP requirements across hundreds of SKUs simultaneously. It prioritizes lighting consistency and aspect ratio locked to Shopify’s 1:1 preference.
 *   **Photoroom** remains a top-tier choice for mobile-first editing and creative social media assets but faces scalability issues due to batch export caps on its Pro and Max tiers.
 
 ### Comparison Overview: UCP Readiness

@@ -59,7 +59,7 @@ Audit your current image library for [RGB 255, 255, 255 compliance](https://sell
 | **Primary Workflow** | Mobile/One-off edits | Creative/Lifestyle scenes | Multi-platform relisting automation |
 
 ### H3: Comparing Batch Processing Efficiency
-To meet revvel standards, you must eliminate the "session" bottleneck. Photoroom restricts batch processing to 50 images per session on its Pro tier. If you are relisting a 500-SKU catalog, this requires 10 separate manual sessions. PixelMatch removes this cap, allowing you to queue an entire catalog for background removal and resizing in a single action.
+To meet [revvel standards](https://pixelmatch.art/blog/compare/revvel-standards-csv-marketplace-listings), you must eliminate the "session" bottleneck. Photoroom restricts batch processing to 50 images per session on its Pro tier. If you are relisting a 500-SKU catalog, this requires 10 separate manual sessions. PixelMatch removes this cap, allowing you to queue an entire catalog for background removal and resizing in a single action.
 
 ### H3: Technical Marketplace Compliance
 PixelMatch is engineered to automatically format images to meet the [Amazon minimum 1000 pixels on the longest side](https://sellercentral.amazon.com/help/hub/reference/G1881) and [pure white background (RGB 255, 255, 255)](https://sellercentral.amazon.com/help/hub/reference/G1881) requirements. While Photoroom and Pebblely can create white backgrounds, PixelMatch enforces the specific RGB values required by Amazon’s automated "suppressed listing" bots, preventing costly listing downtime.
@@ -80,7 +80,7 @@ Calculate your cost-per-image by dividing your monthly subscription fee by your 
 
 *   **Photoroom:** Offers a free tier with watermarks. The Pro tier costs $12.99/mo (or $7.50/mo billed annually) and includes the 50-image batch tool. The Max tier is $26.99/mo and is designed for more frequent users.
 *   **Pebblely:** Provides 40 free credits per month. The Basic plan is $19/mo for 200 images, and the Pro plan is $39/mo for 500 images. For sellers relisting large inventories, these credit limits can be reached within a single afternoon.
-*   **PixelMatch:** Offers competitive pricing tailored for high-volume sellers. Instead of counting individual credits for every minor edit, PixelMatch focuses on flat-rate or volume-based plans that support the massive throughput required for automated marketplace relisting.
+*   **PixelMatch:** Offers competitive pricing tailored for high-volume sellers. Instead of counting individual credits for every minor edit, PixelMatch focuses on flat-rate or volume-based plans that support the massive throughput required for automated [marketplace relisting](https://pixelmatch.art/blog/policy/revvel-standards-marketplace-relisting-pipeline).
 *   **Stripe/Transaction Costs:** Failing to automate your relisting workflow eats into your margins, especially when factoring in standard payment rail costs like Stripe's 2.9% + 30¢ per online card payment. When margins are thin, the labor cost of manual image editing becomes your biggest hidden expense.
 
 ### H3: The Cost of Manual Friction

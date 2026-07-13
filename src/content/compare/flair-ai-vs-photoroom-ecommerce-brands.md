@@ -81,7 +81,7 @@ PixelMatch is built for the multi-platform workflow. While Flair AI and Photoroo
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Cross-reference your monthly SKU launch volume against Photoroom’s 500-image Pro cap to determine if you require the Max tier’s 1,500-image limit or if a more scalable solution is necessary.

@@ -72,7 +72,7 @@ To ensure the images were ready for immediate multi-platform deployment, PixelMa
 
 **Actionable Step for Sellers:** When prompting [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Pro, use a "Material-First" structure. Instead of prompting "a bottle of serum," use: "Professional studio photography of a 30ml matte amber glass dropper bottle, realistic liquid refraction, high-resolution label text, soft top-down lighting, 8k resolution."
 
-| Feature | Traditional Studio | Generic AI Tools | Flux 1.2 Pro (via PixelMatch) |
+| Feature | Traditional Studio | Generic AI Tools | [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Pro (via PixelMatch) |
 | :--- | :--- | :--- | :--- |
 | **Cost Per Image** | $45 - $100 | < $1 | < $2 |
 | **Turnaround Time** | 2-3 Weeks | 30 Seconds | 2 Minutes (inc. Upscaling) |

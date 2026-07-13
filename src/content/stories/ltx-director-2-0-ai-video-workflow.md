@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Stop burning your profit margins on $800 lifestyle video shoots that only provide a single asset for one platform. Switch to a local AI video workflow to generate platform-compliant, high-converting motion content for under $50 per SKU.
+Stop burning your profit margins on $800 lifestyle video shoots that only provide a single asset for one platform. Switch to a [local AI](https://pixelmatch.art/blog/compare/ambit-local-ai-library-ecommerce-assets) video workflow to generate platform-compliant, high-converting motion content for under $50 per SKU.
 
 ## The Seller's Situation
 

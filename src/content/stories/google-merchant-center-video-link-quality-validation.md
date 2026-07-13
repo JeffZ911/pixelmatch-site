@@ -195,7 +195,7 @@ PixelMatch generates white-background, lifestyle, and variant mockups from a sin
 ## Sources
 
 *   [Google Merchant Center: Video Link [video_link] Specification](https://support.google.com/merchants/answer/16989009)
-*   Google Merchant Center: 2024-2026 Product Data Specification Updates
+*   Google Merchant Center: 2024-2026 [Product Data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713) Specification Updates
 *   Adobe Express Pricing and Plans
 *   Canva Pro Subscription Details
 *   Photoroom Pro Pricing

@@ -55,7 +55,7 @@ Set your export resolution to at least 800x800 px to exceed the TikTok Shop 600x
 
 | Feature | PixelMatch | Photoroom | Canva Pro |
 | :--- | :--- | :--- | :--- |
-| **Primary Use Case** | Batch AI Product Photos | Mobile Photo Editing | General Graphic Design |
+| **Primary Use Case** | Batch [AI Product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) Photos | Mobile Photo Editing | General Graphic Design |
 | **Batch Capacity** | High-volume (100+ images) | Up to 500/mo (Pro) | Limited/Manual |
 | **AI Backgrounds** | Multi-platform optimized | Template-driven | Prompt-based ([Magic Media](https://pixelmatch.art/blog/stories/shopify-summer-2026-magic-media-editor-tutorial)) |
 | **Resolution Support** | Up to 4K / High DPI | High Res Export | [Customizable](https://www.canva.com/help/resize-designs/) |
