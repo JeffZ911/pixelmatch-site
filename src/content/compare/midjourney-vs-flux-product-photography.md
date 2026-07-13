@@ -108,7 +108,7 @@ Audit your Amazon "Listing Quality Dashboard" to identify which SKUs are flagged
 
 ### Amazon FBA Sellers
 Amazon’s [Main Image requirements](https://sellercentral.amazon.com/help/hub/reference/G1881) are notoriously strict: a pure white background (RGB 255, 255, 255), no props, and the product must fill 85% of the frame. 
-*   **Why Flux wins here:** Flux.2 Pro includes a native "Transparent Background" mode that exports images as RGBA PNGs. This allows you to drop the product onto a [pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881) without the "gray halo" artifacts often seen in Midjourney-to-RemoveBG workflows.
+*   **Why Flux wins here:** Flux.[2 Pro](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study) includes a native "Transparent Background" mode that exports images as RGBA PNGs. This allows you to drop the product onto a [pure white background](https://sellercentral.amazon.com/help/hub/reference/G1881) without the "gray halo" artifacts often seen in Midjourney-to-RemoveBG workflows.
 
 ### Shopify & Boutique Brands
 Shopify stores rely on "vibe" and brand storytelling. 

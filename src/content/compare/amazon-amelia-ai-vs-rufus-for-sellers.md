@@ -58,7 +58,7 @@ Audit your product listings for "conversational language" to see if Rufus can ex
 | **Interface** | Seller Central (Web & Mobile) | Amazon Shopping App & Desktop Site |
 | **Data Access** | Your private sales, inventory, and health data | Public product listings, reviews, and Q&A |
 | **Core Goal** | Operational efficiency and business growth | Product discovery and purchase confidence |
-| **Seller Action** | Proactive: Prompting for reports and support | Passive: Optimizing listings for AI discovery |
+| **Seller Action** | Proactive: Prompting for reports and support | Passive: [Optimizing listings](https://pixelmatch.art/blog/policy/optimizing-listings-for-etsy-ai-slop-filter) for AI discovery |
 | **Key Capability** | Summarizing sales trends and drafting support tickets | Comparing products and summarizing reviews |
 
 ## Pricing Comparison

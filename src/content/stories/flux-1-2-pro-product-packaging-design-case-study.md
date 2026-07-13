@@ -64,7 +64,7 @@ They also experimented with Photoroom's Pro tier at $12.99/mo, but quickly hit t
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-In early 2026, Lumina Skin integrated the Flux 1.2 Pro Ultra model into their design pipeline via PixelMatch. Unlike earlier iterations of generative AI, Flux 1.2 Pro was engineered specifically to handle high-density text and complex material physics. This allowed the brand to skip the physical mockup phase entirely.
+In early 2026, Lumina Skin integrated the [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Pro Ultra model into their design pipeline via PixelMatch. Unlike earlier iterations of generative AI, Flux 1.2 Pro was engineered specifically to handle high-density text and complex material physics. This allowed the brand to skip the physical mockup phase entirely.
 
 The workflow centered on "Digital-First Prototyping." Instead of waiting for a bottle to arrive in the mail, the design team uploaded their flat 2D label artwork (the "die-line") into PixelMatch. The Flux 1.2 engine then "wrapped" this design onto a 3D-generated bottle with perfect perspective and lighting. 
 

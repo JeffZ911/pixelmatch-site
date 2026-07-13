@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Scaling a multi-platform store across Amazon, Shopify, and eBay becomes a manual nightmare the moment your catalog hits 100 SKUs. You need a workflow that treats image generation like a manufacturing line, not a craft project, to maintain the "revvel standards" of high-speed, high-accuracy marketplace relisting.
+Scaling a multi-platform store across Amazon, Shopify, and eBay becomes a manual nightmare the moment your catalog hits 100 SKUs. You need a workflow that treats image generation like a manufacturing line, not a craft project, to maintain the "[revvel standards](https://pixelmatch.art/blog/policy/revvel-standards-marketplace-relisting-pipeline)" of high-speed, high-accuracy [marketplace relisting](https://pixelmatch.art/blog/policy/revvel-standards-marketplace-relisting-pipeline).
 
 ## TL;DR Verdict
 

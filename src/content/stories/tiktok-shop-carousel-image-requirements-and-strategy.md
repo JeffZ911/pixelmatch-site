@@ -45,7 +45,7 @@ The technical TikTok Shop carousel image requirements are strict and non-negotia
 *   **File Size:** Every file must be under 5MB.
 *   **Format:** Only .JPG, .JPEG, or .PNG files are accepted.
 
-The seller found that their existing Shopify assets—mostly 4:5 portrait shots or 16:9 lifestyle banners—didn't translate. Simply "stretching" these images to fit the 1:1 requirement resulted in distorted product packaging, which TikTok's automated moderation often flags as low-quality. To launch 250 SKUs with a full 9-[image carousel](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix), they needed to produce 2,250 platform-compliant images almost overnight.
+The seller found that their existing Shopify assets—mostly 4:5 portrait shots or 16:9 lifestyle banners—didn't translate. Simply "stretching" these images to fit the 1:1 requirement resulted in distorted [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study), which TikTok's automated moderation often flags as low-quality. To launch 250 SKUs with a full 9-[image carousel](https://pixelmatch.art/blog/stories/amazon-rufus-image-carousel-rendering-error-fix), they needed to produce 2,250 platform-compliant images almost overnight.
 
 | Requirement | Specification | Seller Center Impact |
 | :--- | :--- | :--- |

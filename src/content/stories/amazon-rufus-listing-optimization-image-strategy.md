@@ -55,7 +55,7 @@ The brand realized their existing imagery was too generic. Rufus couldn't confid
 Before adopting an AI-driven workflow, Haven & Hearth followed the traditional ecommerce photography playbook. This approach was failing them in three specific areas:
 
 ### 1. The Cost-to-Speed Ratio
-Traditional lifestyle photography sessions were costing the brand upwards of $350 per listing. This included shipping samples to a studio, hiring a stylist, and waiting 14 to 21 days for edited files. For a brand launching 10 new SKUs a month, this created a $3,500 monthly burn before a single sale was made.
+Traditional [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) sessions were costing the brand upwards of $350 per listing. This included shipping samples to a studio, hiring a stylist, and waiting 14 to 21 days for edited files. For a brand launching 10 new SKUs a month, this created a $3,500 monthly burn before a single sale was made.
 
 ### 2. Lack of Contextual Depth
 The brand used basic background removal tools like Canva or Removebg for their secondary images. While these tools are effective for simple cutouts, they often left products looking flat. The "floating" product effect lacks the environmental shadows and reflections that Rufus’s vision models use to understand texture and material quality. Without realistic depth, the AI cannot verify if a product is "matte," "glossy," or "textured," leading to lower semantic confidence scores.

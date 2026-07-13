@@ -168,7 +168,7 @@ While this guide focuses on Google, other platforms are following suit. TikTok S
 
 *   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation): AI-[Generated Content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) Policy
 *   [Google Merchant](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation) Center: Image Link Specification
-*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation): 2026 Product Data Specification Update
+*   [Google Merchant Center](https://pixelmatch.art/blog/stories/google-merchant-center-video-link-quality-validation): 2026 [Product Data](https://pixelmatch.art/blog/stories/using-mcp-api-for-product-data-revalidation-20260713) Specification Update
 *   IPTC Photo Metadata Standard: DigitalSourceType
 
 

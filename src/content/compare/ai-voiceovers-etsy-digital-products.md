@@ -72,7 +72,7 @@ Map your product's script length and complexity to these feature sets to ensure 
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your expected monthly word count before subscribing. A typical 10-minute meditation script is roughly 1,500 words (or ~9,000 characters). On a mid-tier plan, this could cost you less than $0.50 per product.

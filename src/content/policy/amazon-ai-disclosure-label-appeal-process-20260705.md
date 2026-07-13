@@ -139,7 +139,7 @@ If the suppression has escalated to a listing deactivation, you must submit a fo
 No, Amazon generally does not require disclosure for "minor" edits like background removal, cropping, or color correction. The disclosure label is specifically for "synthetic media" where the AI has created a realistic person, place, or thing that is not present in the original photograph.
 
 ### Can Amazon's AI detectors tell if I used AI for my listing copy?
-Yes, Amazon uses Large Language Models (LLMs) to scan listing copy for patterns typical of AI generation. While using AI to write copy is not a violation in itself, failing to audit that copy for [restricted product claims](https://sellercentral.amazon.com/help/hub/reference/G200164650) can lead to immediate listing suppression.
+Yes, Amazon uses Large Language Models (LLMs) to scan listing copy for patterns typical of AI generation. While using AI to write copy is not a violation in itself, failing to audit that copy for [restricted product claims](https://sellercentral.amazon.com/help/hub/reference/G200164650) can lead to immediate [listing suppression](https://pixelmatch.art/blog/compare/amazon-prime-day-2026-listing-suppression-tools).
 
 ### What happens if I check "No" for AI-generated content when it is actually AI?
 This is considered a violation of the [Seller Code of Conduct](https://sellercentral.amazon.com/help/hub/reference/G1801). If Amazon's automated systems flag the content as synthetic and you have marked it as "No," your listing will likely be suppressed for "Inaccurate Information," and repeated offenses can lead to a full account suspension.

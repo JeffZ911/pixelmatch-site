@@ -28,7 +28,7 @@ inline_image_sections:
   - "Caveats and Honest Limitations"
 ---
 
-Scaling a home goods brand on Amazon often hits a financial wall when you realize that professional lifestyle photography for 40+ SKUs can cost more than your initial inventory order. If you are tired of paying $350 per listing for high-end shoots only to see a mediocre 0.8% click-through rate, shifting to a structured [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) workflow is the most immediate way to reclaim your margins.
+Scaling a home goods brand on Amazon often hits a financial wall when you realize that professional [lifestyle photography](https://pixelmatch.art/blog/stories/fixing-ai-hands-lifestyle-photography-2026) for 40+ SKUs can cost more than your initial inventory order. If you are tired of paying $350 per listing for high-end shoots only to see a mediocre 0.8% click-through rate, shifting to a structured [AI image](https://pixelmatch.art/blog/policy/shopify-sidekick-ai-image-generator-tutorial) workflow is the most immediate way to reclaim your margins.
 
 # Amazon AI Lifestyle Image Generation: Best Practices & Seller Case Study
 

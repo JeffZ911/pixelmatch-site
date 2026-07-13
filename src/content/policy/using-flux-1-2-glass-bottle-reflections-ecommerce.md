@@ -149,7 +149,7 @@ Technically, you only need one image to list a product. However, TikTok's intern
 - [Shopify Help Center: Image size guidelines](https://help.shopify.com/en/manual/products/product-variant-images/product-image-size)
 - [Etsy Help: Requirements and Best Practices for Images](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Shop)
 - TikTok Shop Seller Center: Product Listing Guidelines
-- Black Forest Labs: Flux 1.2 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Release Notes
+- Black Forest Labs: [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 [Pro Ultra](https://pixelmatch.art/blog/compare/flux-1-1-pro-ultra-vs-midjourney-v6-1) Release Notes
 
 
 <!-- pm-cta:foot -->

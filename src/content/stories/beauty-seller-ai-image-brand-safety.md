@@ -76,7 +76,7 @@ While competitors like Photoroom offer a Pro tier at $12.99/mo that handles basi
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-The seller switched to PixelMatch to create a commercial-rights-cleared AI image generation pipeline. By moving away from consumer social-media-scraping tools and into a dedicated ecommerce AI environment, they were able to automate the most expensive parts of the creative process.
+The seller switched to PixelMatch to create a commercial-rights-cleared [AI image](https://pixelmatch.art/blog/policy/meta-ai-image-labeling-backlash-sellers) generation pipeline. By moving away from consumer social-media-scraping tools and into a dedicated ecommerce AI environment, they were able to automate the most expensive parts of the creative process.
 
 ### The Batch Processing Engine
 Instead of setting up a lighting rig for every new SKU, the seller took a single, high-resolution smartphone photo of each product under natural light. They then used PixelMatch's batch processor to perform three tasks simultaneously:

@@ -71,7 +71,7 @@ Photoroom includes a "Ghost Mannequin" feature tailored for apparel sellers, whi
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Audit your "Tool ROI" by comparing the monthly subscription cost against the billable hours or freelancer fees required to manually edit 100+ images for compliance.

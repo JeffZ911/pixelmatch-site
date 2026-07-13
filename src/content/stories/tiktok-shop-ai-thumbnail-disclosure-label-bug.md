@@ -40,7 +40,7 @@ Your authentic beauty videos are getting flagged with an "AI-generated" label be
 
 Run a successful beauty brand on TikTok Shop and you quickly realize that the "hook" isn't just the first three seconds of the video—it is the thumbnail that appears in the shop tab and search results. For a mid-market beauty brand specializing in vegan skincare, maintaining a balance between high-end aesthetics and "raw" authenticity is the primary driver of conversions.
 
-The seller in this case relied on a high-volume content engine: authentic, 4K videos of models applying serums, paired with professionally designed thumbnails. To create these thumbnails, they used popular design suites like Adobe Express and Canva to add text overlays, brighten product packaging, and remove distracting background elements. 
+The seller in this case relied on a high-volume content engine: authentic, 4K videos of models applying serums, paired with professionally designed thumbnails. To create these thumbnails, they used popular design suites like Adobe Express and Canva to add text overlays, brighten [product packaging](https://pixelmatch.art/blog/stories/flux-1-2-pro-product-packaging-design-case-study), and remove distracting background elements. 
 
 In the beauty niche, compliance is everything. TikTok Shop's Cosmetics and Personal Care policy requires that product results be depicted accurately. The seller ensured their video footage was untouched by generative AI to maintain trust and adhere to these strict guidelines. However, to keep up with the demand for "scroll-stopping" visuals, they utilized AI-powered "Magic Edit" or "Generative Fill" features within their thumbnail editors to clean up the edges of their product bottles.
 

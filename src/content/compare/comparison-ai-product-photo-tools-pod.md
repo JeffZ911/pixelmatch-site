@@ -115,7 +115,7 @@ If you are a "solopreneur" who primarily uses a smartphone to capture original [
 Choose Pebblely if your POD store focuses on a very specific aesthetic—such as "minimalist Scandinavian" or "neon cyberpunk." Pebblely’s AI is exceptionally good at following creative prompts to generate unique, artistic backgrounds. It is less about "mass production" and more about "mood setting." If you only launch five high-end designs a month, the 200-image limit on the Basic plan is not an issue.
 
 ### Canva Pro: The Graphic Generalist
-Canva Pro remains a staple for any ecommerce seller, but not for AI product staging. Use Canva for your "Buy 1 Get 1 Free" banners, your TikTok video overlays, and your brand logos. When it comes to placing a flat-lay hoodie onto a realistic human model or a complex street scene, Canva’s AI often struggles with realistic shadows and perspective, leading to a "pasted-on" look that can lower buyer trust.
+Canva Pro remains a staple for any ecommerce seller, but not for [AI product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) staging. Use Canva for your "Buy 1 Get 1 Free" banners, your TikTok video overlays, and your brand logos. When it comes to placing a flat-lay hoodie onto a realistic human model or a complex street scene, Canva’s AI often struggles with realistic shadows and perspective, leading to a "pasted-on" look that can lower buyer trust.
 
 ## Where Each Falls Short
 

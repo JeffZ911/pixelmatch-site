@@ -43,7 +43,7 @@ Audit your current listing descriptions for the phrase "Created with AI" or "AI-
 | Policy Component | Requirement / Specification | Official Source |
 | :--- | :--- | :--- |
 | **Primary Policy** | Etsy Creativity Standards (Updated 2026) | Etsy Legal |
-| **Disclosure Mandate** | Must state if the item or images used AI | Etsy AI Disclosure |
+| **Disclosure Mandate** | Must state if the item or images used AI | [Etsy AI](https://pixelmatch.art/blog/policy/optimizing-listings-for-etsy-ai-slop-filter) Disclosure |
 | **Appeal Window** | 6 months from permanent suspension date | [Etsy Help Center](https://help.etsy.com/hc/en-us/articles/115015672628-How-to-File-an-Appeal-for-a-Permanently-Suspended-Account) |
 | **Prohibited Content** | Synthetic product renders (items that do not exist) | Etsy Seller Policy |
 | **Allowable AI Use** | Background generation, lighting, and retouching | Etsy Creativity Standards |
