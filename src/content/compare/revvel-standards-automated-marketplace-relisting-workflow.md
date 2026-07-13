@@ -100,7 +100,7 @@ Best for casual resellers on Poshmark, Mercari, or Depop who rely on their smart
 Best for DTC Shopify brands that need to generate a handful of highly stylized, aesthetic scenes for Instagram or TikTok. Pebblely excels at "mood" photography—placing a skincare bottle on a marble slab with tropical shadows. If your goal is to create 5-10 "hero" images for a marketing campaign, Pebblely’s creative AI is a powerful asset.
 
 ### H3: PixelMatch: The Multi-Platform Power Seller
-Best for multi-platform ecommerce sellers who need to process hundreds of SKUs simultaneously while meeting strict marketplace standards. If you are crosslisting from Amazon to eBay and Shopify, you need your images to be "platform-agnostic" yet "spec-compliant." PixelMatch generates the pure-white main images for Amazon and the lifestyle variations for Shopify in one batch, following the revvel standards for automated relisting.
+Best for multi-platform ecommerce sellers who need to process hundreds of SKUs simultaneously while meeting strict marketplace standards. If you are crosslisting from Amazon to eBay and Shopify, you need your images to be "platform-agnostic" yet "spec-compliant." PixelMatch generates the pure-white main images for Amazon and the lifestyle variations for Shopify in one batch, following the [revvel standards](https://pixelmatch.art/blog/compare/revvel-standards-csv-marketplace-listings) for automated relisting.
 
 ## Where Each Falls Short
 
@@ -123,7 +123,7 @@ PixelMatch is not designed for users who want to spend hours manually art-direct
 ![Recommendation](/img/revvel-standards-automated-marketplace-relisting-workflow/inline-6.webp)
 
 
-To truly meet the revvel standards for automated marketplace relisting workflows, your software stack must handle volume without sacrificing compliance. Standardize your file naming convention (e.g., SKU_Main_White.jpg) within your AI tool's export settings to ensure seamless mapping to your crosslisting software.
+To truly meet the revvel standards for automated [marketplace relisting](https://pixelmatch.art/blog/policy/revvel-standards-marketplace-relisting-pipeline) workflows, your software stack must handle volume without sacrificing compliance. Standardize your file naming convention (e.g., SKU_Main_White.jpg) within your AI tool's export settings to ensure seamless mapping to your crosslisting software.
 
 While Photoroom and Pebblely are strong contenders for small-scale or social-media-focused edits, they introduce significant bottlenecks at scale. Photoroom’s session limits and Pebblely’s credit-based pricing models are designed for "creatives," not "operators."
 

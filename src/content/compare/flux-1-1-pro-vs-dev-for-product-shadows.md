@@ -26,7 +26,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Stop losing sales to "floating" product images that look like cheap Photoshop cutouts. When a customer lands on your Amazon or Shopify listing, the subconscious cue for quality isn't just the product itself—it is the realistic contact shadow that grounds it in reality.
+Stop losing sales to "floating" [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) that look like cheap Photoshop cutouts. When a customer lands on your Amazon or Shopify listing, the subconscious cue for quality isn't just the product itself—it is the realistic contact shadow that grounds it in reality.
 
 # Flux 1.1 Pro vs Dev for Product Shadows: The Ultimate Ecommerce Comparison
 

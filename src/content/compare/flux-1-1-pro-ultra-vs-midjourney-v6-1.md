@@ -88,7 +88,7 @@ Apply the "--q 2" parameter in Midjourney or the "Raw Mode" toggle in Flux to a 
 
 ### When to Choose Flux 1.1 Pro Ultra
 
-[Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).1 Pro Ultra is the undisputed winner for multi-platform sellers running automated workflows. If you are using a tool like PixelMatch to batch-generate platform-compliant product images, the engine under the hood is likely Flux.
+[Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).1 Pro Ultra is the undisputed winner for multi-platform sellers running automated workflows. If you are using a tool like PixelMatch to batch-generate platform-compliant [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images), the engine under the hood is likely Flux.
 
 *   **Social Media Ad Creatives:** Flux's ability to render accurate text means you can prompt for "A bottle of organic serum on a marble countertop with a sign next to it saying '50% OFF TODAY'" and actually get readable text. Midjourney still tends to turn long sentences into "vibe-text" or gibberish.
 *   **Realistic Product Lifestyle Shots:** Flux's "Raw Mode" provides an authentic, candid aesthetic. While Midjourney's images often look "too perfect" or like a 3D render, Flux's Raw Mode mimics the slight imperfections of a high-end DSLR camera, which builds more trust with savvy shoppers on TikTok Shop and Instagram.
