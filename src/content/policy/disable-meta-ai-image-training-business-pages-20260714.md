@@ -62,7 +62,7 @@ In the United States, there is currently no federal law equivalent to GDPR that 
 
 ### Understanding Meta Muse Image
 
-The July 2026 rollout of Meta Muse Image introduced a direct link between public business profiles and generative AI. This feature allows users to create new images "in the style of" or "featuring" elements from public accounts that have not opted out. For a brand selling on Shopify or Amazon, your unique lighting, composition, and color grading—often achieved at great expense—can be mimicked by an AI prompt in seconds. 
+The July 2026 rollout of [Meta Muse](https://pixelmatch.art/blog/stories/beauty-seller-ai-image-brand-safety) Image introduced a direct link between public business profiles and generative AI. This feature allows users to create new images "in the style of" or "featuring" elements from public accounts that have not opted out. For a brand selling on Shopify or Amazon, your unique lighting, composition, and color grading—often achieved at great expense—can be mimicked by an AI prompt in seconds. 
 
 By disabling the reuse toggle, you remove your business from the pool of accounts that Muse Image can reference for these generative @mentions. This is a critical step for maintaining a unique brand identity in an increasingly AI-saturated marketplace.
 

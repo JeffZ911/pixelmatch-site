@@ -77,7 +77,7 @@ Specifically, basic AI tools frequently:
 > 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
-To solve the "floating product" problem and achieve studio-quality lighting without the studio price tag, the brand’s creative team implemented a **ComfyUI IC-Light [product shadow](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) workflow**. 
+To solve the "floating product" problem and achieve studio-quality lighting without the studio price tag, the brand’s creative team implemented a **[ComfyUI IC](https://pixelmatch.art/blog/stories/comfyui-ic-light-node-product-relighting-case-study)-Light [product shadow](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) workflow**. 
 
 [IC-Light (Imposing Consistent Light)](https://github.com/lllyasviel/IC-Light) is an open-source model designed specifically to relight objects based on a reference image or a lighting map. Unlike standard image generators, IC-Light preserves the identity of your product while changing how light interacts with its surface.
 

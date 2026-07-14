@@ -36,7 +36,7 @@ Stop losing sales to a red exclamation mark in Seller Central. If your latest pr
 **Meta Description:** Searching for Amazon [error code](https://pixelmatch.art/blog/stories/amazon-a-plus-content-error-code-9006-fix) IMG-9002? Learn why it's not a real error, how to fix your [image specs](https://pixelmatch.art/blog/policy/tiktok-shop-symphony-digital-human-image-specs), and automate your Seller Central workflow.
 
 **Primary Platform:** amazon_fba
-**Seller Profile:** A composite Amazon FBA beauty brand in the $50k-$100k monthly revenue band, struggling with constant image upload rejections and high freelance retouching costs.
+**Seller Profile:** A composite Amazon FBA beauty brand in the $50k-$100k monthly revenue band, struggling with constant [image upload](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study) rejections and high freelance retouching costs.
 **Is Composite:** true
 
 ### Key Metrics

@@ -124,7 +124,7 @@ Photoroom has gained popularity for its mobile-first approach and specialized "E
 *   **Pricing:** The Pro plan, which removes the watermark and allows for high-resolution batch processing, is $12.99/month or $89.99/year (approximately $7.50/month when billed annually).
 
 ### PixelMatch
-PixelMatch is better suited for multi-platform sellers who need to batch-generate compliant AI product images without manual cropping and resizing for every single SKU. Unlike general-purpose design tools, PixelMatch is built specifically for the ecommerce workflow. It doesn't just remove the background; it automatically centers the product, adjusts the frame fill to the required 85%, and ensures the output is exactly RGB 255, 255, 255. This eliminates the "trial and error" of checking hex codes in a separate tool.
+PixelMatch is better suited for multi-platform sellers who need to batch-generate compliant [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) without manual cropping and resizing for every single SKU. Unlike general-purpose design tools, PixelMatch is built specifically for the ecommerce workflow. It doesn't just remove the background; it automatically centers the product, adjusts the frame fill to the required 85%, and ensures the output is exactly RGB 255, 255, 255. This eliminates the "trial and error" of checking hex codes in a separate tool.
 
 ### Tool Comparison (May 2026 Pricing & Features)
 

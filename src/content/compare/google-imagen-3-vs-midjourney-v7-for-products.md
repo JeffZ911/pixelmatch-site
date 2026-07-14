@@ -44,7 +44,7 @@ Choosing between Google Imagen 3 and [Midjourney v7](https://pixelmatch.art/blog
 *   **[Midjourney v7](https://pixelmatch.art/blog/policy/midjourney-v7-leak-product-photography-prompts-guide)** dominates in artistic control, offering a [Web Editor](https://pixelmatch.art/blog/stories/midjourney-web-editor-product-background-replacement) and Omni Reference for consistent styling across product shoots.
 *   **Google Imagen 3** is the leader in photorealism, precise text generation, and enterprise-grade safety via SynthID watermarking.
 *   Neither tool natively outputs platform-ready ecommerce batches, such as [Amazon's pure white RGB 255,255,255 requirement](https://sellercentral.amazon.com/help/hub/reference/G1881).
-*   Sellers needing high-volume, compliant product images across Shopify and Amazon should look to specialized SaaS tools rather than raw foundation models to avoid the manual "prompt-and-pray" cycle.
+*   Sellers needing high-volume, compliant [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) across Shopify and Amazon should look to specialized SaaS tools rather than raw foundation models to avoid the manual "prompt-and-pray" cycle.
 
 **Actionable Step:** Before committing to a model, run a "Text Stress Test." Prompt both models with your specific product brand name and key ingredients or features (e.g., "A bottle of 'LumiGlow' Vitamin C Serum with '15% Concentration' on the label"). If the text is garbled, that model will cost you hours in Photoshop retouching.
 

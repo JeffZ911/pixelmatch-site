@@ -86,7 +86,7 @@ If your images look sharp on a 27-inch iMac but blurry on an iPhone 15 Pro, your
 Sellers often confuse file size (MB) with resolution (megapixels). You might have a file that is only 5 MB but has dimensions of 5000 x 5000 pixels. This totals 25 megapixels, which exceeds [Shopify's 20-megapixel limit](https://help.shopify.com/en/manual/products/product-media/product-media-types). The upload will simply fail with a generic error message.
 
 ### 4. Background Inconsistency
-While not a technical "upload error," inconsistent backgrounds create a disjointed user experience. Shopify's WebP conversion can sometimes emphasize "dirty white" backgrounds (off-white) when it compresses the image. Using a tool to batch-generates AI product images allows you to maintain a consistent #FFFFFF hex code across your entire catalog, ensuring that the WebP compression doesn't create visible "blocks" or artifacts in the white space.
+While not a technical "[upload error](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study)," inconsistent backgrounds create a disjointed user experience. Shopify's WebP conversion can sometimes emphasize "dirty white" backgrounds (off-white) when it compresses the image. Using a tool to batch-generates AI product images allows you to maintain a consistent #FFFFFF hex code across your entire catalog, ensuring that the WebP compression doesn't create visible "blocks" or artifacts in the white space.
 
 ## How to Fix Each Issue
 

@@ -125,7 +125,7 @@ Photoroom excels at background removal and AI staging. If you have a photo of a 
 
 ### PixelMatch
 PixelMatch is specifically designed for the high-volume, multi-platform seller. While tools like Placeit require you to upload designs one by one, PixelMatch is better suited for batch-processing workflows. If you have 50 new designs for a seasonal launch, PixelMatch can apply those designs across multiple product types (shirts, mugs, prints) and generate consistent AI-staged imagery in a fraction of the time. This is particularly useful for sellers who need to maintain a consistent brand aesthetic across Etsy, Shopify, and TikTok Shop simultaneously.
-*   **Best for:** Batch-generating AI product images at scale for multi-platform distribution.
+*   **Best for:** Batch-generating [AI product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) images at scale for multi-platform distribution.
 *   **Pricing:** undisclosed.
 
 ### Tool Comparison Table

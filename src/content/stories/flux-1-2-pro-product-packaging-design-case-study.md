@@ -116,7 +116,7 @@ Run the "Amazon Compliance" filter. This step is non-negotiable for FBA sellers.
 ![Caveats and Honest Limitations](/img/flux-1-2-pro-product-packaging-design-case-study/inline-6.webp)
 
 
-While Flux 1.2 Pro represents a massive leap in packaging design, it is not a magic wand. Highly complex finishes—such as holographic foils, multi-layered embossing, or spot UV coatings—still present challenges for AI. If your packaging relies on the way light hits a specific metallic foil at a 45-degree angle, you may still need a manual touch-up from a digital artist or a single physical reference photo to guide the AI.
+While [Flux 1](https://pixelmatch.art/blog/compare/fixing-flux-1-dev-nf4-checkpoint-loading-error).2 Pro represents a massive leap in packaging design, it is not a magic wand. Highly complex finishes—such as holographic foils, multi-layered embossing, or spot UV coatings—still present challenges for AI. If your packaging relies on the way light hits a specific metallic foil at a 45-degree angle, you may still need a manual touch-up from a digital artist or a single physical reference photo to guide the AI.
 
 Furthermore, AI generation does not replace the legal necessity of physical verification. You must still verify that your GS1 barcode is scannable on the actual printed packaging before shipping inventory to an Amazon Fulfillment Center. An AI-generated image may look perfect, but if the printer misaligns the barcode on the physical unit, your inventory will be flagged as "Unfulfillable."
 

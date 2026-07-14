@@ -74,7 +74,7 @@ PixelMatch automatically formats outputs to meet marketplace specs, including [A
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in 60 seconds — [white background](https://pixelmatch.art/blog/compare/midjourney-v7-stylize-amazon-white-background-compliance), lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Running [Flux Pro](https://pixelmatch.art/blog/stories/flux-pro-product-shadow-clipping-fix-case-study) manually means paying per generation. For example, Replicate charges $0.04 per output image for the black-forest-labs/flux-1.1-pro model. While four cents sounds negligible, a seller with 50 SKUs who needs 10 variations per SKU will spend $20 just for the final outputs—this doesn't include the dozens of "failed" test generations used to calibrate the prompt and ControlNet strength.

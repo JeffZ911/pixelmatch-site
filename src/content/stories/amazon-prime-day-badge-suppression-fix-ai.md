@@ -89,7 +89,7 @@ PixelMatch automatically stripped the backgrounds and applied the exact [pure wh
 The tool upscaled every image to meet the [1,000 pixels minimum](https://sellercentral.amazon.com/help/hub/reference/1881) for zoom functionality. Crucially, it utilized an auto-cropping algorithm to ensure the product occupied the required 85% of the frame. This eliminated the guesswork that led to the initial suppressions.
 
 ### Step 4: Export and Bulk Update
-The seller exported the cleaned images and used the "Bulk Image Upload" tool in Seller Central. Because the images were pre-validated for Amazon’s 2026 specs, the "Suppressed" flags began to clear within hours rather than days.
+The seller exported the cleaned images and used the "Bulk [Image Upload](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study)" tool in Seller Central. Because the images were pre-validated for Amazon’s 2026 specs, the "Suppressed" flags began to clear within hours rather than days.
 
 ## Results (with Numbers): Compliance Achieved
 
