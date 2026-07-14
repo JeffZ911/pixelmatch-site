@@ -67,7 +67,7 @@ Technical specifications for 2025 include:
 
 Amazon has acknowledged that certain products, specifically large furniture and floor coverings, look unappealing or confusing when isolated on a white background. As of 2025, if your product is classified under [BED, BED_FRAME, MATTRESS, RUG, RUG_PAD, or SOFA](https://sellercentral.amazon.com/help/hub/reference/G1881), you are permitted to use a lifestyle image as your MAIN image. 
 
-However, this is not a license for cluttered photography. The product must still be the clear focus. For a rug, the image should show the rug in a room setting, but the rug must not be obscured by excessive furniture. For a bed frame, the frame must be clearly visible, even if styled with bedding. If you sell in these categories, batch-generate AI product images to test different room settings (Bohemian, Modern, Industrial) to see which environment drives the highest click-through rate (CTR) while remaining compliant.
+However, this is not a license for cluttered photography. The product must still be the clear focus. For a rug, the image should show the rug in a room setting, but the rug must not be obscured by excessive furniture. For a bed frame, the frame must be clearly visible, even if styled with bedding. If you sell in these categories, batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) to test different room settings (Bohemian, Modern, Industrial) to see which environment drives the highest click-through rate (CTR) while remaining compliant.
 
 ### Secondary Image Best Practices
 

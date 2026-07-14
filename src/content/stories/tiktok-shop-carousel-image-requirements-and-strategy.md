@@ -51,7 +51,7 @@ The seller found that their existing Shopify assets—mostly 4:5 portrait shots 
 | :--- | :--- | :--- |
 | **Min Resolution** | 600 x 600 px | Rejection if lower |
 | **Rec Resolution** | 800 x 800 px | Sharper mobile display |
-| **Max File Size** | 5MB | Upload error if exceeded |
+| **Max File Size** | 5MB | [Upload error](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study) if exceeded |
 | **Image Count** | 5 to 9 images | Required for "Good" tier |
 | **Aspect Ratio** | 1:1 Square | Prevents black bars/cropping |
 

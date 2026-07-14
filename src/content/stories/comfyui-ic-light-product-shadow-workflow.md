@@ -151,7 +151,7 @@ Amazon recommends images that are [1600 pixels or larger on the longest side](ht
 ![Caveats and Honest Limitations](/img/comfyui-ic-light-product-shadow-workflow/inline-6.webp)
 
 
-While the ComfyUI IC-Light workflow is powerful, it is not a "magic button." There are significant hurdles that mid-market sellers must consider before ditching their photographers entirely.
+While the [ComfyUI IC](https://pixelmatch.art/blog/stories/comfyui-ic-light-node-product-relighting-case-study)-Light workflow is powerful, it is not a "magic button." There are significant hurdles that mid-market sellers must consider before ditching their photographers entirely.
 
 ### Technical Complexity and Hardware Costs
 Running ComfyUI is a steep learning curve. It requires an understanding of node logic, latent spaces, and model checkpoints. Furthermore, the hardware requirements are non-trivial. A high-end GPU like an NVIDIA RTX 4090 costs approximately $1,600+, and cloud-based GPU providers charge hourly rates that can add up if your workflow is inefficient.

@@ -55,7 +55,7 @@ Export a CSV of your current SKU list from Shopify or eBay and flag any "Used" i
 
 ### Image Quality Standards
 
-To pass the "Revvel" standards marketplace relisting pipeline setup, your images must meet a strict threshold of clarity and authenticity. Reverb requires a minimum width of 620 pixels, but aiming for that minimum often results in blurry listings on high-resolution mobile devices. However, you must stay within the 1600x1600 pixel maximum. If your pipeline automatically pushes 4K images from a PIM (Product Information Management) system, the Reverb API will likely reject the upload or downscale it aggressively, leading to compression artifacts.
+To pass the "Revvel" standards [marketplace relisting](https://pixelmatch.art/blog/compare/revvel-standards-marketplace-relisting-csv) pipeline setup, your images must meet a strict threshold of clarity and authenticity. Reverb requires a minimum width of 620 pixels, but aiming for that minimum often results in blurry listings on high-resolution mobile devices. However, you must stay within the 1600x1600 pixel maximum. If your pipeline automatically pushes 4K images from a PIM (Product Information Management) system, the Reverb API will likely reject the upload or downscale it aggressively, leading to compression artifacts.
 
 PixelMatch solves this by allowing you to set a hard output limit of 1600 pixels on the longest side. This ensures your images are as sharp as the platform allows without triggering a size-related rejection. Furthermore, while platforms like Amazon prefer a pure white background (Hex #FFFFFF), Reverb allows for more "lifestyle" or "studio" looks, provided they are not distracting.
 

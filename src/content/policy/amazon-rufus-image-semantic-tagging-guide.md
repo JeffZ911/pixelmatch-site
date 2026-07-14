@@ -115,7 +115,7 @@ Execute a "Rufus Stress Test" by asking the AI specific questions about your pro
 
 ### Batch-Generating Compliant Main Images
 
-Manually retouching hundreds of product photos to meet the 255, 255, 255 RGB requirement is a bottleneck for multi-platform sellers. Instead of hiring expensive retouchers, use PixelMatch to **batch-generate AI product images** that are pre-configured to meet Amazon’s 2026 standards. 
+Manually retouching hundreds of product photos to meet the 255, 255, 255 RGB requirement is a bottleneck for multi-platform sellers. Instead of hiring expensive retouchers, use PixelMatch to **batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images)** that are pre-configured to meet Amazon’s 2026 standards. 
 
 When you upload your raw photos, you can set a global parameter for "Amazon [Main Image Compliance](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-compliance)." This ensures every output hits the [1600x1600 pixel minimum](https://sellercentral.amazon.com/help/hub/reference/G1881) and the 85% frame fill requirement. Unlike generic tools like Removebg or Adobe Express, PixelMatch is designed specifically for the ecommerce workflow, maintaining the structural integrity of the product while stripping the background.
 

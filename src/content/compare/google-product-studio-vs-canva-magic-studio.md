@@ -75,7 +75,7 @@ Audit your software stack to see if you are paying for Canva Pro solely for [bac
 *   **[Canva Magic](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic) Studio:** To access the full suite of AI tools, you must have a paid subscription. Canva Pro costs $15/month or $120/year for one person. For teams, Canva for Teams starts at $30/month for a minimum of 3 users.
 *   **PixelMatch:** Designed for professional sellers, PixelMatch uses a credit-based or subscription model tailored for batch generation, ensuring you only pay for the high-volume output you actually need for your catalog.
 
-Calculate your monthly per-image cost by dividing your subscription fee by the number of unique product images you actually produce. If you only make 10 images a month on Canva Pro, each image costs you $1.50. High-volume sellers using PixelMatch typically see this cost drop significantly through automation.
+Calculate your monthly per-image cost by dividing your subscription fee by the number of unique [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) you actually produce. If you only make 10 images a month on Canva Pro, each image costs you $1.50. High-volume sellers using PixelMatch typically see this cost drop significantly through automation.
 
 ## Best For (By Seller Profile)
 
