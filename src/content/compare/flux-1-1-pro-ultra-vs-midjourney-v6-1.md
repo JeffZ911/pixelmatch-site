@@ -126,7 +126,7 @@ For scalable ecommerce product photography, **[Flux 1](https://pixelmatch.art/bl
 
 Midjourney v6.1 remains a fantastic supplementary tool. Use it for your "Big Idea" brainstorming or for generating one-off hero banners that need that extra 5% of artistic magic. But do not try to build a high-volume ecommerce workflow on top of it; the lack of automation will eventually become a bottleneck for your store's growth.
 
-If you want to leverage Flux's capabilities without coding your own API integration or managing complex prompt engineering, PixelMatch is the solution. It uses advanced AI models to batch-generate platform-compliant product images instantly, allowing you to focus on selling while the AI handles the photography. By abstracting the technical complexity of [Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).1 Pro Ultra, PixelMatch gives you the power of a professional photo studio for the price of a single SaaS subscription.
+If you want to leverage Flux's capabilities without coding your own API integration or managing complex prompt engineering, PixelMatch is the solution. It uses advanced AI models to batch-generate platform-compliant [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) instantly, allowing you to focus on selling while the AI handles the photography. By abstracting the technical complexity of [Flux 1](https://pixelmatch.art/blog/compare/running-flux-1-2-locally-vs-pixelmatch).1 Pro Ultra, PixelMatch gives you the power of a professional photo studio for the price of a single SaaS subscription.
 
 ## Frequently Asked Questions
 

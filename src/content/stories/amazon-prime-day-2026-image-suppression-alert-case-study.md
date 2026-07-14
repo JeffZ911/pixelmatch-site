@@ -127,7 +127,7 @@ If you are facing image-related suppression or simply want to optimize your cata
     *   Select the **"Amazon Main Image"** preset. This automatically applies the RGB 255, 255, 255 background and ensures the product fills 85-90% of the canvas.
     *   Set the export resolution to **2000x2000 pixels**. While Amazon's minimum is [1000x1000 px](https://sellercentral.amazon.com/help/hub/reference/G1881), the 2000px threshold provides the highest quality zoom experience for mobile shoppers.
     *   Save as a **JPEG** with the quality slider set to at least 90% to minimize compression artifacts.
-4.  **Bulk Upload to Seller Central:** Use the "Bulk Image Upload" tool under the **Inventory** menu. Name your files by ASIN (e.g., `B0XXXXXXXX.MAIN.jpg`) to ensure Amazon's system maps them correctly.
+4.  **Bulk Upload to Seller Central:** Use the "Bulk [Image Upload](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study)" tool under the **Inventory** menu. Name your files by ASIN (e.g., `B0XXXXXXXX.MAIN.jpg`) to ensure Amazon's system maps them correctly.
 5.  **Disclose AI Usage:** For any secondary lifestyle images (like a bottle sitting on a marble countertop) generated via AI, ensure you check the "AI-generated content" box in the image attribute section to remain compliant with the 2026 Acceptable Use Policy.
 
 **Actionable Step:** Set a recurring calendar invite for 30 days before every major shopping event ([Prime Day](https://pixelmatch.art/blog/policy/amazon-prime-day-2026-main-image-bundle-policy), Black Friday, Spring Sale) to run this "Suppression Audit." Amazon often updates its automated bot filters right before high-traffic periods.

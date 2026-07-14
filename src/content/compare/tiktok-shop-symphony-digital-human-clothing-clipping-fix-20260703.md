@@ -91,7 +91,7 @@ If your store relies on "Storytime" ads or explainer videos where a person descr
 If you are selling fashion across TikTok Shop, Amazon, and Shopify, consistency is your biggest challenge. PixelMatch is the "clothing clipping fix" you need because it generates high-fidelity, on-model photos from simple flat-lays or mannequin shots. It ensures that the model's body never "breaks through" the fabric, providing a professional look that meets [Amazon’s strict main image requirements](https://sellercentral.amazon.com/help/hub/reference/external/G1881) and TikTok's aesthetic standards.
 
 ### The Solopreneur & Reseller: Photoroom
-For those flipping vintage clothes or running a small boutique with low SKU counts, Photoroom is the most efficient tool. It doesn't require a complex setup. You can take a photo on your phone, remove the background, and add a "Retouch" filter to clean up minor wrinkles. It is the gold standard for speed, though it lacks the "batch-generating AI product images" scale required by larger enterprises.
+For those flipping vintage clothes or running a small boutique with low SKU counts, Photoroom is the most efficient tool. It doesn't require a complex setup. You can take a photo on your phone, remove the background, and add a "Retouch" filter to clean up minor wrinkles. It is the gold standard for speed, though it lacks the "batch-generating [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images)" scale required by larger enterprises.
 
 ## Where Each Falls Short
 
