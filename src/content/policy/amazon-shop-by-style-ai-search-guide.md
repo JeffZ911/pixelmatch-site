@@ -28,7 +28,7 @@ Your listings are invisible if they fail Amazon’s visual AI filters, leading t
 
 # Amazon Shop by Style & AI Search Guide: 2026 Image Requirements
 
-Amazon's Shop by Style and [AI search](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) require main images on a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) filling 85% of the frame, with a minimum of 1000px on the longest side. AI lifestyle backgrounds are allowed for secondary images, but sellers shipping to the EU must ensure AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) includes machine-readable C2PA metadata to comply with the [EU AI Act](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images).
+Amazon's Shop by Style and [AI search](https://pixelmatch.art/blog/policy/etsy-ai-search-visibility-penalty-2026-20260623) require main images on a [pure white background (RGB 255,255,255)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) filling 85% of the frame, with a minimum of 1000px on the longest side. AI lifestyle backgrounds are allowed for secondary images, but sellers shipping to the EU must ensure AI-[generated content](https://pixelmatch.art/blog/policy/amazon-ai-generated-content-disclosure-label-guide-20260619) includes machine-readable [C2PA metadata](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) to comply with the [EU AI Act](https://pixelmatch.art/blog/policy/eu-ai-act-disclosure-requirements-ecommerce-images).
 
 ## Quick Reference Table
 
@@ -61,7 +61,7 @@ Amazon’s transition toward generative AI shopping means your images are now tr
 
 Shop by Style takes this further by categorizing products into aesthetic buckets such as "Mid-Century Modern," "Boho Chic," or "Industrial Minimalist." To land in these curated carousels, your secondary images must communicate a clear, consistent aesthetic.
 
-While basic tools like Photoroom's Pro tier at $12.99/mo or Pebblely's Pro tier at $39/mo allow you to generate themed backgrounds one by one, multi-platform sellers often struggle with "visual drift." This happens when your Amazon images look like they belong to a different brand than your Shopify or TikTok Shop images. PixelMatch solves this by allowing you to batch-generate AI product images across your entire catalog, ensuring that your "Industrial Minimalist" theme remains identical across 500+ SKUs.
+While basic tools like Photoroom's Pro tier at $12.99/mo or Pebblely's Pro tier at $39/mo allow you to generate themed backgrounds one by one, multi-platform sellers often struggle with "visual drift." This happens when your Amazon images look like they belong to a different brand than your Shopify or TikTok Shop images. PixelMatch solves this by allowing you to batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) across your entire catalog, ensuring that your "Industrial Minimalist" theme remains identical across 500+ SKUs.
 
 ### Main Image vs. Secondary Image Rules
 

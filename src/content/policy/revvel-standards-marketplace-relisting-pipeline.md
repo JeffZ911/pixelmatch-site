@@ -97,7 +97,7 @@ Configure your PixelMatch batch settings to output images at exactly 1600x1600 p
 
 ### Batch Image Optimization
 
-The most efficient "Revvel" standards marketplace relisting pipeline setup uses an AI-driven image layer. When you take photos of a used synthesizer, the background might be a cluttered warehouse or a messy studio. While Reverb requires original photos, they do not require *bad* photos. 
+The most efficient "Revvel" standards [marketplace relisting](https://pixelmatch.art/blog/compare/revvel-standards-marketplace-relisting-csv) pipeline setup uses an AI-driven image layer. When you take photos of a used synthesizer, the background might be a cluttered warehouse or a messy studio. While Reverb requires original photos, they do not require *bad* photos. 
 
 You can use PixelMatch to batch-remove messy backgrounds and replace them with a clean, neutral grey or off-white. This maintains the "original photography" requirement—because the item itself is still your specific unit—but elevates the listing to a professional standard. Unlike manual editors, PixelMatch can process hundreds of gear photos in minutes, ensuring that your pipeline doesn't bottle-neck at the creative stage.
 
