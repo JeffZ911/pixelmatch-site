@@ -101,7 +101,7 @@ The transition from a manual photography pipeline to an automated ComfyUI workfl
 
 ### Performance Comparison Table
 
-| Metric | Traditional Studio Shoot | ComfyUI IC-Light Workflow |
+| Metric | Traditional Studio Shoot | [ComfyUI IC](https://pixelmatch.art/blog/stories/comfyui-ic-light-node-product-relighting-case-study)-Light Workflow |
 | :--- | :--- | :--- |
 | **Cost Per Final Photo** | $150.00 (avg) | ~$0.45 (Cloud GPU compute cost) |
 | **Time to Market** | 14 Days | 2 Hours |

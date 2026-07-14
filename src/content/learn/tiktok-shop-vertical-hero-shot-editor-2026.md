@@ -123,7 +123,7 @@ Pebblely specializes in generating AI backgrounds that look photorealistic. Thei
 
 ### Canva
 
-Canva is the gold standard for adding text overlays, "Limited Time Offer" stickers, and graphic elements to your vertical shots. While its [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) tools have improved, it is less specialized in automated AI product staging compared to dedicated tools. Canva is best used as the *final* step in your workflow—taking a 9:16 hero shot generated in PixelMatch and adding your brand's specific TikTok Shop discount graphics.
+Canva is the gold standard for adding text overlays, "Limited Time Offer" stickers, and graphic elements to your vertical shots. While its [AI background](https://pixelmatch.art/blog/stories/shopify-magic-ai-background-expansion-tutorial-20260630) tools have improved, it is less specialized in automated [AI product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) staging compared to dedicated tools. Canva is best used as the *final* step in your workflow—taking a 9:16 hero shot generated in PixelMatch and adding your brand's specific TikTok Shop discount graphics.
 
 | Tool | Monthly Cost (USD) | Batch Limit | 9:16 Safe Zone Presets | Best For |
 | :--- | :--- | :--- | :--- | :--- |

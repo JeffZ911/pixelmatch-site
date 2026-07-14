@@ -149,7 +149,7 @@ No, deleting a photo from your business page does not remove it from AI models t
 The primary controls for AI training are managed through the Privacy Center and the Instagram app's "Sharing and reuse" menu. While Business Suite allows you to manage content, the specific "AI reuse" toggle is currently located within the individual platform settings (Instagram/Facebook) rather than the centralized Business Manager dashboard.
 
 ### How does Meta Muse Image affect my brand?
-Meta Muse Image allows users to generate content that can specifically reference the style of public accounts. If a competitor @mentions your brand in a Muse prompt, the AI may generate an image that mimics your specific aesthetic. Disabling "Sharing and reuse" prevents your account from being a reference point for these features.
+[Meta Muse](https://pixelmatch.art/blog/stories/beauty-seller-ai-image-brand-safety) Image allows users to generate content that can specifically reference the style of public accounts. If a competitor @mentions your brand in a Muse prompt, the AI may generate an image that mimics your specific aesthetic. Disabling "Sharing and reuse" prevents your account from being a reference point for these features.
 
 
 <!-- pm-cta:foot -->

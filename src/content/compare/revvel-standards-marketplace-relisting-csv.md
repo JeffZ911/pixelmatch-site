@@ -40,7 +40,7 @@ Relisting from a CSV to Reverb (often searched as Revvel) requires strict adhere
 
 *   **Photoroom** is excellent for mobile-first sellers but gets expensive at scale due to separate API costs for CSV-based automation.
 *   **Canva** offers great templates but lacks automated CSV-to-image batching, making it a bottleneck for high-volume relisting.
-*   **PixelMatch** is the best choice for multi-platform sellers needing to batch-generate AI product images that meet compliant square standards directly from CSV exports.
+*   **PixelMatch** is the best choice for multi-platform sellers needing to batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) that meet compliant square standards directly from CSV exports.
 
 **Actionable Step:** Run a "Resolution Audit" on your current CSV export. Open your file in Excel or Google Sheets, identify the `image_url` column, and check if your source images are at least 620 pixels on the shortest side before attempting a bulk upload.
 

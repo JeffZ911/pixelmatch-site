@@ -115,7 +115,7 @@ The 14% lift in mobile conversion rates was an unexpected secondary benefit. Bec
 Follow this checklist to clear Error 9006 and get your A+ Content live today.
 
 ### 1. Stop the Force-Upload Loop
-If you see an upload error or a network timeout, do not try to upload the same file again. Amazon’s backend has likely already flagged the file as "unprocessable." Check the file size immediately. It must be [under 2 MB](https://sellercentral.amazon.com/help/hub/reference/G202102960). If it is 2.1 MB, it will fail.
+If you see an [upload error](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study) or a network timeout, do not try to upload the same file again. Amazon’s backend has likely already flagged the file as "unprocessable." Check the file size immediately. It must be [under 2 MB](https://sellercentral.amazon.com/help/hub/reference/G202102960). If it is 2.1 MB, it will fail.
 
 ### 2. Verify Your Color Space
 Open your image properties (Right-click > Properties on Windows, or Cmd+I on Mac). Ensure the [color profile](https://pixelmatch.art/blog/policy/shopify-webp-conversion-color-profile-fix) is **sRGB** or **RGB**. If it says **CMYK**, the Amazon A+ builder will likely hang during the "Saving" phase.

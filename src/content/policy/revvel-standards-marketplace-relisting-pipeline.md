@@ -24,7 +24,7 @@ inline_image_sections:
   - "Official Source Links"
 ---
 
-Managing a high-volume gear shop means fighting a constant battle against marketplace-specific image rejections that stall your cash flow. If you are scaling a multi-platform ecommerce business, setting up a "Revvel" (Reverb) standards marketplace relisting pipeline is the only way to ensure your musical instruments and pro audio gear stay live and visible without manual intervention.
+Managing a high-volume gear shop means fighting a constant battle against marketplace-specific image rejections that stall your cash flow. If you are scaling a multi-platform ecommerce business, setting up a "Revvel" (Reverb) standards [marketplace relisting](https://pixelmatch.art/blog/compare/revvel-standards-marketplace-relisting-csv) pipeline is the only way to ensure your musical instruments and pro audio gear stay live and visible without manual intervention.
 
 ## Quick Reference Table
 

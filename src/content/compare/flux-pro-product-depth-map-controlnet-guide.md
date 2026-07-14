@@ -143,7 +143,7 @@ Yes, Amazon allows AI-generated images as long as they accurately represent the 
 [Flux Pro](https://pixelmatch.art/blog/compare/midjourney-v7-vs-flux-pro-product-lighting), with its 12B+ parameters, has a much higher "prompt adherence" and "spatial awareness" than older models like Stable Diffusion XL. When combined with ControlNet, it can maintain the integrity of text on labels and complex geometric shapes that previously would have been distorted by AI generation.
 
 ### What is the minimum resolution for TikTok Shop images?
-TikTok Shop requires a 1:1 aspect ratio for product images, with a minimum resolution of 600x600 pixels. However, for the best customer experience and zoom capability, sellers are encouraged to use higher resolutions like 1000x1000 pixels or higher.
+TikTok Shop requires a 1:1 aspect ratio for [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images), with a minimum resolution of 600x600 pixels. However, for the best customer experience and zoom capability, sellers are encouraged to use higher resolutions like 1000x1000 pixels or higher.
 
 
 <!-- pm-cta:foot -->

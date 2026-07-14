@@ -48,7 +48,7 @@ Audit your existing creative library against the 2026 spec table below to identi
 
 Configure your AI [prompt parameters](https://pixelmatch.art/blog/stories/flux-2-0-product-photography-prompt-parameters-reddit) to exclude text overlays and ensure a 16:9 aspect ratio before you hit the "generate" button. Amazon's native AI tool, which widened access to all U.S. advertisers in late 2024, is designed specifically for Sponsored Brands. However, if you are a multi-platform seller, you need a workflow that handles more than just Amazon's 16:9 horizontal format.
 
-PixelMatch solves this by allowing you to batch-generate AI product images that serve as the high-fidelity source material for any [video generator](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic). Instead of relying on a single native tool, you can generate a consistent set of product shots and then push them into video tools to create 16:9 videos for Amazon and 9:16 vertical videos for TikTok Shop or Instagram Reels simultaneously.
+PixelMatch solves this by allowing you to batch-generate [AI product](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) images that serve as the high-fidelity source material for any [video generator](https://pixelmatch.art/blog/compare/amazon-ai-video-generator-vs-canva-magic). Instead of relying on a single native tool, you can generate a consistent set of product shots and then push them into video tools to create 16:9 videos for Amazon and 9:16 vertical videos for TikTok Shop or Instagram Reels simultaneously.
 
 ### Sponsored Ads vs. Product Detail Page Specs
 

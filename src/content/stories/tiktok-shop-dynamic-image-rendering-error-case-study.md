@@ -101,7 +101,7 @@ The brand imported the CSV into the PixelMatch batch editor. Rather than manuall
 PixelMatch processed the 400-SKU catalog simultaneously. Unlike a manual editor that processes one file at a time, the parallel generation engine rendered all 400 main images and their associated variant lifestyle shots (images 2-9) in under 20 minutes.
 
 ### Step 4: Automated Mapping
-The output was a ZIP file where images were automatically named by SKU (e.g., `SKU123_Main.jpg`, `SKU123_Variant1.jpg`). This allowed the brand to use a "Bulk Image Upload" tool in the TikTok Seller Center, matching the new, compliant images to the existing product listings via the SKU attribute.
+The output was a ZIP file where images were automatically named by SKU (e.g., `SKU123_Main.jpg`, `SKU123_Variant1.jpg`). This allowed the brand to use a "Bulk [Image Upload](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study)" tool in the TikTok Seller Center, matching the new, compliant images to the existing product listings via the SKU attribute.
 
 | Feature | Manual (Canva/Photoroom) | Automated (PixelMatch) |
 | :--- | :--- | :--- |

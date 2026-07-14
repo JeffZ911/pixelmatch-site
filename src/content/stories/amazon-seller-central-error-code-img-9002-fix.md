@@ -154,7 +154,7 @@ Upload your raw camera files (e.g., `IMG-9002.JPG`, `IMG-9003.JPG`) to PixelMatc
 Check the "Scale to Fit" settings. Ensure the product occupies [85% or more of the frame](https://sellercentral.amazon.com/help/hub/reference/external/G1881). This ensures your product looks as large as possible in the search results page (SERP), which helps click-through rates (CTR).
 
 ### Step 4: Rename for Bulk Upload
-Once you export your compliant images, rename them using Amazon’s preferred naming convention. Instead of `IMG-9002.JPG`, use the format: `ASIN.Variant.FileExtension`. For example, `B08FX12345.MAIN.jpg`. This allows you to use the "Bulk Image Upload" tool, which matches images to listings automatically based on the filename.
+Once you export your compliant images, rename them using Amazon’s preferred naming convention. Instead of `IMG-9002.JPG`, use the format: `ASIN.Variant.FileExtension`. For example, `B08FX12345.MAIN.jpg`. This allows you to use the "Bulk [Image Upload](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study)" tool, which matches images to listings automatically based on the filename.
 
 **Actionable Step:** Rename your files in bulk using a tool like "Bulk Rename Utility" (Windows) or "NameChanger" (Mac) to match your ASINs before the final upload.
 

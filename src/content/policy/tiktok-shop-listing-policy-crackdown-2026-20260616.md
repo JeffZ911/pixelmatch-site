@@ -43,7 +43,7 @@ Run a full audit of your current media assets against the 2026 technical require
 | Requirement | Specification | Enforcement Level |
 | :--- | :--- | :--- |
 | **Minimum Resolution** | 600×600 px (800×800 px+ recommended) | Hard Block |
-| **Maximum File Size** | 5MB per image | Upload Error |
+| **Maximum File Size** | 5MB per image | [Upload Error](https://pixelmatch.art/blog/stories/amazon-prime-day-2026-image-upload-error-case-study) |
 | **Supported Formats** | JPEG, JPG, PNG | System Restricted |
 | **Image Quantity** | Maximum 9 images per listing | Hard Cap |
 | **Main Image BG** | Pure White (#FFFFFF only) | AI Risk Flag |
