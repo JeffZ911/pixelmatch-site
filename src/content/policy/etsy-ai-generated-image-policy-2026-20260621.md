@@ -63,7 +63,7 @@ The 2026 enforcement clarifies that simply selling a raw output from a generator
 
 ### AI Models and Mockup Rules
 
-For multi-platform sellers who batch-generate AI product images, the primary listing photo remains the most scrutinized asset. Etsy requires that your first image accurately represents the item the buyer will receive. 
+For multi-platform sellers who batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images), the primary listing photo remains the most scrutinized asset. Etsy requires that your first image accurately represents the item the buyer will receive. 
 
 1. **The Physical Product Rule**: If you sell physical goods (like apparel or home decor), your primary photo should ideally be a photograph of the physical item. While AI-generated lifestyle backgrounds are permitted, the core product—its texture, color, and scale—must remain 100% accurate to the physical inventory. 
 2. **Synthetic Performers**: 2026 transparency trends emphasize the disclosure of "synthetic media." If you use AI-generated human models to showcase your products, Etsy's policy on misleading listings suggests ensuring these models do not misrepresent the fit or scale of the item. 

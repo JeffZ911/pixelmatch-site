@@ -68,7 +68,7 @@ However, neither tool is a dedicated ecommerce solution. They are general-purpos
 
 
 <!-- pm-cta:mid -->
-> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready product images in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
+> 💡 **Skip the manual editing.** PixelMatch batch-generates ecommerce-ready [product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) in 60 seconds — white background, lifestyle scenes, and variant mockups from a single source photo.
 > **Try PixelMatch free →**
 
 Calculate your cost per generation by auditing your monthly GPU hour consumption before choosing a plan. Most sellers find that a mid-tier subscription is necessary to avoid "Relax Mode" wait times during peak campaign seasons.

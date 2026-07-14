@@ -112,7 +112,7 @@ If you operate within the European Economic Area or the United Kingdom, use your
 
 ### Securing Your Product Catalog with PixelMatch
 
-Relying on public social media platforms to host your raw, high-resolution assets is increasingly risky. Instead of uploading every variation of your product photography to Instagram where it can be scraped, use a secure environment like PixelMatch to batch-generate AI product images for your store.
+Relying on public social media platforms to host your raw, high-resolution assets is increasingly risky. Instead of uploading every variation of your product photography to Instagram where it can be scraped, use a secure environment like PixelMatch to batch-generate [AI product images](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) for your store.
 
 PixelMatch allows you to upload a single "seed" image of your product and generate hundreds of high-quality lifestyle scenes for your Amazon or Shopify listings. Unlike public social platforms, PixelMatch is designed for ecommerce professionals who require data privacy. Your raw assets are used only for your generations and are not fed into a public model that competitors can query. 
 

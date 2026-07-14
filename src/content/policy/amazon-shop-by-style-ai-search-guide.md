@@ -47,7 +47,7 @@ Audit your current image library against these 2026 standards to prevent listing
 | **Max. Dimensions** | [10,000 pixels on longest side](https://sellercentral.amazon.com/help/hub/reference/external/G1881) | [10,000 pixels on longest side](https://sellercentral.amazon.com/help/hub/reference/external/G1881) |
 | **Product Frame Fill** | [At least 85% of the image](https://sellercentral.amazon.com/help/hub/reference/external/G1881) | No specific percentage; must be clear |
 | **File Formats** | [JPEG, TIFF, PNG, or GIF (non-animated)](https://sellercentral.amazon.com/help/hub/reference/external/G1881) | JPEG, TIFF, PNG, or GIF |
-| **[AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)** | Not applicable (Must be real product) | C2PA Metadata required for EU |
+| **[AI Disclosure](https://pixelmatch.art/blog/stories/amazon-ai-disclosure-label-appeal-real-photography)** | Not applicable (Must be real product) | [C2PA Metadata](https://pixelmatch.art/blog/policy/shopify-c2pa-metadata-ai-product-images) required for EU |
 | **Prohibited Items** | Text, logos, watermarks, inset images | Confusing backgrounds, blurry AI artifacts |
 
 **Actionable Step:** Open your top-selling ASIN in a photo editor and use the "Eyedropper" tool on the background corner. If the RGB value is 254, 254, 254 or lower, upload a corrected version immediately to avoid the "Search Suppressed" status.
